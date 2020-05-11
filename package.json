@@ -5,6 +5,7 @@
   "author": "Bruno Dulcetti <brunodulcetti@gmail.com>",
   "scripts": {
     "build": "gatsby build",
+    "cz": "git-cz",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -27,7 +28,28 @@
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "babel-jest": "^26.0.1",
+    "babel-plugin-styled-components": "^1.10.7",
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "^3.2.0",
+    "gatsby-plugin-styled-components": "^3.3.1",
+    "gatsby-transformer-remark": "^2.8.7",
+    "husky": "^4.2.5",
+    "jest": "^26.0.1",
+    "prettier": "2.0.5",
+    "styled-components": "^5.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "keywords": [
     "gatsby"
