@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { themes } from './themes';
 
 export const GlobalStyle = createGlobalStyle`
   *,
@@ -38,6 +39,11 @@ export const GlobalStyle = createGlobalStyle`
 
   template, [hidden] {
     display: none;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: ${themes.fonts.titles};
+    font-weight: 400;
   }
 
   a {
