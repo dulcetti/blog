@@ -11,13 +11,13 @@ title: 'iMasters CMS Brasil 2009'
 
 Sim, eu sei que estou em dívida com vocês aqui no blog, nem precisam avisar isso. Semana que vem sai um post explicando isso tudo, aguarde.
 
-![Marca CMS Brasil](http://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/logo-cms.gif)
+![Marca CMS Brasil](https://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/logo-cms.gif)
 
 Mas antes disso, estou aqui para publicar sobre mais um evento do iMasters e sobre um assunto que está, digamos, na moda hoje em dia. Os famosos e muito, nem sempre bem, utilizados CMS.
 
 ## Com vocês, WordPress, Joomla e Drupal
 
-![Marcas do WP, Joomla e Drupal](http://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/frase-logos.jpg)
+![Marcas do WP, Joomla e Drupal](https://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/frase-logos.jpg)
 
 O [iMasters](http://www.imasters.com.br/) está organizando o [CMS Brasil](http://www.cmsbrasil2009.com/), evento que falará sobre as principais ferramentas do gênero: WordPress, Joomla e Drupal.
 
