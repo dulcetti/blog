@@ -1,5 +1,4 @@
-import Footer from './footer';
-import Header from './header';
+import Sidebar from './sidebar';
 import Svgs from './svgs';
 
-export { Footer, Header, Svgs };
+export { Sidebar, Svgs };

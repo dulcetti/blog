@@ -4,7 +4,8 @@ import { useStaticQuery, graphql } from 'gatsby';
 
 import { GlobalStyle } from '../../styles/reset';
 import { Fonts } from '../../styles/fonts';
-import { Footer, Header, Svgs } from '../index';
+import { Sidebar, Svgs } from '../index';
+import * as S from './styles';
 
 export default function Layout({ children }) {
   const data = useStaticQuery(graphql`
@@ -18,14 +19,13 @@ export default function Layout({ children }) {
   `);
 
   return (
-    <>
+    <S.LayoutWrapper>
       <Svgs />
       <GlobalStyle />
       <Fonts />
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <main>{children}</main>
-      <Footer />
-    </>
+      <S.LayoutMain>{children}</S.LayoutMain>
+      <Sidebar siteTitle={data.site.siteMetadata.title} />
+    </S.LayoutWrapper>
   );
 }
 

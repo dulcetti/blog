@@ -4,7 +4,8 @@ import Img from 'gatsby-image';
 
 import * as S from './styles';
 
-export default function Header({ siteTitle }) {
+export default function Sidebar({ siteTitle }) {
+  const location = typeof window !== 'undefined' && window.location.pathname;
   const { logo } = useStaticQuery(
     graphql`
       query {
@@ -20,13 +21,17 @@ export default function Header({ siteTitle }) {
   );
 
   return (
-    <S.Header>
-      <S.Container>
-        <S.LogoLink to="/">
-          <Img fixed={logo.childImageSharp.fixed} />
+    <S.Sidebar>
+      <S.LogoLink to="/">
+        <Img fixed={logo.childImageSharp.fixed} />
+        {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
-        </S.LogoLink>
-      </S.Container>
-    </S.Header>
+        ) : (
+          <S.InternalTitle>{siteTitle}</S.InternalTitle>
+        )}
+      </S.LogoLink>
+
+      <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
+    </S.Sidebar>
   );
 }

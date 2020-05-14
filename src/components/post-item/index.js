@@ -1,9 +1,10 @@
 import React from 'react';
-import propTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
+import { getCategoryBg } from '../../utils/categories';
 
 export default function PostItem({ post, time }) {
   const { image } = useStaticQuery(graphql`
@@ -25,7 +26,7 @@ export default function PostItem({ post, time }) {
           {image && <Img fluid={image.childImageSharp.fluid} />}
           <S.Content className="infos-post">
             <S.Title>{post.title}</S.Title>
-            <S.Category>{post.category}</S.Category>
+            <S.Category bg={getCategoryBg(post)}>{post.category}</S.Category>
             <S.DateTime>
               {post.date} | {time} min de leitura
             </S.DateTime>
@@ -38,6 +39,6 @@ export default function PostItem({ post, time }) {
 }
 
 PostItem.propTypes = {
-  post: propTypes.object,
-  time: propTypes.number,
+  post: PropTypes.object,
+  time: PropTypes.number,
 };

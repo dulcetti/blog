@@ -1,13 +1,12 @@
 import styled from 'styled-components';
+import media from 'styled-media-query';
 import { Link } from 'gatsby';
 
 import { themes } from '../../styles/themes';
 
 export const Post = styled.div`
-  margin-bottom: 30px;
   min-height: 200px;
   text-align: center;
-  width: 440px;
 `;
 
 export const LinkPost = styled(Link)`
@@ -28,15 +27,17 @@ export const LinkPost = styled(Link)`
       width: 115% !important;
     }
 
-    .infos-post {
-      bottom: 12px;
-      transition: bottom 0.3s;
+    ${media.greaterThan('medium')`
+      .infos-post {
+        bottom: 12px;
+        transition: bottom 0.3s;
 
-      > strong {
-        margin-bottom: 25px;
-        transition: margin-bottom 0.3s;
+        > strong {
+          margin-bottom: 25px;
+          transition: margin-bottom 0.3s;
+        }
       }
-    }
+    `}
   }
 `;
 
@@ -53,14 +54,15 @@ export const Content = styled.div`
 `;
 
 export const Category = styled.strong`
-  background-color: rgba(${themes.palette.postList.categories.bg}, 1);
+  background-color: ${(props) =>
+    props.bg ? props.bg : `${themes.palette.postList.categories.bg}`};
   border-radius: 4px;
   color: ${themes.palette.postList.categories.text};
   font: bold 2rem ${themes.fonts.others};
   margin-bottom: 40px;
   order: 1;
   padding: 3px 8px;
-  text-shadow: 3px 3px 2px ${themes.palette.general.shadows};
+  text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
   text-transform: uppercase;
   transition: margin-bottom 0.3s;
 `;
@@ -73,7 +75,7 @@ export const Title = styled.h2`
   margin-bottom: 10px;
   padding: 0 20px;
   order: 2;
-  text-shadow: 2px 2px 2px ${themes.palette.general.shadows};
+  text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   width: 100%;
 `;
 
