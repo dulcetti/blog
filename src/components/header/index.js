@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
-import SearchBox from '../search-field';
 
 export default function Header({ siteTitle }) {
   const { logo } = useStaticQuery(
@@ -27,8 +26,6 @@ export default function Header({ siteTitle }) {
           <Img fixed={logo.childImageSharp.fixed} />
           <S.Title>{siteTitle}</S.Title>
         </S.LogoLink>
-
-        <SearchBox />
       </S.Container>
     </S.Header>
   );
