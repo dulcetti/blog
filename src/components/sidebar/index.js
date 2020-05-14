@@ -4,7 +4,7 @@ import Img from 'gatsby-image';
 
 import * as S from './styles';
 
-export default function Header({ siteTitle }) {
+export default function Sidebar({ siteTitle }) {
   const { logo } = useStaticQuery(
     graphql`
       query {
@@ -20,13 +20,13 @@ export default function Header({ siteTitle }) {
   );
 
   return (
-    <S.Header>
+    <S.Sidebar>
       <S.Container>
         <S.LogoLink to="/">
           <Img fixed={logo.childImageSharp.fixed} />
           <S.Title>{siteTitle}</S.Title>
         </S.LogoLink>
       </S.Container>
-    </S.Header>
+    </S.Sidebar>
   );
 }

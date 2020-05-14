@@ -4,7 +4,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 
 import { GlobalStyle } from '../../styles/reset';
 import { Fonts } from '../../styles/fonts';
-import { Footer, Header, Svgs } from '../index';
+import { Footer, Sidebar, Svgs } from '../index';
 
 export default function Layout({ children }) {
   const data = useStaticQuery(graphql`
@@ -22,7 +22,7 @@ export default function Layout({ children }) {
       <Svgs />
       <GlobalStyle />
       <Fonts />
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Sidebar siteTitle={data.site.siteMetadata.title} />
       <main>{children}</main>
       <Footer />
     </>

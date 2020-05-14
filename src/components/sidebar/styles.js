@@ -2,8 +2,8 @@ import styled from 'styled-components';
 import { Link } from 'gatsby';
 import { themes } from '../../styles/themes';
 
-export const Header = styled.header`
-  background-color: ${themes.palette.header.bg};
+export const Sidebar = styled.aside`
+  background-color: ${themes.palette.sidebar.bg};
   box-shadow: 0 1px 6px 0px #ccc;
 `;
 
