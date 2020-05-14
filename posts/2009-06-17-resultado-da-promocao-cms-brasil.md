@@ -11,7 +11,7 @@ title: 'Resultado da promoção CMS Brasil'
 
 Segunda feira eu postei aqui uma promoção sorteando um ingresso para o CMS Brasil, organizado pelo iMasters. Agora posto aqui o vencedor da promoção:
 
-[![Marca CMS Brasil](http://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/logo-cms.gif 'Marca CMS Brasil')](http://www.cmsbrasil2009.com/)
+[![Marca CMS Brasil](https://www.brunodulcetti.com/blog/wp-content/uploads/2009/06/logo-cms.gif 'Marca CMS Brasil')](http://www.cmsbrasil2009.com/)
 
 **Otávio Augusto Soares**
 

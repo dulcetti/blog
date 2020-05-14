@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Morte ao IE6 - Internet Explorer 6'
 ---
 
-[![Morte ao IE6](http://farm4.static.flickr.com/3016/2644891323_e5fb590a93.jpg?v=0)](http://flickr.com/photos/ablenetdesign/2644891323/)
+[![Morte ao IE6](https://farm4.static.flickr.com/3016/2644891323_e5fb590a93.jpg?v=0)](http://flickr.com/photos/ablenetdesign/2644891323/)
 
 Quem aqui nunca teve problemas com bugs no IE6 que atire a primeira pedra.
 
