@@ -47,7 +47,7 @@ export const themes = {
       links: _colors.orange,
       shadows: _colors.darkGray,
     },
-    header: {
+    sidebar: {
       bg: _colors.lightBrown,
       links: _colors.green,
     },
