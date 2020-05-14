@@ -1,12 +1,12 @@
 ---
-title: 'Entrevista com Tiago Baeta e Fotos no InterCon
-slug: entrevista-com-tiago-baeta-e-fotos-no-intercon
-image: null
-templateKey: blog-post
-date: 2005-10-28T00:50:06.000Z
 author: bruno-dulcetti
-description: ''
 category: Shots
+date: 2005-10-28T00:50:06.000Z
+description: ''
+image: ''
+slug: entrevista-com-tiago-baeta-e-fotos-no-intercon
+templateKey: blog-post
+title: 'Entrevista com Tiago Baeta e Fotos no InterCon'
 ---
 
 Falae pessoal. Aqui estou eu mais uma vez. Primeiramente agradecer quem mandou email, entrou em contato pelo MSN, etc, para agradecer, elogiar o Artigo postado ontem. É uma honra pra mim, saber que estou podendo ajudar os outros, de uma forma clara e objetiva. Tanto no fórum iMasters, quanto nos Artigos. Semana que vem tem mais, aguardem.

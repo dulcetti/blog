@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Publicações
 date: 2005-11-17T17:43:23.000Z
 description: ''
-image: null
+image: ''
 slug: artigo-posicionamento-e-layouts-parte-03
 templateKey: blog-post
 title: 'Artigo - Posicionamento e Layouts (Parte 03)'

@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Portfólio
 date: 2005-11-25T13:45:44.000Z
 description: ''
-image: null
+image: ''
 slug: 'projeto-sos-vira-lata'
 templateKey: blog-post
 title: 'Projeto S.O.S. Vira Lata'

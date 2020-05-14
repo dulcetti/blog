@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Portfólio
 date: 2005-10-28T18:31:24.000Z
 description: ''
-image: null
+image: ''
 slug: novo-trabalho
 templateKey: blog-post
 title: 'Novo Trabalho'

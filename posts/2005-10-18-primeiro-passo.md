@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-10-18T01:48:38.000Z
 description: ''
-image: null
+image: ''
 slug: primeiro-passo
 templateKey: blog-post
 title: 'Primeiro Passo'

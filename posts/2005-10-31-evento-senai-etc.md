@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Eventos
 date: 2005-10-31T01:45:18.000Z
 description: ''
-image: null
+image: ''
 slug: evento-senai-etc
 templateKey: blog-post
 title: 'Evento Senai, etc'

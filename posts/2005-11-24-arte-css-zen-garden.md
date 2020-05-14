@@ -1,12 +1,12 @@
 ---
-title: 'Arte CSS Zen Garden'
-slug: arte-css-zen-garden
-image: null
-templateKey: blog-post
-date: 2005-11-24T00:30:34.000Z
 author: bruno-dulcetti
-description: ''
 category: CSS
+date: 2005-11-24T00:30:34.000Z
+description: ''
+image: ''
+slug: arte-css-zen-garden
+templateKey: blog-post
+title: 'Arte CSS Zen Garden'
 ---
 
 Falae Pessoal. Estou postando mais uma vez, agora pra falar da surpresa agradável que tive hoje. Cheguei a mostrar para alguns, falar com outros, que tinha enviado uma arte para o pessoal do [CSS Zen Garden](http://www.csszengarden.com 'Entrar no Site CSS Zen Garden '). Mas isso tem alguns meses, um belo tempo, já tinha perdido as esperanças, pensei que tinham tacado no lixo :D

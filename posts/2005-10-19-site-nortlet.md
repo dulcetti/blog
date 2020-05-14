@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Portfólio
 date: 2005-10-19T01:51:19.000Z
 description: ''
-image: null
+image: ''
 slug: site-nortlet
 templateKey: blog-post
 title: 'Site Nortlet'

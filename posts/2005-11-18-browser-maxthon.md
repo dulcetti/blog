@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Tecnologia
 date: 2005-11-18T21:01:27.000Z
 description: ''
-image: null
+image: ''
 slug: browser-maxthon
 templateKey: blog-post
 title: 'Browser Maxthon'

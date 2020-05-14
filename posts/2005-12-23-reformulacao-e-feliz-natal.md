@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-12-23T15:50:32.000Z
 description: ''
-image: null
+image: ''
 slug: reformulacao-e-feliz-natal
 templateKey: blog-post
 title: 'Reformulação e Feliz Natal'

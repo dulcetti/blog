@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-11-16T11:42:03.000Z
 description: ''
-image: null
+image: ''
 slug: frappr-mapeamento-de-visitantes
 templateKey: blog-post
 title: 'Frappr - Mapeamento de visitantes'

@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-10-24T21:19:37.000Z
 description: ''
-image: null
+image: ''
 slug: amada-vo-eu-te-amo
 templateKey: blog-post
 title: 'Amada vó, eu te amo!'

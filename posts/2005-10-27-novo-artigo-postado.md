@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Webstandards
 date: 2005-10-27T00:05:47.000Z
 description: ''
-image: null
+image: ''
 slug: novo-artigo-postado
 templateKey: blog-post
 title: 'Novo artigo postado'

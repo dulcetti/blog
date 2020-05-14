@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Publicações
 date: 2005-12-21T15:03:12.000Z
 description: ''
-image: null
+image: ''
 slug: artigo-reciclando-seu-css
 templateKey: blog-post
 title: 'Artigo - Reciclando seu CSS'
