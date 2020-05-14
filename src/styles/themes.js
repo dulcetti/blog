@@ -53,7 +53,7 @@ export const themes = {
     },
     postList: {
       categories: {
-        bg: _colors.orangeRgb,
+        bg: _colors.orange,
         text: _colors.white,
       },
       content: {
