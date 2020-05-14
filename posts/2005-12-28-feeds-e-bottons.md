@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-12-28T14:07:09.000Z
 description: ''
-image: null
+image: ''
 slug: feeds-e-bottons
 templateKey: blog-post
 title: 'Feeds e Bottons'

@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Tecnologia
 date: 2005-11-28T10:22:24.000Z
 description: ''
-image: null
+image: ''
 slug: google-space
 templateKey: blog-post
 title: 'Google Space'

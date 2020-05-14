@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Webstandards
 date: 2005-11-10T18:05:47.000Z
 description: ''
-image: null
+image: ''
 slug: prolog-xml
 templateKey: blog-post
 title: 'Prolog XML'

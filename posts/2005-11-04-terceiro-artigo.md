@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Publicações
 date: 2005-11-04T02:00:50.000Z
 description: ''
-image: null
+image: ''
 slug: terceiro-artigo
 templateKey: blog-post
 title: 'Terceiro Artigo'

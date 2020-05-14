@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-10-20T00:20:30.000Z
 description: ''
-image: null
+image: ''
 slug: ibest-e-peixe-grande
 templateKey: blog-post
 title: 'iBest e Peixe Grande'

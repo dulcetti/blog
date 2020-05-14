@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Shots
 date: 2005-12-07T18:40:41.000Z
 description: ''
-image: null
+image: ''
 slug: projeto-final
 templateKey: blog-post
 title: 'Projeto Final'

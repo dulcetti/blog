@@ -3,7 +3,7 @@ author: bruno-dulcetti
 category: Eventos
 date: 2005-10-26T00:14:41.000Z
 description: ''
-image: null
+image: ''
 slug: retrospectiva-imasters-intercon
 templateKey: blog-post
 title: 'Retrospectiva iMasters Intercon'
