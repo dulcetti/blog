@@ -1,5 +1,5 @@
 import React from 'react';
-import propTypes from 'prop-types';
+import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -39,6 +39,6 @@ export default function PostItem({ post, time }) {
 }
 
 PostItem.propTypes = {
-  post: propTypes.object,
-  time: propTypes.number,
+  post: PropTypes.object,
+  time: PropTypes.number,
 };
