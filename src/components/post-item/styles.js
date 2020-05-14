@@ -5,10 +5,8 @@ import { Link } from 'gatsby';
 import { themes } from '../../styles/themes';
 
 export const Post = styled.div`
-  margin-bottom: 30px;
   min-height: 200px;
   text-align: center;
-  width: 440px;
 `;
 
 export const LinkPost = styled(Link)`
@@ -64,7 +62,7 @@ export const Category = styled.strong`
   margin-bottom: 40px;
   order: 1;
   padding: 3px 8px;
-  text-shadow: 3px 3px 2px ${themes.palette.general.shadows};
+  text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
   text-transform: uppercase;
   transition: margin-bottom 0.3s;
 `;
@@ -77,7 +75,7 @@ export const Title = styled.h2`
   margin-bottom: 10px;
   padding: 0 20px;
   order: 2;
-  text-shadow: 2px 2px 2px ${themes.palette.general.shadows};
+  text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   width: 100%;
 `;
 

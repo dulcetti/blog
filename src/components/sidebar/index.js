@@ -5,6 +5,7 @@ import Img from 'gatsby-image';
 import * as S from './styles';
 
 export default function Sidebar({ siteTitle }) {
+  const location = window && window.location.pathname;
   const { logo } = useStaticQuery(
     graphql`
       query {
@@ -21,12 +22,16 @@ export default function Sidebar({ siteTitle }) {
 
   return (
     <S.Sidebar>
-      <S.Container>
-        <S.LogoLink to="/">
-          <Img fixed={logo.childImageSharp.fixed} />
+      <S.LogoLink to="/">
+        <Img fixed={logo.childImageSharp.fixed} />
+        {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
-        </S.LogoLink>
-      </S.Container>
+        ) : (
+          <S.InternalTitle>{siteTitle}</S.InternalTitle>
+        )}
+      </S.LogoLink>
+
+      <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
     </S.Sidebar>
   );
 }
