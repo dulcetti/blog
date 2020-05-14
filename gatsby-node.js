@@ -9,7 +9,11 @@ exports.createPages = ({ graphql, actions }) => {
         edges {
           node {
             frontmatter {
+              date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
+              description
+              image
               slug
+              title
             }
           }
         }
