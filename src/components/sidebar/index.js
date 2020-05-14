@@ -5,7 +5,7 @@ import Img from 'gatsby-image';
 import * as S from './styles';
 
 export default function Sidebar({ siteTitle }) {
-  const location = window && window.location.pathname;
+  const location = typeof window !== 'undefined' && window.location.pathname;
   const { logo } = useStaticQuery(
     graphql`
       query {
