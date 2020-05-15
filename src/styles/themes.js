@@ -42,6 +42,7 @@ export const themes = {
       'Webstandards': _colors.red,
     },
     general: {
+      bg: _colors.white,
       boxShadows: _colors.grayMedium,
       links: _colors.orange,
       textShadows: _colors.grayDark,
@@ -50,6 +51,7 @@ export const themes = {
       bg: _colors.brownLight,
       bgFooter: _colors.brownLight,
       links: _colors.green,
+      linksHover: _colors.orange,
     },
     postList: {
       categories: {
