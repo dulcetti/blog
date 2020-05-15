@@ -27,7 +27,7 @@ export const LinkPost = styled(Link)`
       width: 115% !important;
     }
 
-    ${media.greaterThan('medium')`
+    ${media.greaterThan('large')`
       .infos-post {
         bottom: 12px;
         transition: bottom 0.3s;
@@ -59,24 +59,39 @@ export const Category = styled.strong`
   border-radius: 4px;
   color: ${themes.palette.postList.categories.text};
   font: bold 2rem ${themes.fonts.others};
-  margin-bottom: 40px;
   order: 1;
   padding: 3px 8px;
   text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
   text-transform: uppercase;
   transition: margin-bottom 0.3s;
+
+  ${media.lessThan('large')`
+    margin-bottom: 30px;
+  `}
+
+  ${media.greaterThan('large')`
+    margin-bottom: 40px;
+  `}
 `;
 
 export const Title = styled.h2`
   color: ${themes.palette.postList.content.title};
-  font-size: 2rem;
   font-weight: 400;
-  line-height: 2.2rem;
   margin-bottom: 10px;
   padding: 0 20px;
   order: 2;
   text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   width: 100%;
+
+  ${media.lessThan('large')`
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+  `}
+
+  ${media.greaterThan('large')`
+    font-size: 2rem;
+    line-height: 2.2rem;
+  `}
 `;
 
 export const DateTime = styled.p`

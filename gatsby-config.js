@@ -16,14 +16,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `uploads`,
-        path: `${__dirname}/static/assets/images`,
+        path: `${__dirname}/static/assets/images/posts`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/static/assets/images`,
       },
     },
     {
@@ -79,7 +79,7 @@ module.exports = {
         background_color: `#38551f`,
         theme_color: `#38551f`,
         display: `minimal-ui`,
-        icon: `src/images/logos/logo-512.png`,
+        icon: `./static/assets/images/logos/logo-512.png`,
         include_favicon: false,
       },
     },

@@ -3,6 +3,7 @@ const _colors = {
   blueDark: '#003049',
   bronze: '#AA735F',
   brownLight: '#F7F6F1',
+  brownLightOver: '#eae8db',
   gray: '#505050',
   grayDark: '#333',
   grayLight: '#f8f9f9',
@@ -42,6 +43,8 @@ export const themes = {
       'Webstandards': _colors.red,
     },
     general: {
+      bg: _colors.white,
+      borders: _colors.grayMedium,
       boxShadows: _colors.grayMedium,
       links: _colors.orange,
       textShadows: _colors.grayDark,
@@ -49,7 +52,10 @@ export const themes = {
     sidebar: {
       bg: _colors.brownLight,
       bgFooter: _colors.brownLight,
+      bgMobile: _colors.brownLightOver,
       links: _colors.green,
+      linksHover: _colors.orange,
+      name: _colors.gray,
     },
     postList: {
       categories: {
