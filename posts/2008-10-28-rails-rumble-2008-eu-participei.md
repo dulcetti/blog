@@ -22,7 +22,7 @@ E parece meio impossível você criar uma aplicação em apenas 48h, mas isso é
 ## Quem participou com você Dulcetti?
 
 <img src="/assets/images/posts/galera-rails-rumble.jpg" alt="Grupo trabalhando no projeto" />
-Galera fingindo que estava trabalhando</div>
+Galera fingindo que estava trabalhando
 
 Bom, a nossa equipe foi a January River, em homenagem a nossa cidade maravilhosa (deu pra perceber né?), e era composta pelos seguintes modafocas:
 

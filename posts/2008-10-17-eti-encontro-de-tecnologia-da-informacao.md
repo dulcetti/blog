@@ -24,8 +24,7 @@ Como vocês já viram na marca e no título, é o ETI - Encontro de Tecnologia d
 O legal foi que eles convidaram um monte de modafoca pra coordenar o evento. Pessoas referência em tecnologia, relacionados às áreas temas do evento. E o modafoca que vos fala foi um dos convidados.
 
 <img src="https://farm4.static.flickr.com/3049/2904695475_f6c91463bb.jpg?v=0" alt="Galera no café da manhã" />
-
-Dulcetti atrasado, aproveitando pra tirar foto com a galera</div>
+Dulcetti atrasado, aproveitando pra tirar foto com a galera
 
 Sim, eles são loucos em me chamar, mas tudo bem, agora já era :) <a href="http://www.encontrodeti.com.br/site/?p=208">Veja como foi o café da manhã</a>. Percebam que eu não estou na foto da galera, mas foi porque não pude comparecer no horário marcado. Eu falei que eles são loucos, mas como disse, agora já era :) Mas lógico, tive que tirar uma com a galera que ainda estava lá :P
 

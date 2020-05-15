@@ -48,9 +48,6 @@ export default function Sidebar({ siteTitle }) {
               <S.LinkMenu to="/sobre">Quem é?</S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu to="/curriculo">Currículo</S.LinkMenu>
-            </S.Item>
-            <S.Item>
               <S.LinkMenu to="/contato">Contato</S.LinkMenu>
             </S.Item>
           </S.List>
@@ -58,10 +55,7 @@ export default function Sidebar({ siteTitle }) {
 
         <S.SocialMedias>
           <S.Media>
-            <a
-              href="https://github.com/dulcetti"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://github.com/dulcetti" target="_blank" rel="noopener noreferrer">
               <Icons name="github" />
             </a>
           </S.Media>
@@ -74,38 +68,25 @@ export default function Sidebar({ siteTitle }) {
             </a>
           </S.Media>
           <S.Media>
-            <a
-              href="https://twitter.com/dulcetti"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://twitter.com/dulcetti" target="_blank" rel="noopener noreferrer">
               <Icons name="twitter" />
             </a>
           </S.Media>
           <S.Media>
-            <a
-              href="https://instagram.com/dulcetti"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://instagram.com/dulcetti" target="_blank" rel="noopener noreferrer">
               <Icons name="instagram" />
             </a>
           </S.Media>
           <S.Media>
-            <a
-              href="https://facebook.com/dulcetti"
-              target="_blank"
-              rel="noopener noreferrer">
+            <a href="https://facebook.com/dulcetti" target="_blank" rel="noopener noreferrer">
               <Icons name="facebook" />
             </a>
           </S.Media>
         </S.SocialMedias>
       </S.Navigation>
 
-      <S.Text>
-        © {new Date().getFullYear()}, Todos os fodasses reservados.
-      </S.Text>
-      <S.ToggleOpenClose
-        onClick={toggleMenu}
-        className={isOpen && 'active'}></S.ToggleOpenClose>
+      <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
+      <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'}></S.ToggleOpenClose>
     </S.Sidebar>
   );
 }

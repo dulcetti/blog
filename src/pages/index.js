@@ -1,31 +1,15 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import styled from 'styled-components';
-import media from 'styled-media-query';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Profile from '../components/profile';
-import PostItem from '../components/post-item';
-
-const Div = styled.div`
-  display: grid;
-  grid-area: posts;
-  grid-gap: 20px;
-
-  ${media.lessThan('large')`
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  `}
-
-  ${media.greaterThan('large')`
-    grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
-  `}
-`;
+import PostsList from '../components/posts-list';
 
 export default function IndexPage() {
   const { allMarkdownRemark } = useStaticQuery(graphql`
-    query PostsList {
-      allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
+    query PostsListQuery {
+      allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }, limit: 3) {
         edges {
           node {
             frontmatter {
@@ -49,15 +33,7 @@ export default function IndexPage() {
       <SEO title="Home" />
       <Profile />
 
-      <Div>
-        {allPosts.map(({ node }, index) => (
-          <PostItem
-            key={index}
-            post={node.frontmatter}
-            time={node.timeToRead}
-          />
-        ))}
-      </Div>
+      <PostsList posts={allPosts} />
     </Layout>
   );
 }

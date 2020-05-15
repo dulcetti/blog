@@ -9,7 +9,7 @@ export default function Comments({ slug, title }) {
 
   return (
     <S.Wrapper>
-      <S.Title>Comentários</S.Title>
+      <S.TitleComments>Comentários</S.TitleComments>
       <ReactDisqusComments
         shortname="brunodulcetti"
         identifier={fullUrl}

@@ -227,7 +227,6 @@ Essa viagem dura +ou- uns 40 minutos.
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;output=embed&amp;s=AARTsJrvuGjqh1RrG32ilZbzEsQAdMdDhg"></iframe>
 <a href="http://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;source=embed">Exibir mapa ampliado</a>
-</div>
 
 A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Quem for de carro, pode seguir o <a href="http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&z=16">mapa que tracei para vocês</a>.
 

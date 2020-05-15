@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import media from 'styled-media-query';
 import { themes } from '../../styles/themes';
 
 export const SearchWrapper = styled.section`
@@ -51,10 +52,16 @@ export const SearchWrapper = styled.section`
   }
 
   .ais-Hits-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    .ais-Hits-item {
-    }
+    display: grid;
+    grid-area: posts;
+    grid-gap: 20px;
+
+    ${media.lessThan('large')`
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    `}
+
+    ${media.greaterThan('large')`
+      grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+    `}
   }
 `;
