@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
+import Navigation from '../navigation';
 
 export default function Sidebar({ siteTitle }) {
   const location = typeof window !== 'undefined' && window.location.pathname;
@@ -30,6 +31,8 @@ export default function Sidebar({ siteTitle }) {
           <S.InternalTitle>{siteTitle}</S.InternalTitle>
         )}
       </S.LogoLink>
+
+      <Navigation />
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
     </S.Sidebar>
