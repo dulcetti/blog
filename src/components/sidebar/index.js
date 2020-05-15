@@ -48,9 +48,6 @@ export default function Sidebar({ siteTitle }) {
               <S.LinkMenu to="/sobre">Quem é?</S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu to="/curriculo">Currículo</S.LinkMenu>
-            </S.Item>
-            <S.Item>
               <S.LinkMenu to="/contato">Contato</S.LinkMenu>
             </S.Item>
           </S.List>
