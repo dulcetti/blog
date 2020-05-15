@@ -74,7 +74,7 @@ export const Category = styled.strong`
   `}
 `;
 
-export const Title = styled.h2`
+export const TitlePost = styled.h2`
   color: ${themes.palette.postList.content.title};
   font-weight: 400;
   margin-bottom: 10px;
