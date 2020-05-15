@@ -72,7 +72,7 @@ Schouchana é um dos poucos citados nessa lista que não é designer. Assim como
 
 Já participou de vários projetos como o <a href="http://www.globoesporte.com/nfl">Projeto NFL</a>, <a href="http://www.globoesporte.com/pan">Pan 2007</a>, entre vários outros projetos.
 
-Bastante competente, em breve estará saindo da Globo e irá para o exterior, assim como o Felipe Memória. Eu acho que vou virar Arquiteto da Informação, isso dá grana, tá todo mundo indo pra fora do Brasil :D. está indo para Londres, para <del datetime="2007-09-04T20:55:32+00:00">uma empresa que eu esqueci o nome :D~~ a empresa <a href="http://www.sapient.com/">Sapient</a>. Não gosto de desejar sorte, porque parece algo para pessoas que não possuem competência e dependem da sorte. Por isso, sei que ele tem muita competência e desejo todas oportunidades de crescimento, aquele abraço e não esquece dos camaradas aqui no Brasil não hein o fdp :D.
+Bastante competente, em breve estará saindo da Globo e irá para o exterior, assim como o Felipe Memória. Eu acho que vou virar Arquiteto da Informação, isso dá grana, tá todo mundo indo pra fora do Brasil :D. está indo para Londres, para ~~uma empresa que eu esqueci o nome :D~~ a empresa <a href="http://www.sapient.com/">Sapient</a>. Não gosto de desejar sorte, porque parece algo para pessoas que não possuem competência e dependem da sorte. Por isso, sei que ele tem muita competência e desejo todas oportunidades de crescimento, aquele abraço e não esquece dos camaradas aqui no Brasil não hein o fdp :D.
 
 ### Vitor Lourenço - <a href="http://www.vlourenco.com/" title="Visitar o site do Vitor">http://www.vlourenco.com/</a>
 
