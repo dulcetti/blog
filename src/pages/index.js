@@ -1,6 +1,7 @@
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import styled from 'styled-components';
+import media from 'styled-media-query';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -11,7 +12,14 @@ const Div = styled.div`
   display: grid;
   grid-area: posts;
   grid-gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+
+  ${media.lessThan('large')`
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  `}
+
+  ${media.greaterThan('large')`
+    grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+  `}
 `;
 
 export default function IndexPage() {
@@ -43,7 +51,11 @@ export default function IndexPage() {
 
       <Div>
         {allPosts.map(({ node }, index) => (
-          <PostItem key={index} post={node.frontmatter} time={node.timeToRead} />
+          <PostItem
+            key={index}
+            post={node.frontmatter}
+            time={node.timeToRead}
+          />
         ))}
       </Div>
     </Layout>
