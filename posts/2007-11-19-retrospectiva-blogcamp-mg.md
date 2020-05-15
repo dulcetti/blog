@@ -11,7 +11,7 @@ title: 'Retrospectiva BlogCamp MG'
 
 E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
 
-<img src="/assets/images/banner-blogcamp-mg.jpg" alt="Banner do BlogCamp MG" />
+<img src="/assets/images/posts/banner-blogcamp-mg.jpg" alt="Banner do BlogCamp MG" />
 
 ## Mas e ae Dulcetti, como que foi o evento, conta ae
 
@@ -89,7 +89,10 @@ Foi uma comédia. Ian com sua irreverência, simpatia e cômica palestra, falou 
   >
     <param name="allowScriptAccess" value="sameDomain" />
     <param name="movie" value="http://www.videolog.tv/swf/player_externo.swf" />
-    <param name="flashvars" value="prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;" />
+    <param
+      name="flashvars"
+      value="prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;"
+    />
   </object>
 </noscript>
 ```

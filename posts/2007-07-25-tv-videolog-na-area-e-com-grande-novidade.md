@@ -9,19 +9,17 @@ templateKey: blog-post
 title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 
-<a href="http://videolog.uol.com.br/tivi/"><img src="/assets/images/tivi01.jpg" alt="Print com uma prévia da T!V!" /></a>
+E ae galera, tudo tranquilo? Venho hoje falando do Videolog. Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
-E ae galera, tudo tranquilo?
+<img src="/assets/images/posts/tivi01.jpg" alt="Print com uma prévia da T!V!" />
 
-Venho hoje falando do <a href="http://videolog.uol.com.br" title="Visite o site do Videolog.tv">Videolog</a>. Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
-
-## Crie seus próprios canais de TV com a <a href="http://videolog.uol.com.br/tivi/">T!V!</a>
+## Crie seus próprios canais de TV com a T!V!
 
 Gire em 180º as exclamações que você verá TIVI, o nome como deve ser dito ;)
 
-### Mas o que é a <a href="http://videolog.uol.com.br/tivi/">T!V!</a> Bruno?
+### Mas o que é a T!V! Bruno?
 
-A <a href="http://videolog.uol.com.br/tivi/">T!V!</a> é a sua TV web personalizada. Com ela você poderá criar seu próprio canal de TV via web. Você poderá escolher qualquer vídeo que esteja hospedado no Videolog e adicionar ao seu canal. Tudo isso, logicamente, sob licença <a href="http://www.creativecommons.org.br/">Creative Commons</a>.
+A T!V! é a sua TV web personalizada. Com ela você poderá criar seu próprio canal de TV via web. Você poderá escolher qualquer vídeo que esteja hospedado no Videolog e adicionar ao seu canal. Tudo isso, logicamente, sob licença <a href="http://www.creativecommons.org.br/">Creative Commons</a>.
 
 E claro, a pessoa poderá subir seus próprios vídeos para dentro do canal, assim como qualquer outra pessoa cadastrada.
 
@@ -49,7 +47,7 @@ Mais pra frente, a T!V! também será usada empresas, etc, que poderão montar s
 
 A T!V! está em fase alpha, por enquanto. Em meados de agosto, mais precisamente no meio de agosto (aproximadamente), a T!V! lançará sua versão beta.
 
-Por enquanto, somente usuários convidados podem testar a T!V!. <a href="http://videolog.uol.com.br/tivi/">Cadastre-se para testá-la</a>. Você só precisar informar o nome e seu e-mail.
+Por enquanto, somente usuários convidados podem testar a T!V!. Cadastre-se para testá-la. Você só precisar informar o nome e seu e-mail.
 
 Eu deixarei todos que frequentam este blog informados sobre o lançamento da ferramenta. Aguardem! :D
 
