@@ -26,13 +26,13 @@ Foram três páginas falando sobre meta tags. Meu artigo está entre os cinco pr
 Abaixo eu coloquei uma prévia. Postei no meu Flickr. Já dá pra ler alguma coisa, mas comprem a Revista, pois também tem uma matéria bem interessante falando com o camarada <a href="http://marcogomes.com/">Marco Gomes</a>, falando sobre a <a href="http://boo-box.com/site/br/">boo-box</a>.
 
 <a href="http://www.flickr.com/photos/dulcetti/2415518861/in/set-72157604552704437/"><img src="https://farm3.static.flickr.com/2416/2415518861_3b83b15a14.jpg?v=0" alt="Primeira Página da Entrevista" /></a>
-Primeira Página.</div>
+Primeira Página.
 
 <a href="http://www.flickr.com/photos/dulcetti/2416338980/in/set-72157604552704437/"><img src="https://farm4.static.flickr.com/3139/2416338980_4904e5aeea.jpg?v=0" alt="Segunda Página da Entrevista" /></a>
-Segunda Página.</div>
+Segunda Página.
 
 <a href="http://www.flickr.com/photos/dulcetti/2416338896/in/set-72157604552704437/"><img src="https://farm4.static.flickr.com/3143/2416338896_1c5c5e244e.jpg?v=0" alt="Terceira Página da Entrevista" /></a>
-Terceira Página.</div>
+Terceira Página.
 
 ## Finalizando...
 
