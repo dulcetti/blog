@@ -5,10 +5,11 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Profile from '../components/profile';
 import PostsList from '../components/posts-list';
+import Pagination from '../components/pagination';
 
 const BlogList = (props) => {
-  console.info(props);
   const postList = props.data.allMarkdownRemark.edges;
+  const { currentPage, numPages } = props.pathContext;
 
   return (
     <Layout>
@@ -16,6 +17,7 @@ const BlogList = (props) => {
       <Profile />
 
       <PostsList posts={postList} />
+      <Pagination totalPages={numPages} currentPage={currentPage} />
     </Layout>
   );
 };
