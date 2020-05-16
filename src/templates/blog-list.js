@@ -9,7 +9,7 @@ import Pagination from '../components/pagination';
 
 const BlogList = (props) => {
   const postList = props.data.allMarkdownRemark.edges;
-  const { currentPage, numPages } = props.pathContext;
+  const { currentPage, numPages } = props.pageContext;
 
   return (
     <Layout>
