@@ -15,5 +15,5 @@ export default function PostsList({ posts }) {
 }
 
 PostsList.propTypes = {
-  posts: PropTypes.object.isRequired,
+  posts: PropTypes.array.isRequired,
 };
