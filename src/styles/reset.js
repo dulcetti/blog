@@ -45,7 +45,7 @@ export const GlobalStyle = createGlobalStyle`
 
   h1, h2, h3, h4, h5, h6 {
     font-family: ${themes.fonts.titles};
-    font-weight: 400;
+    font-weight: 700;
   }
 
   a {
@@ -77,8 +77,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   mark {
-    background-color: #ff0;
-    color: #000;
+    background-color: ${themes.palette.posts.blockquoteBg};
+    color: ${themes.palette.general.color};
   }
 
   small {

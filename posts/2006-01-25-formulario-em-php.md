@@ -152,10 +152,15 @@ No geral, traduzindo, seria:
 
 <blockquote>
 "Se (o email não foi enviado) faça"
+
 "falha no envio"
+
 "senão (se o email foi enviado corretamente) faça"
+
 "redirecionamento e obrigado"
+
 "fim do if"
+
 </blockquote>
 
 ### `?>`

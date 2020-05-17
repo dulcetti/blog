@@ -11,7 +11,7 @@ title: 'Patrocine meu Carro! Mas que carro? Quero comprar um e você pode me aju
 
 Estava eu vendo meus emails pelo Thunderbird (sim, é verdade, eu ainda não estou full-time pelo Gmail, fazer o que...), quando me chega um email com o seguinte título:
 
-<blockquote>"Para comprar um carro, criei um blog"</blockquote>
+<blockquote>Para comprar um carro, criei um blog</blockquote>
 
 Estranhei, e fui olhar o email. Comecei a ler, vi que o email <a href="http://www.patrocinemeucarro.com">tinha uma URL</a>. Confesso que não fui ver, não me interessei muito pois não era de meu interesse a princípio. Fechei o email, marquei como não lido, pois tinha algumas alterações pra nova versão do <a href="http://www.videolog.tv">Videolog</a> e deixei para ver o link mais tarde.
 

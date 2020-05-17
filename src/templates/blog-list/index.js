@@ -1,11 +1,11 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import Layout from '../components/layout';
-import SEO from '../components/seo';
-import Profile from '../components/profile';
-import PostsList from '../components/posts-list';
-import Pagination from '../components/pagination';
+import Layout from '../../components/layout';
+import SEO from '../../components/seo';
+import Profile from '../../components/profile';
+import PostsList from '../../components/posts-list';
+import Pagination from '../../components/pagination';
 
 const BlogList = (props) => {
   const postList = props.data.allMarkdownRemark.edges;

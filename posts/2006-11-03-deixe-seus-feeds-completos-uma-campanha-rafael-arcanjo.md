@@ -23,7 +23,7 @@ O Bruno Alves cita muitos exemplos de vantagens de utilizar posts completos e mo
 
 Gostei de uma das citações dele:
 
-<blockquote>"Ser um leitor especial, que o acompanha diariamente, deve vir acompanhado de benefícios, não de prejuízos."</blockquote>
+<blockquote>Ser um leitor especial, que o acompanha diariamente, deve vir acompanhado de benefícios, não de prejuízos.</blockquote>
 
 ### Mas então o que eu faço?
 

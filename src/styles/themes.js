@@ -7,7 +7,7 @@ const _colors = {
   brownLightOver: '#eae8db',
   gray: '#505050',
   grayDark: '#333',
-  grayLight: '#f8f9f9',
+  grayLight: '#f5f6f6',
   grayMedium: '#bbb',
   green: '#046A2E',
   greenSea: '#79B791',
@@ -44,11 +44,18 @@ export const themes = {
       'Webstandards': _colors.red,
     },
     general: {
-      bg: _colors.white,
+      bg: _colors.grayLight,
       borders: _colors.grayMedium,
       boxShadows: _colors.grayMedium,
+      color: _colors.grayDark,
       links: _colors.orange,
       textShadows: _colors.grayDark,
+    },
+    posts: {
+      blockquoteBg: _colors.white,
+      blockquoteBorder: _colors.green,
+      links: _colors.orange,
+      linksBorder: _colors.green,
     },
     sidebar: {
       bg: _colors.brownLight,
