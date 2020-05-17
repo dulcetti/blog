@@ -23,6 +23,6 @@ export const LayoutMain = styled.main`
   `}
 
   ${media.greaterThan('medium')`
-    padding: 1rem 18rem 2rem 2rem;
+    padding: 2rem 18rem 2rem 2rem;
   `}
 `;
