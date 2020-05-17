@@ -35,7 +35,7 @@ Sim, sim. Concordo, mas eu <a href="/como-voce-escreve-seus-arquivos-css">coment
 
 ## Motivos
 
-Imaginem você um site que possui MILHÃ•ES de visitas. Não milhares, mas sim MILHÃ•ES. Agora imagine esses milhões de visitas multiplicados pelos kbytes que eu consigo economizar escrevendo meu CSS daquela forma.
+Imaginem você um site que possui MILHÕES de visitas. Não milhares, mas sim MILHÕES. Agora imagine esses milhões de visitas multiplicados pelos kbytes que eu consigo economizar escrevendo meu CSS daquela forma.
 
 Citei que em projeto em que eu participei, Globo.com e Videolog, projetos grandes, bem grandes, a economia ultrapassava os 20kb. Vieram falar que 20kb não é nada e carrega em 4 segundos numa conexão discada.
 
