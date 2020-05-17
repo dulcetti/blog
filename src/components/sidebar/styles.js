@@ -41,7 +41,7 @@ export const LogoLink = styled(Link)`
     height: 30px;
     padding: 10px 0;
     width: 95px;
-    z-index: 2;
+    z-index: 3;
   `}
 
   ${media.greaterThan('medium')`
@@ -53,13 +53,14 @@ export const LogoLink = styled(Link)`
 
 export const Thumb = styled(Img)`
   border-radius: 50%;
-  margin: 0 auto 20px;
 
   ${media.lessThan('medium')`
-    width: 50%;
+    margin: 0 auto 10px;
+    width: 40%;
   `}
 
   ${media.greaterThan('medium')`
+    margin: 0 auto 20px;
     width: 75%;
   `}
 `;
@@ -89,13 +90,14 @@ export const Text = styled.p`
 
 export const Navigation = styled.section`
   ${media.lessThan('767px')`
-    background-color: ${themes.palette.sidebar.bgMobile};
+    background-color: ${themes.palette.sidebar.bg};
     border-bottom: 1px solid ${themes.palette.general.boxShadows};
     display: flex;
     flex-direction: column;
     height: calc(100vh - 55px);
-    justify-content: center;
+    justify-content: flex-start;
     left: 0;
+    padding-top: 20px;
     position: fixed;
     transform: translateX(-100%);
     transition: all 0.5s ease 0s;
@@ -157,10 +159,19 @@ export const LinkMenu = styled(Link)`
 export const Name = styled.h2`
   color: ${themes.palette.sidebar.name};
   font-family: ${themes.fonts.titles};
-  font-size: 38px;
-  line-height: 40px;
-  margin-bottom: 30px;
   text-align: center;
+
+  ${media.lessThan('medium')`
+    font-size: 28px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  `}
+
+  ${media.greaterThan('medium')`
+    font-size: 38px;
+    line-height: 40px;
+    margin-bottom: 30px;
+  `}
 `;
 
 export const ToggleOpenClose = styled.button`
@@ -171,7 +182,9 @@ export const ToggleOpenClose = styled.button`
   ${media.lessThan('medium')`
     border: 0;
     height: 32px;
+    position: relative;
     width: 32px;
+    z-index: 3;
 
     &:not(.active) {
       background: url('/assets/images/icons/menu.svg') no-repeat;
