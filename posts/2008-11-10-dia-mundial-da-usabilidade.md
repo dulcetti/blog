@@ -17,7 +17,7 @@ O evento, que tem como finalidade a valorização da facilidade de uso de produt
 
 Na primeira edição, em 2005, o Dia Mundial da Usabilidade contou com a participação de 34 países, atraindo mais de 10.000 participantes nos locais e outros milhares via on-line. Esta é a terceira edição do evento no Rio de Janeiro e segundo o organizador e Doutor em Design, <a href="http://interfaceando.blogspot.com/">Robson Santos</a>, a expectativa é fazer com que as pessoas percebam a importância da usabilidade.
 
-<blockquote>"As palestras tem como público-alvo o consumidor, que muitas vezes se sente frustrado diante da dificuldade de usar produtos e serviços que adquire. E se estendem também a empresários e profissionais das áreas de comunicação, informática, design e qualidade, responsáveis na produção destes produtos e serviços."</blockquote>
+<blockquote>As palestras tem como público-alvo o consumidor, que muitas vezes se sente frustrado diante da dificuldade de usar produtos e serviços que adquire. E se estendem também a empresários e profissionais das áreas de comunicação, informática, design e qualidade, responsáveis na produção destes produtos e serviços.</blockquote>
 
 ## Manero hein Dulça
 

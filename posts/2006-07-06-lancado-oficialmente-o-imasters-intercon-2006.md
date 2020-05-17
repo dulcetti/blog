@@ -11,15 +11,15 @@ title: 'Lançado oficialmente o iMasters Intercon 2006'
 
 Falae pessoal. Ontem recebi a notícia através de um dos responsáveis pelo <a href="http://www.imasters.com.br/">iMasters</a>, que está oficialmente lançado o <a href="http://www.imasters.com.br/intercon/2006/">iMasters Intercon 2006</a>.
 
-### O Evento
+## O Evento
 
 O Interconéum evento de tecnologia web, que este ano terá 2 salões, como ano passado, mas abordará uma gama maior de temas: "Criação e Desenvolvimento" e "Programação e Tecnologia". Terá 12 palestrantes, 6 para cada salão.
 
-### Diferenciais
+## Diferenciais
 
 Uma novidade, é a do curso de Flash que será dado no Próprio evento. Veja um pouco sobre o curso:
 
-<blockquote>"O iMasters, em mais uma iniciativa inédita, apresentará uma versão especial do já tradicional Curso de Flash Animado do Mundo Canibal. Desta vez, serão abordado os tópicos mais avançados, em menor carga horário, com todos os benefícios do evento (camiseta, alomoço, brindes, etc...) e um valor pra lá de promocional. Mas fique atento, são apenas 15 vagas."</blockquote>
+<blockquote>O iMasters, em mais uma iniciativa inédita, apresentará uma versão especial do já tradicional Curso de Flash Animado do Mundo Canibal. Desta vez, serão abordado os tópicos mais avançados, em menor carga horário, com todos os benefícios do evento (camiseta, alomoço, brindes, etc...) e um valor pra lá de promocional. Mas fique atento, são apenas 15 vagas.</blockquote>
 
 O Professor será o Ricardo Piologo, que é o autor do livro "Flash Animado", que será o material didático e já está incluído no preço do curso.
 
@@ -27,11 +27,11 @@ Uma mudança, que na minha opinião não achei tão legal, foi que agora você f
 
 Um outro diferencial,éq agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como não conheço São Paulo, fica meio difícil :D.
 
-### Local
+## Local
 
 O local será o mesmo do Intercon do ano passado, o <a href="http://www.accorhotels.com.br/guiahoteis/novotel/hotel_main.asp?cd_hotel=271">Hotel Jaraguá Convention Center</a>, que po sinal é muito belo, moderno, gostei bastante.
 
-### Palestrantes
+## Palestrantes
 
 O evento contará com os seguintes palestrantes:
 

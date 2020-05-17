@@ -31,7 +31,7 @@ Deu pra perceber que eles agoram estão preocupados com a interação do cliente
 
 Por ser um site de jornal, o conteúdo fica muito extenso, e com isso, acaba ficando um pouco confuso às vezes, meio bagunçado principalmente quando se cresce o tamanho das fontes, mas gostei do novo layout. Segue o padrão dos novos portais da Globo.com. Soh achei que na barra de menus superior, a que fica abaixo da logomarca, poderia ser feita com textos.
 
-### Diferencial ou Problema?
+## Diferencial ou Problema?
 
 O grande diferencial foi a utilização da resolução para monitores com resolução mínima de 1024x768. Já expressei minha opinião sobre o assunto. Acho um pouco precipitado já entrar para tal layout. Jah foi discutido no <a href="http://www.tableless.com.br">Tableless</a> sobre tal assunto, pois eles utilizam uma resolução mínima para monitores com 1024x768. Naum acho legal, mas pode ser um pouco válido, pois se trata de um blog frequentado por desenvolvedores, etc, que geralmente utilizam uma resolução igual ou superior.
 
