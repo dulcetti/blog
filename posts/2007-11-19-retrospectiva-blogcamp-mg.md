@@ -19,7 +19,7 @@ Já que coloquei esse título, vou começar falando sobre o <a href="http://www.
 
 ## Tudo bem Bruno, você é esquizofrênico, mas deixa isso de lado e começa a falar ae do evento.
 
-Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a <a href="http://www.brunodulcetti.com/blog/2007/11/17/blogcamp-belo-horizonte-cobertura.html">postar sobre o evento no sábado</a>, em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
+Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a <a href="/blogcamp-belo-horizonte-cobertura">postar sobre o evento no sábado</a>, em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
 
 ### O famoso Networking
 
@@ -41,7 +41,7 @@ Tivemos algumas ausências como a do <a href="http://www.contraditorium.com/">Ca
 
 Acho que acima de tudo, fora o papo sobre blogs, monetização, tecnologia, valeu o conhecimento pessoal, a socialização entre nós, a cerveja tomada logo após o evento, as merdas faladas, as zoações, os erros, conselhos, dicas, etc.
 
-Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o <a href="http://www.leonardopessoa.com/">Leonardo Pessoa</a> que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um <a href="http://www.brunodulcetti.com/blog/2006/01/25/formulario-em-php.html">formulário em PHP</a>. Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
+Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o <a href="http://www.leonardopessoa.com/">Leonardo Pessoa</a> que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um <a href="/formulario-em-php">formulário em PHP</a>. Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
 
 Fora quando a Mirian Bottan e o Thiago Mobilon chegaram pra mim no bar, no sábado e falaram a mesma coisa: "Calmae! Eu to conversando com você o BlogCamp MG inteiro, estamos no mesmo Hotel, tomando cerveja e eu não sabia que você que é o Bruno Dulcetti?". E ainda complementaram: "Imaginava você totalmente diferente, um cara mó Nerd, etc.". Aeeeee, não tenho cara de Nerd. Ok, só um pouco, por causa dos óculos, etc, mas nem tanto :D.
 
@@ -89,10 +89,7 @@ Foi uma comédia. Ian com sua irreverência, simpatia e cômica palestra, falou 
   >
     <param name="allowScriptAccess" value="sameDomain" />
     <param name="movie" value="http://www.videolog.tv/swf/player_externo.swf" />
-    <param
-      name="flashvars"
-      value="prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;"
-    />
+    <param name="flashvars" value="prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;" />
   </object>
 </noscript>
 ```
@@ -118,7 +115,7 @@ Então, tem bastante link por ae e que ainda está por vir. vou ver se vou posta
 - <a href="http://www.ladybugbrazil.com/2007/11/17/blogcampmg-via-ustreamtv/">BlogcampMG - via ustream.tv</a>
 - <a href="http://meta.blog.br/blogcamp-mg-remoto/">BlogCamp MG remoto</a>
 - <a href="http://www.leonardopessoa.com/2007/11/blogcamp-mg-2/">BlogCamp MG</a>
-- <a href="http://www.brunodulcetti.com/blog/2007/11/17/blogcamp-belo-horizonte-cobertura.html">BlogCamp MG | Belo Horizonte - Cobertura</a>
+- <a href="/blogcamp-belo-horizonte-cobertura">BlogCamp MG | Belo Horizonte - Cobertura</a>
 - <a href="http://tecnoblog.net/archives/meu-primeiro-relato-sobre-blogcamps.php">Meu primeiro relato sobre BlogCamps!</a>
 - <a href="http://blog.licio.eti.br/2007/11/18/blogcampmg-eu-fui/">BlogCampMG, eu fui!</a>
 - <a href="http://www.trankera.org/blog/2007/11/19/blogcamp-mg-as-pecas-raras-da-desconferencia/">Blogcamp MG, as peças raras da desconferencia</a>

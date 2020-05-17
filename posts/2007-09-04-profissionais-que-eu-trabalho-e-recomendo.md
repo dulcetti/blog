@@ -35,7 +35,7 @@ Esta moça é uma figura conhecida na área de design. Bastante competente e tra
 
 Nascida no interior do sul do Brasil, cujo lugar não quis revelar, mas o seu sotaque também não engana que ela vem daquela região.
 
-A Bela junto com o Lucas Hirata, foram os responsáveis pela linha gráfica e o design de interação da <a href="http://www.brunodulcetti.com/blog/2007/08/30/portal-globocom-lanca-sua-nova-home.html">nova home da Globo.com</a>.
+A Bela junto com o Lucas Hirata, foram os responsáveis pela linha gráfica e o design de interação da <a href="/portal-globocom-lanca-sua-nova-home">nova home da Globo.com</a>.
 Junto com eles, o Eduardo Rocque foi responsável pelo grid e destaques da home.
 
 E marmanjos de plantão que jah me perguntaram isso... Sim, ela é bonita :D (acostuma não hein Bela ;) ) O que mais acho engraçada nela é a paixão pelo <a href="http://movies.yahoo.com/movie/contributor/1800050002">Hector Bonilla</a> (sim, esse mesmo, do grande Chaves).
@@ -62,7 +62,7 @@ Não, não é apelido. Tristão é o nome real dele mesmo. Parece até nome de d
 
 Alguns aqui na empresa o chamam de Triste, variação a qual ele acha simpática e gosta de ser chamado. Ki guti guti meudeuzu. :D
 
-É a outra figura que não é designer dessa lista. Assim como o Schouchana, ele atua como Arquiteto da Informação aqui dentro da Globo. Também participou do projeto da <a href="http://www.brunodulcetti.com/blog/2007/08/30/portal-globocom-lanca-sua-nova-home.html">nova home da Globo.com</a>, ficando responsável pela arquitetura da própria. Foi um belíssimo trabalho, elogiado pela grande maioria e que na minha opinião, foi um dos melhores resultados dessa nova home.
+É a outra figura que não é designer dessa lista. Assim como o Schouchana, ele atua como Arquiteto da Informação aqui dentro da Globo. Também participou do projeto da <a href="/portal-globocom-lanca-sua-nova-home">nova home da Globo.com</a>, ficando responsável pela arquitetura da própria. Foi um belíssimo trabalho, elogiado pela grande maioria e que na minha opinião, foi um dos melhores resultados dessa nova home.
 
 Pessoa que não tenho tanto contato, só nos projetos mesmo, mas dá pra ver que eh um cara sagás e tranquilo.
 
@@ -80,7 +80,7 @@ Vitor Lourenço é um Designer de Interação / Gráfico com proficiência no de
 
 Não falo tanto com ele pessoalmente, mais pelo yahoo mesmo, mas o cara é gente fina. Natural de Campinas, São Paulo. Trabalha mais focado nos projetos de Entretenimento. Participei um pouco no Projeto do BBB7, BBB8 e da novela Amazônia, onde participei do Projeto do Novo Padrão de Código para Novelas.
 
-Já <a href="http://www.brunodulcetti.com/blog/2007/03/14/parabens-despedida-ao-meu-camarada-felipe-memoria.html">comentei sobre ele aqui no Blog</a>, assim como o Bomfim, Schouchana, Memória e Max.
+Já <a href="/parabens-despedida-ao-meu-camarada-felipe-memoria">comentei sobre ele aqui no Blog</a>, assim como o Bomfim, Schouchana, Memória e Max.
 
 ### Ze Roberto (Ou melhor, ZERO) - <a href="http://www.diretoriozero.com.br/" title="Visitar o site do Zero">http://www.diretoriozero.com/</a>
 

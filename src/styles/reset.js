@@ -13,10 +13,12 @@ export const GlobalStyle = createGlobalStyle`
   html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
+    min-height: 100%;
   }
 
   body {
     font-family: Arial;
+    min-height: 100%;
     overflow-x: hidden;
   }
 

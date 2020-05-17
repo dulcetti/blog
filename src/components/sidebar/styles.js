@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
+import Img from 'gatsby-image';
 import { Link } from 'gatsby';
 import { themes } from '../../styles/themes';
 
@@ -13,7 +14,7 @@ export const Sidebar = styled.aside`
     grid-area: sidebar;
     grid-template-rows: 50px auto 15px;
     min-height: 100vh;
-    padding: 20px 0;
+    padding: 30px 0 20px;
     right: 0;
     top: 0;
     width: 250px;
@@ -24,6 +25,7 @@ export const Sidebar = styled.aside`
     bottom: 0;
     box-shadow: 0px 3px 6px 2px ${themes.palette.general.boxShadows};
     display: flex;
+    height: 55px;
     justify-content: space-between;
     padding: 0 15px;
     width: 100%;
@@ -33,12 +35,33 @@ export const Sidebar = styled.aside`
 export const LogoLink = styled(Link)`
   display: block;
   position: relative;
-  text-align: center;
 
   ${media.lessThan('medium')`
+    box-sizing: content-box;
+    height: 30px;
     padding: 10px 0;
-    position: relative;
-    z-index: 2;
+    width: 95px;
+    z-index: 3;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin: 0 auto;
+    height: auto;
+    width: 140px;
+  `}
+`;
+
+export const Thumb = styled(Img)`
+  border-radius: 50%;
+
+  ${media.lessThan('medium')`
+    margin: 0 auto 10px;
+    width: 40%;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin: 0 auto 20px;
+    width: 75%;
   `}
 `;
 
@@ -67,13 +90,14 @@ export const Text = styled.p`
 
 export const Navigation = styled.section`
   ${media.lessThan('767px')`
-    background-color: ${themes.palette.sidebar.bgMobile};
+    background-color: ${themes.palette.sidebar.bg};
     border-bottom: 1px solid ${themes.palette.general.boxShadows};
     display: flex;
     flex-direction: column;
     height: calc(100vh - 55px);
-    justify-content: center;
+    justify-content: flex-start;
     left: 0;
+    padding-top: 20px;
     position: fixed;
     transform: translateX(-100%);
     transition: all 0.5s ease 0s;
@@ -95,7 +119,13 @@ export const Navigation = styled.section`
 `;
 
 export const Menu = styled.nav`
-  margin-bottom: 40px;
+  ${media.lessThan('medium')`
+    margin-bottom: 25px;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin-bottom: 40px;
+  `}
 `;
 
 export const List = styled.ul``;
@@ -129,10 +159,19 @@ export const LinkMenu = styled(Link)`
 export const Name = styled.h2`
   color: ${themes.palette.sidebar.name};
   font-family: ${themes.fonts.titles};
-  font-size: 38px;
-  line-height: 40px;
-  margin-bottom: 30px;
   text-align: center;
+
+  ${media.lessThan('medium')`
+    font-size: 28px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  `}
+
+  ${media.greaterThan('medium')`
+    font-size: 38px;
+    line-height: 40px;
+    margin-bottom: 30px;
+  `}
 `;
 
 export const ToggleOpenClose = styled.button`
@@ -143,7 +182,9 @@ export const ToggleOpenClose = styled.button`
   ${media.lessThan('medium')`
     border: 0;
     height: 32px;
+    position: relative;
     width: 32px;
+    z-index: 3;
 
     &:not(.active) {
       background: url('/assets/images/icons/menu.svg') no-repeat;

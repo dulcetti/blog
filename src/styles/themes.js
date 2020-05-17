@@ -1,6 +1,7 @@
 const _colors = {
-  blue: '#3C91E6',
+  blue: '#1660AA',
   blueDark: '#003049',
+  blueLight: '#2BA8DF',
   bronze: '#AA735F',
   brownLight: '#F7F6F1',
   brownLightOver: '#eae8db',
@@ -9,7 +10,7 @@ const _colors = {
   grayLight: '#f8f9f9',
   grayMedium: '#bbb',
   green: '#046A2E',
-  metallic: '#028090',
+  greenSea: '#79B791',
   orange: '#F77F00',
   orangeRgb: '230, 146, 74',
   pink: '#852E50',
@@ -31,7 +32,7 @@ export const themes = {
   palette: {
     categories: {
       'Back-End': _colors.xanadu,
-      'CSS': _colors.blueDark,
+      'CSS': _colors.blueLight,
       'DevOps': _colors.green,
       'Eventos': _colors.blue,
       'JavaScript': _colors.yellow,
@@ -39,7 +40,7 @@ export const themes = {
       'Publicações': _colors.pink,
       'Shots': _colors.orange,
       'Tecnologia': _colors.purpleDark,
-      'UX, UI e AI': _colors.metallic,
+      'UX, UI e AI': _colors.greenSea,
       'Webstandards': _colors.red,
     },
     general: {

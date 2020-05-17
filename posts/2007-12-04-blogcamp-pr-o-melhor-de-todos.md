@@ -53,7 +53,7 @@ Bom, lá fomos nós até o Hotel. Pegamos o Ariel e partimos pra algum lugar pra
 
 Logicamente que eu, junto com o Mackeenzy tivemos que zuar umas garotas que estavam no bar. Lindas, pra variar. Lah foi o Mackeenzy com sua cara-de-pau anormal pedir pra tirar foto com a moça. Ela toda sem graça ficou se escondendo. Blá blá.
 
-Depois disso, partimos para um bar chamado Off-Road, onde a galera toda estava lah, no Welcome Blogdrink. Conheci parte da galera, alguns que eu já conhecia do <a href="http://www.brunodulcetti.com/blog/2007/11/19/retrospectiva-blogcamp-mg.html">BlogCamp MG</a> e do <a href="http://www.brunodulcetti.com/blog/2007/11/06/retrospectiva-intercon-2007.html">Intercon 2007</a>. Logicamente umas caras novas que fui conhecendo ao decorrer da madruga.
+Depois disso, partimos para um bar chamado Off-Road, onde a galera toda estava lah, no Welcome Blogdrink. Conheci parte da galera, alguns que eu já conhecia do <a href="/retrospectiva-blogcamp-mg">BlogCamp MG</a> e do <a href="/retrospectiva-intercon-2007">Intercon 2007</a>. Logicamente umas caras novas que fui conhecendo ao decorrer da madruga.
 
 Mas esse dia não foi nada demais. Não falei direito com muita gente, só um foi, olá, etc. Queria ter aproveitado mais, mas só que o Mackeenzy e Ariel estavam mortos e fomos pro hotel bater um ronco.
 

@@ -8,13 +8,20 @@ import Icons from '../icons/index';
 export default function Sidebar({ siteTitle }) {
   const [isOpen, setOpen] = useState(false);
   const location = typeof window !== 'undefined' && window.location.pathname;
-  const { logo } = useStaticQuery(
+  const { logo, avatar } = useStaticQuery(
     graphql`
       query {
         logo: file(relativePath: { eq: "logos/logo.png" }) {
           childImageSharp {
-            fixed(height: 30, width: 95) {
-              ...GatsbyImageSharpFixed
+            fluid(maxHeight: 59, maxWidth: 190) {
+              ...GatsbyImageSharpFluid_tracedSVG
+            }
+          }
+        }
+        avatar: file(relativePath: { eq: "avatar.jpg" }) {
+          childImageSharp {
+            fluid(maxHeight: 401, maxWidth: 401) {
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }
@@ -29,7 +36,7 @@ export default function Sidebar({ siteTitle }) {
   return (
     <S.Sidebar>
       <S.LogoLink to="/">
-        <Img fixed={logo.childImageSharp.fixed} />
+        <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
         ) : (
@@ -39,6 +46,7 @@ export default function Sidebar({ siteTitle }) {
 
       <S.Navigation className={isOpen && 'active'}>
         <S.Menu>
+          <S.Thumb fluid={avatar.childImageSharp.fluid} />
           <S.Name>Bruno Dulcetti</S.Name>
           <S.List>
             <S.Item>

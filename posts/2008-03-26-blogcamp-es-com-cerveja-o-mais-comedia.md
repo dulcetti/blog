@@ -251,12 +251,12 @@ Gostaram do lance do Higuita neh? Sou sinistro pra caramba. Isso porque não fil
 
 ## Final do BlogCamp ES
 
-<img src='http://farm3.static.flickr.com/2018/2355303036_11cabe4ae0.jpg?v=0' alt='Foto quase oficial do BlogCamp ES' />
+<img src='https://farm3.static.flickr.com/2018/2355303036_11cabe4ae0.jpg?v=0' alt='Foto quase oficial do BlogCamp ES' />
 <span>Primeira foto oficial do BlogCamp ES.</span>
 
 Bom, depois do jogo, rolaram alguns bate papos e tudo mais, mas só que poucos blogueiros restavam em comparação ao dia anterior. Com isso, a primeira foto oficial acabou ficando meio incompleta, mas fazer o que, não foram, agora já era ;)
 
-<img src='http://farm3.static.flickr.com/2085/2358177265_06c9b2bb13.jpg?v=0' alt='Foto oficial do BlogCamp ES' />
+<img src='https://farm3.static.flickr.com/2085/2358177265_06c9b2bb13.jpg?v=0' alt='Foto oficial do BlogCamp ES' />
 <span>Agora sim a foto oficial do BlogCamp ES. Mas ainda sim, faltando pessoas.</span>
 
 Aháaaaa... Mas mesmo assim conseguimos reunir mais blogueiros, uns foram aparecendo bem depois do início do evento. Com isso, a segunda foto ficou mais completa, mas ainda faltando vários blogueiros. E logicamente que eu tive que fazer palhaçada e no Ivo.

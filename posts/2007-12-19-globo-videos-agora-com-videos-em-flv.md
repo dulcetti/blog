@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Globo Vídeos agora com Vídeos em FLV'
 ---
 
-E ae pessoal. Depois do lançamento do novo <a href="http://www.brunodulcetti.com/blog/2007/11/13/globo-videos-nos-novos-padroes-globocom.html">Portal de Vídeos da Globo.com</a>, de muitos pedirem, reclamarem, criticarem, agora os <a href="http://video.globo.com">vídeos</a> da <a href="http://www.globo.com">Globo.com</a> estão no formato <a href="http://pt.wikipedia.org/wiki/FLV">FLV</a>. Isso mesmo, podem comemorar, agora os vídeos estão num player em flash, com buffer decente, melhorando bastante o carregamento dos vídeos, que é uma vantagem do flash.
+E ae pessoal. Depois do lançamento do novo <a href="/globo-videos-nos-novos-padroes-globocom">Portal de Vídeos da Globo.com</a>, de muitos pedirem, reclamarem, criticarem, agora os <a href="http://video.globo.com">vídeos</a> da <a href="http://www.globo.com">Globo.com</a> estão no formato <a href="http://pt.wikipedia.org/wiki/FLV">FLV</a>. Isso mesmo, podem comemorar, agora os vídeos estão num player em flash, com buffer decente, melhorando bastante o carregamento dos vídeos, que é uma vantagem do flash.
 
 ## Mas como que era antes Bruno?
 

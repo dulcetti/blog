@@ -232,7 +232,7 @@ Vejamos abaixo:
 }
 ```
 
-Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](http://www.brunodulcetti.com/blog/2006/07/20/atalhos-e-dicas-pro-desenvolvimento.html), não considerando caracteres especiais, desta forma ajuda e muito.
+Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](/atalhos-e-dicas-pro-desenvolvimento), não considerando caracteres especiais, desta forma ajuda e muito.
 
 ### Com espaços somente depois das propriedades no CSS
 
