@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Resposta do Desafio: Como "cropar" uma foto com CSS'
 ---
 
-Como prometido, estou aqui pra postar a "resposta" do "desafio" que <a href="http://www.brunodulcetti.com/blog/2007/06/25/desafio-como-cropar-uma-foto-com-css.html">postei ontem aqui</a> no Blog.
+Como prometido, estou aqui pra postar a "resposta" do "desafio" que <a href="/desafio-como-cropar-uma-foto-com-css">postei ontem aqui</a> no Blog.
 
 Algumas sugestões, soluções, bem próximas da que eu arrumei e achei melhor. Vou tentar explicar detalhadamente porque não utilizei tal solução, porque fiz dessa forma, o que não rola, suporte, etc.
 

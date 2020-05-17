@@ -11,7 +11,7 @@ title: 'TAG: Resoluções para 2007 (ou seria 2000Dul7?)'
 
 Estava eu, passeando pela internet, entrei no [Technorati](http://technorati.com/), tava vendo a posição do meu Blog, etc. Quando de repente vejo um post do [Fábio Seixas](http://blog.fabioseixas.com.br/) me linkando.
 
-Fui ver o que era, cheguei a pensar que fosse sobre o meme [Previsões 2007](http://www.brunodulcetti.com/blog/2006/12/04/previsoes-e-algumas-viagens-para-o-ano-de-2007.html), pois o nome era um pouco parecido e também era um meme.
+Fui ver o que era, cheguei a pensar que fosse sobre o meme [Previsões 2007](/previsoes-e-algumas-viagens-para-o-ano-de-2007), pois o nome era um pouco parecido e também era um meme.
 
 ## Tá bom, Brunão. Não enrola e fala logo...
 

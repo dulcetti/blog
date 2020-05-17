@@ -11,7 +11,7 @@ title: 'Como você escreve seus arquivos CSS? Parte 3'
 
 Falae pessoal. Demorei um bocado para essa terceira parte, que eu acho que é a última, pelos meus cálculos e pelos detalhes e informações sobre os arquivos CSS que crio.
 
-Como vimos nos artigos anteriores, na <a href="http://www.brunodulcetti.com/blog/2007/04/20/como-voce-escreve-seus-arquivos-css.html">Primeira</a> e na <a href="http://www.brunodulcetti.com/blog/2007/04/23/como-voce-escreve-seus-arquivos-css-parte-2.html">Segunda Parte</a>, vimos alguns detalhes sobre os arquivos CSS, que na minha opinião, melhora bastante, otimiza seus CSS's.
+Como vimos nos artigos anteriores, na <a href="/como-voce-escreve-seus-arquivos-css">Primeira</a> e na <a href="/como-voce-escreve-seus-arquivos-css-parte-2">Segunda Parte</a>, vimos alguns detalhes sobre os arquivos CSS, que na minha opinião, melhora bastante, otimiza seus CSS's.
 
 Mostrei vantagens e desvantagens, indentações, múltiplas formas de implementar seus estilos e espero ter ajudado, ou pelo abrir um pouco mais a cabeça da galera, principalmente com quem trabalha com projetos grandes em sua vida profissional.
 

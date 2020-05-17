@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Como você escreve seus arquivos CSS? Parte 2'
 ---
 
-Dando continuidade ao <a href="http://www.brunodulcetti.com/blog/2007/04/20/como-voce-escreve-seus-arquivos-css.html">post anterior</a>, venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
+Dando continuidade ao <a href="/como-voce-escreve-seus-arquivos-css">post anterior</a>, venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
 
 ## Ferramentas compactadoras de CSS's
 

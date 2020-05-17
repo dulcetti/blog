@@ -39,4 +39,4 @@ Alguém postando a solução, igual ou diferente, estarei postando amanhã tamb�
 
 Aquele abraço.
 
-Resposta no link <a href="http://www.brunodulcetti.com/blog/2007/06/26/resposta-do-desafio-como-cropar-uma-foto-com-css.html">http://www.brunodulcetti.com/blog/2007/06/26/resposta-do-desafio-como-cropar-uma-foto-com-css.html</a>
+Resposta no link <a href="/resposta-do-desafio-como-cropar-uma-foto-com-css">/resposta-do-desafio-como-cropar-uma-foto-com-css</a>

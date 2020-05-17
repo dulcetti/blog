@@ -15,7 +15,7 @@ E ae pessoal. Venho aqui para informar que o <a href="http://www.g1.com.br/">nov
 
 ## Implementação e Padrões
 
-Seguindo o novo padrão de layout e arquitetura já informado aqui no meu blog, no <a href="http://www.brunodulcetti.com/blog/2007/08/30/portal-globocom-lanca-sua-nova-home.html">lançamento da nova home da globo.com</a>.
+Seguindo o novo padrão de layout e arquitetura já informado aqui no meu blog, no <a href="/portal-globocom-lanca-sua-nova-home">lançamento da nova home da globo.com</a>.
 
 Não participei diretamente da implementação do G1, este trabalho ficou mais focado no Fabrício e Wagner, camaradas aqui da Globo. Da minha parte foi aproveitado o grid, que será padrão para todos os produtos da globo e elementos globais.
 
