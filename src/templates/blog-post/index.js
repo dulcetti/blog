@@ -1,8 +1,10 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Layout from '../components/layout';
-import Comments from '../components/comments';
-import SEO from '../components/seo';
+import Layout from '../../components/layout';
+import Comments from '../../components/comments';
+import SEO from '../../components/seo';
+
+import * as S from './styles';
 
 export default function BlogPost({ data }) {
   const { frontmatter, html } = data.markdownRemark;
@@ -14,9 +16,14 @@ export default function BlogPost({ data }) {
         description={frontmatter.description}
         image={frontmatter.image}
       />
-      <h1>{frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: html }}></div>
-      <Comments slug={frontmatter.slug} title={frontmatter.title} />
+      <S.PostWrap>
+        <S.PostTitle>{frontmatter.title}</S.PostTitle>
+        {frontmatter.description && (
+          <S.PostDescription>{frontmatter.description}</S.PostDescription>
+        )}
+        <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
+        <Comments slug={frontmatter.slug} title={frontmatter.title} />
+      </S.PostWrap>
     </Layout>
   );
 }
