@@ -13,7 +13,7 @@ export const Sidebar = styled.aside`
     grid-area: sidebar;
     grid-template-rows: 50px auto 15px;
     min-height: 100vh;
-    padding: 20px 0;
+    padding: 30px 0 20px;
     right: 0;
     top: 0;
     width: 250px;
@@ -33,12 +33,19 @@ export const Sidebar = styled.aside`
 export const LogoLink = styled(Link)`
   display: block;
   position: relative;
-  text-align: center;
 
   ${media.lessThan('medium')`
+    box-sizing: content-box;
+    height: 30px;
     padding: 10px 0;
-    position: relative;
+    width: 95px;
     z-index: 2;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin: 0 auto;
+    height: auto;
+    width: 140px;
   `}
 `;
 
