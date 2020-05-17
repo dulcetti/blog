@@ -3,7 +3,6 @@ import media from 'styled-media-query';
 import { themes } from '../../styles/themes';
 
 export const SearchWrapper = styled.section`
-  /* background: #16202c; */
   display: flex;
   flex-direction: column;
   margin: 0 auto;
