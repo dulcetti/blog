@@ -77,8 +77,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   mark {
-    background-color: #ff0;
-    color: #000;
+    background-color: ${themes.palette.posts.blockquoteBg};
+    color: ${themes.palette.general.color};
   }
 
   small {
