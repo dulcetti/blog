@@ -26,11 +26,7 @@ Podemos dizer compactação, otimização, whatever, qualquer coisa, mas é uma 
 Para esta forma:
 
 ```css
-.minha-classe {
-  color: #900;
-  font-style: bold;
-  display: block;
-}
+.minha-classe {color:#900;font-style:bold;display:block;}
 ```
 
 ### Feio isso hein
