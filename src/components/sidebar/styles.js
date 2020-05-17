@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
+import Img from 'gatsby-image';
 import { Link } from 'gatsby';
 import { themes } from '../../styles/themes';
 
@@ -24,6 +25,7 @@ export const Sidebar = styled.aside`
     bottom: 0;
     box-shadow: 0px 3px 6px 2px ${themes.palette.general.boxShadows};
     display: flex;
+    height: 55px;
     justify-content: space-between;
     padding: 0 15px;
     width: 100%;
@@ -46,6 +48,19 @@ export const LogoLink = styled(Link)`
     margin: 0 auto;
     height: auto;
     width: 140px;
+  `}
+`;
+
+export const Thumb = styled(Img)`
+  border-radius: 50%;
+  margin: 0 auto 20px;
+
+  ${media.lessThan('medium')`
+    width: 50%;
+  `}
+
+  ${media.greaterThan('medium')`
+    width: 75%;
   `}
 `;
 
@@ -102,7 +117,13 @@ export const Navigation = styled.section`
 `;
 
 export const Menu = styled.nav`
-  margin-bottom: 40px;
+  ${media.lessThan('medium')`
+    margin-bottom: 25px;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin-bottom: 40px;
+  `}
 `;
 
 export const List = styled.ul``;
