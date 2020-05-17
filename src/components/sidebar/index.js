@@ -13,8 +13,8 @@ export default function Sidebar({ siteTitle }) {
       query {
         logo: file(relativePath: { eq: "logos/logo.png" }) {
           childImageSharp {
-            fixed(height: 30, width: 95) {
-              ...GatsbyImageSharpFixed
+            fluid(maxHeight: 59, maxWidth: 190) {
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }
@@ -29,7 +29,7 @@ export default function Sidebar({ siteTitle }) {
   return (
     <S.Sidebar>
       <S.LogoLink to="/">
-        <Img fixed={logo.childImageSharp.fixed} />
+        <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
         ) : (
