@@ -19,9 +19,8 @@ export const PostHeader = styled.header`
 `;
 
 export const PostTitle = styled.h1`
-  font-size: 4rem;
-  font-weight: 700;
-  line-height: 4.5rem;
+  font-size: min(60px, 10vw);
+  line-height: min(66px, 13vw);
   margin-bottom: 1rem;
 `;
 
@@ -87,46 +86,43 @@ export const PostContent = styled.section`
     background-color: ${themes.palette.posts.blockquoteBg};
     border-left: 0.3rem solid ${themes.palette.posts.blockquoteBorder};
     color: ${themes.palette.general.color};
+    display: block;
     font-family: ${themes.fonts.others};
-    font-size: 1.75rem;
+    font-size: min(30px, 7vw);
     font-style: italic;
+    line-height: min(36px, 8vw);
     margin-bottom: 1.5rem;
     padding: 20px;
     position: relative;
 
-    &::before {
-      color: ${themes.palette.posts.blockquoteBorder};
-      content: '\201C';
-      font-family: ${themes.fonts.titles};
-      font-size: 4em;
-      left: 10px;
-      opacity: 0.5;
-      position: absolute;
-      top: -10px;
+    > p {
+      margin-bottom: 0;
     }
   }
 
-  h2,
-  h3,
-  h4,
-  h5 {
-    font-weight: 800;
+  h2 {
+    font-size: min(50px, 9vw);
+    line-height: min(56px, 10vw);
   }
 
-  h1 {
-    font-size: 2.8rem;
-  }
-  h2 {
-    font-size: 2.1rem;
-  }
   h3 {
-    font-size: 1.6rem;
+    font-size: min(40px, 8vw);
+    line-height: min(46px, 13vw);
   }
+
   h4 {
-    font-size: 1.4rem;
+    font-size: min(30px, 7vw);
+    line-height: min(36px, 13vw);
   }
+
   h5 {
-    font-size: 1.2rem;
+    font-size: min(20px, 6vw);
+    line-height: min(26px, 13vw);
+  }
+
+  h6 {
+    font-size: min(20px, 5vw);
+    line-height: min(66px, 13vw);
   }
 
   .gatsby-resp-image-background-image {
