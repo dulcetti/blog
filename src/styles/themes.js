@@ -44,11 +44,15 @@ export const themes = {
       'Webstandards': _colors.red,
     },
     general: {
-      bg: _colors.white,
+      bg: _colors.grayLight,
       borders: _colors.grayMedium,
       boxShadows: _colors.grayMedium,
       links: _colors.orange,
       textShadows: _colors.grayDark,
+    },
+    posts: {
+      links: _colors.orange,
+      linksBorder: _colors.green,
     },
     sidebar: {
       bg: _colors.brownLight,
