@@ -63,7 +63,7 @@ Você estando antes da palavra "Bruno" e apertando o atalho mais a seta pra dire
 
 ### Ctrl+Del
 
-Essa foi a última desse sequência que descobri. Achei excelente a utilização deste atalho. Com ele, ao invés de vc ter que ficar pressionando a tecla "Delete" até sua palavra apagar toda ou sua frase toda, com esse atalho, ele vai deletando de palavra em palavra. Uma economia de tempo, q apesar de pouco, em um projeto longo, pode resultar numa economia de tempo razoável.
+Essa foi a última desse sequência que descobri. Achei excelente a utilização deste atalho. Com ele, ao invés de vc ter que ficar pressionando a tecla "Delete" até sua palavra apagar toda ou sua frase toda, com esse atalho, ele vai deletando de palavra em palavra. Uma economia de tempo, que apesar de pouco, em um projeto longo, pode resultar numa economia de tempo razoável.
 
 ### UPDATE
 

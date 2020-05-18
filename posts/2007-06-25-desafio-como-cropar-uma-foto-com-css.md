@@ -26,7 +26,7 @@ A largura é de 186px e continua com 186px com o hover do mouse, mas com uma bor
 Colocando somente a borda, a largura ficaria 192px, o que faria quebrar o grid, portanto, não adianta usar somente a borda.
 
 **[UPDATE]**
-O juliano postou uma forma de fazer, mas como background. Esse update é só pra realçar que tem q ser por imagem, pois o conteúdo é dinâmico e a imagem faz parte do conteúdo ;)
+O juliano postou uma forma de fazer, mas como background. Esse update é só pra realçar que tem que ser por imagem, pois o conteúdo é dinâmico e a imagem faz parte do conteúdo ;)
 
 Valew ae juliano.
 **[/UPDATE]**

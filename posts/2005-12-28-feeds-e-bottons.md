@@ -11,7 +11,7 @@ title: 'Feeds e Bottons'
 
 Provavelmente alguns de vocês jah devem ter visto por ae que o i.e. utilizará o ícone de Feeds do Firefox. Percebi que algumas pessoas não aprovaram a atitude, achando que eles estariam se rendendo ao FF, reconhecendo a superioridade do rival, entre outras coisas. Bom, em partes poderia ser algo em torno disso. Realmente eles estão vendo que são inferiores, não é à toa que no blog deles, eles pediram que os hacks para o i.e. fossem banidos por causa da nova versão do browser. Mas não creio que seja algo errado fazer isso e digo porque:
 
-- Vamos dizer que 80% dos internautas utilizem o i.e., e acho NO MÍNIMO, esse número. Dos outros 20%, acho q no mínimo 95% são desenvolvedores web, profissionais de internet, utilizadores de linux, essas coisas.
+- Vamos dizer que 80% dos internautas utilizem o i.e., e acho NO MÍNIMO, esse número. Dos outros 20%, acho que no mínimo 95% são desenvolvedores web, profissionais de internet, utilizadores de linux, essas coisas.
 - E a MS colocando o mesmo ícone, estará fazendo a junção de todos os usuários e se caso muitos usuários domésticos venham a utilizar o FF, que num futuro próximo pode vir a acontecer, eles já saberão para que serve aquilo.
 
 Gostei muito da idéia e eu já implementei no meu bottom de feeds aqui na esquerda. Criei com o nome de [feedburner](http://www.feedburner.com 'Visitar o site do FeedBurner'), porque o utilizo para assinatura de feeds, essas coisas. Quem quiser utilizar este bottom, fique a vontade para utilizar. E se por acaso alguem quiser fazer de outra cor, com outro nome, me falae que posso modificar e envio ;)

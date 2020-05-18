@@ -73,9 +73,9 @@ Postarei também novidades que rolarem dentro do Portal. ;)
 
 ## Agradecimentos
 
-Queria agradecer a galera q deu apoio na criação dessa nova versão do Blog/Portfólio. Ao <a href="http://www.bitfrito.com.br">Gio</a> a quem eu mostrei o layout e código antes de estar pronto (eu acho que foi né :D), ao <a href="http://elmicox.blogspot.com/">Micox</a> q chegou a dar uma olhada também e vem aturando um pouco umas dúvidas minhas :D, ao <a href="http://cirofeitosa.com.br/">Feitosa</a> que me ajudou em algumas coisas em PHP, tanto para trabalhos qnt aki no Blog (nem ele sabia disso... uahuauhaua), temos também o <a href="http://www.zigzgiza.com.br">Pedro Taranto</a> que me aturou nas dúvidas em Flash pro <a href="http://www.videolog.tv">Videolog.tv</a>, o **Bruno Ribeiro** que assim como o Taranto, me ajudou no Videolog, tem o <a href="http://blog.lucasferreira.com/">Lucas Ferreira</a> que me deu uma ajuda no <a href="http://www.videolog.tv">Videolog.tv</a> também e pra completar a galera do <a href="http://www.mmug-rj.com.br">MMUG-RJ</a> tem o Wallace Rettich que deu alguns toques pro Blog também.
+Queria agradecer a galera que deu apoio na criação dessa nova versão do Blog/Portfólio. Ao <a href="http://www.bitfrito.com.br">Gio</a> a quem eu mostrei o layout e código antes de estar pronto (eu acho que foi né :D), ao <a href="http://elmicox.blogspot.com/">Micox</a> que chegou a dar uma olhada também e vem aturando um pouco umas dúvidas minhas :D, ao <a href="http://cirofeitosa.com.br/">Feitosa</a> que me ajudou em algumas coisas em PHP, tanto para trabalhos qnt aki no Blog (nem ele sabia disso... uahuauhaua), temos também o <a href="http://www.zigzgiza.com.br">Pedro Taranto</a> que me aturou nas dúvidas em Flash pro <a href="http://www.videolog.tv">Videolog.tv</a>, o **Bruno Ribeiro** que assim como o Taranto, me ajudou no Videolog, tem o <a href="http://blog.lucasferreira.com/">Lucas Ferreira</a> que me deu uma ajuda no <a href="http://www.videolog.tv">Videolog.tv</a> também e pra completar a galera do <a href="http://www.mmug-rj.com.br">MMUG-RJ</a> tem o Wallace Rettich que deu alguns toques pro Blog também.
 
-Tem mto mais gente pra agradecer ae, mas tenho q terminar logo isso e colocar a nova versão no ar... :D
+Tem mto mais gente pra agradecer ae, mas tenho que terminar logo isso e colocar a nova versão no ar... :D
 
 ## Finalizando...
 

@@ -26,7 +26,7 @@ Segue a lista de links:
 - <a href="http://flumpcakes.co.uk/css/optimiser/">Online CSS Optimiser/Optimizer : flumpCakes</a>
 - <a href="http://www.lotterypost.com/css-compress.asp">Lottery Post: CSS Compressor</a>
 
-Dei uma olhada muito rápida nos links e o q mais me agradou foi o Clean CSS, pelas opções, variações de compactação, etc. Mas não cheguei a testar nenhum. Mais pra frente, de repente :P, eu testo :D.
+Dei uma olhada muito rápida nos links e o que mais me agradou foi o Clean CSS, pelas opções, variações de compactação, etc. Mas não cheguei a testar nenhum. Mais pra frente, de repente :P, eu testo :D.
 
 ## Retornando a escrita CSS... :D
 

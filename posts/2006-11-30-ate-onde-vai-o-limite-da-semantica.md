@@ -63,7 +63,7 @@ Aqui vem o <a href="#">meu link com <em>Itálico</em></a>
 
 Como no meu css está configurado para os links ficarem em negrito, acabou ficando tudo em negrito onde tem o link ok?
 
-Neste exemplo podemos ver que temos o parágrafo, que é block, e dentro dele temos um link, que é inline, que dentro dele temos um em q dá ênfase ao termo entre esta tag.
+Neste exemplo podemos ver que temos o parágrafo, que é block, e dentro dele temos um link, que é inline, que dentro dele temos um em que dá ênfase ao termo entre esta tag.
 
 Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo certinho.
 

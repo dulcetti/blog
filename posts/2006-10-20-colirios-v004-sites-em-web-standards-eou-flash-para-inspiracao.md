@@ -49,7 +49,7 @@ Muito interessante a folha de caderno à direita com uma listagem. Background in
 
 ### Tipo: Webstandards
 
-Site muito interessante e com idéias muito bem boladas. A parte do topo, deito meio q numa revista ficou sagás, principalmente com aquela gostosa :D. Alguns erros na semântica, mas tudo bem, estou falando da parte visual mesmo.
+Site muito interessante e com idéias muito bem boladas. A parte do topo, deito meio que numa revista ficou sagás, principalmente com aquela gostosa :D. Alguns erros na semântica, mas tudo bem, estou falando da parte visual mesmo.
 
 Uso visual como folha de caderno, com umas etiquetas na lateral, o rodapé bem bolado e bonito. Soh senti falta de uma mudança nos links, nos hovers dos mesmos, mas de resto, muito bom.
 

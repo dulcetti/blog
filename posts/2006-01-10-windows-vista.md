@@ -11,7 +11,7 @@ title: 'Windows Vista'
 
 <a href="http://www.microsoft.com/windowsvista/">Site Windows Vista</a>
 
-Tenho que admitir, tá bonito, eles estão aprendendo direitinho... hehehehehe... só não gostei mto da semântica do código... principalmente no menu... mas fazer o q né... :D
+Tenho que admitir, tá bonito, eles estão aprendendo direitinho... hehehehehe... só não gostei mto da semântica do código... principalmente no menu... mas fazer o que né... :D
 
 Falta saber agora como virá esse windows e o i.e. 7
 

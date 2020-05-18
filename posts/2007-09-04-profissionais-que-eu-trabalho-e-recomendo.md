@@ -88,7 +88,7 @@ Essa figuraça diz que é fã do meu blog, de como eu falo nele, que eu zou gera
 
 Bom, que eu me lembre, não participei de nenhum projeto junto com ele. E o pior de tudo é que nem ele lembra também. Já vi que não deve fazer nada no trabalho mesmo... Vida boa, queria uma vida dessa também :D
 
-Assim como eu, é carioca e <a href="http://globoesporte.globo.com/ESP/Home/0,,4282,00.html">flamenguista</a> (alguma coisa de bom ele tinha q ter né :D )
+Assim como eu, é carioca e <a href="http://globoesporte.globo.com/ESP/Home/0,,4282,00.html">flamenguista</a> (alguma coisa de bom ele tinha que ter né :D )
 
 ## Outras figuras
 

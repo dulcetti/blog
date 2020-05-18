@@ -25,7 +25,7 @@ O Professor será o Ricardo Piologo, que é o autor do livro "Flash Animado", qu
 
 Uma mudança, que na minha opinião não achei tão legal, foi que agora você fechar a participação em somente um auditório. Você não pode assistir uma palestra em um dos auditórios e sair para ver outra no outro. Preferia como ano passado, que poderia ter esse revezamento.
 
-Um outro diferencial,éq agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como não conheço São Paulo, fica meio difícil :D.
+Um outro diferencial, é que agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como não conheço São Paulo, fica meio difícil :D.
 
 ## Local
 

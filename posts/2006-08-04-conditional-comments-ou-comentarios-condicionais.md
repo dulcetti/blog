@@ -116,7 +116,7 @@ Relaxa, vamos ver agora isso no HTML para que você entenda melhor a utilizaçã
 
 Não utilizei muitas propriedades no CSS porque estou com preguiça de ficar explicando cada linha ok? :D
 
-Vou comentar cada parte q utilizei, que convenhamos, não tem nada de complicado ;). A única coisa diferente é o comentários condicional mesmo.
+Vou comentar cada parte que utilizei, que convenhamos, não tem nada de complicado ;). A única coisa diferente é o comentários condicional mesmo.
 
 Vocês podem perceber que no Internet Explorer 6 ou anterior, o fundo ficou preto e a fonte branca e nos restantes dos browsers o fundo ficou branco e a fonte cinza.
 
@@ -163,7 +163,7 @@ Tenha cuidado na sequência que você coloca os comentários condicionais. Eles 
 
 ## E finalizando...
 
-Pra finalizar, queria dizer q os exemplos mostrados aqui são só de exemplo. Naum creio que vocês irão utilizar um site com fundo diferente para internet explorer, etc.
+Pra finalizar, queria dizer que os exemplos mostrados aqui são só de exemplo. Naum creio que vocês irão utilizar um site com fundo diferente para internet explorer, etc.
 
 Também não pensem que vocês só podem mudar cores, bordas, etc... Podem mudar o que quiser dentro do CSS, fica por conta de vocês.
 

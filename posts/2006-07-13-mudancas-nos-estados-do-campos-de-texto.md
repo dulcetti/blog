@@ -233,6 +233,6 @@ Sim está. <a href="/input/inputs.html">Veja como ficou</a>.
 
 Legal né? Com isso, vc pode fazer outras várias coisas. É só explorar, estudar e meter a cara... ;)
 
-Bom, espero que tenham gostado. Foi um efeito bem simples, mas q pode ser útil para alguns. Qualquer dúvida, sugestão, crítica, é só comentar...
+Bom, espero que tenham gostado. Foi um efeito bem simples, mas que pode ser útil para alguns. Qualquer dúvida, sugestão, crítica, é só comentar...
 
 Aquele abraço.

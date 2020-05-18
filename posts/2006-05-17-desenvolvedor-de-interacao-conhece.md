@@ -45,7 +45,7 @@ Isso, logicamente, funciona bem com uma empresa que tem tudo divido, muitas empr
 
 Seria praticamente a mesma coisa, mas com tecnologias diferentes. Você pega o layout feito no Photoshop (ou Fireworks ou qualquer programa) e fatie-o. Eu odeio as ferramentas de slice desses programas, não exporto como html, pois os deixa muito sujo, eu prefiro criá-los na mão mesmo, porque tenho mais controle de tudo.
 
-Monto o html com o doctype q for necessário, o que eu quiser, depois vou estruturando o código juntamente ao css, sempre testando no máximo de browser que eu puder. Vou colocando os links corretos para cada item que possuir um link, colocar imagem onde tem q ser colocado e tudo aquilo que nós, desenvolvedores webstandards, conhecemos.
+Monto o html com o doctype que for necessário, o que eu quiser, depois vou estruturando o código juntamente ao css, sempre testando no máximo de browser que eu puder. Vou colocando os links corretos para cada item que possuir um link, colocar imagem onde tem que ser colocado e tudo aquilo que nós, desenvolvedores webstandards, conhecemos.
 
 ### E se eu tiver no site uma linguagem dinâmica?
 

@@ -27,7 +27,7 @@ Agradecimento ao <a href="http://blog.eucrio.com/">Helder Santana</a> que me pas
 
 ## Novidades
 
-Uma novidade e curiosidade foram colocarem Internet wi-fi no evento. Até aí tudo bem, Internet de graça nunca faz mal a ninguém neh? :D
+Uma novidade e curiosidade foram colocarem Internet wi-fi no evento. Até aí tudo bem, Internet de graça nunca faz mal a ninguém , né? :D
 
 O engraçado foi a febre da â€œtwittagemâ€. Durante todo o evento, várias pessoas do público ficavam postando no seu twitter sobre o evento. Uma febre bizarra. Eu ainda continuo achando meio inútil essa paradinha, mas <a href="http://twitter.com/dulcetti">tive que criar o meu né</a>, para experimentar e ver como isso funciona, se é legal mesmo. Mas isso eu deixo para um outro post :D
 
