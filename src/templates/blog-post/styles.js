@@ -26,15 +26,19 @@ export const PostTitle = styled.h1`
 
 export const PostDescription = styled.h2`
   font-size: 2rem;
-  font-weight: 200;
-  padding: 0 1.4rem;
 `;
 
-export const PostDate = styled.p`
-  font-size: 1.1rem;
-  font-weight: 100;
-  padding: 0 1.4rem;
+export const PostInfos = styled.p`
+  font-family: ${themes.fonts.others};
+  font-size: 1.25rem;
+  margin-bottom: 20px;
 `;
+
+export const CategoryPost = styled.span`
+  color: ${(prop) => `${themes.palette.categories[prop.color]}`};
+  font-weight: bold;
+`;
+export const DatePost = styled.span``;
 
 export const PostContent = styled.section`
   color: ${themes.palette.general.color};
