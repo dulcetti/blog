@@ -7,7 +7,7 @@ export const PostWrap = styled.main`
   max-width: 70rem;
 
   ${media.lessThan('medium')`
-    padding: 20px;
+    padding: 5px 20px;
   `}
 `;
 
@@ -26,15 +26,19 @@ export const PostTitle = styled.h1`
 
 export const PostDescription = styled.h2`
   font-size: 2rem;
-  font-weight: 200;
-  padding: 0 1.4rem;
 `;
 
-export const PostDate = styled.p`
-  font-size: 1.1rem;
-  font-weight: 100;
-  padding: 0 1.4rem;
+export const PostInfos = styled.p`
+  font-family: ${themes.fonts.others};
+  font-size: 1.25rem;
+  margin-bottom: 20px;
 `;
+
+export const CategoryPost = styled.span`
+  color: ${(prop) => `${themes.palette.categories[prop.color]}`};
+  font-weight: bold;
+`;
+export const DatePost = styled.span``;
 
 export const PostContent = styled.section`
   color: ${themes.palette.general.color};
@@ -106,12 +110,12 @@ export const PostContent = styled.section`
   }
 
   h3 {
-    font-size: min(40px, 8vw);
-    line-height: min(46px, 13vw);
+    font-size: min(40px, 7vw);
+    line-height: min(40px, 8vw);
   }
 
   h4 {
-    font-size: min(30px, 7vw);
+    font-size: min(30px, 6vw);
     line-height: min(36px, 13vw);
   }
 

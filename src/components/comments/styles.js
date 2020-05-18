@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { themes } from '../../styles/themes';
 
 export const Wrapper = styled.section`
   iframe[src*='ads-iframe'] {
@@ -7,8 +8,7 @@ export const Wrapper = styled.section`
 `;
 
 export const TitleComments = styled.h2`
-  color: #666;
-  font-size: 2.1rem;
+  color: ${themes.palette.general.color};
+  font-size: 2rem;
   font-weight: 700;
-  padding-bottom: 2rem;
 `;
