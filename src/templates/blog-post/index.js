@@ -18,6 +18,10 @@ export default function BlogPost({ data }) {
       />
       <S.PostWrap>
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
+        <S.PostInfos>
+          <S.CategoryPost color={frontmatter.category}>{frontmatter.category}</S.CategoryPost> |{' '}
+          <S.DatePost>{frontmatter.date}</S.DatePost>
+        </S.PostInfos>
         {frontmatter.description && (
           <S.PostDescription>{frontmatter.description}</S.PostDescription>
         )}
@@ -32,6 +36,7 @@ export const postQuery = graphql`
   query Post($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       frontmatter {
+        category
         date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
         description
         image
