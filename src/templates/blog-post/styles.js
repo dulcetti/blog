@@ -7,7 +7,7 @@ export const PostWrap = styled.main`
   max-width: 70rem;
 
   ${media.lessThan('medium')`
-    padding: 20px;
+    padding: 5px 20px;
   `}
 `;
 
@@ -106,12 +106,12 @@ export const PostContent = styled.section`
   }
 
   h3 {
-    font-size: min(40px, 8vw);
-    line-height: min(46px, 13vw);
+    font-size: min(40px, 7vw);
+    line-height: min(40px, 8vw);
   }
 
   h4 {
-    font-size: min(30px, 7vw);
+    font-size: min(30px, 6vw);
     line-height: min(36px, 13vw);
   }
 
