@@ -207,7 +207,7 @@ Vamos pegar o primeiro caso, o "nome". Irei mostrar abaixo o código javascript 
 
 ##### Normal
 
-```js
+```javascript
 function textOn(**txt**) {
   document.getElementById(txt).className='textboxOn';
 }
@@ -215,7 +215,7 @@ function textOn(**txt**) {
 
 ##### "Tradução"
 
-```js
+```javascript
 function textOn(nome) {
   document.getElementById(nome).className = 'textboxOn';
 }
