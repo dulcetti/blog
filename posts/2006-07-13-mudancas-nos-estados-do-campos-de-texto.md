@@ -31,9 +31,9 @@ Explicarei em três partes: <abbr title="HyperText Markup Language">HTML</abbr>,
 <fieldset>
 <legend>Teste</legend>
 <label for="nome">Nome:</label>
-<input type="text" name="nome" id="nome" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)" />
+<input type="text" name="nome" id="nome" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
 <label for="email">Email:</label>
-<input type="text" name="email" id="email" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)" />
+<input type="text" name="email" id="email" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
 </fieldset>
 </form>
 </body>

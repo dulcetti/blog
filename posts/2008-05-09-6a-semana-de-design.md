@@ -11,13 +11,13 @@ category: Shots
 
 E ae cambada. Tranquilidade pura? Tudo na normalidade? Estão felizes? Querem um abraço?
 
-<img src="/assets/images/posts/semana-design.jpg" alt="6 semana de design" />
+![6 semana de design](/assets/images/posts/semana-design.jpg)
 
 Seguinte, venho para informa-los, fãs do Dulcetti, admiradores, odiadores, mulheres afim de mim, entre outras modalidades, que eu estarei na 6ª Semana de Design na Univercidade.
 
 ## E o que seria essa semana de Design Dulça?
 
-<img src="/assets/images/posts/case.gif" alt="Cases da 6 semana de design" />
+![Cases da 6 semana de design](/assets/images/posts/case.gif)
 
 Um evento modafoca ae, que falará sobre Design (óbvio) de todos os tipos: Moda, Branding, Automóveis, Prototipagem, Ilustração e outros mais.
 
@@ -31,7 +31,7 @@ Cada um mostrará um case de sua empresa e discutir com os ouvintes, falar sobre
 
 ### E onde você entra?
 
-Adivinha? Exatamente, Globo.com. Falarei sobre um case que causou muita discussão: o <a href="/portal-globocom-lanca-sua-nova-home.html">lançamento do novo layout da Globo.com</a>. E comigo estará o designer responsável pela nova cara do portal, Lucas Hirata. Junto com ele participou a Isabela Rodrigues, mas somente o Hirata participará, pois a Isabela não trabalha mais conosco.
+Adivinha? Exatamente, Globo.com. Falarei sobre um case que causou muita discussão: o <a href="/portal-globocom-lanca-sua-nova-home">lançamento do novo layout da Globo.com</a>. E comigo estará o designer responsável pela nova cara do portal, Lucas Hirata. Junto com ele participou a Isabela Rodrigues, mas somente o Hirata participará, pois a Isabela não trabalha mais conosco.
 
 Farei um paralelo junto com o Hirata, onde ele falará sobre a parte de layout, enquanto eu falarei da implementação. Comentarei bugs, problemas, variações, metodologia, regras, entre outras coisas.
 

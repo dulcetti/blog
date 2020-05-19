@@ -11,7 +11,7 @@ title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 
 E ae cambada. Um post bem rápido, só pra descontrair mesmo.
 
-<img src="/assets/images/posts/dul7_simpsons_melhor.jpg" alt="Dul7 Simpsonizado" width="216" height="562" />
+![Dul7 Simpsonizado](/assets/images/posts/dul7_simpsons_melhor.jpg)
 
 O Carlos Carvalho do <a href="http://www.iftk.com.br/wordpress" title="Visitar o Blog do Carlos Carvalho">IFTK</a> teve uma idéia de postar uma lista com fotos dos blogueiros da Blogosfera simpsonizados. A idéia, na verdade, foi do Melo do blog <a href="http://verdadeabsoluta.net/">Verdade Absoluta</a>, mas não postou no blog dele pois disse que é preguiçoso pacas (não és o único meu nobre :D ).
 

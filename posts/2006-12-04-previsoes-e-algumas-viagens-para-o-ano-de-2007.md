@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Previsões (e algumas viagens?) para o ano de 2007'
 ---
 
-<img src="/assets/images/posts/maedinah.jpg" alt="Mãe Dinah" />
+![Mãe Dinah](/assets/images/posts/maedinah.jpg)
 
 Meu camarada <a href="http://blog.fabioseixas.com.br/">Fábio Seixas</a> deu início a uma <a href="http://blog.fabioseixas.com.br/archives/2006/12/2007.html">saga de previsões, sugestões, seja lá o que for para o ano de 2007</a>. Alguns outros blogueiros fizeram o mesmo e está na minha vez de fazer isso também. No final do post eu faço um trackback para todos e espero que eles e todos que postem sobre façam o mesmo :D
 

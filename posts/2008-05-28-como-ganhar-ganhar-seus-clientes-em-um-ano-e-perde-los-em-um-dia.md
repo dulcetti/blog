@@ -23,7 +23,7 @@ Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
 
 ## Que que houve com o Twitter? Morreu?
 
-<img src="/assets/images/posts/twitter-morto.gif" alt="Twitter Morto?" />
+![Twitter Morto?](/assets/images/posts/twitter-morto.gif)
 
 Nem tanto, mas está bem ferido, não diria em coma, mas em estado de emergência. Blá, blá e blá. Nada disso!
 
@@ -41,7 +41,7 @@ O <a href="http://jaiku.com/">Jaiku</a> (sim, esse nome mesmo) foi um deles. Ach
 
 ### Ponche. Ou seria Pounce?
 
-<img src="https://pownce.com/img/logo.gif" alt="Marca do Pownce" style="background-color:#433c2a;padding:10px 20px;" />
+<img src="https://pownce.com/img/logo.gif" alt="Marca do Pownce" />
 
 Outro que já existia e é até bonitinho é o <a href="http://pownce.com/">Pownce</a>, mas ainda não caiu na graça dos twitteiros.
 

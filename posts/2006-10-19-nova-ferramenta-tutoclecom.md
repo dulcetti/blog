@@ -41,7 +41,10 @@ Você pode ou baixar para o seu servidor ou então (o mais recomendado), pegar o
 
 Segue abaixo os modelos dos botões:
 
--<img src="https://tutocle.com/tools/btnToBlogs.gif" width="80" height="15" alt="Post to TutoCle.com" /> -<img src="https://tutocle.com/tools/btnToBlogs2.gif" width="80" height="15" alt="Post to TutoCle.com" /> -<img src="https://tutocle.com/tools/btnToBlogs3.gif" width="80" height="15" alt="Post to TutoCle.com" /> -<img src="https://tutocle.com/tools/btnToBlogs4.gif" width="80" height="15" alt="Post to TutoCle.com" />
+- <img src="https://tutocle.com/tools/btnToBlogs.gif" width="80" height="15" alt="Post to TutoCle.com" />
+- <img src="https://tutocle.com/tools/btnToBlogs2.gif" width="80" height="15" alt="Post to TutoCle.com" />
+- <img src="https://tutocle.com/tools/btnToBlogs3.gif" width="80" height="15" alt="Post to TutoCle.com" />
+- <img src="https://tutocle.com/tools/btnToBlogs4.gif" width="80" height="15" alt="Post to TutoCle.com" />
 
 Com o código que o site disponibiliza, você posta no seu Blog, que você ou seus usuários podem postar no TutoCle durante a leitura, o que trará mais tráfego para o seu site/blog. E o melhor, tudo gratuitamente.
 

@@ -9,9 +9,9 @@ slug: blogcamp-rj-onde-ficar
 templateKey: blog-post
 ---
 
-Seguindo a <a href="/blogcamp-rj-oficinas-e-novidades.html">sequência de posts</a> para ajudar os modafocas que não sabem nada do Rio de Janeiro, Tijuca, venho aqui dar algumas dicas de hospedagem na cidade maravilhosa.
+Seguindo a <a href="/blogcamp-rj-oficinas-e-novidades">sequência de posts</a> para ajudar os modafocas que não sabem nada do Rio de Janeiro, Tijuca, venho aqui dar algumas dicas de hospedagem na cidade maravilhosa.
 
-<img src="/assets/images/posts/marca-blogcamp-rj.jpg" alt="Marca do BlogCamp RJ" />
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Ok, ok. está um pouco tarde para eu estar mostrando isso, mas eu sou um ser humano, (pode até não parecer, mas eu sou sim, eu juro), não consegui manter muito uma ordem e cronograma em cima do evento. Fazer o que, acontece pow.
 
@@ -90,7 +90,7 @@ Depois de pegar, você tem que descer na estação Saens Pena, que fica na linha
 
 Depois, saia da estação, você está na Praça Saens Pena, dê um berro de felicidade, pois está perto do evento.
 
-<img src="/assets/images/posts/nave-fachada.jpg" alt="Fachada do prédio do NAVE" />
+![Fachada do prédio do NAVE](/assets/images/posts/nave-fachada.jpg)
 
 Ok, ignore essa minha idéia e pegue o ônibus expresso de número 413, que te deixará em frente a NAVE. É só pedir pra descer no primeiro ponto da Uruguai. Não tem erro e mesmo assim, se você não ver o prédio da NAVE, você precisa de óculos.
 

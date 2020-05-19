@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'Intercon 2008, Eu to indo'
 ---
 
-<a href="http://imasters.uol.com.br/intercon/2008/"><img src="/assets/images/posts/marca-intercon.png" alt="Marca do Intercon 2008" /></a>
+<a href="http://imasters.uol.com.br/intercon/2008/">![Marca do Intercon 2008](/assets/images/posts/marca-intercon.png)</a>
 
 Estou indo para o meu quarto <a href="http://imasters.uol.com.br/intercon/2008/">Intercon</a> seguido e com o quarto penteado diferente. Ok que foda-se o penteado, mas pelo menos é o quarto evento seguido e espero que siga a qualidade do evento do ano passado, onde conheci pessoas fantásticas, entre profissionais da minha área, blogueiros, entre outros modafocas.
 

@@ -9,9 +9,7 @@ templateKey: blog-post
 title: 'Desafio: Como "cropar" uma foto com CSS'
 ---
 
-E ae pessoal.
-
-Hoje estou aqui com algo diferente. Estava semana passada aqui na <a href="http://www.globo.com">Globo.com</a>, implementando um novo projeto, o qual falarei em breve para vocês, quando acabei parando em um probleminha chato.
+E ae pessoal. Hoje estou aqui com algo diferente. Estava semana passada aqui na <a href="http://www.globo.com">Globo.com</a>, implementando um novo projeto, o qual falarei em breve para vocês, quando acabei parando em um probleminha chato.
 
 Um novo efeito de over nos links que o pessoal de design fez no layout. É interessante, gostei, mas fiquei pensando um tempinho em como implementá-lo.
 
@@ -19,7 +17,7 @@ Um novo efeito de over nos links que o pessoal de design fez no layout. É inter
 
 Então. Vou apresentar o efeito. É como se fosse uma borda de 3px em volta de uma foto, mas só que interna, como se "cropasse" a foto. Veja abaixo:
 
-<img src="/assets/images/posts/efeito.jpg" alt="Exemplo do Efeito" />
+![Exemplo do Efeito](/assets/images/posts/efeito.jpg)
 
 A largura é de 186px e continua com 186px com o hover do mouse, mas com uma borda de 3px. Se fosse só colocar a borda, seria fácil, porque era só diminuir o tamanho da foto no hover, mas como isso não poderia acontecer, tive que pensar em outra solução.
 

@@ -9,7 +9,7 @@ templateKey: blog-post
 title: 'BlogCamp RJ - Oficinas e novidades'
 ---
 
-<img src="/assets/images/posts/marca-blogcamp-rj.jpg" alt="Marca do BlogCamp RJ" />
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Bom, seguindo o <a href="/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber.html">post sobre o BlogCamp RJ</a>, venho aqui avisar que estarei publicando durante a semana, uma série de posts sobre o que rolará no evento e dicas de onde se hospedar, se alimentar, entre outras informações.
 

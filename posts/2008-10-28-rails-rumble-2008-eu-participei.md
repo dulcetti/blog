@@ -9,9 +9,9 @@ templateKey: blog-post
 title: 'Rails Rumble 2008 - Eu participei'
 ---
 
-<img src="/assets/images/posts/thumb-rumble.jpg" alt="Thumb da marca do Rails Rumble" />
-
 No final de semana retrasado eu tive a grande oportunidade de participar do <a href="http://www.railsrumble.com/">Rails Rumble</a>, que é um concurso mundial, onde os caboclos que se inscrevem tem que entregar um aplicativo criado em 48h. Meio louco mas é isso mesmo.
+
+![Thumb da marca do Rails Rumble](/assets/images/posts/thumb-rumble.jpg)
 
 ## Canário belga. Um aplicativo em 48h? Difícil hein.
 
@@ -21,7 +21,7 @@ E parece meio impossível você criar uma aplicação em apenas 48h, mas isso é
 
 ## Quem participou com você Dulcetti?
 
-<img src="/assets/images/posts/galera-rails-rumble.jpg" alt="Grupo trabalhando no projeto" />
+![Grupo trabalhando no projeto](/assets/images/posts/galera-rails-rumble.jpg)
 Galera fingindo que estava trabalhando
 
 Bom, a nossa equipe foi a January River, em homenagem a nossa cidade maravilhosa (deu pra perceber né?), e era composta pelos seguintes modafocas:
@@ -35,7 +35,7 @@ Parece meio que uma gang, dois Brunos e dois Pellegrinos, mas foi mais ou menos 
 
 ## E o projeto tio Dulça?
 
-<img src="/assets/images/posts/thumb-picmydiet.jpg" alt="Thumb do projeto Pic My Diet" />
+![Thumb do projeto Pic My Diet](/assets/images/posts/thumb-picmydiet.jpg)
 
 Entramos no embalo da Dieta Flash, que chegou a ser transmitida pelo <a href="http://fantastico.globo.com/Jornalismo/FANT/0,,MUL795951-15605,00-TIRE+FOTO+DOS+ALIMENTOS+E+EMAGRECA.html">Fantástico</a> e tudo mais. Onde as pessoas tiram fotos do prato que comem e postam no flickr. Com isso, as pessoas olham, inclusive ela mesmo e vê o que comeu, melhorando sua alimentação.
 

@@ -33,10 +33,10 @@ Pela manhã rolou uma palestra, falando sobre a Google, histórias, etc. Isso nu
 
 O início foi aquela baboseira de sempre: fala da empresa, como começou, mostra isso, mostra aquilo, entre outras coisas. Pelo menos serviu pra saber de algumas curiosidades:
 
--Os servidores do Google eram separados por legos, por isso vieram as cores da marca atual.
--Se o Orkut fosse um estado brasileiro, seria maior que MG.
--O Youtube tem audiência 3x maior que a série de maior audiência no Brasil, Heroes.
--O Google ficava com seus servidores em uma garagem nos EUA. Hoje o dono dessa garagem esta empregado no Google e eles são eternamente gratos por esse espaço cedido em 1997.
+- Os servidores do Google eram separados por legos, por isso vieram as cores da marca atual.
+- Se o Orkut fosse um estado brasileiro, seria maior que MG.
+- O Youtube tem audiência 3x maior que a série de maior audiência no Brasil, Heroes.
+- O Google ficava com seus servidores em uma garagem nos EUA. Hoje o dono dessa garagem esta empregado no Google e eles são eternamente gratos por esse espaço cedido em 1997.
 
 ### Usuário é quem manda tá ligado?
 

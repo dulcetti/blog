@@ -84,7 +84,7 @@ Se tivermos um site dinâmico, onde a altura do elemento pode variar, teremos pr
 
 Bem grave esse problema, pois se tivermos mais de uma linha, a distância entre essas linhas ficará absurda, pois será sempre o valor do line-height, portanto, se tivermos três linhas de texto, por exemplo, teremos, no exemplo acima citado, uma altura de três vezes o line-height, pois temos três linhas e 200px de line-height, com isso, 3x200px.
 
-[Veja o exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_line_height_problema.html).
+Veja o exemplo aqui.
 
 ## Certo Bruno. Mas como resolver isso então? (Parte 2 - display: table-cell)
 
@@ -106,7 +106,7 @@ Vamos ao exemplo:
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_table_cell.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Para quem utiliza browser, funciona perfeitamente. Mas para quem não usa, o texto continua no topo. Salve ie. :D
 

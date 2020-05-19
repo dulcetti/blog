@@ -11,7 +11,7 @@ title: 'BlogCamp RJ - Onde comer'
 
 Você, garotinho inocente, que não sabe andar pelo Rio de Janeiro, Tijuca e adjacências. Que com certeza terá fome às 12h30, quando iniciará o horário de almoço do BlogCamp RJ, deve está se perguntando: "Mas onde que vou poder matar minha fominha?".
 
-<img src="/assets/images/posts/marca-blogcamp-rj.jpg" alt="Marca do BlogCamp RJ" />
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 ## Seus problemas acabaram modafoca...
 

@@ -17,11 +17,9 @@ E como não poderia deixar de ser, é um efeito que a equipe aqui da Globo.com p
 
 ## Mas de novo bordas em imagens Bruno?
 
-Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para <a href="/resposta-do-desafio-como-cropar-uma-foto-com-css.html">o efeito de borda interna dos sites da Globo.com</a>, e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
+Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para <a href="/resposta-do-desafio-como-cropar-uma-foto-com-css">o efeito de borda interna dos sites da Globo.com</a>, e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
 
 É um efeito normal, que poderia ser feito normalmente, como eu mostro na figura abaixo:
-
-<img src="https://www.brunodulcetti.com/artigos/hover-imagens/print-errado.gif" alt="Print do efeito errado" />
 
 Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, cor da borda do link e não da imagem. O IE infelizmente não aceita todos efeitos em elemento dentro do link no hover do próprio. Mas lógico que isso você sabia (assim espero).
 
@@ -29,15 +27,11 @@ Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, 
 
 Quase. É o mesmo efeito, mudança de cor na borda do link e talz. Maaaaaas, a diferença é que não existe esta borda duplicada entre as fotos. Percebam que a largura é de 5px para todos os links, mas como ficam um do lado do outro, entre eles ficam o dobro, ou seja, 10px de borda.
 
-<img src="https://www.brunodulcetti.com/artigos/hover-imagens/tamanhos-errados.gif" alt="Print dos tamanhos errados" />
-
 Poréeeeem, o problema é que no hover eu só consigo pintar a borda de um link, fazendo com que continue preta, a borda do próximo link. <a href="http://www.brunodulcetti.com/artigos/hover-imagens/link-errado.html">Veja o exemplo errado</a>.
 
 O problema disso tudo, é que eu não consigo mudar a cor da borda de um link, seja ele próximo ou anterior. Infelizmente não temos essa liberdade. Com isso, tínhamos esse problema e o pessoal não queria isso.
 
 Resumindo, eles queriam o efeito abaixo:
-
-<img src="https://www.brunodulcetti.com/artigos/hover-imagens/print-certo.gif" alt="Print do efeito correto" />
 
 Perceberam que não existe duplicação de borda entre os links? Fazer isso é mole, se não fosse a troca de cor das bordas. Bastava setar borda superior e esquerda na e inferior e direita na - .
 

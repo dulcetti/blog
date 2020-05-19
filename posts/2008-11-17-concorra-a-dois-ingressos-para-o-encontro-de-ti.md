@@ -11,7 +11,7 @@ title: 'Concorra a dois ingressos para o Encontro de TI'
 
 É isso mesmo, promoção relâmpago, pra vocês participarem rapidinho e concorrerem a um ingresso pro ETI - Encontro de Tecnologia da Informação, que vai rolar na quinta dia 27 em São Paulo e no sábado dia 29 aqui no Rio.
 
-<img src="/assets/images/posts/logo-eti-maior.jpg" alt="Marca do ETI" />
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
 ## Vair sortear pra qual dos dois Dulça?
 

@@ -11,11 +11,11 @@ title: 'Sou+Web - Webdesign com foco no cliente'
 
 Nesse sábado dia 08 de novembro de 2008, vulgo amanhã, acontecerá a terceira versão do debate tecnológico, o Sou+Web. E adivinha quem vai estar lá? Sim, eu mesmo. To em todas mané, tá pensando o que. Comigo é pa-pum;
 
-<img src="/assets/images/posts/marca-sou+web.png" alt="Marca do Sou+Web" />
+![Marca do Sou+Web](/assets/images/posts/marca-sou+web.png)
 
 ## Mas que Sou+Web é esse? Que fórmula é essa?
 
-Relaxa, não é fórmula nenhuma não meu caro leitor. É uma série de eventos mensais sobre Marketing e Comunicação na Internet, <jaba mode="on">promovidos pelo curso de Pós-Graduação em Gestão Estratégica de Marketing Digital, da Facha. </jaba>
+Relaxa, não é fórmula nenhuma não meu caro leitor. É uma série de eventos mensais sobre Marketing e Comunicação na Internet, `<jaba mode="on">promovidos pelo curso de Pós-Graduação em Gestão Estratégica de Marketing Digital, da Facha.</jaba>`
 
 E para aqueles que são fissurados nos coffee-breakes dos eventos, terá biscoitinhos, café, sucos, entre outras guloseimas. É só chegar cedo, que rola um pré-evento, com bate-papo com os debatedores e tudo mais.
 
