@@ -1,17 +1,14 @@
 ---
-author: bruno-dulcetti
-category: Eventos
-date: 2007-11-17T13:03:40.000Z
-description: ''
-image: ''
-slug: blogcamp-belo-horizonte-cobertura
-templateKey: blog-post
-title: 'BlogCamp MG | Belo Horizonte - Cobertura'
+category: "Eventos"
+date: "2007-11-17"
+description: ""
+featuredImage: ""
+title: "BlogCamp MG | Belo Horizonte - Cobertura"
 ---
 
 Falae galera. Acabei não postando sobre o BlogCamp nessa semana. Esta versão do evento está sendo em BH, Minas Gerais, no prédio da Oi Futuro. Belo espaço, wi-fi liberada, coffee break interessate, muito bom, nota 10.
 
-## Mas e as Palestras Bruno?
+### Mas e as Palestras Bruno?
 
 Agora está começando uma desconferência sobre Blog Hits. Tipo um Brainstorm de idéias de monetização para Blogs.
 
@@ -23,11 +20,11 @@ O que vale mais num Blog? Conteúdo ou monetização? Por que não juntar os doi
 
 Será que os blogueiros se judam a ganhar dinheiro com seu Blog? Acho que falta um ouco dessa consciência para parte dos pro-blogers.
 
-Monetização, monetização e mais monetização... Naum aguento mais isso... Já chega...
+Monetização, monetização e mais monetização... Naum aguento mais isso... Jah chega...
 
 Agora a parada pro almoço... Simbora neguim...
 
-Retorno do almoço agora... Vai rolar um sorteio aqui comandado pelo <a href="http://arcanjo.org/">Rafael Arcanjo</a>, pra logo depois, rolar um "bate papo" com o <a href="http://www.papodehomem.com.br">Guilherme do Papo de Homem</a>. Espero que o foco não seja monetização de blgos pq jah naum aguento mais...
+Retorno do almoço agora... Vai rolar um sorteio aqui comandado pelo [Rafael Arcanjo](http://arcanjo.org/), pra logo depois, rolar um "bate papo" com o [Guilherme do Papo de Homem](http://www.papodehomem.com.br). Espero que o foco não seja monetização de blgos pq jah naum aguento mais...
 
 Aeeeeee... Ganhei os coolnex Cards... E eu que falei o meu proprio número quase... hehehehehe
 
@@ -39,4 +36,6 @@ Grandes desconferências rolando no Blog Camp de MG... Mto interessante esse for
 
 Dia de BarCamp MG finalizado. Amanhâ tem mais. Partindo pro Hotel e dps partir pra zuera, bar, bebedeiras e desconferências.
 
-Aquele abraço.
+Akele abraço.
+
+\[BBL\]bh, blog, blog-camp, blogcamp, blogosfera, blogs, tecnologia\[/BBL\]

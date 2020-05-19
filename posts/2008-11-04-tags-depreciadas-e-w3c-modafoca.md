@@ -1,41 +1,38 @@
 ---
-author: bruno-dulcetti
-category: Webstandards
-date: 2008-11-04T00:04:27.000Z
-description: ''
-image: null
-slug: tags-depreciadas-e-w3c-modafoca
-templateKey: blog-post
-title: 'Tags depreciadas e W3C modafoca'
+category: "Webstandards"
+date: "2008-11-04"
+description: ""
+featuredImage: ""
+title: "Tags depreciadas e W3C modafoca"
 ---
 
-Relaxem. Antes que venham querer me xingar por causa do título e estar dando o título de "modafoca" à "toda poderosa" <a href="http://www.w3.org/">W3C</a>, deixem eu explicar o porquê do título. E fiquem tranquilos, não estou xingando não, é só mais um ponto que tive num relapso raro de pensamento e quis colocar por aqui para vocês me ~~vangloriarem~~ mandarem ir a merda.
+Relaxem. Antes que venham querer me xingar por causa do título e estar dando o título de "modafoca" à "toda poderosa" [W3C](http://www.w3.org/), deixem eu explicar o porquê do título. E fiquem tranquilos, não estou xingando não, é só mais um ponto que tive num relapso raro de pensamento e quis colocar por aqui para vocês me vangloriarem mandarem ir a merda.
 
-## Ok Dulça. Deixa de palhaçada e começa logo.
+### Ok Dulça. Deixa de palhaçada e começa logo.
 
-Então, como vocês sabem, a W3C depreciou algumas tags a partir do XHTML, blá, blá, blá. Não vou detalhar muito não, se vira no <a href="http://www.useaporradogoogle.kit.net">Google</a>.
+Então, como vocês sabem, a W3C depreciou algumas tags a partir do XHTML, blá, blá, blá. Não vou detalhar muito não, se vira no [Google](http://www.useaporradogoogle.kit.net).
 
-Ela depreciou, principalmente as tags que usávamos para estilo, como `<font>`, `<center>`, entre outras modafocas. Até ae tá tudo tranquilo, por hoje temos o ultramegapowermodafoca CSS para fazermos isso, graças a ~~Deus~~ W3C.
+Ela depreciou, principalmente as tags que usávamos para estilo, como <font>, <center>, entre outras modafocas. Até ae tá tudo tranquilo, por hoje temos o ultramegapowermodafoca CSS para fazermos isso, graças a Deus W3C.
 
 Porém, tem uma tag que eu vi que foi depreciada e não achei muito sei lá não.
 
-## E qual é essa tag Bruno?
+### E qual é essa tag Bruno?
 
-É a antiga tag `<u>`, que deixa o texto dentro dela com um sublinhado. O **u** vem de underline, naturalmente.
+É a antiga tag <u>, que deixa o texto dentro dela com um sublinhado. O **u** vem de underline, naturalmente.
 
 Bom, eu li que eles depreciaram essa tag, porque como ficava sublinhado, poderia fazer com que o usuário se confundisse, pensando que fosse um link.
 
-### Ahhhhhh sim... Ok. Então eu nunca mais vou poder colocar sublinhado?
+#### Ahhhhhh sim... Ok. Então eu nunca mais vou poder colocar sublinhado?
 
 Qualquer um aqui sabe que por CSS eu vou lá e pápum, coloco um text-decoration:underline em qualquer tag e pronto, estamos lá com o maldito texto sublinhado.
 
-## Mas Dulcetti, o `<u>` é tag para estilo
+### Mas Dulcetti, o <u> é tag para estilo
 
-Sim, eu sei. É por isso que entendo a depreciação, mas não entendo essa pseudo-explicação sobre que fica parecido com link. Existem casos que é muito plausível a utilização de texto sublinhados, mas agora coloco um `<span>` com uma classe qualquer e coloco um sublinhado. Dá meio que no mesmo.
+Sim, eu sei. É por isso que entendo a depreciação, mas não entendo essa pseudo-explicação sobre que fica parecido com link. Existem casos que é muito plausível a utilização de texto sublinhados, mas agora coloco um <span> com uma classe qualquer e coloco um sublinhado. Dá meio que no mesmo.
 
-Mas ok, entendo que a tag é de estilo. E sei que é diferente em relação com a `<strong>` e a `<em>`, que aparentemente são tags de estilo, mas na verdade são tags pra dar força no conteúdo específico.
+Mas ok, entendo que a tag é de estilo. E sei que é diferente em relação com a <strong> e a <em>, que aparentemente são tags de estilo, mas na verdade são tags pra dar força no conteúdo específico.
 
-## Porra, então do que que você tá reclamando então ow?
+### Porra, então do que que você tá reclamando então ow?
 
 Eu? Sei lá. :D
 
@@ -45,12 +42,12 @@ E ae? Foda-se o usuário? Tem coisas que eu não concordo tanto e essa do target
 
 Deixe-me usar se eu quiser. Tem casos onde é importante e imprescindível a utilização desse atributo, principalmente trabalhando num Portal grande como a Globo.com. Mas não, terei que ficar com meu código não validado por isso ou fazer em javascript, o que acho tosco.
 
-## Finalizando
+### Finalizando
 
-Ok, foda-se. Se no <a href="/menus-navegacoes-em-listas-realmente-e-necessario">post anterior vocês não me xingaram</a>, nesse vocês vão.
+Ok, foda-se. Se no [post anterior vocês não me xingaram]/menus-navegacoes-em-listas-realmente-e-necessario.html), nesse vocês vão.
 
 Mas só foi mais um artigo pra mexer um pouco, encucá-los e saber a opinião de vocês. Entendo a atitude da W3C, mas pra mim também tem que ter bom senso da galera de implementação e de design, para não criar algo não muito usável e de difícil entendimento.
 
-Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o `target="\_blank"` eh liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
+Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o target="\_blank" eh liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
 
 Beijo na alcatra.

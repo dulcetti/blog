@@ -1,19 +1,16 @@
 ---
-author: bruno-dulcetti
-category: Shots
-date: 2005-10-24T21:19:37.000Z
-description: ''
-image: ''
-slug: amada-vo-eu-te-amo
-templateKey: blog-post
-title: 'Amada vó, eu te amo!'
+category: "Shots"
+date: "2005-10-24"
+description: ""
+featuredImage: ""
+title: "Amada vó, eu te amo!"
 ---
 
 Pessoa que fará uma falta imensa, não somente para mim e minha família, mas para esse mundo. Guerreira, lutadora, batalhadora, sofreu bastante, mas sempre forte, nunca desistindo e saindo sempre por cima de tudo para conseguir tudo que quis. Enfrentou a tudo e a todos, sem medo. Se hoje estou aqui, lhe devo muito. Gerou 7 pessoas maravilhosas, onde infelizmente acabou perdendo uma. Uma delas, Mariana, pessoa que amo demais.
 
 Era filha, era mãe, era vó, era bisavó, mas acima de tudo era si própria. Sempre sorrindo, sempre forte, não importa suas dificuldades ou medos. Viveu sempre em pé, encarando, rindo, chorando, vivendo.
 
-Ficou em pé, firme forte até receber o chamado, onde acabou caindo aos poucos. Sua missão havia terminado nesse mundo, só restava agora despedir-se de todos que deixaria aqui. Mas mesmo assim, com as dificuldades, doenças, chamados, insistiu um pouco, queria ficar... Mas nós já sabíamos... Sua missão estava finalizada... Por mais queríamos, naum tinha como...
+Ficou em pé, firme forte até receber o chamado, onde acabou caindo aos poucos. Sua missão havia terminado nesse mundo, só restava agora despedir-se de todos q deixaria aqui. Mas mesmo assim, com as dificuldades, doenças, chamados, insistiu um pouco, queria ficar... Mas nós já sabíamos... Sua missão estava finalizada... Por mais queríamos, naum tinha como...
 
 Se foi... Sim... Mas apenas fisicamente... Porque sua presença agora é maior ainda, sua força, seus rastros, sua determinação, risadas, choros, carinhos e tudo que uma pessoa especial e única poderia deixar.
 

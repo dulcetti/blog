@@ -1,15 +1,12 @@
 ---
-author: bruno-dulcetti
-category: Tecnologia
-date: 2005-11-18T21:01:27.000Z
-description: ''
-image: ''
-slug: browser-maxthon
-templateKey: blog-post
-title: 'Browser Maxthon'
+category: "Tecnologia"
+date: "2005-11-18"
+description: ""
+featuredImage: ""
+title: "Browser Maxthon"
 ---
 
-Falae galera, fugindo um pouco sobre artigos, webstandards, vou comentar sobre um browser que vi hoje e baixei para testá-lo. É o Maxthon.
+Falae galera, fugindo um pouco sobre artigos, webstandards, vo comentar sobre um browser que vi hoje e baixei para testá-lo. É o Maxthon.
 
 Parece ser legal, instalei, foi bem fácil, inferface agradável, com skins, leitor feeds que ao entrar num sistema de feeds rss ele automaticamente te pergunta se deseja assinar o feeds do site, ente outros recursos.
 
@@ -19,6 +16,6 @@ Todos os sites webstandards que fiz abriram tranquilos nele, sem nenhum bug, pro
 
 Ainda testarei o funcionamento dele, se ele renderiza o css como o i.e. ou como os browsers decentes :D
 
-Bom, segue o link para quem se interessar e instalá-lo: [Maxthon](http://www.maxthon.com/).
+Bom, segue o link para quem se interessar e instalá-lo: [Maxthon](http://www.maxthon.com/ "Visitar site do Maxthon [Este link abre em uma nova janela]").
 
 Aquele abraço

@@ -1,17 +1,14 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2007-04-23T19:14:00.000Z
-description: ''
-image: ''
-slug: como-voce-escreve-seus-arquivos-css-parte-2
-templateKey: blog-post
-title: 'Como você escreve seus arquivos CSS? Parte 2'
+category: "CSS"
+date: "2007-04-23"
+description: ""
+featuredImage: ""
+title: "Como você escreve seus arquivos CSS? Parte 2"
 ---
 
-Dando continuidade ao <a href="/como-voce-escreve-seus-arquivos-css">post anterior</a>, venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
+Dando continuidade ao [post anterior]/como-voce-escreve-seus-arquivos-css.html), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
 
-## Ferramentas compactadoras de CSS's
+### Ferramentas compactadoras de CSS's
 
 Alguns leitores postaram sugestões, opiniões e links interessantes, que postarei aqui alguns dos links citados.
 
@@ -21,123 +18,61 @@ Falaram sobre escrever como quiser o CSS e depois passar numa ferramenta, otimiz
 
 Segue a lista de links:
 
-- <a href="http://www.cleancss.com/">Clean CSS</a>
-- <a href="http://www.cssoptimiser.com/">CSS Optimiser</a>
-- <a href="http://flumpcakes.co.uk/css/optimiser/">Online CSS Optimiser/Optimizer : flumpCakes</a>
-- <a href="http://www.lotterypost.com/css-compress.asp">Lottery Post: CSS Compressor</a>
+- [Clean CSS](http://www.cleancss.com/)
+- [CSS Optimiser](http://www.cssoptimiser.com/)
+- [Online CSS Optimiser/Optimizer : flumpCakes](http://flumpcakes.co.uk/css/optimiser/)
+- [Lottery Post: CSS Compressor](http://www.lotterypost.com/css-compress.asp)
 
-Dei uma olhada muito rápida nos links e o que mais me agradou foi o Clean CSS, pelas opções, variações de compactação, etc. Mas não cheguei a testar nenhum. Mais pra frente, de repente :P, eu testo :D.
+Dei uma olhada muito rápida nos links e o q mais me agradou foi o Clean CSS, pelas opções, variações de compactação, etc. Mas não cheguei a testar nenhum. Mais pra frente, de repente :P, eu testo :D.
 
-## Retornando a escrita CSS... :D
+### Retornando a escrita CSS... :D
 
 Bom, retornando ao assunto do Post, vou comentar sobre mais alguns pontos de escrita dos CSS's. Eu batizarei um de hierarquia de elementos e o outro de referência de tags.
 
-### Hierarquia de Elementos
+#### Hierarquia de Elementos
 
 Quando falo de hierarquia de elementos no CSS, estou falando de elementos filhos sendo hierarquizados dentro dos arquivos CSS's. Eu, na grande maioria das vezes, não faço hierarquia, utilizando somente a div correspondente.
 
-Explicarei melhor agora, porque está meio confuso. Veja o código abaixo:
-
-```css
-#geral #conteudo #minhaDiv {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-#geral #conteudo #minhaDiv2 {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-#geral #conteudo #minhaDiv3 {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-```
+Explicarei melhor agora, porque está meio confuso. Veja o código abaixo: `#geral #conteudo #minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}`
 
 Olhando o código, se vc possui o mínimo de conhecimento em CSS, vc percebe que os ID's #minhaDiv, #minhaDiv2 e #minhaDiv3 são "filhas" do ID #conteudo que é filho do ID #geral certo?
 
-Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma:
+Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma: `#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}`
 
-```css
-#minhaDiv {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-#minhaDiv2 {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-#minhaDiv3 {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-```
+Economizei bastante, pois retirei o "_#geral #conteudo_ " das linhas.
 
-Economizei bastante, pois retirei o "<em>#geral #conteudo </em>" das linhas.
-
-Existem pontos fortes e fracos na utilização dessa hierarquia. O Ponto positivo, na minha opinião é que você limita o ID a funcionar SOMENTE quando ele fizer parte dessa hierarquia. E, às vezes, isso não chega nem a ser uma vantagem, pois você possa precisar deste mesmo comportamento em outra hierarquia, mas não funcionará por causa do "<em>#geral #conteudo </em>".
+Existem pontos fortes e fracos na utilização dessa hierarquia. O Ponto positivo, na minha opinião é que você limita o ID a funcionar SOMENTE quando ele fizer parte dessa hierarquia. E, às vezes, isso não chega nem a ser uma vantagem, pois você possa precisar deste mesmo comportamento em outra hierarquia, mas não funcionará por causa do "_#geral #conteudo_ ".
 
 Muitos desenvolvedores utilizam a forma hierárquica, pois fica fácil de saber onde aquele elemento está, é filho de quem, etc. Mas se você trabalhar com CSS corretamente, separando seus arquivos CSS's, com nomenclaturas corretas, você não precisará se preocupar com esses detalhes.
 
-### Referência de Tags
+#### Referência de Tags
 
-Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar:
-
-```css
-div#minhaDiv {
-  background-color: #ccc;
-  border: 1px solid #fc3;
-  color: #fff;
-  height: 300px;
-  width: 200px;
-}
-div#minhaDiv span.minhaClasse {
-  color: #666;
-}
-div#minhaDiv a.verMais {
-  text-decoration: none;
-}
-```
+Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar: `div#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} div#minhaDiv span.minhaClasse {color:#666;} div#minhaDiv a.verMais {text-decoration:none;}`
 
 Agora uma breve explicação sobre cada linha:
 
-#### &rsaquo; div#minhaDiv
+##### › div#minhaDiv
 
 A div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-#### &rsaquo; div#minhaDiv span.minhaClasse
+##### › div#minhaDiv span.minhaClasse
 
 O span que receber a classe **minhaClasse** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-#### &rsaquo; div#minhaDiv a.verMais
+##### › div#minhaDiv a.verMais
 
 O link que receber a classe **verMais** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-#### &raquo; Pontos Fortes e Fracos
+##### » Pontos Fortes e Fracos
 
 A utilização desta forma limita as propriedades a somente estas tags e pronto. Caso no HTML seja modificada alguma estrutura, o funcionamento pode ser danificado, por exemplo, de span, vire div, estas propriedades não funcionarão mais.
 
 Eu prefiro utilizar sem a referência de tags, a não ser que você tenha múltiplas tags utilizando a mesma classe.
 
-## Finalizando...
+### Finalizando...
 
 Bom, essa segunda parte é bem menor que a primeira e é assim que eu tentarei fazer sempre, escrever menos, mais direto. Apesar que sou muito detalhista e mastigo bem os tutoriais, artigos, etc. Acho que é melhor assim, mas é preocupante também quando fica grande, cansativo, etc. Mas eu vou treinando para isso não acontecer :D.
 
 Aquele abraço e valew a contribuição de todos.
+
+\[BBL\]artigos, css, escrita-no-css\[/BBL\]

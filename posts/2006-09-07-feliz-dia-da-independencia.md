@@ -1,18 +1,15 @@
 ---
-title: 'Feliz Dia da Independência'
-slug: feliz-dia-da-independencia
-image: null
-templateKey: blog-post
-date: 2006-09-07T22:26:00.000Z
-author: bruno-dulcetti
-description: ''
-category: Shots
+category: "Shots"
+date: "2006-09-07"
+description: ""
+featuredImage: ""
+title: "Feliz Dia da Independência"
 ---
 
-<img src="https://www.google.com.br/logos/brazil06.gif" alt="Dia da Inpendência do Brasil" />
+![Dia da Inpendência do Brasil](http://www.google.com.br/logos/brazil06.gif)
 
-Interessante... Estive passando no net, quando entre no <a href="http://www.google.com.br/">Google</a>, qnd me deparei com a estilização da ~~logomarca~~ Identidade Visual deles...
+Interessante... Estive passando no net, quando entre no [Google](http://www.google.com.br/), qnd me deparei com a estilização da logomarca Identidade Visual deles...
 
 Manero, gostei...
 
-Apenas isso... Aquele abraço...
+Apenas isso... Akele abraço...

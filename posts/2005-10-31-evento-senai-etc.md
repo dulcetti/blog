@@ -1,17 +1,14 @@
 ---
-author: bruno-dulcetti
-category: Eventos
-date: 2005-10-31T01:45:18.000Z
-description: ''
-image: ''
-slug: evento-senai-etc
-templateKey: blog-post
-title: 'Evento Senai, etc'
+category: "Eventos"
+date: "2005-10-31"
+description: ""
+featuredImage: ""
+title: "Evento Senai, etc"
 ---
 
 Falae pessoal. Pra não deixar passar em branco o fim de semana, postarei aqui sobre o evento que fui na sexta-feira, no Senai Artes Gráfica, no Maracanã, Rio de Janeiro.
 
-Íamos eu, com parte da galera que foi pro InterCon daqui do Rio, mas com o dilúvio que caiu no Rio sexta, acabou que somente eu, [Fabiano Cruz](http://www.fabianocruz.com) e Diego Miranda fomos pro evento.
+Íamos eu, com parte da galera que foi pro InterCon daqui do Rio, mas com o dilúvio que caiu no Rio sexta, acabou que somente eu, [Fabiano Cruz](http://www.fabianocruz.com "Visitar Blog do Fabiano Cruz [Este link abre em uma nova janela]") e Diego Miranda fomos pro evento.
 
 Acabou que no final eu nem fui no evento na verdade... Cheguei no Senai errado, numa chuva absurda, depois fui indo pro Senai certo, debaixo do dilúvio com uma garota que também tinha feito o mesmo que eu. Pelo menos fui conversando com alguém. =DDD
 
