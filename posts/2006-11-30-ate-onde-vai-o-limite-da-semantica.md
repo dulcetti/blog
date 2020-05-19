@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2006-11-30"
-description: ""
-featuredImage: ""
-title: "Até onde vai o limite da Semântica?"
+category: 'Webstandards'
+date: '2006-11-30'
+description: ''
+featuredImage: ''
+title: 'Até onde vai o limite da Semântica?'
 ---
 
 E ae pessoal. Tempo que não posto sobre web standards, css e afins, que são os temas principais desse Blog. Muitos trabalhos, pouco tempo, meio "sem saco" para escrever (blogueiros são humanos também sabiam?) :P
@@ -18,19 +18,19 @@ Não falarei sobre semântica web, citarei alguns exemplos para vocês entendere
 
 #### Beleza então Bruno cite os exemplos.
 
-Todos sabemos que as tags <h**n**\> são as tags de título (onde **n** é o número que varia de 1 a 6), sabemos também que a tag <a> é para links, <p> serve para parágrafos, etc, etc, etc.
+Todos sabemos que as tags `<hn>` são as tags de título (onde **n** é o número que varia de 1 a 6), sabemos também que a tag `<a>` é para links, `<p>` serve para parágrafos, etc, etc, etc.
 
 Sabemos que temos tags que são display block e display inline correto? Não sabemos? Okay, explicarei um bocado sobre:
 
 #### Display Block
 
-Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes e depois dele próprio. Seria como se tivesse um <br /> antes e depois da tag. Podem conter tanto elementos inlines quanto blocks dentro dele.
+Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes e depois dele próprio. Seria como se tivesse um `<br />` antes e depois da tag. Podem conter tanto elementos inlines quanto blocks dentro dele.
 
 ##### Alguns Exemplos:
 
-- <p>
-- <h1>
-- <div>
+- `<p>`
+- `<h1>`
+- `<div>`
 
 #### Display Inline
 
@@ -38,9 +38,9 @@ Ao contrário do block, os elementos inlines não quebram linha. Podem conter ou
 
 ##### Alguns Exemplos:
 
-- <a>
-- <strong>
-- <em>
+- `<a>`
+- `<strong>`
+- `<em>`
 
 ### Resumindo...
 
@@ -48,7 +48,11 @@ Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar 
 
 #### Modo correto
 
-`<p>Aqui vem o <a href="#">meu link com <em>Itálico</em></a></p>`
+```html
+<p>
+  Aqui vem o <a href="#">meu link com <em>Itálico</em></a>
+</p>
+```
 
 ##### Resultado
 
@@ -62,11 +66,16 @@ Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo ce
 
 #### Modo incorreto
 
-`<a href="#"> <h1>Aqui vem o título</h1> <p>Aqui vem o parágrafo</p> </a>`
+```html
+<a href="#">
+  <h1>Aqui vem o título</h1>
+  <p>Aqui vem o parágrafo</p>
+</a>
+```
 
 ##### Resultado
 
-Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei uma página só pra esse exemplo](/artigos/limite_semantica/exemplo_errado.html ).
+Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei uma página só pra esse exemplo](/artigos/limite_semantica/exemplo_errado.html).
 
 ### Agora iremos ao ponto chave desse post.
 
@@ -82,11 +91,40 @@ Agora sim, ele ficou validado pela W3C, porém, podemos ver dois pontos, o prime
 
 Até temos uma opção, [que criei aqui agora](/artigos/limite_semantica/exemplo_certo_gambiarra.html), mas seria bem do tipo [POG](http://desciclo.pedia.ws/wiki/POG).
 
-Vamos ver o código HTML: `<div> <a href="#"> </a> <h1>Aqui vem o título</h1> <p>Aqui vem o parágrafo</p> </div>`
+Vamos ver o código HTML:
 
-Aqui, nada demais. Uma div com um link, um título e um texto de parágrafo. A única diferença é no link, que está vazio e por cima de todos. Vamos entender, vendo o código CSS: `div { width: 140px; border: 1px solid #900; background-color: #E4E5E5; position: relative; overflow: hidden; }  
-a { display: block; width: 1000px; height: 1000px; position: absolute; background-color: #E4E5E5; filter: alpha(opacity=0); opacity: .0; }  
-h1, p { font: 12px Verdana; }`
+```html
+<div>
+  <a href="#"> </a>
+  <h1>Aqui vem o título</h1>
+  <p>Aqui vem o parágrafo</p>
+</div>
+```
+
+Aqui, nada demais. Uma div com um link, um título e um texto de parágrafo. A única diferença é no link, que está vazio e por cima de todos. Vamos entender, vendo o código CSS:
+
+```css
+div {
+  width: 140px;
+  border: 1px solid #900;
+  background-color: #e4e5e5;
+  position: relative;
+  overflow: hidden;
+}
+a {
+  display: block;
+  width: 1000px;
+  height: 1000px;
+  position: absolute;
+  background-color: #e4e5e5;
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
+h1,
+p {
+  font: 12px Verdana;
+}
+```
 
 Não entrarei em detalhes na lista de propriedades para a div, pois é bem básica. A única coisa diferente é que coloquei um position relative, porque irei usar dentro dela um bloco com position absolute. Coloquei também um overflow hidden, isso quer dizer que se algum conteúdo ultrapassar o tamanho da div, ele ficará oculto, sem atrapalhar em nada o layout da págin e da div.
 
@@ -96,7 +134,7 @@ Agora que "o bicho pega" :D. No link que a brincadeira começa a ganhar forma e 
 
 O link recebe um display block, com isso, vira um bloco. Mas lembram que ele esta acima do link e do parágrafo, pois ele é inline e não pode englobar blocos?
 
-**OBS:** Não importa que você tenha setado no CSS que o link virou bloco, a W3C continuará não validando seu código, pois ela confere com o padrão dos links, e como o <a> é um elemento inline como padrão, não validará. ;)
+**OBS:** Não importa que você tenha setado no CSS que o link virou bloco, a W3C continuará não validando seu código, pois ela confere com o padrão dos links, e como o `<a>` é um elemento inline como padrão, não validará. ;)
 
 Não se assustem com os 1000px para a largura e a altura do link, pois como a div está com overflow hidden, o link só aparecerá dentro do tamanho disposto na div ;). Na verdade um 100% na altura e largura já funciona, mas no ie 6 não funcionou, aconteceu algum bug, ficando só pela metade, vai entender né... ;)
 
@@ -110,9 +148,13 @@ Sim, eu sei. Na verdade, nosso problema teria sido resolvido, mas não podemos e
 
 Mas isso é resolvido colocando uma cor de background no link, porém, teremos um link por cima de tudo, com uma cor sólida por cima. Ganhamos um problema. Temos um link na div toda, mas como tem uma cor de background, não vemos o conteúdo por trás.
 
-Mas temos soluções (gambiarras?) para tudo. :D Temos uma propriedade no css, a filter, que só funciona no ie. Os valores variam dentro dessa propriedade, podemos colocar opacidade, blur, glow, entre outras coisas que não ficarei aqui citando.
+Mas temos soluções (gambiarras?) para tudo. :D Temos uma propriedade no css, a filter, ~~que só funciona no ie~~. Os valores variam dentro dessa propriedade, podemos colocar opacidade, blur, glow, entre outras coisas que não ficarei aqui citando.
 
-No nosso caso, precisamos da opacidade, por isso, coloquei o seguinte valor: `filter: alpha(opacity=0);`
+No nosso caso, precisamos da opacidade, por isso, coloquei o seguinte valor:
+
+```css
+filter: alpha(opacity=0);
+```
 
 Nesse caso, alpha modifica a opacidade do elemento, que nesse caso é o nosso link. Setei um valor 0 (zero), que significa que quero totalmente transparente. O valor varia de 0 (transparente) até 100 (totalmente visível).
 
@@ -147,7 +189,7 @@ Já vi posts sobre isso, como o do [Henrique do Revolução etc](http://www.revo
 
 #### Eu acho importante validar na W3C Bruno. Por que você não acha?
 
-Não ponha palavras na minha boca (ou seria letras nas minhas teclas?), eu só estou dizendo que existem casos e casos. Você pode muito bem ter um site que ao invés de usar h2, utiliza um <p class="titulo">, existe o caso de você esquecer de fechar uma tag, etc, etc, etc.
+Não ponha palavras na minha boca (ou seria letras nas minhas teclas?), eu só estou dizendo que existem casos e casos. Você pode muito bem ter um site que ao invés de usar h2, utiliza um `<p class="titulo">`, existe o caso de você esquecer de fechar uma tag, etc, etc, etc.
 
 O caso que citei, foi um caso que está tudo certo, a única coisa "errada" é a utilização do link envolta do título e do parágrafo. Nosso código está semântico, está correto, a não ser pela W3C não permitir links, por serem inline, englobarem blocos.
 
@@ -159,7 +201,7 @@ Mas, isso varia de pessoas e pessoas e eu estou aqui para saber a opinião de ca
 
 ### Resumindo
 
-Na verdade, o que eu acho é que a W3C deveria criar uma nova tag, chamada <ablock>, que seria um link também, mas como um bloco, com isso, não precisaríamos nos preocupar com isso não é verdade? Ou melhor, fazer com que consultasse o CSS e visse "se o <a> é um bloco, então valido, senão não valido", o que seria melhor ainda, pois não seria necessário a espera de novas versões dos browsers, que por parte do FF, Opera seria tranquilo, mas o ie... aff...
+Na verdade, o que eu acho é que a W3C deveria criar uma nova tag, chamada `<ablock>`, que seria um link também, mas como um bloco, com isso, não precisaríamos nos preocupar com isso não é verdade? Ou melhor, fazer com que consultasse o CSS e visse "se o `<a>` é um bloco, então valido, senão não valido", o que seria melhor ainda, pois não seria necessário a espera de novas versões dos browsers, que por parte do FF, Opera seria tranquilo, mas o ie... aff...
 
 ### Finalizando...
 
@@ -168,5 +210,3 @@ E você? O que acha disso? Acha certo "pular a cerca" da validação da W3C ness
 Deixe sua opinião ;)
 
 Aquele abraço.
-
-\[BBL\]acessibilidade, artigos, css, globo, html, semantica, usabilidade, validacao, w3c, web-standards, webstandards, xhtml\[/BBL\]

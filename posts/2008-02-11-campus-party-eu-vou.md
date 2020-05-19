@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2008-02-11"
-description: ""
-featuredImage: ""
-title: "Campus Party - Eu vou"
+category: 'Eventos'
+date: '2008-02-11'
+description: ''
+featuredImage: ''
+title: 'Campus Party - Eu vou'
 ---
 
 Sim, eu irei para o Campus Party 2008 aqui no Brasil. Isso é maravilhoso e fiquei muito feliz quando consegui liberação para partir pra lá.
@@ -13,9 +13,9 @@ Sim, eu irei para o Campus Party 2008 aqui no Brasil. Isso é maravilhoso e fiqu
 Textos retirados diretamente do site.
 
 > Campus Party é considerado o maior evento de entretenimento eletrônico em rede do mundo. Um encontro anual realizado desde 1997, que reúne, durante sete dias, milhares de participantes com seus computadores procedentes de toda a Espanha e de outras nações, com a finalidade de compartilhar curiosidades, trocar experiências e realizar todo o tipo de atividades relacionadas a computadores, às comunicações e às novas tecnologias.
-> 
+>
 > Pela Campus Party já passaram convidados de destaque como Neil Alden Armstrong, o primeiro homem que pisou na Lua em 1969, Eveline Herfkens, coordenadora geral da Campanha dos Objetivos do Milênio das Nações Unidas, Stephen Hawking, o grande físico britânico que, através de um vídeo, inaugurou a edição do evento no seu décimo aniversário.
-> 
+>
 > Os participantes da Campus Party mudam-se com seus computadores, malas e barracas para dentro das instalações do evento. Lá encontram uma completa infra-estrutura de serviços, lazer, higiene, segurança, alimentação e, principalmente, tecnologia. Durante uma semana a Campus Party transforma-se na casa de todos.
 
 ### Ahhhhh tah...
@@ -39,7 +39,7 @@ Como um bom e fiel blogueiro, ficarei no Campus Blog, mas visitarei todos, princ
 
 ### Onde que vai ser o evento Dulça?
 
-Vai ser no Parque Ibirapuera, dentro da Bienal. Com 3000 pessoas, nem todas acampadas, pq quem eh de Sampa não fica acampado. E também nem todos estarão presentes no mesmo horário, pois muitos não conseguiram liberação do trabalho.
+Vai ser no Parque Ibirapuera, dentro da Bienal. Com 3000 pessoas, nem todas acampadas, pq quem é de Sampa não fica acampado. E também nem todos estarão presentes no mesmo horário, pois muitos não conseguiram liberação do trabalho.
 
 O evento terá áreas para diversão, quadras para praticar esportes, jogos de salão, cinema, paintball, etc, etc, etc. Fora supermercados, lojas, banheiros (claro né), lavanderia, entre outros serviços.
 
@@ -54,5 +54,3 @@ E o Manoel Lemos disponibilizou no [BlogBlogs](http://blogblogs.com.br/). O [Liv
 ### Finalizando...
 
 Bom, é isso... Daqui a pouco to chegando lá e vou falando com o pessoal. Aquele abraço e beijo na alcatra.
-
-\[BBL\]blogosfera, blogs, blogueiros, brasil, campusparty, campusparty08, campuspartybr, evento, pessoais, tecnologia\[/BBL\]

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-01-09"
-description: ""
-featuredImage: ""
-title: "Mutirão da galera do Videolog para o desenvolvimento da v3"
+category: 'Shots'
+date: '2008-01-09'
+description: ''
+featuredImage: ''
+title: 'Mutirão da galera do Videolog para o desenvolvimento da v3'
 ---
 
 É isso ae cambada. [Videolog](http://www.videolog.tv) está vindo ae com novidades, preparem-se. :D
@@ -32,18 +32,12 @@ O destaque da nova versão vai para a publicação de vídeos em HD, que está e
 
 Segue agora aí abaixo. Foi gravado por volta d 3 e poka e com quase 14 minutos:
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog = new Flash("http://www.videolog.tv/swf/player_externo.swf?prefix=videos&amp;v=50/fe/293516&amp;id_video=293516&amp;", "videolog0005", "515", "416");
 	flashVideolog.write();
 -->
 </script>
-
- 
-
-	  
 
 ### Finalizando...
 
@@ -54,5 +48,3 @@ Bêbados? A maioria. Com sono? Quase todos. Disposição e trabalho? Até onde d
 E vamo que vamo. E preparem-se pq gravamos um outro vídeo também. Vou publicar assim que publicarem no [Videolog](http://www.videolog.tv).
 
 Akele abraço.
-
-\[BBL\]pessoais, tv, video, videolog, videos, webstandards\[/BBL\]

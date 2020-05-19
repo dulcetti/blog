@@ -1,14 +1,14 @@
 ---
-category: "Tecnologia"
-date: "2006-10-19"
-description: ""
-featuredImage: ""
-title: "Nova Ferramenta: TutoCle.com"
+category: 'Tecnologia'
+date: '2006-10-19'
+description: ''
+featuredImage: ''
+title: 'Nova Ferramenta: TutoCle.com'
 ---
 
-[![Logo TutoCle](http://tutocle.com/img/logo.gif)](http://tutocle.com/ "Visitar o site do TutoCle")
+[![Logo TutoCle](http://tutocle.com/img/logo.gif)](http://tutocle.com/ 'Visitar o site do TutoCle')
 
-E ae pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/ "Visitar o site da TutoCle").
+E ae pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/ 'Visitar o site da TutoCle').
 
 ### Legal, legal. Mas o que seria o TutoCle.com?
 
@@ -52,5 +52,3 @@ Com o código que o site disponibiliza, você posta no seu Blog, que você ou se
 #### Um beijo do magro!
 
 É isso ae galera, aquele abraço pra todos.
-
-\[BBL\]blog, blogosfera, blogueiros, desenvolvimento, dicas, ferramentas, internet, recomendação, sites, tecnologia, tutocle, tutorial\[/BBL\]

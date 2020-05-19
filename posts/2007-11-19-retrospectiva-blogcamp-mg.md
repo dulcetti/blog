@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2007-11-19"
-description: ""
-featuredImage: ""
-title: "Retrospectiva BlogCamp MG"
+category: 'Eventos'
+date: '2007-11-19'
+description: ''
+featuredImage: ''
+title: 'Retrospectiva BlogCamp MG'
 ---
 
 ![Banner do BlogCamp MG](http://brunodulcetti.com/imgs/banner-blogcamp-mg.jpg)
@@ -16,13 +16,13 @@ Já que coloquei esse título, vou começar falando sobre o [Fugita](http://www.
 
 ### Tudo bem Bruno, você é esquizofrênico, mas deixa isso de lado e começa a falar ae do evento.
 
-Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a [postar sobre o evento no sábado]/blogcamp-belo-horizonte-cobertura.html), em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
+Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a [postar sobre o evento no sábado](/blogcamp-belo-horizonte-cobertura.html), em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
 
 #### O famoso Networking
 
 [![Galera toda do BlogCamp MG reunida](http://farm3.static.flickr.com/2171/2043831762_3334b935ba.jpg?v=0)](http://flickr.com/photos/maysa/2043831762/)
 
-Na minha opinião, e [não somente na minha](http://www.techbits.com.br/2007/03/27/barcamp-o-verdadeiro-social-networking/), esse eh o maior motivo e incentivo para ir num evento desses.
+Na minha opinião, e [não somente na minha](http://www.techbits.com.br/2007/03/27/barcamp-o-verdadeiro-social-networking/), esse é o maior motivo e incentivo para ir num evento desses.
 
 Muitos dos assuntos, diria que praticamente 90% deles não servia diretamente pra mim ou meu Blog. Falou-se muito sobre monetização, Adsense, coisas que eu não utilizo no meu blog, mas serve como conhecimento. Mas na minha opinião foi um pouco exagerado.
 
@@ -36,7 +36,7 @@ Tivemos algumas ausências como a do [Cardoso](http://www.contraditorium.com/), 
 
 Acho que acima de tudo, fora o papo sobre blogs, monetização, tecnologia, valeu o conhecimento pessoal, a socialização entre nós, a cerveja tomada logo após o evento, as merdas faladas, as zoações, os erros, conselhos, dicas, etc.
 
-Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o [Leonardo Pessoa](http://www.leonardopessoa.com/) que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um [formulário em PHP]/formulario-em-php.html). Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
+Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o [Leonardo Pessoa](http://www.leonardopessoa.com/) que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um [formulário em PHP](/formulario-em-php.html). Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
 
 Fora quando a Mirian Bottan e o Thiago Mobilon chegaram pra mim no bar, no sábado e falaram a mesma coisa: "Calmae! Eu to conversando com você o BlogCamp MG inteiro, estamos no mesmo Hotel, tomando cerveja e eu não sabia que você que é o Bruno Dulcetti?". E ainda complementaram: "Imaginava você totalmente diferente, um cara mó Nerd, etc.". Aeeeee, não tenho cara de Nerd. Ok, só um pouco, por causa dos óculos, etc, mas nem tanto :D.
 
@@ -50,7 +50,7 @@ Como esse foi o meu primeiro BlogCamp, não sabia como era o formato, a estrutur
 
 Tínhamos no espaço várias almofadas, as cadeiras, o palco onde os blogueiros poderiam ficar, onde eu fiquei inclusive boa parte do tempo, entre outras coisas.
 
-O palco não foi utilizado tantas vezes. Muitas vezes tínhamos alguns pequenos grupos de blogueiros conversando, discutindo sobre assuntos paralelos. Isso eh normal em coffee breaks da grande maioria dos eventos, mas o BlogCamp não, é assim full-time. E com isso, surgem assuntos atrás de assuntos do nada, de repente alguém pára e comenta sobre isso, de repente um blogueiro que estava me outro grupo ouve e junta-se ao novo papo, etc, etc.
+O palco não foi utilizado tantas vezes. Muitas vezes tínhamos alguns pequenos grupos de blogueiros conversando, discutindo sobre assuntos paralelos. Isso é normal em coffee breaks da grande maioria dos eventos, mas o BlogCamp não, é assim full-time. E com isso, surgem assuntos atrás de assuntos do nada, de repente alguém pára e comenta sobre isso, de repente um blogueiro que estava me outro grupo ouve e junta-se ao novo papo, etc, etc.
 
 Achei impressionante e muito bem bolado. Acho que essa informalidade ajuda nisso. Pra terem uma idéia, eu estava de bermuda, regata e chinelo havaiana como mostra a foto abaixo, que foi inclusive quando eu ganhei o brinde com os CoolNex Cards. Na verdade nessa eu to até descalço, fato que até o Pedro comentou e achou sensacional.
 
@@ -68,18 +68,12 @@ Mas o grande destaque, a grande espera, o grande momento do BlogCamp MG, era o I
 
 Foi uma comédia. Ian com sua irreverência, simpatia e cômica palestra, falou muito bem, deu alguns exemplos, fez todo mundo rir, etc, etc. Assista ao vídeo na integra logo abaixo:
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog = new Flash("http://www.videolog.tv/swf/player_externo.swf?prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;'", "videolog0003", "515", "416");
 	flashVideolog.write();
 -->
 </script>
-
- 
-
-	  
 
 #### E como não poderia deixar de ser, o Twitter...
 
@@ -102,7 +96,7 @@ Então, tem bastante link por ae e que ainda está por vir. vou ver se vou posta
 - [BlogcampMG - via ustream.tv](http://www.ladybugbrazil.com/2007/11/17/blogcampmg-via-ustreamtv/)
 - [BlogCamp MG remoto](http://meta.blog.br/blogcamp-mg-remoto/)
 - [BlogCamp MG](http://www.leonardopessoa.com/2007/11/blogcamp-mg-2/)
-- [BlogCamp MG | Belo Horizonte - Cobertura]/blogcamp-belo-horizonte-cobertura.html)
+- [BlogCamp MG | Belo Horizonte - Cobertura](/blogcamp-belo-horizonte-cobertura.html)
 - [Meu primeiro relato sobre BlogCamps!](http://tecnoblog.net/archives/meu-primeiro-relato-sobre-blogcamps.php)
 - [BlogCampMG, eu fui!](http://blog.licio.eti.br/2007/11/18/blogcampmg-eu-fui/)
 - [Blogcamp MG, as peças raras da desconferencia](http://www.trankera.org/blog/2007/11/19/blogcamp-mg-as-pecas-raras-da-desconferencia/)
@@ -122,5 +116,3 @@ Queria deixar um grande abraço pra todos os participantes que conheci, foi um i
 Se quiserem ver mais fotos do BlogCamp MG, [no Flickr tem uma porrada](http://flickr.com/search/?q=blogcamp%20mg&w=all) da [galera toda que foi](http://flickr.com/search/?q=blogcampmg&w=all&s=int). Ainda não peguei todas, mas providenciarei isso rapidamente.
 
 Aquele abraço a todos e até a próxima.
-
-\[BBL\]blogcamp, blogcampmg, blogosfera, blogs, blogueiros, flickr, pessoais, tecnologia, twitter\[/BBL\]

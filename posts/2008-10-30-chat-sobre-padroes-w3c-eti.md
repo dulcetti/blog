@@ -1,12 +1,12 @@
 ---
-category: "Webstandards"
-date: "2008-10-30"
-description: ""
-featuredImage: ""
-title: "Chat sobre padrões W3C - ETI"
+category: 'Webstandards'
+date: '2008-10-30'
+description: ''
+featuredImage: ''
+title: 'Chat sobre padrões W3C - ETI'
 ---
 
-![Marca do ETI]/assets/images/post/logo-eti-maior.jpg)
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
 Daqui a pouco vai começar um chat modafoca de padrões W3C. A galera que tá organizando o ETI me chamou para mediar tal chat. Okay, eles são loucos, mas fazer o que né?
 

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-03-14"
-description: ""
-featuredImage: ""
-title: "Parabéns (despedida?) ao meu camarada Felipe Memória."
+category: 'Shots'
+date: '2007-03-14'
+description: ''
+featuredImage: ''
+title: 'Parabéns (despedida?) ao meu camarada Felipe Memória.'
 ---
 
 Primeiramente, desculpem a demora na postagem de algo aqui no Blog, o bicho tah pegando no trabalho e em casa também.
@@ -27,5 +27,3 @@ Mas a Globo.com não perdeu somente, pois ela ganhou bastante com o profissional
 Fico por aqui deixando aquele abraço pra você Memo. E que tudo dê certo nessa nova fase, nessa nova experiência, que você absorva muita coisa, aprenda bastante e ensine bastante. E que, logicamente, não esqueça dos amigos do Brasil, apareça pra um chopp, continue, sempre que der, dando aquelas palestras que só você sabe dar, continue escrevendo livros, etc.
 
 Bom, é isso. Boa sorte e aquele abraaaaaaaaaço.
-
-\[BBL\]despedida, felipe, globo, huge, memoria, pessoais\[/BBL\]

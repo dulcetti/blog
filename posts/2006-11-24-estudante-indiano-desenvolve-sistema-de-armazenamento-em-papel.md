@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-11-24"
-description: ""
-featuredImage: ""
-title: "Estudante indiano desenvolve sistema de armazenamento em papel"
+category: 'Tecnologia'
+date: '2006-11-24'
+description: ''
+featuredImage: ''
+title: 'Estudante indiano desenvolve sistema de armazenamento em papel'
 ---
 
 Um estudante indiano da região de Kerala diz ter inventado um sistema de armazenamento ecologicamente correto baseado em papel, que é capaz de compatar de 90 a 450 GB de informação em um único disco.
@@ -22,8 +22,6 @@ _Fonte:_ UOL Tecnologia
 
 ### Congratulações... Estou de boca aberta...
 
-Olha, muito bom em... Cada dia vejo como a tecnologia melhora... Achei perfeito e parabenizo o criador dessa idéia... Mais por ser ecologicamente correto (sou muito disso, naum jogo papel na rua, etc.)
+Olha, muito bom em... Cada dia vejo como a tecnologia melhora... Achei perfeito e parabenizo o criador dessa idéia... Mais por ser ecologicamente correto (sou muito disso, não jogo papel na rua, etc.)
 
 Que o mundo (e a tecnologia) continue assim... Parabens ao indiano Sainul Abideen...
-
-\[BBL\]uol, tecnologia, parabens, armazenamento, hd, papel, rvd, Rainbow Versatile Disc\[/BBL\]

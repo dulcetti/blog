@@ -1,9 +1,9 @@
 ---
-category: "Portfólio"
-date: "2007-08-30"
-description: ""
-featuredImage: ""
-title: "Portal Globo.com lança sua nova home"
+category: 'Portfólio'
+date: '2007-08-30'
+description: ''
+featuredImage: ''
+title: 'Portal Globo.com lança sua nova home'
 ---
 
 [![Imagem da Nova Home da Globo.com](http://g1.globo.com/Noticias/Tecnologia/foto/0,,11431586,00.jpg)](http://www.globo.com/)
@@ -32,7 +32,7 @@ A organização das informações continuam em evidência, com as informações 
 
 Tudo está com bastante espaço, para o conteúdo respirar, nenhuma informação sufocada, nada muito perto, tudo num espaço relativamente razoável e pensado milimétricamente (ou pixélicamente?).
 
-Agora está mais fácil de identificar o que é link e o que é texto. Praticamente tudo que for cinza, eh texto normal e o que tiver cor, é um link.
+Agora está mais fácil de identificar o que é link e o que é texto. Praticamente tudo que for cinza, é texto normal e o que tiver cor, é um link.
 
 Um destaque também para a barra superior, o famoso Topo :D. Houve uma mudança bem radical nessa área do site, que é uma das principais, pois é onde o usuário põe o olho de primeira. Em cada área específica do site, a opção ficará realçada, com uma cor mais clara e com uma altura maior, mostrando ao usuário em qual seção, onde ele está.
 
@@ -87,5 +87,3 @@ Vou postar aqui links que estão falando sobre o lançamento da nova home:
 E só pra constar, eu só implementei o código, não fiz o layout do Portal não ;).
 
 **\[/UPDATE\]**
-
-\[BBL\]1024x768, acessibilidade, bbb, bruno-dulcetti, criações, css, desafio, desenvolvimento, ferramentas, globo, globo.com, html, internet, layout, pessoais, tecnologia, usabilidade, xhtml\[/BBL\]

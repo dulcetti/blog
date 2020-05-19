@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2008-03-27"
-description: ""
-featuredImage: ""
-title: "Videolog lança v3"
+category: 'Tecnologia'
+date: '2008-03-27'
+description: ''
+featuredImage: ''
+title: 'Videolog lança v3'
 ---
 
 Sim, agora é oficial. O Videolog, maior, melhor, o mais fodástico e modafoca de todos os portais de vídeos, lança sua mais nova versão. A terceira, vulgo v3 ;)
@@ -18,7 +18,7 @@ Bom, como vocês já sabem, uma atualização, reestruturação, etc, etc, demor
 
 Sabemos também que ficar com um site, portal sem acesso, bloqueado, em manutenção e tudo mais, é uma porcaria, mas é inevitável. Mas nós pensamos em algo diferente, para a galera não ficar vendo somente uma tela com um "Aguarde" modafocas como vocês devem estar acostumados.
 
-[![Screen da tela provisoria do Videolog V3]/assets/images/post/tela-videolog-v3.jpg)](http://videolog.uol.com.br/lancamento-v3.html) Bem legal o desenho da tela não é modafoca?
+[![Screen da tela provisoria do Videolog V3](/assets/images/posts/tela-videolog-v3.jpg)](http://videolog.uol.com.br/lancamento-v3.html) Bem legal o desenho da tela não é modafoca?
 
 Sim, temos a tela com um aguarde, mas de uma forma bem criativa e original, como se fosse um wireframe, rascunho e tudo mais. E eu tive uma grande sacada na hora que recebi a tela. Os botões superiores, do menu mesmo, não tinham funcionalidade nenhuma. Só que o Dulça aqui resolveu colocar ações para eles. Ao clicar, o usuário recebia um alerta pra ele ter calma, que já estava ficando pronto ;) Foi ou não foi uma boa idéia?
 
@@ -44,7 +44,7 @@ Não exagere por favor. Não somos tão normais assim, principalmente Dulcetti a
 
 ### Você já experimentou o Videolog?
 
-[![Marca do Videolog]/assets/images/post/marca.gif)](http://www.videolog.tv "Visitar o site do Videolog")
+[![Marca do Videolog](/assets/images/posts/marca.gif)](http://www.videolog.tv 'Visitar o site do Videolog')
 
 Sim, você mesmo. Vai me dizer que nunca ouviu falar do Videolog? Tá falando sério? Ta mexendo com internet desde quando? Faça me o favor né.
 

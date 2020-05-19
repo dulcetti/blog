@@ -1,14 +1,14 @@
 ---
-category: "Shots"
-date: "2006-10-25"
-description: ""
-featuredImage: ""
-title: "Um ano de web standards, css e Bruno Dulcetti petulando vocês"
+category: 'Shots'
+date: '2006-10-25'
+description: ''
+featuredImage: ''
+title: 'Um ano de web standards, css e Bruno Dulcetti petulando vocês'
 ---
 
 Falae cambada...
 
-Na verdade esse post já tah velho, porque eu deveria ter postado dia 17 de outubro, pois foi quando ocorreu meu primeiro post nesse Blog, mas tudo bem, sem problemas, vocês entendem não eh verdade? Não? Blá blá pra vocês então.
+Na verdade esse post já tah velho, porque eu deveria ter postado dia 17 de outubro, pois foi quando ocorreu meu primeiro post nesse Blog, mas tudo bem, sem problemas, vocês entendem não é verdade? Não? Blá blá pra vocês então.
 
 ### É com imenso prazer que...
 
@@ -67,5 +67,3 @@ Bom, é isso ae cambada... Vou ficando por aqui, agradecendo à todos que postar
 Em breve postarei mais artigos, opiniões, notícias, sites como referência e tudo mais ok?
 
 Aquele abraço galera...
-
-\[BBL\]pessoais, blogosfera, blog, blogueiros, aniversário, um ano, imasters, videolog, parabéns, posts, amigos, posts, web-standards, webstandards, css, bruno dulcetti\[/BBL\]

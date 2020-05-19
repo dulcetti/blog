@@ -1,16 +1,16 @@
 ---
-category: "Webstandards"
-date: "2008-05-06"
-description: ""
-featuredImage: ""
-title: "Globo Esporte lança sua nova versão"
+category: 'Webstandards'
+date: '2008-05-06'
+description: ''
+featuredImage: ''
+title: 'Globo Esporte lança sua nova versão'
 ---
 
 ![Globo Esporte.com](http://globoesporte.globo.com/Portal/globoesporte/img/logos/globoesporte.gif)
 
 O mais esperado de todos, o mais acessado e o mais querido. Não, não é o flamengo, mas é outro que todos amam.
 
-Sim, aquele único portal, que faltava da Globo.com para ser lançado no novo padrão estabelecido alguns meses atrás e o [Ego]/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom.html), [G1]/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout.html), [Globo Vídeos]/globo-videos-nos-novos-padroes-globocom.html) e a [própria Home]/portal-globocom-lanca-sua-nova-home.html), é claro, já seguiam. Ele mesmo, o [Globo Esporte](http://globoesporte.globo.com) lançou sua nova versão, mais leve, mais legível, mais rápida e mais acessível.
+Sim, aquele único portal, que faltava da Globo.com para ser lançado no novo padrão estabelecido alguns meses atrás e o [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom.html), [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout.html), [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom.html) e a [própria Home](/portal-globocom-lanca-sua-nova-home.html), é claro, já seguiam. Ele mesmo, o [Globo Esporte](http://globoesporte.globo.com) lançou sua nova versão, mais leve, mais legível, mais rápida e mais acessível.
 
 ### Até que enfim hein Dulcetti...
 

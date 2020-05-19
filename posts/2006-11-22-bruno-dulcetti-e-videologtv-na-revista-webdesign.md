@@ -1,12 +1,12 @@
 ---
-category: "Publicações"
-date: "2006-11-22"
-description: ""
-featuredImage: ""
-title: "Bruno Dulcetti e Videolog.tv na Revista Webdesign."
+category: 'Publicações'
+date: '2006-11-22'
+description: ''
+featuredImage: ''
+title: 'Bruno Dulcetti e Videolog.tv na Revista Webdesign.'
 ---
 
-[![Thumb Matéria Revista Webdesign](http://static.flickr.com/107/303514629_66e34e9906.jpg?v=0)](http://www.flickr.com/photos/57613252@N00/303512813/in/photostream/ "Ver a foto ampliada")
+[![Thumb Matéria Revista Webdesign](http://static.flickr.com/107/303514629_66e34e9906.jpg?v=0)](http://www.flickr.com/photos/57613252@N00/303512813/in/photostream/ 'Ver a foto ampliada')
 
 E ae pessoal, tudo tranquilo? Por aqui tudo ótimo, melhor é quase impossível :D Brincadeira ;)
 
@@ -14,7 +14,7 @@ E ae pessoal, tudo tranquilo? Por aqui tudo ótimo, melhor é quase impossível 
 
 Vim aqui pra trazer uma notícia que eu gostei muito de saber. Estou na edição do mês de [Novembro da Revista Webdesign](http://www.revistawebdesign.com.br/), na seção **Tecnologia na WEB** com a matéria entitulada "Vídeos na web!".
 
-A imagem acima é uma thumb do bloco da página que teve a minha participação. É só clicar na imagem ou [neste link mesmo para ver a imagem ampliada](http://www.flickr.com/photos/57613252@N00/303512813/in/photostream/ "Ver a foto ampliada").
+A imagem acima é uma thumb do bloco da página que teve a minha participação. É só clicar na imagem ou [neste link mesmo para ver a imagem ampliada](http://www.flickr.com/photos/57613252@N00/303512813/in/photostream/ 'Ver a foto ampliada').
 
 ### Legal hein Bruno. Sobre o que que fala nessa matéria?
 
@@ -29,5 +29,3 @@ Agradecer ao pessoal da [Produzindo](http://www.produzindo.com.br/), que me deu 
 #### Aquele abraço
 
 Fico por aqui, valeu por tudo galera. Aquele abraço.
-
-\[BBL\]pessoais, videolog, video, vídeo, videos, entrevista, tecnologia, revista, webdesign, bruno dulcetti, desenvolvimento\[/BBL\]

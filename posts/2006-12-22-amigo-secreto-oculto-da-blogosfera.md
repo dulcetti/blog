@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-12-22"
-description: ""
-featuredImage: ""
-title: "Amigo Secreto (Oculto?) da Blogosfera..."
+category: 'Shots'
+date: '2006-12-22'
+description: ''
+featuredImage: ''
+title: 'Amigo Secreto (Oculto?) da Blogosfera...'
 ---
 
 Falae pessoal... Bom, o título é um pouco diferente, porque estou acostumado com amigo oculto ao invés de secreto como o Yahoo, entre outros sites e cidades chamam. :D
@@ -12,7 +12,7 @@ Falae pessoal... Bom, o título é um pouco diferente, porque estou acostumado c
 
 Okay, okay, não precisa ficar bravo :P
 
-Bom, resumindo, eu jah comentei sobre a Blogosfera aqui no meu blog, não vou falar sobre, se quiser visite o link ;).
+Bom, resumindo, eu já comentei sobre a Blogosfera aqui no meu blog, não vou falar sobre, se quiser visite o link ;).
 
 Dentro da Blogosfera, criamos um Amigo Secreto com alguns dos integrantes da lista. Infelizmente não deu pra colocar todos da lista, mas da próxima vez vamos ver se a coisa melhora ;)
 
@@ -20,11 +20,11 @@ Esse Amigo Secreto possui 26 integrantes, pelo menos é o que parece nos número
 
 ### Falou demais Bruno. Fala logo quem é ae.
 
-Bom, meu Amigo Secreto é o **Thiago Montini**, com o seu blog [Impermanentes.com.br](http://www.impermanentes.com.br "Visitar o Impermanentes.com.br"). Confesso que de primeira pensei comigo "Caramba, não o conheço não, e agora?". Alguns dos Blogueiros postaram isso também, é até meio engraçado, ficamos meio sem graça, mas como o [Janio](http://sarmento.org/janio/amigo-secreto-da-blogosfera/ "Visitar o Blog do Janio") disse, pode ser enriquecedor ou decepcionante. Mas na verdade acho sempre enriquecedor, por mais que você se decepcione com algum blog ou pessoa, pelo menos você descobriu isso não é verdade? Isso enriquece... ;)
+Bom, meu Amigo Secreto é o **Thiago Montini**, com o seu blog [Impermanentes.com.br](http://www.impermanentes.com.br 'Visitar o Impermanentes.com.br'). Confesso que de primeira pensei comigo "Caramba, não o conheço não, e agora?". Alguns dos Blogueiros postaram isso também, é até meio engraçado, ficamos meio sem graça, mas como o [Janio](http://sarmento.org/janio/amigo-secreto-da-blogosfera/ 'Visitar o Blog do Janio') disse, pode ser enriquecedor ou decepcionante. Mas na verdade acho sempre enriquecedor, por mais que você se decepcione com algum blog ou pessoa, pelo menos você descobriu isso não é verdade? Isso enriquece... ;)
 
 E como não poderia deixar de ser, visitei o Blog do Thiago e visitei vários posts para ver o foco do cara e gostei bastante. O Blog fala de tudo, de Circo a Religião, de Open Source a Surrealismo... Bastante coisa. Fiquei impressionado...
 
-Além do Thiago, [outros Blogueiros postam no Impermanentes](http://impermanentes.com.br/quem-escreve/ "Ver quem posta no Impermanentes"), deixando o Blog melhor e atual... Vale a visita e a assinatura do feed ;)
+Além do Thiago, [outros Blogueiros postam no Impermanentes](http://impermanentes.com.br/quem-escreve/ 'Ver quem posta no Impermanentes'), deixando o Blog melhor e atual... Vale a visita e a assinatura do feed ;)
 
 Parabéns ao Thiago e ao [Impermanentes.com.br](http://www.impermanentes.com.br) ;)
 
@@ -34,7 +34,7 @@ Queria parabenizar a galera da Blogosfera, que é uma lista bem movimentada e ri
 
 Mas creio que a galera entenda sobre isso... Assim espero :D
 
-E logicamente, queria agradecer o post do **Felipe Marinho** do [Blog de Cú é Rola](http://decuro.blogspot.com/), que foi quem me tirou no amigo oculto. Pelo nome do Blog já da pra se ter uma idéia não eh verdade? Posts sarcásticos, engraçados, úteis, etc, etc, etc. Vale a leitura com certeza. E o cara de quebra ainda falou que o meu site eh lindo :D. Valew ae Felipe
+E logicamente, queria agradecer o post do **Felipe Marinho** do [Blog de Cú é Rola](http://decuro.blogspot.com/), que foi quem me tirou no amigo oculto. Pelo nome do Blog já da pra se ter uma idéia não é verdade? Posts sarcásticos, engraçados, úteis, etc, etc, etc. Vale a leitura com certeza. E o cara de quebra ainda falou que o meu site é lindo :D. Valew ae Felipe
 
 Tá na vez agora do Thiago... Vai lá maluuuuco... Akele abraço...
 
@@ -60,7 +60,7 @@ Tá na vez agora do Thiago... Vai lá maluuuuco... Akele abraço...
 18. [Sérgio F. Lima](http://sergioflima.pro.br/blog/blogs/index.php?blog=1&title=amigo_secreto_brgizmo&more=1&c=1&tb=1&pb=1)
 19. [Juan Almeida](http://brgizmo.freehostia.com/blog/amigo-secreto-blogosfera/)
 20. [Felipe Marinho](http://decuro.blogspot.com/)
-21. [Bruno Dulcetti. Eu :D]/amigo-secreto-oculto-da-blogosfera.html)
+21. [Bruno Dulcetti. Eu :D](/amigo-secreto-oculto-da-blogosfera.html)
 22. [Thiago Montini](http://impermanentes.com.br/2006/12/22/amigo-secreto-da-blogosfera-2/)
 23. [Hilder Santos](http://www.pimentacomdende.com/2006/12/26/para-meu-amigo-nada-secreto/) **Update!**
 24. [Douglas Corrêa](http://www.gravateiros.com.br/2006/12/23/amigo-secreto-da-blogosfera/) **Update!**
@@ -72,5 +72,3 @@ Quando a galera for postando, vou atualizando aqui blz?
 Pronto galera, Amigo Oculto finalizado. Muito legal ter participado desse "empreendimento" da Blogosfera :D
 
 Aquele abraço para todos que participaram e para toda a [Blogosfera](http://br.groups.yahoo.com/group/blogosfera/).
-
-\[BBL\]amigo-oculto, amigo-secreto, amigosecreto2006, amizade, blog, blogosfera, blogueiros, pessoais, blogs\[/BBL\]

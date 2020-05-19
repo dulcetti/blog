@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-07-24"
-description: ""
-featuredImage: ""
-title: "Tchau tchau Spammers by Akismet"
+category: 'Tecnologia'
+date: '2006-07-24'
+description: ''
+featuredImage: ''
+title: 'Tchau tchau Spammers by Akismet'
 ---
 
 Há um pouquinho mais de um mês, vinha recebendo diversos comentários de spammers malditos que existem por aí na internet. Falavam principalmente de sexo, ou então enviavam dezenas de urls, falavam do viagra, ringtones, etc...
@@ -18,6 +18,6 @@ Mas até que descobri o [Akismet](http://akismet.com/), um plugin pro [Wordpress
 
 Agora, aqui no Wordpress, tem uma aba do Akismet. Fui dar uma olhadinha, tinha quase 1000 comentários acumulados. Achei bizarro. Pra ver como fui bombardeado.
 
-Eu imagino como deve ser Blogs mais visitados, com PageRank acima de 5, etc... Mas temos que conviver com isso não eh verdade?
+Eu imagino como deve ser Blogs mais visitados, com PageRank acima de 5, etc... Mas temos que conviver com isso não é verdade?
 
-Então eh isso... Akele abraço a todos.
+Então é isso... Akele abraço a todos.

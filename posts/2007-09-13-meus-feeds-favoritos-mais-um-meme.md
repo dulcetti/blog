@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-09-13"
-description: ""
-featuredImage: ""
-title: "Meus feeds favoritos - Mais um meme"
+category: 'Shots'
+date: '2007-09-13'
+description: ''
+featuredImage: ''
+title: 'Meus feeds favoritos - Mais um meme'
 ---
 
 Depois de algum tempo sem participar de memes, [fui convidado pelo Flávio Theruo Kaminisse](http://www.japs.etc.br/2007/09/meus-feeds-favoritos/), vulgo [Japs](http://www.japs.etc.br/) :D a participar deste meme.
@@ -26,5 +26,3 @@ Na verdade, tem muito tempo que não entro direto em um blog e talz, mas vou col
 Convido agora pra participar, praticamente todos dessa lista que falei :D : o [Mico](http://elmicox.blogspot.com/), o [Pancho](http://blog.lucasferreira.com/), o [Rogério](http://rogeriolino.wordpress.com/) e o [Muniz](http://rodrigomuniz.com/). Só não convido o Walmar e o Leandro porque eles já foram convidados umas outras trocentas vezes :D
 
 Akele abraço.
-
-\[BBL\]blogosfera, blogs, meme, pessoais\[/BBL\]

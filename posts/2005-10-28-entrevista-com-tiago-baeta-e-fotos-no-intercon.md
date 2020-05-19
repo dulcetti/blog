@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2005-10-28"
-description: ""
-featuredImage: ""
-title: "Entrevista com Tiago Baeta e Fotos no InterCon"
+category: 'Shots'
+date: '2005-10-28'
+description: ''
+featuredImage: ''
+title: 'Entrevista com Tiago Baeta e Fotos no InterCon'
 ---
 
 Falae pessoal. Aqui estou eu mais uma vez. Primeiramente agradecer quem mandou email, entrou em contato pelo MSN, etc, para agradecer, elogiar o Artigo postado ontem. É uma honra pra mim, saber que estou podendo ajudar os outros, de uma forma clara e objetiva. Tanto no fórum iMasters, quanto nos Artigos. Semana que vem tem mais, aguardem.
@@ -24,7 +24,7 @@ Mas o que podemos garantir é que, se for realizado, será no mesmo estilo. Nada
 
 Espero que tenham gostado da entrevista. Queria agradecer a atenção e disponibilidade do Baeta. E com certeza, assim como eu, todos aqui esperam ansiosamente, não somente eventos, mas por idéias do iMasters, inovadoras e com qualidade.
 
-Venho aqui também postar algumas fotos do evento iMasters Intercon 2005. algumas fotos com a galera que foi do rio, junto comigo. Espero que gostem das fotos, é só clicar para vê-las maiores. Seguem abaixo: [![Galera do Rio no InterCon 2005](http://www.brunodulcetti.com/imgs/fotosBlog/galeraIntercon01.jpg)](http://www.brunodulcetti.com/imgs/fotosBlog/galeraIntercon01.jpg "Galera do Rio no InterCon 2005 [Este link abre em uma nova janela]") [![Galera do Rio no InterCon 2005](http://www.brunodulcetti.com/imgs/fotosBlog/galeraIntercon02.jpg)](http://www.brunodulcetti.com/imgs/fotosBlog/galeraIntercon02.jpg "Galera do Rio no InterCon 2005 [Este link abre em uma nova janela]")
+Venho aqui também postar algumas fotos do evento iMasters Intercon 2005. algumas fotos com a galera que foi do rio, junto comigo. Espero que gostem das fotos, é só clicar para vê-las maiores. Seguem abaixo: [![Galera do Rio no InterCon 2005](/assets/images/posts/galeraIntercon01.jpg)](/assets/images/posts/galeraIntercon01.jpg 'Galera do Rio no InterCon 2005 [Este link abre em uma nova janela]') [![Galera do Rio no InterCon 2005](/assets/images/posts/galeraIntercon02.jpg)](/assets/images/posts/galeraIntercon02.jpg 'Galera do Rio no InterCon 2005 [Este link abre em uma nova janela]')
 
 Na primeira eu to com cara de marrento... :D Na segunda eu to dando uma "folderzada" no Fabiano... hehehehehe... Grande pessoal, muito bom conhecer a galera toda. Depois colocarei mais fotos.
 

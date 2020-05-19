@@ -1,12 +1,12 @@
 ---
-category: "CSS"
-date: "2007-04-23"
-description: ""
-featuredImage: ""
-title: "Como você escreve seus arquivos CSS? Parte 2"
+category: 'CSS'
+date: '2007-04-23'
+description: ''
+featuredImage: ''
+title: 'Como você escreve seus arquivos CSS? Parte 2'
 ---
 
-Dando continuidade ao [post anterior]/como-voce-escreve-seus-arquivos-css.html), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
+Dando continuidade ao [post anterior](/como-voce-escreve-seus-arquivos-css.html), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
 
 ### Ferramentas compactadoras de CSS's
 
@@ -33,11 +33,17 @@ Bom, retornando ao assunto do Post, vou comentar sobre mais alguns pontos de esc
 
 Quando falo de hierarquia de elementos no CSS, estou falando de elementos filhos sendo hierarquizados dentro dos arquivos CSS's. Eu, na grande maioria das vezes, não faço hierarquia, utilizando somente a div correspondente.
 
-Explicarei melhor agora, porque está meio confuso. Veja o código abaixo: `#geral #conteudo #minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}`
+Explicarei melhor agora, porque está meio confuso. Veja o código abaixo: ```css
+#geral #conteudo #minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+
+````
+
 
 Olhando o código, se vc possui o mínimo de conhecimento em CSS, vc percebe que os ID's #minhaDiv, #minhaDiv2 e #minhaDiv3 são "filhas" do ID #conteudo que é filho do ID #geral certo?
 
-Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma: `#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}`
+Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma: ```css
+#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+````
 
 Economizei bastante, pois retirei o "_#geral #conteudo_ " das linhas.
 
@@ -47,7 +53,10 @@ Muitos desenvolvedores utilizam a forma hierárquica, pois fica fácil de saber 
 
 #### Referência de Tags
 
-Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar: `div#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} div#minhaDiv span.minhaClasse {color:#666;} div#minhaDiv a.verMais {text-decoration:none;}`
+Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar: `div#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} div#minhaDiv span.minhaClasse {color:#666;} div#minhaDiv a.verMais {text-decoration:none;}
+
+```
+
 
 Agora uma breve explicação sobre cada linha:
 
@@ -75,4 +84,5 @@ Bom, essa segunda parte é bem menor que a primeira e é assim que eu tentarei f
 
 Aquele abraço e valew a contribuição de todos.
 
-\[BBL\]artigos, css, escrita-no-css\[/BBL\]
+
+```

@@ -1,14 +1,14 @@
 ---
-category: "Tecnologia"
-date: "2006-07-20"
-description: ""
-featuredImage: ""
-title: "Atalhos e Dicas pro Desenvolvimento"
+category: 'Tecnologia'
+date: '2006-07-20'
+description: ''
+featuredImage: ''
+title: 'Atalhos e Dicas pro Desenvolvimento'
 ---
 
 Falae pessoal.
 
-Aqui estou eu novamente. Mas só que desta vez não falarei de webstandards, css, flash, php e afins. Darei algumas dicas, para quem ainda naum conhece logicamente, na hora do desenvolvimento dos seus códigos, sistemas, css, html, até textos no word, entre outros.
+Aqui estou eu novamente. Mas só que desta vez não falarei de webstandards, css, flash, php e afins. Darei algumas dicas, para quem ainda não conhece logicamente, na hora do desenvolvimento dos seus códigos, sistemas, css, html, até textos no word, entre outros.
 
 Na hora de digitar seus textos, vc geralmente precisa selecionar alguma parte dele, deletar uma letra ou palavra, precisa ir ao fim do documento, início, etc. Existem alguns atalhos legais, alguns conhecidos e outros não, que mostrarei aqui para vocês:
 
@@ -42,13 +42,13 @@ O inverso do anterior. Seleciona de uma parte, até o início do documento. Ex: 
 
 ##### » Obs:
 
-Para fazer estes dois atalhos em linhas, é só vc naum apertar o Ctrl, somente o Shift+End para selecionar do ponto ao final da linha e Shift+Home para selecionar do ponto ao início da linha.
+Para fazer estes dois atalhos em linhas, é só vc não apertar o Ctrl, somente o Shift+End para selecionar do ponto ao final da linha e Shift+Home para selecionar do ponto ao início da linha.
 
 ### Pular palavras
 
 #### Ctrl+Seta(← esquerda ou direita →)
 
-Esse atalho, serve para você não ter que ficar pressionando a tecla de seta e passando de caracter por caracter, que às vezes enxe o saco e ir pulando de palavra em palavra. Ex: Temos a frase: Bruno Dulcetti é feio. Tudo bem, é mentira, mas isso naum vem ao caso :D. Você estando antes da palavra "Bruno" e apertando o atalho mais a seta pra direita →, o cursor do teclado vai até o início da palavra "Dulcetti" e vice-versa, estando no início da palavra "Dulcetti" e apertando o atalho mais a seta pra esquerda ←, o cursor do teclado irá para o início da palavra "Bruno".
+Esse atalho, serve para você não ter que ficar pressionando a tecla de seta e passando de caracter por caracter, que às vezes enxe o saco e ir pulando de palavra em palavra. Ex: Temos a frase: Bruno Dulcetti é feio. Tudo bem, é mentira, mas isso não vem ao caso :D. Você estando antes da palavra "Bruno" e apertando o atalho mais a seta pra direita →, o cursor do teclado vai até o início da palavra "Dulcetti" e vice-versa, estando no início da palavra "Dulcetti" e apertando o atalho mais a seta pra esquerda ←, o cursor do teclado irá para o início da palavra "Bruno".
 
 Eu acho esse um dos mais úteis.
 

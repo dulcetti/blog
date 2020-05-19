@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-12-08"
-description: ""
-featuredImage: ""
-title: "Página de erro do Superdownloads. By Chuck Norris."
+category: 'Shots'
+date: '2006-12-08'
+description: ''
+featuredImage: ''
+title: 'Página de erro do Superdownloads. By Chuck Norris.'
 ---
 
 Essa eu tinha que postar, muito comédia, tive que rir, e muito, com essa sacada do pessoal do [Superdownloads](http://superdownloads.uol.com.br/).
@@ -22,5 +22,3 @@ Belíssima idéia, gostei bastante. Mais uma sátira contra essa figuraça que �
 Querem ver a página? É só digitar qualquer nome errado, sme nexo no superdownloads que eles já redirecionam. [Mas segue um exemplo aqui.](http://superdownloads.uol.com.br/xyz.html)
 
 Aquele abraço.
-
-\[BBL\]pessoais, tecnologia, chuck norris, comedia, superdownloads, downloads, erro\[/BBL\]

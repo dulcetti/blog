@@ -1,12 +1,12 @@
 ---
-category: "Shots"
-date: "2006-12-04"
-description: ""
-featuredImage: ""
-title: "Previsões (e algumas viagens?) para o ano de 2007"
+category: 'Shots'
+date: '2006-12-04'
+description: ''
+featuredImage: ''
+title: 'Previsões (e algumas viagens?) para o ano de 2007'
 ---
 
-![Mãe Dinah](http://www.brunodulcetti.com/imgs/maedinah.jpg)
+![Mãe Dinah](/assets/images/posts/maedinah.jpg)
 
 Meu camarada [Fábio Seixas](http://blog.fabioseixas.com.br/) deu início a uma [saga de previsões, sugestões, seja lá o que for para o ano de 2007](http://blog.fabioseixas.com.br/archives/2006/12/2007.html). Alguns outros blogueiros fizeram o mesmo e está na minha vez de fazer isso também. No final do post eu faço um trackback para todos e espero que eles e todos q postem sobre façam o mesmo :D
 
@@ -26,10 +26,10 @@ Meu camarada [Fábio Seixas](http://blog.fabioseixas.com.br/) deu início a uma 
 - Que o [Videolog.tv](http://www.videolog.tv) alavanque de vez com a nova parceria.
 - Que o Youtube vá a falência, tornando o [Videolog.tv](http://www.videolog.tv) o maior Portal do Gênero. :P
 - Que o brasileiro dê mais valor ao que é feito por brasileiros e parem de dar valor, somente, aos produtos criados por estrangeiros (principalmente americanos);
-- Que o Brasil naum seja referência positiva somente em futebol e vôlei.
+- Que o Brasil não seja referência positiva somente em futebol e vôlei.
 - Que as pessoas utilizem a resolução que acharem melhor no monitor e os desenvolvedores desenvolvam de acordo com seus clientes e não pelo seu gosto.
 - Que os blogueiros tenham coragem para utilizar trackbacks, ou pelo menos deixem ativos nos seus blogs :D
-- Criar mais amigos online e blogueiros, que conversem e enriqueçam meus conhecimentos. (mas que também naum petulem tanto ok? :D)
+- Criar mais amigos online e blogueiros, que conversem e enriqueçam meus conhecimentos. (mas que também não petulem tanto ok? :D)
 
 É isso ae. Com certeza esqueci de alguma coisa, mas deixa pra lah... Qualquer coisa eu vou atualizando aqui. A cada trackback pra mim, eu atualizo essa listagem abaixo ok? Segue abaixo os blogueiros que falaram sobre as previsões 2007:
 
@@ -50,5 +50,3 @@ Meu camarada [Fábio Seixas](http://blog.fabioseixas.com.br/) deu início a uma 
 15. [blog palmeirense falador](http://kadu.ducz.com/?p=603) **\[UPDATE\]**
 
 Aquele abraço.
-
-\[BBL\]2007, amigos, blog, blogosfera, blogueiros, brasil, bruno-dulcetti, dicas, pessoais, previsoes2007\[/BBL\]

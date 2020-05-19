@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-04-25"
-description: ""
-featuredImage: ""
-title: "Movimento Blog Voluntário. Acentuação e Códigos no Mac."
+category: 'Shots'
+date: '2008-04-25'
+description: ''
+featuredImage: ''
+title: 'Movimento Blog Voluntário. Acentuação e Códigos no Mac.'
 ---
 
 [![Blog Voluntário](http://www.blogvoluntario.org.br/img/ban/Selo-120-x-120.jpg)](http://www.blogvoluntario.org.br)
@@ -32,7 +32,7 @@ E lógico que você não vai apresentar só que ele tinha um bigode bisonho e qu
 
 Sim, eu imagino. Mas é simples. O que você teria que fazer neste caso? Ir até uma biblioteca e pesquisar, ler livros, pegar fotos e tudo mais sobre o Einstein certo? Até mesmo a internet lhe serviria, com certeza.
 
-Você nunca vai começar a falar sobre algo ou alguém, sem saber pelo menos o básico sobre o assunto. E é a mesma coisa que acontece no mundo digital. Você vê vários usuários entrando em blogs, fóruns, perguntando sobre [formulários]/formulario-em-php), [meta tags]/quais-e-como-utilizar-as-meta-tags-na-sua-pagina), css, webstandards, php e tudo mais, mas o cara não se deu o trabalho de pelo menos saber a origem, pra que serve, porque aquilo é assim, etc, etc, etc.
+Você nunca vai começar a falar sobre algo ou alguém, sem saber pelo menos o básico sobre o assunto. E é a mesma coisa que acontece no mundo digital. Você vê vários usuários entrando em blogs, fóruns, perguntando sobre [formulários](/formulario-em-php), [meta tags](/quais-e-como-utilizar-as-meta-tags-na-sua-pagina), css, webstandards, php e tudo mais, mas o cara não se deu o trabalho de pelo menos saber a origem, pra que serve, porque aquilo é assim, etc, etc, etc.
 
 ### Entendi Bruno. Interessante esse seu ponto.
 

@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2007-06-30"
-description: ""
-featuredImage: ""
-title: "Quando foi a primeira vez que ouviu falar de web standards?"
+category: 'Webstandards'
+date: '2007-06-30'
+description: ''
+featuredImage: ''
+title: 'Quando foi a primeira vez que ouviu falar de web standards?'
 ---
 
 [Seguindo o post](http://rodrigomuniz.com/blog/lembra-a-primeira-vez-que-ouviu-falar-de-web-standards/) que o [Rodrigo Muniz](http://rodrigomuniz.com/) escreveu, resolvi fazer um parecido, como se fosse um [meme](http://pt.wikipedia.org/wiki/Meme) sobre esse assunto.
@@ -39,5 +39,3 @@ Deixando as brincadeiras, é bom relembrar o passado, os velhos métodos, que gr
 E que a cada dia se renove mais e mais. Microformats, Web n.0, etc, etc, etc... :D
 
 Aquele abraço.
-
-\[BBL\]css, meme, microformats, tableless, web-standards, webdesign, webstandards\[/BBL\]

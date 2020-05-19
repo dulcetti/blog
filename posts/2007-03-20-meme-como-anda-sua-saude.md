@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-03-20"
-description: ""
-featuredImage: ""
-title: "Meme: Como anda sua saúde?"
+category: 'Shots'
+date: '2007-03-20'
+description: ''
+featuredImage: ''
+title: 'Meme: Como anda sua saúde?'
 ---
 
 E ae pessoal.
@@ -22,7 +22,7 @@ Geralmente, uma visão que fazem dos profissionais que trabalham com internet, �
 
 E por essa coisa de trabalhar sentado em frente ao micro, monitor e talz, falta saúde para nós, etc. E esse meme é para ver como anda a saúde dos Blogueiros, etc. Não vou alongar muito essa explicação não :P
 
-### E sua saúde Brunaum? Como vai?
+### E sua saúde Brunão? Como vai?
 
 Vai muito bem obrigado. Mas não é fácil manter uma vida saudável, principalmente para quem trabalha com internet, desenvolvimento, etc. Aliás, não é fácil pra ninguém ,vamos ser sinceros. Só para quem já tem a vida ganha :D
 
@@ -78,5 +78,3 @@ Convoco os seguintes Blogueiros:
 E valew pela citação (pseudo) [Rafael Cardoso](http://porqueveio.com/). Aquele abraço à todos.
 
 ps: Como diria um energumeno da Escolinha do Professor Raimundo "Saúde é o que interessa, o resto não tem pressa". :D
-
-\[BBL\]blogosfera, blogueiros, como anda saude, esportes, exercicios, meme, pessoais, saude\[/BBL\]

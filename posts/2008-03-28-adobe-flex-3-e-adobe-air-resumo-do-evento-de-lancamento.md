@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2008-03-28"
-description: ""
-featuredImage: ""
-title: "Adobe Flex 3 e Adobe AIR - Resumo do Evento de Lançamento"
+category: 'Eventos'
+date: '2008-03-28'
+description: ''
+featuredImage: ''
+title: 'Adobe Flex 3 e Adobe AIR - Resumo do Evento de Lançamento'
 ---
 
 Hoje, logo após o viradão no Videolog para o lançamento do V3, lá foi Dulcetti para o Evento de Lançamento do Flex 3 e o Adobe AIR. Completamente cansado, praticamente virado, todo modafoca, mas vamo que vamo.
@@ -14,7 +14,7 @@ O local eu já conhecia, belo prédio, espaço fodástico e tudo mais. A palestr
 
 Eu cheguei um pouco atrasado devido ao lançamento do V3, com isso, não consegui pegar a palestra toda dele sobre o Flex 3. Mas tá blz, semp problemas mesmo.
 
-E como vocês sabem, o cara é gringo e teve tradução simultânea, mas o problema foi que eu cheguei atrasado e nem peguei o fonezim modafoca, para ouvir a tradução e talz. Fui na cara e na coragem, ouvindo em inglês mermo. Até que me sai mais ou menos. Consegui entender pelo menos uns 50%, 60% fo que ele falava, e jah deu pra quebrar um galho legalzim.
+E como vocês sabem, o cara é gringo e teve tradução simultânea, mas o problema foi que eu cheguei atrasado e nem peguei o fonezim modafoca, para ouvir a tradução e talz. Fui na cara e na coragem, ouvindo em inglês mermo. Até que me sai mais ou menos. Consegui entender pelo menos uns 50%, 60% fo que ele falava, e já deu pra quebrar um galho legalzim.
 
 Quando eu cheguei, ele falou da diferença entre aplicativos offline e online. Citou o Google Docs e o Office da Microsoft, da diferença entre as aplicações, vantagens e desvantagens, etc, etc, etc.
 
@@ -58,7 +58,7 @@ Já sabia que você pensaria nisso e fosse perguntar. Simples, ele conecta a cri
 
 Também achei. Principalmente rodando, perfeitinho.
 
-Abaixo vou citar alguns pontos importantes captados por mim mesmo, oh que legal hein ;)
+Abaixo vou citar alguns pontos importantes captados por mim mesmo, óque legal hein ;)
 
 ### Adobe AIR Multi Plataforma
 

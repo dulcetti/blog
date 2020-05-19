@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2007-12-04"
-description: ""
-featuredImage: ""
-title: "BlogCamp PR - O Melhor de Todos"
+category: 'Eventos'
+date: '2007-12-04'
+description: ''
+featuredImage: ''
+title: 'BlogCamp PR - O Melhor de Todos'
 ---
 
 ![Marca do BlogCamp PR](http://www.webalive.com.br/images/logo_blogpr.jpg)
@@ -30,7 +30,7 @@ A última vez que eu tinha andado de avião foi no Intercon 2006. A vantagem é 
 
 Alguns motivos me forçaram a ir de avião. O primeiro e principal foi que de ônibus são 13h, 14h de viagem. Improvável. Eu tava com uma graninha pra ir d avião, então foda-se o ônibus.
 
-A segunda, que para alguns poderia ser o melhor motivo, mas que pra mim ia virar a maior raiva do evento, foi a promoção da Gol "Cinquentinha, cinquentão". Comprei a passagem de volta por R$50, olha que blz. Uma grana sucesso para viajar de avião com muito conforto (mentindo de novo). Maldita promoção.
+A segunda, que para alguns poderia ser o melhor motivo, mas que pra mim ia virar a maior raiva do evento, foi a promoção da Gol "Cinquentinha, cinquentão". Comprei a passagem de volta por R\$50, olha que blz. Uma grana sucesso para viajar de avião com muito conforto (mentindo de novo). Maldita promoção.
 
 ##### Tensão a caminho do Aeroporto Galeão
 
@@ -50,7 +50,7 @@ Bom, lá fomos nós até o Hotel. Pegamos o Ariel e partimos pra algum lugar pra
 
 Logicamente que eu, junto com o Mackeenzy tivemos que zuar umas garotas que estavam no bar. Lindas, pra variar. Lah foi o Mackeenzy com sua cara-de-pau anormal pedir pra tirar foto com a moça. Ela toda sem graça ficou se escondendo. Blá blá.
 
-Depois disso, partimos para um bar chamado Off-Road, onde a galera toda estava lah, no Welcome Blogdrink. Conheci parte da galera, alguns que eu já conhecia do [BlogCamp MG]/retrospectiva-blogcamp-mg.html) e do [Intercon 2007]/retrospectiva-intercon-2007.html). Logicamente umas caras novas que fui conhecendo ao decorrer da madruga.
+Depois disso, partimos para um bar chamado Off-Road, onde a galera toda estava lah, no Welcome Blogdrink. Conheci parte da galera, alguns que eu já conhecia do [BlogCamp MG](/retrospectiva-blogcamp-mg.html) e do [Intercon 2007](/retrospectiva-intercon-2007.html). Logicamente umas caras novas que fui conhecendo ao decorrer da madruga.
 
 Mas esse dia não foi nada demais. Não falei direito com muita gente, só um foi, olá, etc. Queria ter aproveitado mais, mas só que o Mackeenzy e Ariel estavam mortos e fomos pro hotel bater um ronco.
 
@@ -72,7 +72,7 @@ Não satisfeito em rever todos, tive o imenso prazer em conhecer o [Rafael Ziggy
 
 Como sempre rolava as desconferências, pessoal se conhecendo, conversando sobre tecnologia e tudo mais. Alguns me paravam, perguntavam sobre a Globo.com e seus projetos, sobre o Videolog, etc. Alguns filmando, outros tirando fotos.
 
-Juntei-me a um grupo que estavam falando sobre naum lembro o que. Tava lá a bela Dani Koetz. Acho que esse era um dos motivos para a galera estar lá né, naum sei. Durante o papo, descobri que ela é diabética como eu. Achei manero e o papo rolou por vários minutos, falei que dançava e dae foi mais um atrativo pro papo. Simpática a moça de cabelos castanhos com luzes quase lora :D
+Juntei-me a um grupo que estavam falando sobre não lembro o que. Tava lá a bela Dani Koetz. Acho que esse era um dos motivos para a galera estar lá né, não sei. Durante o papo, descobri que ela é diabética como eu. Achei manero e o papo rolou por vários minutos, falei que dançava e dae foi mais um atrativo pro papo. Simpática a moça de cabelos castanhos com luzes quase lora :D
 
 ##### E começa o BlogCamp PR...
 
@@ -84,7 +84,7 @@ O engraçado foi o "Bingo" rolando cada vez que a galera falava uma palavra-chav
 
 ###### "Bom dia galera, eu sou o Gustavo e eu não fumo maconha"
 
-Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [Gustavo](http://gustafari.com.br/) levanta e se apresenta assim. Foi risada pra tudo quanto eh lado por alguns minutos. Tinha que ter um momento manero nessa apresentação neh? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
+Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [Gustavo](http://gustafari.com.br/) levanta e se apresenta assim. Foi risada pra tudo quanto é lado por alguns minutos. Tinha que ter um momento manero nessa apresentação neh? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
 
 Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo pra mim, mas fiquei para ver e talz. Depois disso rolou um almoço. Tinha um espaço com um restaurante, estilo cantina. Comida barata e gostosinha. Nada demais, mas era barata e aceitava VR :D
 
@@ -110,18 +110,12 @@ Várias fotos maneiras, legais, etc. [Vocês podem ver outras fotos no flickr](h
 
 Depois das fotos, uma galera foi pra dentro dos auditórios, etc. No principal, o Ziggy começou a imitar o Silvio Santos. Começava a surgir outro ícone no evento, o Ziggy Santos. Várias gargalhadas rolando na platéia. A imitação não chegava ser tãooo perfeita assim, mas a improvisação, as idéias, as sacadas dele, eram sensacionais. Fora quando todos ficavam em silêncio e lá vinha ele com seu famoso _"cri cri cri"_. Sensacional. Eu ria cada vez mais com isso.
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=285170&amp;v=06/15/285170&amp;v_hd=&amp;relacionados=S&amp;default=S&amp;cor_fundo=000000&amp;swf=1&amp;width=515&amp;height=416", "videolog0004", "515", "416");
 	flashVideolog.write();
 -->
 </script>
-
- 
-
-	  
 
 Depois do Ziggy Santos, foram escolhidos três temas iniciais nas três salas:
 
@@ -137,7 +131,7 @@ Lá fui eu lá pra fora. Com isso, começava a aparecer o terceiro ícone do Blo
 
 Comecei como o mulek piranha, dançarino de funk, fazendo a batida em que todos identificavam como o "Hino do Dul7". Não vou ficar colocando onomatopéias no Blog, pq vai ficar ridículo. Só ouvindo mesmo. (Tuntchatcha tchukuntchukuntcha... ok, não resisti :P)
 
-[![Eu e as Meninas da Playboy](http://farm3.static.flickr.com/2181/2084080066_a43c108c9d.jpg?v=0)](http://www.flickr.com/photos/digitaldrops/2084080066/) Sim. Pasmem. Esse eh o Dulcetti saltando uma moita.
+[![Eu e as Meninas da Playboy](http://farm3.static.flickr.com/2181/2084080066_a43c108c9d.jpg?v=0)](http://www.flickr.com/photos/digitaldrops/2084080066/) Sim. Pasmem. Esse é o Dulcetti saltando uma moita.
 
 Nego ria a cada mexida no ombro que eu fazia, dançando no estilo aleijadinho, ou minhas caras de putão que eu fazia. Fora as fotos que eu tirava fazendo careta, ou zuando as meninas do Axe.
 
@@ -149,18 +143,12 @@ Mas a grande maioria queria mais me ver pulando e me fudendo depois da moita mes
 
 Veja o vídeo com o salto abaixo:
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog2 = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=285238&amp;v=13/19/285238&amp;v_hd=&amp;relacionados=S&amp;default=S&amp;cor_fundo=000000&amp;swf=1&amp;width=515&amp;height=416", "videolog0005", "515", "416");
 	flashVideolog2.write();
 -->
 </script>
-
- 
-
-	  
 
 Como diria o Nick Ellis, depois desse salto, eu posso ir para as olimpíadas ano que vem :D Mas depois dessas performances, o ícone Dul7 ainda viria a se tornar mais engraçado ainda.
 
@@ -188,18 +176,12 @@ Uma das tarefas que poderia parecer impossível foi feita. Mesmo com as três su
 
 O cara começou a imitar novamente o Silvio Santos, como comentei lá em cima. Foi sensacional, pois dessa vez teve participação do Mackeenzy imitando o Roque, Marlene Matos e Tim Maia. Era o momento de furor da galera. Nessa hora que os ícones chamaram mais ainda a atenção.
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog3 = new Flash("http://www.vimeo.com/moogaloop.swf?clip_id=415849&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=", "videolog0005", "515", "416");
 	flashVideolog3.write();
 -->
 </script>
-
- 
-
-	  
 
 ##### Os Coolnex Cards marcam presença...
 
@@ -209,18 +191,12 @@ E claro, foi o Ziggy Santos que foi chamando um por um.
 
 #### Segundo Dia (Parte 5 – O Retorno do JEDI) – O Retorno da Galera ao Hotel, incluindo o JEDI Dul7
 
- 
-
 <script type="text/javascript">
 <!--
 	var flashVideolog4 = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=140173&v=52/3a/140173&v_hd=&relacionados=S&default=S&cor_fundo=000000&swf=1&width=515&height=416", "videolog0007", "515", "416");
 	flashVideolog4.write();
 -->
 </script>
-
- 
-
-	  
 
 Posso destacar as minhas imitações do Gil Brother, o famoso Away de Petrópolis, terrinha que eu já morei. Nego morria de rir dentro da Van, no retorno ao Hotel. E pior que eu gravei as falas de vários episódios. Sou fã dele. Essa foi pra você Manoel Netto. :D
 
@@ -234,9 +210,9 @@ Retornamos ao Hotel, cada um pro seu quarto. Estava pra começar a mais foda dos
 
 [![Geral no Bar](http://farm3.static.flickr.com/2352/2083693179_bc3f3c0814.jpg?v=0)](http://www.flickr.com/photos/microestudio/2083693179/) Galera Animaaaaada. Alguns até demais. Bêbado. Aff.
 
-E lá fomos nós. Rumo ao bar do Alemão. Bem estiloso, pra quem é do Rio, lembra a Lapa, pra quem é de Minas, lembra um pouco Ouro Preto, bem legal. E como não podia deixar de ser, tinha umas pessoas estranhas, uns emos, Grunges, mas isso existe em tudo qnt eh lugar mesmo.
+E lá fomos nós. Rumo ao bar do Alemão. Bem estiloso, pra quem é do Rio, lembra a Lapa, pra quem é de Minas, lembra um pouco Ouro Preto, bem legal. E como não podia deixar de ser, tinha umas pessoas estranhas, uns emos, Grunges, mas isso existe em tudo qnt é lugar mesmo.
 
-E toma-lhe cerveja, chopp, cachaça e vamo que vamo. Algumas pessoas já estava ficando meio bêbadas, nego naum bebe direito, dá nisso. Qnd surge um anjo, não foi o [Rafael Arcanjo](http://arcanjo.org), foi o Bruno Travolta Dulcetti mesmo. Dei um refrigerante nego ficou tranqüilo e continuaram sem problema nenhum. No dia seguinte me agradeceram por isso. :D
+E toma-lhe cerveja, chopp, cachaça e vamo que vamo. Algumas pessoas já estava ficando meio bêbadas, nego não bebe direito, dá nisso. Qnd surge um anjo, não foi o [Rafael Arcanjo](http://arcanjo.org), foi o Bruno Travolta Dulcetti mesmo. Dei um refrigerante nego ficou tranqüilo e continuaram sem problema nenhum. No dia seguinte me agradeceram por isso. :D
 
 Algumas pessoas passando um pouco mal, algumas alegres, outras querendo dançar (eu? Dani? Mirian?), outras querendo beber até cair, etc. Tem de tudo na Blogosfera. Só sei que esse bar foi sucesso, aproximou ainda mais a galera, como não poderia deixar de ser. Mas como saímos cedo, a conta até saiu barata. O pessoal tah me decepcionando :P
 
@@ -260,7 +236,7 @@ E lá fomos nós, meio desolados, para o Hotel. Eu estava puto da vida, pq lá e
 
 ##### Não! Nunca! Jamais!
 
-Nunca que eu ficaria dormindo. Eu ia pegar meu avião às 10h e naum queria que meu dia terminasse assim. Então continuamos bebendo na portaria do prédio mesmo.
+Nunca que eu ficaria dormindo. Eu ia pegar meu avião às 10h e não queria que meu dia terminasse assim. Então continuamos bebendo na portaria do prédio mesmo.
 
 E aí que o terceiro e mais bonitoSexyGostosoDançarinoCariocaPalhaçoMentiroso dos ícones do BlogCamp PR.
 
@@ -280,7 +256,7 @@ Depois, partiu todo mundo pros quartos e dormimos. Infelizmente. :P Vide foto ab
 
 #### Terceiro Dia (O Retorno do Rei) – A pior coisa a se fazer depois do BlogCamp: O Retorno pra casa.
 
-Bem tosco esse "O Retorno do Rei", mas o post eh zuera mermo, então to nem ligando.
+Bem tosco esse "O Retorno do Rei", mas o post é zuera mermo, então to nem ligando.
 
 Acordei cedo, ainda um pouco bêbado, após uma ótima e inesquecível noite, dormi muito bem, melhor impossível, após ter aproveitado um dos sábados mais produtivos do ano, sem dúvida alguma.
 
@@ -329,5 +305,3 @@ Não sou só eu que escrevo não. Então lá vai uma moral pra galera que ta esc
 - [BlogcampPR continua...](http://espacodamoda.blogspot.com/2007/12/blogcamppr-continua.html)
 - [Blog Camp Paraná - Resumão do Bira](http://www.birajones.com/2007/12/03/blog-camp-parana-resumao-do-bira/)
 - [BlogcampPR 2007 - alguém aqui tem que falar sobre isso…](http://www.amatilha.com.br/blog/?p=188)
-
-\[BBL\]amigos, amizade, blog, blog-camp, blogcamp, blogcamppr, blogosfera, blogs, blogueiros, bruno-dulcetti, evento, pessoais, tecnologia, videolog\[/BBL\]

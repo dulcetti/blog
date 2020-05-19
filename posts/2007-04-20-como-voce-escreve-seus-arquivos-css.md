@@ -1,9 +1,9 @@
 ---
-category: "CSS"
-date: "2007-04-20"
-description: ""
-featuredImage: ""
-title: "Como você escreve seus arquivos CSS?"
+category: 'CSS'
+date: '2007-04-20'
+description: ''
+featuredImage: ''
+title: 'Como você escreve seus arquivos CSS?'
 ---
 
 Fala pessoal. Ressurgindo das cinzas como uma Fênix, aqui estou eu novamente, para encher vossos sacos :D e saber de vocês e mostrar como eu escrevo meus arquivos [CSS](http://pt.wikipedia.org/wiki/Cascading_Style_Sheets)'s.
@@ -19,27 +19,27 @@ Detalhes que fazem a diferença na sua grande parte. Lembrando que não estou fa
 Vou mostrar um exemplo de uma forma de escrever, criar um arquivo CSS:
 
 .minhaClasse {
-	background-color: #CCC;
-	border: 1px solid #FC3;
-	color: #FFF;
-	height: 300px;
-	width: 200px;
+background-color: #CCC;
+border: 1px solid #FC3;
+color: #FFF;
+height: 300px;
+width: 200px;
 }
 
 .minhaClasse2 {
-	background-color: #CCC;
-	border: 1px solid #FC3;
-	color: #FFF;
-	height: 300px;
-	width: 200px;
+background-color: #CCC;
+border: 1px solid #FC3;
+color: #FFF;
+height: 300px;
+width: 200px;
 }
 
 .minhaClasse3 {
-	background-color: #CCC;
-	border: 1px solid #FC3;
-	color: #FFF;
-	height: 300px;
-	width: 200px;
+background-color: #CCC;
+border: 1px solid #FC3;
+color: #FFF;
+height: 300px;
+width: 200px;
 }
 
 Peço que não levem em conta que todas as classes estão com as mesmas propriedades. Coloquei mais para não ter que ficar criando, etc. Estou com preguiça e no trabalho, não esqueçam disso :D
@@ -118,17 +118,17 @@ Quando temos várias linhas, com as propriedades, ficamos meio perdidos no iníc
 Em contrapartida, quando temos um css como o mostrado no primeiro exemplo, temos uma organização por blocos com várias linhas e não por linhas com várias propriedades, com isso, não achamos os blocos tão facilmente:
 
 #conteudo .box {
-	background-color: #CCC;
-	border: 2px solid #000;
-	color: #333;
-	width: 200px;
+background-color: #CCC;
+border: 2px solid #000;
+color: #333;
+width: 200px;
 }
 
 #conteudo .boxTal {
-	background-color: #000;
-	border: 1px solid #666;
-	color: #FFF;
-	width: 200px;
+background-color: #000;
+border: 1px solid #666;
+color: #FFF;
+width: 200px;
 }
 
 Percebemos que as duas classes estão contidas, somente, no ID conteúdo. Correto? O prefixo **#conteudo** afirma isso (isso é básico e espero que todos saibam disso).
@@ -173,7 +173,7 @@ Vejamos abaixo:
 
 .minhaClasse { background-color:#CCC; border:1px solid #FC3; color:#FFF; height:300px; width:200px; }
 
-Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores]/atalhos-e-dicas-pro-desenvolvimento.html), não considerando caracteres especiais, desta forma ajuda e muito.
+Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](/atalhos-e-dicas-pro-desenvolvimento.html), não considerando caracteres especiais, desta forma ajuda e muito.
 
 #### Com espaços somente depois das propriedades no CSS
 
@@ -222,5 +222,3 @@ Acho que em projetos pessoais, como portfólio, sites institucionais, de pouco t
 Fico por aqui, desculpem o tamanho do artigo. Eu até iria dividir em partes, mas não achei legal fazer desta forma. Da próxima vez eu planejo tudo direitinho, para deixar separado, organizado blz?
 
 Aquele abraço a todos e eu tentarei ser mais ativo no Blog.
-
-\[BBL\]artigos, css, escrita-no-css\[/BBL\]

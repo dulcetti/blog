@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2007-02-14"
-description: ""
-featuredImage: ""
-title: "Rota Blogueira v.0002"
+category: 'Webstandards'
+date: '2007-02-14'
+description: ''
+featuredImage: ''
+title: 'Rota Blogueira v.0002'
 ---
 
 Dando continuidade à categoria Rota Blogueira, estou publicando mais alguns links que achei interessante postar aqui e compartilhar com vocês.
@@ -20,9 +20,9 @@ Vale o clique. Parabéns Mauro.
 
 #### Link:
 
-[http://www.carreirasolo.org/archives/onde\_encontro\_logoti.html](http://www.carreirasolo.org/archives/onde_encontro_logoti.html)
+[http://www.carreirasolo.org/archives/onde_encontro_logoti.html](http://www.carreirasolo.org/archives/onde_encontro_logoti.html)
 
-* * *
+---
 
 ### Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD)
 
@@ -38,7 +38,7 @@ Bela sequência de Posts sobre o aumento de Produtividade via GTD. Eu já tinha 
 - [Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD) - Parte 2: Sobre listas de contextos](http://www.valongueiro.blog.br/index.php/getting-things-dones-gtd-listas-de-contextos/)
 - [Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD) - Parte 3: Listas úteis para todos](http://www.valongueiro.blog.br/index.php/meu-depoimento-sobre-os-ganhos-de-produtividade-alcancados-com-o-getting-things-donegtd-parte-3-listas-uteis-para-todos/)
 
-* * *
+---
 
 ### Monte sua iDupla e fique (quase) bilionário
 
@@ -54,7 +54,7 @@ Vale a lida ;)
 
 [Monte sua iDupla e fique (quase) bilionário](http://www.brpoint.net/arquivo/sites/monte-sua-idupla-e-fique-quase-bilionario.html)
 
-* * *
+---
 
 ### Darwin explica?
 
@@ -70,7 +70,7 @@ Boa reverendo ;)
 
 [Darwin explica?](http://1001gatos.org/darwin-explica/)
 
-* * *
+---
 
 ### Globo Ciência passa as 6 da manha e BBB no horário nobre
 
@@ -86,7 +86,7 @@ Parabéns Rafael, mandou muito.
 
 [Globo Ciência passa as 6 da manha e BBB no horário nobre](http://novo-mundo.org/log/2007/02/11/globo-ciencia-passa-as-6-da-manha-e-bbb-no-horario-nobre/)
 
-* * *
+---
 
 ### Finalizando...
 
@@ -95,5 +95,3 @@ Finalizo mais uma vez a Rota Blogueira por aqui. Espero que os textos sejam de u
 Akele abraaaaço...
 
 **UPDATE:** Coloquei o Bruno alves como autor do texto no Br-Point, mas o Mauro me alertou que foi o Guilherme. Nem tinha me ligado, desculpa ae Guilherme. ;)
-
-\[BBL\]bbb, blog, blogosfera, blogs, blogueiros, ciencia, darwin, getting-things-done, globo, gtd, identidade-visual, iduplas, rota-blogueira, tecnologia, tv, usabilidade, youtube\[/BBL\]

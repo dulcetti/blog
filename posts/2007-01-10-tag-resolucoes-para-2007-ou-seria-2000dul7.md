@@ -1,14 +1,14 @@
 ---
-category: "Shots"
-date: "2007-01-10"
-description: ""
-featuredImage: ""
-title: "TAG: Resoluções para 2007 (ou seria 2000Dul7?)"
+category: 'Shots'
+date: '2007-01-10'
+description: ''
+featuredImage: ''
+title: 'TAG: Resoluções para 2007 (ou seria 2000Dul7?)'
 ---
 
 Estava eu, passeando pela internet, entrei no [Technorati](http://technorati.com/), tava vendo a posição do meu Blog, etc. Quando de repente vejo um post do [Fábio Seixas](http://blog.fabioseixas.com.br/) me linkando.
 
-Fui ver o que era, cheguei a pensar que fosse sobre o meme [Previsões 2007]/previsoes-e-algumas-viagens-para-o-ano-de-2007.html), pois o nome era um pouco parecido e também era um meme.
+Fui ver o que era, cheguei a pensar que fosse sobre o meme [Previsões 2007](/previsoes-e-algumas-viagens-para-o-ano-de-2007.html), pois o nome era um pouco parecido e também era um meme.
 
 ### Tá bom Brunão. Não enrola e fala logo...
 
@@ -40,5 +40,3 @@ Deixando a palhaçada de lado, ai vão os cinco que escolhi. Sintam-se "tagueado
 - [Henrique Costa Pereira](http://www.revolucao.etc.br/) do Revolução, etc ;)
 
 Tanta gente pra indicar, o Ciro Feitosa, mas esse cara tá sumido :D, ae acabei não o indicando, Bruno Torres, Flávio, etc, etc, etc... Mas deixa pra próxima pessoal ;)
-
-\[BBL\]blogosfera, pessoais, tecnologia, amigos, blogosfera, blogs, blogueiros, globo.com, resolucao, resolucoes2007\[/BBL\]

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-02-07"
-description: ""
-featuredImage: ""
-title: "Como você, Blogueiro, trata seus visitantes?"
+category: 'Shots'
+date: '2007-02-07'
+description: ''
+featuredImage: ''
+title: 'Como você, Blogueiro, trata seus visitantes?'
 ---
 
 E ae pessoal. Pouco tempo para blogar aliado com pouco saco para tal :P. É complicada essa vida de Blogueiro que depende de outros trabalhos. Meu Blog é apenas um hobby, nada prioritário. Mas um dia eu consigo dar mais atenção à ele e aos meu visitantes :D. Eu juro :P.
@@ -67,5 +67,3 @@ Bom, lembra que eu disse que talvez isso aqui poderia virar um [meme](http://pt.
 Fico por aqui. Espero que pelo menos a galera goste do tema e pensem um pouco sobre o assunto e vocês que freqüentam meu blog critiquem, dêem sugestões, etc, sobre isso.
 
 Aquele abraço.
-
-\[BBL\]blogosfera, pessoais, meme, blog, blogs, blogueiros, dicas\[/BBL\]

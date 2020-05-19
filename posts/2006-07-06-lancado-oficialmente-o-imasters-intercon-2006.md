@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-07-06"
-description: ""
-featuredImage: ""
-title: "Lançado oficialmente o iMasters Intercon 2006"
+category: 'Tecnologia'
+date: '2006-07-06'
+description: ''
+featuredImage: ''
+title: 'Lançado oficialmente o iMasters Intercon 2006'
 ---
 
 Falae pessoal.
@@ -12,7 +12,7 @@ Ontem recebi a notícia através de um dos responsáveis pelo [iMasters](http://
 
 #### O Evento
 
-O Intercon eh um evento de tecnologia web, que este ano terá 2 salões, como ano passado, mas abordará uma gama maior de temas: "Criação e Desenvolvimento" e "Programação e Tecnologia". Terá 12 palestrantes, 6 para cada salão.
+O Intercon é um evento de tecnologia web, que este ano terá 2 salões, como ano passado, mas abordará uma gama maior de temas: "Criação e Desenvolvimento" e "Programação e Tecnologia". Terá 12 palestrantes, 6 para cada salão.
 
 #### Diferenciais
 
@@ -24,7 +24,7 @@ O Professor será o Ricardo Piologo, que é o autor do livro "Flash Animado", qu
 
 Uma mudança, que na minha opinião não achei tão legal, foi que agora você fechar a participação em somente um auditório. Você não pode assistir uma palestra em um dos auditórios e sair para ver outra no outro. Preferia como ano passado, que poderia ter esse revezamento.
 
-Um outro diferencial, eh q agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como naum conheço São Paulo, fica meio difícil :D.
+Um outro diferencial, é q agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como não conheço São Paulo, fica meio difícil :D.
 
 #### Local
 

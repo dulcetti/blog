@@ -1,18 +1,18 @@
 ---
-category: "Eventos"
-date: "2008-09-25"
-description: ""
-featuredImage: ""
-title: "BlogCamp RJ - Onde comer"
+category: 'Eventos'
+date: '2008-09-25'
+description: ''
+featuredImage: ''
+title: 'BlogCamp RJ - Onde comer'
 ---
 
-![Marca do BlogCamp RJ]/assets/images/post/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Você, garotinho inocente, que não sabe andar pelo Rio de Janeiro, Tijuca e adjacências. Que com certeza terá fome às 12h30, quando iniciará o horário de almoço do BlogCamp RJ, deve está se perguntando: "Mas onde que vou poder matar minha fominha?".
 
 ### Seus problemas acabaram modafoca...
 
-Fique tranquilo, que o Dulcetti aqui está pensando em tudo para vocês (duvido). Desde [hospedagem]/blogcamp-rj-onde-ficar.html), alimentação, [oficinas](http://http://www.brunodulcetti.com/blog/2008/09/22/blogcamp-rj-oficinas-e-novidades.html) e [outras coisitas a mais]/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber.html).
+Fique tranquilo, que o Dulcetti aqui está pensando em tudo para vocês (duvido). Desde [hospedagem](/blogcamp-rj-onde-ficar), alimentação, [oficinas](/blogcamp-rj-oficinas-e-novidades) e [outras coisitas a mais](/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber).
 
 E neste post eu falarei sobre a parte de alimentação, que na área do NAVE, tem boas e variadas opções.
 
@@ -36,7 +36,7 @@ E ainda é barato, eu acho que o preço do rodízio custa R$18 ou R$19, por ae. 
 
 ### Saltimboca
 
-Um restaurante novo que abriu na Rua Uruguai e fica praticamente do lado do NAVE. Ele eh bem interessante, bonito, modafoca style e tudo mais. Não sei se é barato ou caro, pois abriu tem muito pouco tempo.
+Um restaurante novo que abriu na Rua Uruguai e fica praticamente do lado do NAVE. Ele é bem interessante, bonito, modafoca style e tudo mais. Não sei se é barato ou caro, pois abriu tem muito pouco tempo.
 
 ### Finalizando
 

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-05-28"
-description: ""
-featuredImage: ""
-title: "Como ganhar ganhar seus clientes em um ano e perdê-los em um dia."
+category: 'Shots'
+date: '2008-05-28'
+description: ''
+featuredImage: ''
+title: 'Como ganhar ganhar seus clientes em um ano e perdê-los em um dia.'
 ---
 
 Rio de Janeiro, dia 27 de maio de 2008. Dia agradável, tudo nos conformes, muito trabalho, a mesma rotina de sempre, tirando alguns imprevistos e furos, etc. Tudo como deveria ser... Ledo engano.
@@ -20,7 +20,7 @@ Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
 
 ### Que que houve com o Twitter? Morreu?
 
-![Twitter Morto?]/assets/images/post/twitter-morto.gif)
+![Twitter Morto?](/assets/images/posts/twitter-morto.gif)
 
 Nem tanto, mas está bem ferido, não diria em coma, mas em estado de emergência. Blá, blá e blá. Nada disso!
 

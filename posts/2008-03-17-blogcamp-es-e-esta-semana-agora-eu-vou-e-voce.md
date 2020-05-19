@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2008-03-17"
-description: ""
-featuredImage: ""
-title: "BlogCamp ES. É esta semana agora. Eu vou e você?"
+category: 'Eventos'
+date: '2008-03-17'
+description: ''
+featuredImage: ''
+title: 'BlogCamp ES. É esta semana agora. Eu vou e você?'
 ---
 
 ![Marca do BlogCampES](http://blogcampes.googlegroups.com/web/blogcamp.es.500.jpg?gda=fVIgqkQAAAB96Mo4ev_JDB34jAdLIwYYrhk_KYKdCQD5pQVS2p1CSmG1qiJ7UbTIup-M2XPURDQUAg_PKWeirPO74_Yg59SAIdEAhumLrGwkQDWveO3DqA&hl=pt-BR)
@@ -16,7 +16,7 @@ Exatamente. Mas não é qualquer miserinha de BlogCamp não, é o primeiro do an
 
 ### Valew ae professor. Agora fala mais sobre o evento.
 
-Bom, como eu já [comentei]/retrospectiva-blogcamp-mg.html) aqui no [blog]/blogcamp-pr-%e2%80%93-o-melhor-de-todos.html), o evento será descontraído, não é somente para blogueiros e sim para quem curte tecnologia, curte blogs (ou não), entre outras coisas.
+Bom, como eu já [comentei](/retrospectiva-blogcamp-mg.html) aqui no [blog](/blogcamp-pr-%e2%80%93-o-melhor-de-todos.html), o evento será descontraído, não é somente para blogueiros e sim para quem curte tecnologia, curte blogs (ou não), entre outras coisas.
 
 E como a [página de apresentação do evento](http://barcamp.blaz.com.br/node/103) diz, parece que este será bem diferente de todos os blogcamps que já ocorreram. Bom, se for, sucesso total, pois gostei muito dos dois que já tiveram. E eu já nem gosto disso né, fico famoso nos BlogCamps pelas minhas palhaçadas e piruetas. :D
 
@@ -53,5 +53,3 @@ E também fica a dica para quem quiser mais informações sobre o evento, é só
 - [Licio Fernando](http://blog.licio.eti.br/)
 
 Então fico por aqui e espero vocês por lá. Aquele abraço.
-
-\[BBL\]blog-camp, blogcamp, blogosfera, blogs, blogueiros, evento, eventos, tecnologia\[/BBL\]

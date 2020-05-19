@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-07-27"
-description: ""
-featuredImage: ""
-title: "Primeiro Encontro de Blogueiros, Leitores e Simpatizantes ou B.L.S. (anh?)"
+category: 'Shots'
+date: '2007-07-27'
+description: ''
+featuredImage: ''
+title: 'Primeiro Encontro de Blogueiros, Leitores e Simpatizantes ou B.L.S. (anh?)'
 ---
 
 E ae pessoal.
@@ -50,5 +50,3 @@ Bom, eu pensei que fosse ser só uma roda de chopp, bate papo, mas pelo que vi, 
 ### Finalizando...
 
 Bom, é isso... Fico por aqui e logicamente, confirmando minha presença :D Aquele abraço.
-
-\[BBL\]blog, blogosfera, blogs, bls, cerveja, encontro, pessoais\[/BBL\]

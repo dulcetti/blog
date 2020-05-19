@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2009-03-24"
-description: ""
-featuredImage: ""
-title: "Encontro de TI e Encontro de Webdesign juntos"
+category: 'Webstandards'
+date: '2009-03-24'
+description: ''
+featuredImage: ''
+title: 'Encontro de TI e Encontro de Webdesign juntos'
 ---
 
 É isso mesmo que você leu no título. Agora a Arteccom inovou e colocou os dois eventos simultâneos e no mesmo local. E como os eventos possuem um foco totalmente diferente, essa execução simultânea é possível.
@@ -18,7 +18,7 @@ Creio que sim. E o legal é que você pode ir nos dois quando quiser. Quer dar u
 
 ### Quando e onde?
 
-Acontecerá no próximo sábado, dia 28 de março, no Centro de Convenções Sulamérica RJ. Será no mesmo local onde aconteceu o [Primeiro Encontro de TI]/eti-encontro-de-tecnologia-da-informacao.html)
+Acontecerá no próximo sábado, dia 28 de março, no Centro de Convenções Sulamérica RJ. Será no mesmo local onde aconteceu o [Primeiro Encontro de TI](/eti-encontro-de-tecnologia-da-informacao.html)
 
 ### E a Arteccom faz 10 anos
 

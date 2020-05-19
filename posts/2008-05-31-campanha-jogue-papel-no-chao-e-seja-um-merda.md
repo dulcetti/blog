@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-05-31"
-description: ""
-featuredImage: ""
-title: "Campanha: Jogue papel no chão e seja um merda"
+category: 'Shots'
+date: '2008-05-31'
+description: ''
+featuredImage: ''
+title: 'Campanha: Jogue papel no chão e seja um merda'
 ---
 
 Você deve estar se perguntando agora mesmo que título é esse, que campanha é essa não é verdade? Mas relaxe que você entenderá em breve, neste mesmo post.
@@ -16,7 +16,7 @@ Sim claro. Mas eu pergunto pra você agora: "A culpa é de quem?". Você acha qu
 
 #### A culpa é minha?
 
-Sim, sim. Com eu disse acima, a culpa é toda nossa sim. Aposto que você já fez merda, jogou papel, votou no Lula, não reclama, não corre atrás pra mudar isso, fica sentado esperando algum modafoca fazer e algo e você apoia-lo, dizendo que é o certo ou então reclamar da política, sendo que você mal lembra em quem votou para Senador ou Deputado. Mas acompanha a política para saber quem eh maucaráter, quem presta ou não presta.
+Sim, sim. Com eu disse acima, a culpa é toda nossa sim. Aposto que você já fez merda, jogou papel, votou no Lula, não reclama, não corre atrás pra mudar isso, fica sentado esperando algum modafoca fazer e algo e você apoia-lo, dizendo que é o certo ou então reclamar da política, sendo que você mal lembra em quem votou para Senador ou Deputado. Mas acompanha a política para saber quem é maucaráter, quem presta ou não presta.
 
 ### Mas ninguém presta Dulcetti
 
@@ -26,19 +26,19 @@ Mas tudo bem, desfoquei totalmente do post :D
 
 ### Participe da campanha...
 
-![Papel no Chao]/assets/images/post/lixo-chao.gif) ![Mundo reclamando do Lixo]/assets/images/post/meio-ambiente.jpg)
+![Papel no Chao](/assets/images/posts/lixo-chao.gif) ![Mundo reclamando do Lixo](/assets/images/posts/meio-ambiente.jpg)
 
 Faça como os meninos das duas imagens e jogue lixo no chão, no planeta inteiro. Participe e seja **UM MERDA**. Isso mesmo, seja **UM MERDA PRÓ ++**. Conte para seus amigos, sua família, mostre a campanha para eles. Mas por favor, não se esqueça do **SEJA UM MERDA**, é essencial eles saberem disso, aliás, todos saberem disso. Você não vai jogar papel no chão somente, você jogará e será considerado **UM MERDA** de primeira linha ;)
 
 #### "E não é só isso..."
 
-![Papel no Chao]/assets/images/post/lixo.jpg)
+![Papel no Chao](/assets/images/posts/lixo.jpg)
 
 E melhor, não somente jogue papel no chão, pois tem que ser com estilo e atitude. Jogue no chão sim, mas ganhe muitos bônus quando a late de lixo estiver na frente, ao lado, menos de 5mts longe de você. Você, com certeza, será reconhecido mais do que qualquer outro, já que o lugar devido estava na sua frente, mas você fez questão de ser um merda e jogar no chão mesmo.
 
 E fique tranquilo, [pois até o presidente já jogou lixo no chão](http://www.observatoriodaimprensa.com.br/artigos.asp?cod=307FDS005), então não se acanhe e junte-se a ele, ficando do mesmo nível.
 
-![Papel no Chao]/assets/images/post/papel-no-chao.jpg) "Que legal, eu sou uma merda. Passo rindo por um monte de papel no chão e ainda jogo também."
+![Papel no Chao](/assets/images/posts/papel-no-chao.jpg) "Que legal, eu sou uma merda. Passo rindo por um monte de papel no chão e ainda jogo também."
 
 Você será reconhecido por todos em sua volta que você é um merda e isso não é para qualquer um, graças a Deus.
 

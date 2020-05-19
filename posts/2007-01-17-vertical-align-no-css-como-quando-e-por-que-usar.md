@@ -1,9 +1,9 @@
 ---
-category: "CSS"
-date: "2007-01-17"
-description: ""
-featuredImage: ""
-title: "Vertical-align no CSS. Como, quando e por que usar"
+category: 'CSS'
+date: '2007-01-17'
+description: ''
+featuredImage: ''
+title: 'Vertical-align no CSS. Como, quando e por que usar'
 ---
 
 E ae galera. Estou aqui de volta, novamente, depois de uma sumida (pra variar não é verdade? :P). Mas eu juro que tentarei voltar com mais freqüência, postar mais colírios, vídeos do Videolog, etc.
@@ -22,11 +22,22 @@ Vamos ver um exemplo de como os iniciantes utilizam a propriedade:
 
 #### Código HTML:
 
-`<div id="box"> Meu texto bem aqui. </div>`
+```html
+<div id="box">Meu texto bem aqui.</div>
+```
 
 #### Código CSS:
 
-`#box {background-color:#F5F4F4;border:2px solid #CCC;height:200px;padding:5px;**vertical-align:middle;**width:400px;}`
+```css
+#box {
+  background-color: #f5f4f4;
+  border: 2px solid #ccc;
+  height: 200px;
+  padding: 5px;
+  **vertical-align: middle;
+  **width: 400px;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/primeiro_exemplo.html).
 
@@ -38,7 +49,16 @@ Como podemos ver, o resultado não foi satisfatório. O texto continuou no topo 
 
 Temos algumas variedades de resolver tal problema. A primeira seria a utilização da propriedade line-height com o mesmo valor da propriedade height. Veremos abaixo:
 
-`#box {background-color:#F5F4F4;border:2px solid #CCC;**height:200px;line-height:200px;**padding:5px;width:400px;}`
+```css
+#box {
+  background-color: #f5f4f4;
+  border: 2px solid #ccc;
+  **height: 200px;
+  line-height: 200px;
+  **padding: 5px;
+  width: 400px;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_line_height.html).
 
@@ -69,7 +89,17 @@ Então tudo funcionaria se eu colocasse um display: table-cell certo? Quase. Gra
 
 Vamos ao exemplo:
 
-`#box {background-color:#F5F4F4;border:2px solid #CCC;height:200px;**display:table-cell;**padding:5px;**vertical-align:middle;**width:400px;}`
+```css
+#box {
+  background-color: #f5f4f4;
+  border: 2px solid #ccc;
+  height: 200px;
+  **display: table-cell;
+  **padding: 5px;
+  **vertical-align: middle;
+  **width: 400px;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_table_cell.html).
 
@@ -87,11 +117,27 @@ Veremos no código abaixo, como fazer para alinhar uma imagem e um texto central
 
 ##### Código HTML:
 
-`<div id="box"> <img src="http://brunodulcetti.com/artigos/vertical-align/macaco.jpg" alt="imagem" /> Meu texto bem aqui. </div>`
+```html
+<div id="box">
+  <img src="http://brunodulcetti.com/artigos/vertical-align/macaco.jpg" alt="imagem" /> Meu texto
+  bem aqui.
+</div>
+```
 
 ##### Código CSS:
 
-`#box {background-color:# F7F6F1;border:2px solid #CCC;height:200px;padding:5px; width:400px;} #box img {vertical-align:middle;}`
+```css
+#box {
+  background-color: #f7f6f1;
+  border: 2px solid#CCC;
+  height: 200px;
+  padding: 5px;
+  width: 400px;
+}
+#box img {
+  vertical-align: middle;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_imagem_texto.html).
 
@@ -105,11 +151,27 @@ Veremos no código abaixo, como fazer para alinhar um input de texto e um texto 
 
 ##### Código HTML:
 
-`<div id="box"> Nome: <input type="text" name="txtNome" id="txtNome" /> </div>`
+```html
+<div id="box">Nome: <input type="text" name="txtNome" id="txtNome" /></div>
+```
 
 ##### Código CSS:
 
-`#box {background-color:#F7F6F1;border:2px solid #CCC;font:80% "Trebuchet MS";padding:5px; width:400px;} #box input {border:1px solid #CCC;font:100% "Trebuchet MS";**_vertical-align:middle;**}`
+```css
+#box {
+  background-color: #f7f6f1;
+  border: 2px solid #ccc;
+  font: 80% 'Trebuchet MS';
+  padding: 5px;
+  width: 400px;
+}
+
+#box input {
+  border: 1px solid #ccc;
+  font: 100% 'Trebuchet MS';
+  \_vertical-align: middle;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_texto.html).
 
@@ -125,11 +187,29 @@ Somente uma segunda solução que funciona em todos.
 
 ##### Código HTML:
 
-`<div id="box"> <span>Nome:</span><input type="text" name="txtNome" id="txtNome" /> </div>`
+```html
+<div id="box"><span>Nome:</span><input type="text" name="txtNome" id="txtNome" /></div>
+```
 
 ##### Código CSS:
 
-`#box {background-color:#F7F6F1;border:2px solid #CCC;font:80% "Trebuchet MS";padding:5px; width:400px;} #box input {border:1px solid #CCC;font:100% "Trebuchet MS";vertical-align:middle;} #box span {vertical-align:middle;}`
+```css
+#box {
+  background-color: #f7f6f1;
+  border: 2px solid #ccc;
+  font: 80% 'TrebuchetMS';
+  padding: 5px;
+  width: 400px;
+}
+#box input {
+  border: 1px solid #ccc;
+  font: 100% 'TrebuchetMS';
+  vertical-align: middle;
+}
+#box span {
+  vertical-align: middle;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_span.html).
 
@@ -143,11 +223,32 @@ A versão mais correta e semântica para este exemplo:
 
 ##### Código HTML:
 
-`<div id="box"> <label for="txtNome">Nome:</label><input type="text" name="txtNome" id="txtNome" /> </div>`
+```html
+<div id="box">
+  <label for="txtNome">Nome:</label><input type="text" name="txtNome" id="txtNome" />
+</div>
+```
 
 ##### Código CSS:
 
-`#box {background-color:#F7F6F1;border:2px solid #CCC;font:80% "Trebuchet MS";padding:5px; width:400px;} #box input {border:1px solid #CCC;font:100% "Trebuchet MS";vertical-align:middle;} #box label {cursor:pointer;vertical-align:middle;}`
+```css
+#box {
+  background-color: #f7f6f1;
+  border: 2px solid #ccc;
+  font: 80% 'Trebuchet MS';
+  padding: 5px;
+  width: 400px;
+}
+#box input {
+  border: 1px solid #ccc;
+  font: 100% 'Trebuchet MS';
+  vertical-align: middle;
+}
+#box label {
+  cursor: pointer;
+  vertical-align: middle;
+}
+```
 
 Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_label.html).
 
@@ -178,5 +279,3 @@ Espero que tenham gostado e tenha sido útil. Caso tenha esquecido de algo ou fa
 To ficando por aqui, deixando uma homenagem ao Marrelton :D camarada que trabalha aqui na parte de desenvolvimento da Globo.com que se amarra nos títulos do meu Blog e talz... Akele abraço ae Elton ;)
 
 Akele abraço pra geral ae.
-
-\[BBL\]xhtml, webstandards, tutorial, web-standards, tableless, semantica, ie, dicas, desenvolvimento, css, artigos, vertical align\[/BBL\]

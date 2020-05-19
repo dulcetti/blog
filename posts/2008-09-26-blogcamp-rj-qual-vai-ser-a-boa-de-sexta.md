@@ -1,12 +1,12 @@
 ---
-category: "Eventos"
-date: "2008-09-26"
-description: ""
-featuredImage: ""
-title: "BlogCamp RJ - Qual vai ser a boa de sexta?"
+category: 'Eventos'
+date: '2008-09-26'
+description: ''
+featuredImage: ''
+title: 'BlogCamp RJ - Qual vai ser a boa de sexta?'
 ---
 
-![Marca do BlogCamp RJ]/assets/images/post/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Como vocês já sabem, os BlogCamps não são feitos somente de tecnologia, informação, blogueiros falando de posts, etc. Rola sempre umas cervejas, uma falação de merda absurda, entre outras coisas.
 
@@ -20,7 +20,7 @@ Você pode ver [mais informações aqui](http://www.riofesta.com.br/mofo/). É u
 
 #### E qual vai ser o esquema Dulça?
 
-O preço pra entrar vai ser de no máximo R$15, qnt mais pessoas forem, mais barato fica ok? E vamos começar a chegar por lá às 20h30.
+O preço pra entrar vai ser de no máximo R\$15, qnt mais pessoas forem, mais barato fica ok? E vamos começar a chegar por lá às 20h30.
 
 Lá vai rolar música ao vivo com o Grupo Lapada, que rola samba, maracatu e outros. Mas pra quem não gosta, relaxa que tem pista de dança também ok?
 

@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2008-02-13"
-description: ""
-featuredImage: ""
-title: "Campus Party - Primeiro dia efetivo"
+category: 'Webstandards'
+date: '2008-02-13'
+description: ''
+featuredImage: ''
+title: 'Campus Party - Primeiro dia efetivo'
 ---
 
 Falae galera. Dulcetti na área e no [Campus Party](http://www.campus-party.com.br/). E é meu primeiro dia efetivo no evento, pois ontem tivemos problemas durante o caminho até São Paulo.
@@ -26,7 +26,7 @@ E logicamente que esse foi o principal ícone do evento, pelo menos até agora. 
 
 Está fazendo sucesso e comparecendo com toda força no evento. Estou revendo vários camaradas blogueiros que conheci nos blogcamps da vida, etc.
 
-#### Que legal Brunaum. Teve algo especial sobre blogs?
+#### Que legal Brunão. Teve algo especial sobre blogs?
 
 Teve sim. A blogueira do flickr compareceu, vai fazer uma palestra pra imprensa amanhã, mas especialmente pros blogueiros, ela ficou batendo um papo, em inglês e talz. Tudo isso nos puffs do flickr, que está com um stand sucesso total, com umas meninas espetaculares.
 
@@ -52,7 +52,7 @@ Por enquanto o melhor é o do Flickr, que está com ótimas mulheres, idéias le
 
 O que eu achei que pecou um pouco foi a internet. Pelo menos a wireless, porque quando eu saía, para ver algo, alguma palestra, o macbook caía e eu ficava completamente revoltado, mas tá valendo né, fazer o que. Tinha que me contentar com a conexão a cabo. Mas pelo menos essa estava de bom tamanho, já que o link é de 5GB.
 
-### E de resto Brunaum?
+### E de resto Brunão?
 
 Bom, de resto foi o almoço, que foi sucesso total e me manteve aceso e firme até agora e a missão foi cumprida.
 

@@ -1,12 +1,12 @@
 ---
-category: "Webstandards"
-date: "2007-07-17"
-description: ""
-featuredImage: ""
-title: "Dados dinâmicos com Flash - Palestra online no AUG/RS"
+category: 'Webstandards'
+date: '2007-07-17'
+description: ''
+featuredImage: ''
+title: 'Dados dinâmicos com Flash - Palestra online no AUG/RS'
 ---
 
-Falae pessoal. Venho por esse post, divulgar a palestra online que meu camarada e xará, [Bruno Ribeiro](http://brunoribeiro.net/ "Visitar o site do Bruno Ribeiro"), fará nessa quinta-feira. Mais detalhes abaixo:
+Falae pessoal. Venho por esse post, divulgar a palestra online que meu camarada e xará, [Bruno Ribeiro](http://brunoribeiro.net/ 'Visitar o site do Bruno Ribeiro'), fará nessa quinta-feira. Mais detalhes abaixo:
 
 ### Dados dinâmicos com Flash
 
@@ -28,7 +28,7 @@ Bruno Ribeiro é desenvolvedor desde 1998 e certificado (Adobe Flash MX 2004 Dev
 
 #### URL:
 
-[http://adobechats.adobe.acrobat.com/augrs/](http://adobechats.adobe.acrobat.com/augrs/ "Visitar o link da Palestra")
+[http://adobechats.adobe.acrobat.com/augrs/](http://adobechats.adobe.acrobat.com/augrs/ 'Visitar o link da Palestra')
 
 ### Finalizando
 
@@ -39,5 +39,3 @@ E lembrar que ele fará essa palestra com a participação especial do Pedro Tar
 Bom, é isso. Boa palestra para os três e contamos com a presença de vocês também :D
 
 Aquele abraço.
-
-\[BBL\]adobe, bruno, dados-dinâmicos, flash, flash-variables, palestra-online, web-services, xml\[/BBL\]

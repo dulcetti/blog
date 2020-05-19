@@ -1,12 +1,12 @@
 ---
-category: "CSS"
-date: "2007-06-26"
-description: ""
-featuredImage: ""
-title: "Resposta do Desafio: Como \"cropar\" uma foto com CSS"
+category: 'CSS'
+date: '2007-06-26'
+description: ''
+featuredImage: ''
+title: 'Resposta do Desafio: Como "cropar" uma foto com CSS'
 ---
 
-Como prometido, estou aqui pra postar a "resposta" do "desafio" que [postei ontem aqui]/desafio-como-cropar-uma-foto-com-css.html) no Blog.
+Como prometido, estou aqui pra postar a "resposta" do "desafio" que [postei ontem aqui](/desafio-como-cropar-uma-foto-com-css.html) no Blog.
 
 Algumas sugestões, soluções, bem próximas da que eu arrumei e achei melhor. Vou tentar explicar detalhadamente porque não utilizei tal solução, porque fiz dessa forma, o que não rola, suporte, etc.
 
@@ -26,14 +26,46 @@ Chega de conversa e vamos para a primeira solução. Nessa eu utilizei o clip, c
 
 #### Código HTML
 
-`<div id="fotos"> <a href="#" title="" class="cropFoto"><img src="thumb.jpg" alt="Foto" /></a> </div>`
+```html
+<div id="fotos">
+  <a href="#" title="" class="cropFoto"><img src="thumb.jpg" alt="Foto" /></a>
+</div>
+```
 
 #### Código CSS
 
-`* {margin:0;padding:0;}  
-body {padding:20px;} ul {list-style:none;} img {border:0;}  
-#fotos {width:186px;} #fotos * {display:block;}  
-#fotos .cropFoto {background-color:#E70202;height:116px;position:relative;} #fotos .cropFoto img {position:absolute;} #fotos .cropFoto:hover img {clip:rect(3px 183px 113px 3px);}`
+```css
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 20px;
+}
+ul {
+  list-style: none;
+}
+img {
+  border: 0;
+}
+#fotos {
+  width: 186px;
+}
+#fotos * {
+  display: block;
+}
+#fotos .cropFoto {
+  background-color: #e70202;
+  height: 116px;
+  position: relative;
+}
+#fotos .cropFoto img {
+  position: absolute;
+}
+#fotos .cropFoto:hover img {
+  clip: rect(3px 183px 113px 3px);
+}
+```
 
 Um código simples e curto. Não vou ficar detalhando coisas desnecessárias, somente o que eu acho relevante para o entendimento para um desenvolvedor intermediário, etc.
 
@@ -53,33 +85,68 @@ Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormen
 
 #### Código HTML
 
-`<!--[if IE]> <style type="text/css"> body {behavior:url(csshover.htc);} </style> <![endif]-->`
+```html
+<!--[if IE]>
+  <style type="text/css">
+    body {
+      behavior: url(csshover.htc);
+    }
+  </style>
+<![endif]-->
+```
 
-[Veja o exemplo correto funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_clip_certo.html).
+[Veja o exemplo correto
+funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_clip_certo.html). ### Legal Bruno,
+funcionou direitinho... Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse
+htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas: -
+Esse é um projeto grande, com muito volume de informação, conteúdo, etc. Teremos uma quantidade
+considerável de imagens com esse efeito no hover; - Necessita que o servidor tenha o mime type
+configurado para ele: **text/x-component** - Ele faz uma busca por :hover em **TODO** o stylesheet
+da página. Onde ele achar o :hover, vai adicionar um evento javascript onmouseover para que o
+elemento se comporte da forma correta. - O problema é que esse processamento é no cliente e o tempo
+que ele leva para fazer isso vai depender do tamanho do CSS, do HTML, além do poder do computador do
+cara, ou seja, quanto maior o CSS e HTML, mais tempo para execução o efeito vai levar, e como o
+projeto é grande, queremos sempre a melhor forma, otimizar, etc. Por essas e outras, tive que buscar
+uma outra opção, modo, de implementar esse efeito, somente por CSS, sem colocar htc, js, nem nada.
 
-### Legal Bruno, funcionou direitinho...
+### Segunda Solução Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não
 
-Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas:
-
-- Esse é um projeto grande, com muito volume de informação, conteúdo, etc. Teremos uma quantidade considerável de imagens com esse efeito no hover;
-- Necessita que o servidor tenha o mime type configurado para ele: **text/x-component**
-- Ele faz uma busca por :hover em **TODO** o stylesheet da página. Onde ele achar o :hover, vai adicionar um evento javascript onmouseover para que o elemento se comporte da forma correta.
-- O problema é que esse processamento é no cliente e o tempo que ele leva para fazer isso vai depender do tamanho do CSS, do HTML, além do poder do computador do cara, ou seja, quanto maior o CSS e HTML, mais tempo para execução o efeito vai levar, e como o projeto é grande, queremos sempre a melhor forma, otimizar, etc.
-
-Por essas e outras, tive que buscar uma outra opção, modo, de implementar esse efeito, somente por CSS, sem colocar htc, js, nem nada.
-
-### Segunda Solução
-
-Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não é que deu certo? :D
-
-O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
+é que deu certo? :D O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
 
 #### Código CSS
 
-`* {margin:0;padding:0;}  
-body {padding:20px;} ul {list-style:none;} img {border:0;}  
-#fotos {width:186px;} #fotos * {display:block;}  
-#fotos .cropFoto {overflow:hidden;height:116px;width:186px;} #fotos .cropFoto:hover {border:3px solid #E70202;height:110px;width:180px;}`
+```css
+\* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 20px;
+}
+ul {
+  list-style: none;
+}
+img {
+  border: 0;
+}
+
+#fotos {
+  width: 186px;
+}
+#fotos \* {
+  display: block;
+}
+#fotos .cropFoto {
+  overflow: hidden;
+  height: 116px;
+  width: 186px;
+}
+#fotos .cropFoto:hover {
+  border: 3px solid #e70202;
+  height: 110px;
+  width: 180px;
+}
+```
 
 [Veja este exemplo funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_quase_certo.html).
 
@@ -95,7 +162,13 @@ O overflow hidden do link serve pra que mesmo que a imagem seja maior que o link
 
 #### Entendi Bruno. E como resolvo pra ficar 100%, sem parecer que a imagem se move?
 
-Simples, apenas uma linha de CSS, colocando uma margem pra imagem, no hover do link: `#fotos .cropFoto:hover img {margin:-3px 0 0 -3px;}`
+Simples, apenas uma linha de CSS, colocando uma margem pra imagem, no hover do link:
+
+```css
+#fotos .cropFoto:hover img {
+  margin: -3px 0 0 -3px;
+}
+```
 
 [Veja o exemplo final funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_certo.html).
 
@@ -114,5 +187,3 @@ Sempre tem essas pequenas coisas que são essenciais saber no CSS, que você peg
 Bom, é isso. Qualquer dúvida, correção ou solução melhor, é só comentar que eu posto aqui ;)
 
 Aquele abraço.
-
-\[BBL\]css, desafio, dicas, webstandards\[/BBL\]

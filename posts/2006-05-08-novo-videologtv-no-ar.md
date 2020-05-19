@@ -1,14 +1,14 @@
 ---
-category: "Portfólio"
-date: "2006-05-08"
-description: ""
-featuredImage: ""
-title: "Novo Videolog.tv no ar"
+category: 'Portfólio'
+date: '2006-05-08'
+description: ''
+featuredImage: ''
+title: 'Novo Videolog.tv no ar'
 ---
 
-É com uma grande satisfação e orgulho (e um bocado de atraso, eh verdade :P), que venho avisar que a nova versão do [Videolog.tv](http://www.videolog.tv) está no ar. Com uma interface totalmente nova, diferenciada, limpa, com uma arquitetura toda estudada e estruturada nos mínimos detalhes, focada no conceito [web 2.0]/web2-web-3-etc.html) e muitas outras vantagens.
+É com uma grande satisfação e orgulho (e um bocado de atraso, é verdade :P), que venho avisar que a nova versão do [Videolog.tv](http://www.videolog.tv) está no ar. Com uma interface totalmente nova, diferenciada, limpa, com uma arquitetura toda estudada e estruturada nos mínimos detalhes, focada no conceito [web 2.0](/web2-web-3-etc.html) e muitas outras vantagens.
 
-[Com havia dito antes]/videolog-a-nova-era.html), o videolog é um compatilhador de vídeos online, seria como um fotolog, mas só que de vídeos.
+[Com havia dito antes](/videolog-a-nova-era.html), o videolog é um compatilhador de vídeos online, seria como um fotolog, mas só que de vídeos.
 
 Agora você pode acrescentar os outros usuário como amigos, postará seus vídeos dentro dos canais existentes, colocar tags, com isso, facilitando a busca por novos vídeos, fazendo com que seus vídeos sejam encontrados muito mais facilmente pelas pessoas que estão buscando algo.
 

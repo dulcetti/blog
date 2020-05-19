@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2008-11-04"
-description: ""
-featuredImage: ""
-title: "Tags depreciadas e W3C modafoca"
+category: 'Webstandards'
+date: '2008-11-04'
+description: ''
+featuredImage: ''
+title: 'Tags depreciadas e W3C modafoca'
 ---
 
 Relaxem. Antes que venham querer me xingar por causa do título e estar dando o título de "modafoca" à "toda poderosa" [W3C](http://www.w3.org/), deixem eu explicar o porquê do título. E fiquem tranquilos, não estou xingando não, é só mais um ponto que tive num relapso raro de pensamento e quis colocar por aqui para vocês me vangloriarem mandarem ir a merda.
@@ -44,10 +44,10 @@ Deixe-me usar se eu quiser. Tem casos onde é importante e imprescindível a uti
 
 ### Finalizando
 
-Ok, foda-se. Se no [post anterior vocês não me xingaram]/menus-navegacoes-em-listas-realmente-e-necessario.html), nesse vocês vão.
+Ok, foda-se. Se no [post anterior vocês não me xingaram](/menus-navegacoes-em-listas-realmente-e-necessario.html), nesse vocês vão.
 
 Mas só foi mais um artigo pra mexer um pouco, encucá-los e saber a opinião de vocês. Entendo a atitude da W3C, mas pra mim também tem que ter bom senso da galera de implementação e de design, para não criar algo não muito usável e de difícil entendimento.
 
-Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o target="\_blank" eh liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
+Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o target="\_blank" é liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
 
 Beijo na alcatra.

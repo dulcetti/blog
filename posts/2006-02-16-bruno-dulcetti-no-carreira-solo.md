@@ -1,12 +1,12 @@
 ---
-category: "Shots"
-date: "2006-02-16"
-description: ""
-featuredImage: ""
-title: "Bruno Dulcetti no Carreira Solo"
+category: 'Shots'
+date: '2006-02-16'
+description: ''
+featuredImage: ''
+title: 'Bruno Dulcetti no Carreira Solo'
 ---
 
-E ae pessoal, meio sumido, to hoje aqui no meu antigo trabalho para resolver uns trabalhos pendentes e consertando minha máquina... Pelo menos quando mudar, terei um micro para usar enquanto naum consigo comprar outro :D
+E ae pessoal, meio sumido, to hoje aqui no meu antigo trabalho para resolver uns trabalhos pendentes e consertando minha máquina... Pelo menos quando mudar, terei um micro para usar enquanto não consigo comprar outro :D
 
 To meio sumido também porque estou de mudança, correria geral, arrumar o antigo, esperando aprovação do novo, correndo atrás... Tá bem difícil, mas o que tiver que ser vai ser ;)
 

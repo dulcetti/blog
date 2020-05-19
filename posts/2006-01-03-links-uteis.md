@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-01-03"
-description: ""
-featuredImage: ""
-title: "Links úteis"
+category: 'Tecnologia'
+date: '2006-01-03'
+description: ''
+featuredImage: ''
+title: 'Links úteis'
 ---
 
 Falae pessoal. Queria compartilhar alguns links com vocês. Uns são artigos, outros materiais, pesquisas, etc, e que são muito úteis. Segue a lista abaixo:
@@ -18,7 +18,7 @@ Belo post do [Henrique](http://www.revolucao.etc.br), falando sobre web 2.0, pro
 
 ### [Web 2.0 pé no chão](http://blog.elcio.com.br/web-20-pe-no-chao/)
 
-Se não for a melhor, uma das melhores abordagens sobre o conceito web 2.0 tão comentado ultimamente. Ajax, ajah, ajat, XMLHttpRequest , o que são estes termos? O que é web 2.0? É algo novo? Vale dar uma lida com certeza.
+Se não for a melhor, uma das melhores abordagens sobre o conceito web 2.0 tão comentado ultimamente. Ajax, ajá, ajat, XMLHttpRequest , o que são estes termos? O que é web 2.0? É algo novo? Vale dar uma lida com certeza.
 
 ### [hCard](http://www.microformats.org/wiki/hcard)
 
@@ -42,7 +42,7 @@ Belo post sobre hCards, dizendo o que é, o que são microformatos, seu impacto 
 
 ### [URLs amigáveis - esclarecendo dúvidas](http://brunotorres.net/2005/02/01/urls-again)
 
-Post do Bruno Torres no seu blog sobre mod\_rewrite, para criação de url amigáveis. É o segundo post que ele cria, este sendo mais esclarecedor, mostrando exemplos de como fazer. Muito bom para quem trabalha com PHP.
+Post do Bruno Torres no seu blog sobre mod_rewrite, para criação de url amigáveis. É o segundo post que ele cria, este sendo mais esclarecedor, mostrando exemplos de como fazer. Muito bom para quem trabalha com PHP.
 
 Espero que seja de grande utilidade para todos.
 

@@ -1,12 +1,12 @@
 ---
-category: "Shots"
-date: "2008-01-02"
-description: ""
-featuredImage: ""
-title: "Camarada Oculto da Blogosfera 2007"
+category: 'Shots'
+date: '2008-01-02'
+description: ''
+featuredImage: ''
+title: 'Camarada Oculto da Blogosfera 2007'
 ---
 
-Sim, estamos em 2008 e o Amigo Oculto é de 2007. Um pequeno atraso, mas o meu xará Godói soh conseguiu me passar o nome do meu camarada oculto no dia que era pra ser postado. E era o último dia de trabalho, com isso, mta cerveja na mente, zuera, etc, etc. E coloquei camarada ao invés de amigo e coloquei oculto ao invés de secreto mermo. Algum problema? Acho bom. :D
+Sim, estamos em 2008 e o Amigo Oculto é de 2007. Um pequeno atraso, mas o meu xará Godói só conseguiu me passar o nome do meu camarada oculto no dia que era pra ser postado. E era o último dia de trabalho, com isso, mta cerveja na mente, zuera, etc, etc. E coloquei camarada ao invés de amigo e coloquei oculto ao invés de secreto mermo. Algum problema? Acho bom. :D
 
 Mas eu sei que vocês vão me perdoar, eu fui um cara bonzinho no ano que se passou e tudo mais certo?
 
@@ -18,7 +18,7 @@ Ele disse que eu sou um cara pra cima e completamente louco. Pq será? Aff... Br
 
 ### Voltando aos finalmentes...
 
-E como aconteceu no [camarada oculto do ano passado]/amigo-secreto-oculto-da-blogosfera.html), tirei uma pessoa que eu não conheço, pelo menos por enquanto.
+E como aconteceu no [camarada oculto do ano passado](/amigo-secreto-oculto-da-blogosfera), tirei uma pessoa que eu não conheço, pelo menos por enquanto.
 
 Meio difícil falar de alguém que você não conhece, mas sempre conseguimos. Foi o Fagner Souza, do Blog [Cavanhas Cavanhas](http://cavanhascavanhas.com/)
 
@@ -34,7 +34,7 @@ Sobre o design, não gostei muito, meio simples demais, mas tah valendo.
 
 Sobre o Amigo Secreto desse ano, achei um pouco desorganizado, preferi o que rolou no ano passado. Mas como foi algo que foi feito em cima da hora, sem tempo de organização, não deu pro meu [Xará Godoi](http://www.brunogodoi.com/blog/) organizar direito.
 
-Fora que eu preferi como foi o do ano passado, que o amigo soh era informado gradativamente, de acordo com o sorteio e não como foi feito esse ano, que geral saiu postando. Mas tah valendo a experiência :P
+Fora que eu preferi como foi o do ano passado, que o amigo só era informado gradativamente, de acordo com o sorteio e não como foi feito esse ano, que geral saiu postando. Mas tah valendo a experiência :P
 
 ### E quem participou dessa Dulcetti?
 
@@ -55,7 +55,7 @@ Um total de 33 nomes. Segue abaixo a listagem da galera, com seus respectivos po
 13. Gisele : [http://www.blognatv.com](http://www.blognatv.com)
 14. Issamu : [http://www.issamu.blog.com](http://www.issamu.blog.com)
 15. Leo Reis : [http://www.sonihelp.com](http://www.sonihelp.com)
-16. Bruno Dulcetti : [http://www.brunodulcetti.com](/)
+16. Bruno Dulcetti : [https://www.brunodulcetti.com](/)
 17. André : [webmerdia.blogspot.com](webmerdia.blogspot.com)
 18. Newton Calegari : [http://www.newtoncalegari.com](http://www.newtoncalegari.com)
 19. Cadu de Castro Alves : [http://www.cadudecastroalves.com](http://www.cadudecastroalves.com)
@@ -81,5 +81,3 @@ Queria deixar akele abraço pra galera toda que conheci esse ano, meus leitores,
 Acabou o ano do Dul7 né, infelizmente não poderei mais brincar com Feliz 2000Dul7. Mas sem problemas, inventei mais um "Feliz 2000Dul7+1". Pronto! Tá feito! :D
 
 Espero que todos tenham passado um natal sucesso e uma virada manera tb. Akele abraço e beijo na alcatra.
-
-\[BBL\]amigo-oculto, amigo-secreto, amigos, amigosecreto2007, amizade, blogosfera, blogs, blogueiros, pessoais\[/BBL\]

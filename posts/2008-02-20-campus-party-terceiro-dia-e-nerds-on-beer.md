@@ -1,12 +1,12 @@
 ---
-category: "Eventos"
-date: "2008-02-20"
-description: ""
-featuredImage: ""
-title: "Campus Party Terceiro Dia e Nerds On Beer"
+category: 'Eventos'
+date: '2008-02-20'
+description: ''
+featuredImage: ''
+title: 'Campus Party Terceiro Dia e Nerds On Beer'
 ---
 
-Com a bebedeira de quarta, toda a zueira que rolou, bate papo, até PODCast, acabei desabando, já que eu ainda naum tinha dormido praticamente no [Campus Party](http://www.campus-party.com.br/). Dormi no stand da [Telefônica](http://www.telefonica.com.br/), onde ficam os massagistas, etc. Lah eh bom pq tem vários pufs e almofadas, com isso, mais confortável do que dormir no chão dentro de uma barraca.
+Com a bebedeira de quarta, toda a zueira que rolou, bate papo, até PODCast, acabei desabando, já que eu ainda não tinha dormido praticamente no [Campus Party](http://www.campus-party.com.br/). Dormi no stand da [Telefônica](http://www.telefonica.com.br/), onde ficam os massagistas, etc. Lah é bom pq tem vários pufs e almofadas, com isso, mais confortável do que dormir no chão dentro de uma barraca.
 
 [![Foto da Arena vazia](http://farm3.static.flickr.com/2076/2264594187_1197f574eb_m.jpg)](http://www.flickr.com/photos/dulcetti/2264594187/) Depois disso, acordei bem cedo, tipo umas 6h, 7h e o local estava bem vazio. Acho que ninguém aguentou ficar dois dias seguidos ligado, também pudera.
 
@@ -16,7 +16,7 @@ Não, não. A galera foi acordando enquanto chegava a hora do almoço, etc. Algu
 
 #### Jornal de Debates
 
-O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idéia bacana, onde eles criaram uma camisa para cada dia de evento do Campus Party com uma pergunta em cada um delas. Com isso, eles paravam alguns blogueiros e pediam para se identificarem, sua atuação e comentar sobre a pergunta, se concorda ou naum e por que. Segue abaixo os temas dos debates de cada dia:
+O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idéia bacana, onde eles criaram uma camisa para cada dia de evento do Campus Party com uma pergunta em cada um delas. Com isso, eles paravam alguns blogueiros e pediam para se identificarem, sua atuação e comentar sobre a pergunta, se concorda ou não e por que. Segue abaixo os temas dos debates de cada dia:
 
 [![Foto das camisas](http://farm3.static.flickr.com/2403/2265393200_caf43f46aa_m.jpg)](http://www.flickr.com/photos/dulcetti/2265393200/)
 
@@ -27,11 +27,11 @@ O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idé
 5. A internet é democrática?
 6. Teve outro que eu não lembro o nome :D
 
-E as camisas estão a venda por R$20, um preço ateh legal para uma camisa. E disseram que a qualidade eh boa, tudo sucesso. De repente eu compro uma.
+E as camisas estão a venda por R\$20, um preço ateh legal para uma camisa. E disseram que a qualidade é boa, tudo sucesso. De repente eu compro uma.
 
 ### A celebridade da Blogosfera...
 
-E não eh que ele existe mesmo? O temido, sarcástico e irônico Carlos Cardoso do [Contraditorium](http://www.contraditorium.com/). Um pouco acima do peso, coisa que eu naum sabia que ele era, mas tah blz. Nesse dia naum cheguei a conversar com ele, trocar idéias, etc. Eu ia entregar pra ele o Cardoso Jr. que eu trouxe do Rio especialmente para ele, mas essa budega sumiu infelizmente, ficou pra próxima.
+E não é que ele existe mesmo? O temido, sarcástico e irônico Carlos Cardoso do [Contraditorium](http://www.contraditorium.com/). Um pouco acima do peso, coisa que eu não sabia que ele era, mas tah blz. Nesse dia não cheguei a conversar com ele, trocar idéias, etc. Eu ia entregar pra ele o Cardoso Jr. que eu trouxe do Rio especialmente para ele, mas essa budega sumiu infelizmente, ficou pra próxima.
 
 Foi a área de Campus Blog toda falar com a celebridade. Bate papos, conversas, monetização, babação de ovo, fotos, etc.
 
@@ -39,7 +39,7 @@ Destaco também a chegada da [Raquel Camargo](http://www.raquelcamargo.com/), qu
 
 ### E como que é a estrutura Dulcetti?
 
-[![Foto da Arena vazia](http://farm3.static.flickr.com/2340/2265390546_ff6803d2ed_m.jpg)](http://www.flickr.com/photos/dulcetti/2265390546/) Eh interessante. O primeiro andar é a parte gratuita, com todos os stands e mulheres espetaculares. Cada stand melhor que o outro, destacando os da CCE, da Intel, o caminhão da da Red Bull, o stand da LocaJogos, mas na verdade naum tanto o stand, mas a morena do stand que eh espetacular e muito simpática. Destaque também para o jogo de Kung Fu, o Kick Ass Kung Fu, onde as pessoas entram no jogo e os movimentos corporais deles se transformam em golpes dentro do jogo. Os inimigos são celebridades como o Bush, entre outros....
+[![Foto da Arena vazia](http://farm3.static.flickr.com/2340/2265390546_ff6803d2ed_m.jpg)](http://www.flickr.com/photos/dulcetti/2265390546/) Eh interessante. O primeiro andar é a parte gratuita, com todos os stands e mulheres espetaculares. Cada stand melhor que o outro, destacando os da CCE, da Intel, o caminhão da da Red Bull, o stand da LocaJogos, mas na verdade não tanto o stand, mas a morena do stand que é espetacular e muito simpática. Destaque também para o jogo de Kung Fu, o Kick Ass Kung Fu, onde as pessoas entram no jogo e os movimentos corporais deles se transformam em golpes dentro do jogo. Os inimigos são celebridades como o Bush, entre outros....
 
 [![Foto das camisas](http://farm3.static.flickr.com/2047/2262864338_f1d27b446e_m.jpg)](http://www.flickr.com/photos/dulcetti/2262864338/) Destaco também um jogo dentro de uma esfera parecida com akelas rodas da morte, onde motos ficam andando e dando cambalhotas, entre outras peripécias. A pessoa entra dentro do globo e os movimentos são livres, cada vez que ela anda, o globo vai girando e girando e a pessoa vai atirando, matando os inimigos. Bem interessante.
 
@@ -77,6 +77,4 @@ Exatamente. Cheguei, mexi na internet, mas depois desabei no colchão do stand d
 
 ### Finalizando...
 
-Bom, é isso. Eu acho que meu próximo post será um resumo do quarto e quinto dia, pq senaum ficará muito distante da data, etc. Mas veremos. Aquele abraço.
-
-\[BBL\]blogosfera, blogs, blogueiros, brasil, campus-party, campusparty, campusparty08, campuspartybr, evento, pessoais, tecnologia, videolog, videos\[/BBL\]
+Bom, é isso. Eu acho que meu próximo post será um resumo do quarto e quinto dia, pq senão ficará muito distante da data, etc. Mas veremos. Aquele abraço.

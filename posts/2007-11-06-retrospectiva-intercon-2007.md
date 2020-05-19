@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2007-11-06"
-description: ""
-featuredImage: ""
-title: "Retrospectiva Intercon 2007"
+category: 'Eventos'
+date: '2007-11-06'
+description: ''
+featuredImage: ''
+title: 'Retrospectiva Intercon 2007'
 ---
 
 Depois de ter demorado mais de uma semana para postagem (pra variar), aqui estou eu falando sobre o evento, que na minha concepção foi muito bom. Me surpreendeu positivamente com a estrutura e modelos de palestras, etc.
@@ -38,7 +38,7 @@ Vou comentar sobre cada palestra que assisti e alguns pontos extras aqui:
 
 Início hilário com o Luli passando pro Seixas, fazendo uma sátira do filme Tropa de Elite com os participantes da palestra, se é que pode se chamar de palestra né.
 
-Comentaram sobre a idéia do Radiohead, da nova estratégia de venda de músicas da banda, vendendo por U$8 o seu novo álbum via Internet. Não comentaram muita coisa sobre, somente o que todo mundo sabia (ou pelo menos eu).
+Comentaram sobre a idéia do Radiohead, da nova estratégia de venda de músicas da banda, vendendo por U\$8 o seu novo álbum via Internet. Não comentaram muita coisa sobre, somente o que todo mundo sabia (ou pelo menos eu).
 
 Segundo tópico falado foi sobre Ferramentas de Comunicação, falando sobre o twitter, grande destaque do evento, já comentado nesse post, discutiram sobre sua utilidade, falaram sobre blogs, etc.
 
@@ -50,7 +50,7 @@ Uma bela referência sobre drogas e adwords, dizendo que assim como a maconha é
 
 Comentaram bastante sobre cases de sucesso de utilização de adwords, subestimando as ações e resultados dos trabalhos das agências publicitárias. Achei que faltou um pouco de informação sobre peças publicitárias em sites. Muita gente pensa que banners e peças significam cliques, etc, mas esquecem que aquilo é apenas uma apresentação do produto, sendo desnecessário o clique. Apenas uma divulgação. Hoje em dia, muitas peças são assim.
 
-Na quarta parte comentaram sobre o facebook e sua venda para a Microsoft de 1,6% por U$240.000,00 e tiveram algumas perguntas se valia mesmo a pena comprar um produto desse e quanto tempo que esse “sucesso” duraria.
+Na quarta parte comentaram sobre o facebook e sua venda para a Microsoft de 1,6% por U\$240.000,00 e tiveram algumas perguntas se valia mesmo a pena comprar um produto desse e quanto tempo que esse “sucesso” duraria.
 
 #### Negócios 2.0 - Marcello Povoa, Dir. de Marketing da MPP Solutions e José Luiz Martins, Dir. de Tecnologia da MPP Solutions
 
@@ -122,12 +122,10 @@ Finalizando, digo que o Intercon desse ano foi muito superior ao do ano passado.
 
 Esse ano eles trocaram o local do evento e gostei muito mais do atual e do formato do evento. E não sou eu somente que acho isso. A grande maioria, se não todos, falaram muito bem sobre o formato, local, palestras, etc.
 
-Foi bom também por ter conhecido a galera da Blogosfera e rever pessoas que jah conhecia como o Fabio Lody, Tiago Baeta, Leandro Vieira, André Metzen, Fábio Seixas, entre outros.
+Foi bom também por ter conhecido a galera da Blogosfera e rever pessoas que já conhecia como o Fabio Lody, Tiago Baeta, Leandro Vieira, André Metzen, Fábio Seixas, entre outros.
 
 Legal que também criei o meu twitter, vamos ver se acho alguma utilidade nisso e se eu fico viciado nisso. Provavelmente, adoro essas coisas inicialmente inúteis, mas que viciam :D.
 
 Aquele abraço pra todos e quem não foi, perdeu.
 
 **\[UPDATE\]** Como eu pude me esquecer desse detalhe... **VIVA O CARBONO 14!** :D Somente quem foi ao Intercon entenderá :P **\[/UPDATE\]**
-
-\[BBL\]blogosfera, blogs-corporativos, blogueiros, evento, imasters, intercon, intercon-2007, internet, pessoais, tecnologia\[/BBL\]

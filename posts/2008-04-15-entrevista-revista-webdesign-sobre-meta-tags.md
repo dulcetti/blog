@@ -1,20 +1,20 @@
 ---
-category: "Publicações"
-date: "2008-04-15"
-description: ""
-featuredImage: ""
-title: "Entrevista Revista Webdesign sobre Meta tags"
+category: 'Publicações'
+date: '2008-04-15'
+description: ''
+featuredImage: ''
+title: 'Entrevista Revista Webdesign sobre Meta tags'
 ---
 
 E ae pessoal, tranquilidade? Por aqui tudo beleza. Família vai bem? Irmã tá boa? Sucesso então.
 
 ### Mas é um modafoca mermo...
 
-Bom, deixando a babaquice de lado, venho aqui só informar que novamente apareci na [Revista Webdesign](http://www.revistawebdesign.com.br/), só que agora falando sobre [meta tags]/quais-e-como-utilizar-as-meta-tags-na-sua-pagina.html).
+Bom, deixando a babaquice de lado, venho aqui só informar que novamente apareci na [Revista Webdesign](http://www.revistawebdesign.com.br/), só que agora falando sobre [meta tags](/quais-e-como-utilizar-as-meta-tags-na-sua-pagina.html).
 
 ### Ah é Bruno? Que manero hein.
 
-Bem legal. Mais um clipping para eu arquivar, já que é a segunda vez que apareço na revista. [Na outra oportunidade]/bruno-dulcetti-e-videologtv-na-revista-webdesign.html), apareci falando sobre o [Videolog](http://www.videolog.tv), como um case de vídeos, dicas, a participação como desenvolvedor, etc.
+Bem legal. Mais um clipping para eu arquivar, já que é a segunda vez que apareço na revista. [Na outra oportunidade](/bruno-dulcetti-e-videologtv-na-revista-webdesign.html), apareci falando sobre o [Videolog](http://www.videolog.tv), como um case de vídeos, dicas, a participação como desenvolvedor, etc.
 
 Foram três páginas falando sobre meta tags. Meu artigo está entre os cinco primeiros no Google e possui bastante relevância, comentários, principalmente de agradecimento.
 

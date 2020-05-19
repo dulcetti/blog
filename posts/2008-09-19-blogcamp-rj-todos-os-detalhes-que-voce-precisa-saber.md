@@ -1,16 +1,16 @@
 ---
-category: "Eventos"
-date: "2008-09-19"
-description: ""
-featuredImage: ""
-title: "BlogCamp RJ: Todos os detalhes que você precisa saber"
+category: 'Eventos'
+date: '2008-09-19'
+description: ''
+featuredImage: ''
+title: 'BlogCamp RJ: Todos os detalhes que você precisa saber'
 ---
 
-![Marca do BlogCamp RJ]/assets/images/post/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Falaeeeee cambada de modafoca. Finalmente é dada a largada. Depois de muita enrolação, esconde, fala, desfala, entre outros, aká estou eu, o modafoca mór de todos, para falar sobre esse evento, tão modafoca quanto quem vos fala.
 
- [http://videolog.uol.com.br/video.php?id=368153](http://videolog.uol.com.br/video.php?id=368153)
+[http://videolog.uol.com.br/video.php?id=368153](http://videolog.uol.com.br/video.php?id=368153)
 
 Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NAVE não é verdade? Só adianto que o lugar é impressionante e perfeito para a realização do BlogCamp RJ. ;)
 
@@ -36,7 +36,7 @@ E o final do evento será às 18h, na Arena Principal, com os agradecimentos e t
 
 #### Tá, mas e o local o modafoca?
 
-![Foto da Entrada do NAVE]/assets/images/post/foto-nave.jpg)
+![Foto da Entrada do NAVE](/assets/images/posts/foto-nave.jpg)
 
 Relaxa, fica tranquilo. O local não poderia ser melhor por inúmeros motivos. Vai ser na NAVE (Núcleo AVançado de Educação).
 
@@ -44,13 +44,13 @@ E não pense você, que só porque a escola é estadual, que o local é precári
 
 ##### E o que tem de especial nessa escola?
 
-![Foto da Recepção do NAVE]/assets/images/post/foto-recepcao-nave.jpg)
+![Foto da Recepção do NAVE](/assets/images/posts/foto-recepcao-nave.jpg)
 
 Bastante coisa meu nobre. O NAVE é uma parceria do Oi Futuro com a Secretaria de Estado de Educação do Rio e não com o Governo Federal do Estado, que possui salas de aulas para diversas atividades, como criação de Games, Produção de Áudio e Vídeo, entre outras diversas coisas como vídeo games, espaços para um bate-papo, lounges, entre outros diversos apetrechos sensacionais.
 
 ##### Quer dizer então que teremos videogames?
 
-![Foto de um rapaz jogando videogame]/assets/images/post/foto-maluco-videogame.jpg)
+![Foto de um rapaz jogando videogame](/assets/images/posts/foto-maluco-videogame.jpg)
 
 Estou prevendo isso. Mas não deixarei liberado o tempo inteiro, porque senão ninguém vai querer participar das desconferências do evento, correto? Mas estou prevendo um campeonato com alguns participantes :D
 
@@ -62,7 +62,7 @@ Dividiremos em 3 arenas, lembrando que a quarta é surpresa, portanto, fique qui
 
 #### Arena Principal
 
-![Foto da Arena Principal]/assets/images/post/foto-arena-principal.jpg)
+![Foto da Arena Principal](/assets/images/posts/foto-arena-principal.jpg)
 
 A arena base, inicial, onde tudo vai começar. Claro, que estou falando da parte das desconferências, etc, porque tudo começará em outro local, que falarei mais abaixo.
 
@@ -72,9 +72,9 @@ Nela será feita a apresentação do evento, às 10h. Eu mesmo que falarei na ap
 
 Não foi embora ainda? Tá, ok. Falarei então né, fazer o quê. Depois a turma irá se dividir nas arenas propostas. Mas resumindo, essa principal falará de assuntos gerais e terá um projetor, para quem quiser mostrar. Os moderadores comandarão assuntos relacionados a blogosfera, que a galera vai sugerir na hora mesmo, como deve ser uma desconferência.
 
-**\[update\]** _Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica._ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
 
 ##### Moderador
 
@@ -82,13 +82,13 @@ O moderador dessa sala será o Beto Largman e o Nick Ellis. Grandes e renomados 
 
 #### Arena Business
 
-![Foto da Arena Business]/assets/images/post/foto-arena-business.jpg)
+![Foto da Arena Business](/assets/images/posts/foto-arena-business.jpg)
 
 A arena Business será na sala mais melhor de boa de todas. Linda, bem modafoca, sofás, mesas, computadores, etc. Como o nome da arena, já deu pra perceber pra que que serve essa arena, certo?
 
-**\[update\]** _Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica._ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
 
 Blogueiros, entre outros, discutirão assuntos relacionados a Business, modelos de negócios, cuidando corretamente de um blog, procedimentos, Notas Fiscais, Direitos Autorais, Creative Commons, entre outros assuntos interessantíssimos.
 
@@ -104,15 +104,15 @@ Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quan
 
 #### Área Tech
 
-![Foto de fora da arena Tech]/assets/images/post/foto-arena-tech-externa.jpg)
+![Foto de fora da arena Tech](/assets/images/posts/foto-arena-tech-externa.jpg)
 
 Essa arena será a única dentro de uma sala de aula do NAVE. Mas fique tranquilo, pois a sala é alto nível, possui alguns computadores, mas por questões de segurança, não deixaremos livres para o pessoal usar. Foi mal galera, mas nem tudo é perfeito né ;) E eu escolhi a sala de "Programação de Games", pra entrar no clima não é verdade?
 
-**\[update\]** _Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica._ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
 
-![Foto de dentro da arena Tech]/assets/images/post/foto-arena-tech-interna.jpg)
+![Foto de dentro da arena Tech](/assets/images/posts/foto-arena-tech-interna.jpg)
 
 Pela primeira vez, que eu me lembre, teremos uma área específica para a galera tech, ou seja, a galera que, além de blogar, escrever, falar merda, programa, mexe por dentro do WordPress, cria Plugins, mexe com HTML, CSS, JS, PHP, jQuery, entre outras tecnologias e ferramentas relacionadas a blogs.
 
@@ -122,21 +122,21 @@ Bom, o moderador será... Rá, eu mermo, esse modafoca pró++ mór de todos, azu
 
 #### Praça do NAVE
 
-![Foto da Praça do NAVE]/assets/images/post/praca-nave.jpg)
+![Foto da Praça do NAVE](/assets/images/posts/praca-nave.jpg)
 
 Logicamente que não teremos somente as arenas. Teremos também espaços para bate papos, networking, comes e bebes (oba).
 
-![Foto da Praça do NAVE]/assets/images/post/praca-nave2.jpg)
+![Foto da Praça do NAVE](/assets/images/posts/praca-nave2.jpg)
 
 E essa praça não é uma pracinha comum não, tem vários micros, tevês, até video-games. Com um belo visual e arquitetura, como não poderia deixar de ser. Vai ser nessa sala que ficará o Buffet, pra galera beber e comer.
 
 ##### Corredor da Praça
 
-![Foto do Corredor]/assets/images/post/corredor-nave.jpg)
+![Foto do Corredor](/assets/images/posts/corredor-nave.jpg)
 
 Caminhando pra esquerda da praça, você passará pela Arena Business e ficará em frente à entrada da Arena Principal. E lá você terá vários videogames como Wii, Playstations da vida.
 
-![Foto de um rapaz jogando Video Game]/assets/images/post/foto-maluco-videogame.jpg)
+![Foto de um rapaz jogando Video Game](/assets/images/posts/foto-maluco-videogame.jpg)
 
 Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar jogando do que participar do evento, oficinas e tudo mais ;) Mas não se preocupe que liberarei e farei campeonatos mais pro final do evento, pra interagir a galera. ;)
 
@@ -144,7 +144,7 @@ Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar 
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;output=embed&amp;s=AARTsJrE3sRqryDewSAsi3pZEwL0Uzbixg"></iframe>
 
- [Exibir mapa ampliado](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&t=h&z=14&iwloc=addr&ll=-22.917528,-43.240557&source=embed)
+[Exibir mapa ampliado](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&t=h&z=14&iwloc=addr&ll=-22.917528,-43.240557&source=embed)
 
 A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai no 204, como você pode ver no Mapa acima. Ou [veja o mapa melhor](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&z=17&iwloc=addr) ou então [veja direto com o radar](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&ll=-22.927014,-43.24472&spn=0.004051,0.006545&t=h&z=18&iwloc=addr), via Google Maps.
 
@@ -161,7 +161,7 @@ Creio que será um dos principais pontos que a galera vai partir. Claro que nem 
 1. Vá para a parte de desembarque
 2. Siga até o Terminal de Ônibus
 
-![Foto do ônibus 606]/assets/images/post/onibus-606.jpg)
+![Foto do ônibus 606](/assets/images/posts/onibus-606.jpg)
 
 4. Pegue o ônibus 606, é um verdinho tomate modafoca
 5. Desça no último ponto da Barão de Mesquita
@@ -176,7 +176,7 @@ Essa viagem dura +ou- uns 20, 25 minutos.
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=R.+Cordeiro+da+Gra%C3%A7a&amp;daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=FSKSov4dzLBs_Q%3B%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=1&amp;sz=16&amp;via=1&amp;sll=-22.904028,-43.207297&amp;sspn=0.016208,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.9064,-43.218305&amp;spn=0.016208,0.026178&amp;output=embed&amp;s=AARTsJrQ79Oku0MsFPqAHvkAjs-3pS1A9Q"></iframe>
 
- [Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&t=h&ll=-22.9064,-43.218305&spn=0.016208,0.026178&source=embed)
+[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&t=h&ll=-22.9064,-43.218305&spn=0.016208,0.026178&source=embed)
 
 Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&ll=-22.9064,-43.218305&spn=0.016208,0.026178&t=h&z=16). Ou então seguir o guia abaixo:
 
@@ -201,7 +201,7 @@ Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês]
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=-22.906212,-43.168309&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;sll=-22.904305,-43.172107&amp;sspn=0.008104,0.013089&amp;ie=UTF8&amp;t=h&amp;ll=-22.904552,-43.168834&amp;spn=0.008104,0.013089&amp;output=embed&amp;s=AARTsJr6pv0yVSJbg9cGi42UhatrKVQIgQ"></iframe>
 
- [Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&t=h&ll=-22.904552,-43.168834&spn=0.008104,0.013089&source=embed)
+[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&t=h&ll=-22.904552,-43.168834&spn=0.008104,0.013089&source=embed)
 
 O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal. É bem tranquilo chegar de lá. Quem for de carro, pode seguir o [mapa que tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&ll=-22.904552,-43.168834&spn=0.008104,0.013089&t=h&z=17).
 
@@ -209,7 +209,7 @@ O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal.
 
 1. Saindo aeroporto, você vai seguir em sentido a Av. Gen. Justo
 
-![Foto do ônibus 413]/assets/images/post/onibus-413.jpg)
+![Foto do ônibus 413](/assets/images/posts/onibus-413.jpg)
 
 2. Lá tem um ponto de ônibus e pegue o ônibus 413 sentido Muda
 3. Ele entra na Rua Uruguai, no sentido correto do NAVE
@@ -221,7 +221,7 @@ Essa viagem dura +ou- uns 40 minutos.
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;output=embed&amp;s=AARTsJrvuGjqh1RrG32ilZbzEsQAdMdDhg"></iframe>
 
- [Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&ll=-22.813055,-43.250599&spn=0.016219,0.026178&source=embed)
+[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&ll=-22.813055,-43.250599&spn=0.016219,0.026178&source=embed)
 
 A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Quem for de carro, pode seguir o [mapa que tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&z=16).
 
@@ -230,7 +230,7 @@ A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Q
 1. Não precisa sair do aeroporto, porque senão você vai andarilhar que nem o Forest Gump e vai cair no chão antes de ter percorrido 20% do caminho
 2. Dentro do aeroporto mesmo (ok, fora, porque o ônibus não entra no terminal dã), você tem vários ônibus, logo atrás dos pontos de táxis.
 
-![Foto do ônibus 634]/assets/images/post/onibus-634.jpg)
+![Foto do ônibus 634](/assets/images/posts/onibus-634.jpg)
 
 3. Pegue o ônibus 634 Freguesia/Saens Pena especial, pois não são todos que vão pelo Galeão.
 4. Desça na Praça Saens Pena e não no Ponto Final.
@@ -261,7 +261,7 @@ O bacana será, talvez, a possibilidade de podermos fazer o setlist, pedindo mú
 
 Sábado, após o BlogCamp, iremos para algum bar pela região, provavelmente pelo Praça Vanhargem, que possui vários bares e botecos legais. Não vou escolher um certo, vamos pra lá e a galera escolhe, vocês que estão mandando :)
 
-![Marca da Six Private]/assets/images/post/marca-six-private.jpg)
+![Marca da Six Private](/assets/images/posts/marca-six-private.jpg)
 
 E depois, pra quem curte, iremos para a Boate Six, na Lapa. Fechamos um preço de R$35 para homens e R$10 para mulheres, entrando até 00h. Após isso, homens pagam R$40 e mulheres pagam R$15. Nada de acréscimos exorbitantes certo? ;)
 

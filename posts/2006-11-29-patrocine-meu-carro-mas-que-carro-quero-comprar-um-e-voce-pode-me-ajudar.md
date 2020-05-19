@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-11-29"
-description: ""
-featuredImage: ""
-title: "Patrocine meu Carro! Mas que carro? Quero comprar um e você pode me ajudar!"
+category: 'Shots'
+date: '2006-11-29'
+description: ''
+featuredImage: ''
+title: 'Patrocine meu Carro! Mas que carro? Quero comprar um e você pode me ajudar!'
 ---
 
 Estava eu vendo meus emails pelo Thunderbird (sim, é verdade, eu ainda não estou full-time pelo Gmail, fazer o que...), quando me chega um email com o seguinte título:
@@ -22,7 +22,7 @@ Quando cheguei em casa, um dia desses, abri o email e vi que era exatamente o me
 
 ### Mas o que seria isso exatamente Bruno?
 
-Bom, o Felipe criou um blog, com o intuito de conseguir comprar seu carro. Ele dividiu a lataria do seu futuro carro em 500 "quadrados", cujo tamanho correto não sei ao certo, e cada quadrado ele fará anúncios que ele está vendendo por R$100 cada quadrado desse.
+Bom, o Felipe criou um blog, com o intuito de conseguir comprar seu carro. Ele dividiu a lataria do seu futuro carro em 500 "quadrados", cujo tamanho correto não sei ao certo, e cada quadrado ele fará anúncios que ele está vendendo por R\$100 cada quadrado desse.
 
 Ele está vendendo os anúncios para quem quiser anunciar, ajudá-lo. Pode ser loja, freelancer, empresas tanto grandes quanto pequenas, não importa.
 
@@ -32,7 +32,7 @@ Com tudo isso, quando as vendas chegarem no valor do carro, ele vai adesivar tod
 
 Ache o que quiser, mas ele disse que em 5 dias com o blog no ar, ele conseguiu 20 mil pageviews e 10 espaços vendidos.
 
-Hoje, ele tem no total, 28 anúncios vendidos, num total arrecadado de R$2.917,00.
+Hoje, ele tem no total, 28 anúncios vendidos, num total arrecadado de R\$2.917,00.
 
 Maluco ou não, a idéia está dando certo... ;) E dentre os assinantes, temos o [Portal iMasters](http://www.imasters.com.br), entre outros.
 
@@ -41,5 +41,3 @@ Maluco ou não, a idéia está dando certo... ;) E dentre os assinantes, temos o
 Bom, achei a iniciativa muito interessante e desejo toda a sorte pro Felipe e que ganha um espaço aqui sobre sua idéia. Acessem o Blog dele e anuncie também, ele agradece... ;)
 
 Aquele abraço.
-
-\[BBL\]anuncios, blog, blogosfera, blogueiros, car, carro, ferramentas, patrocinio, pessoais, tecnologia\[/BBL\]

@@ -1,16 +1,16 @@
 ---
-category: "Shots"
-date: "2007-08-29"
-description: ""
-featuredImage: ""
-title: "Blogosimpsons - A Blogosfera Brasileira em versão Simpsons"
+category: 'Shots'
+date: '2007-08-29'
+description: ''
+featuredImage: ''
+title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 
 ![Dul7 Simpsonizado](http://brunodulcetti.com/imgs/dul7_simpsons_melhor.jpg)
 
 E ae cambada. Um post bem rápido, só pra descontrair mesmo.
 
-O Carlos Carvalho do [IFTK](http://www.iftk.com.br/wordpress "Visitar o Blog do Carlos Carvalho") teve uma idéia de postar uma lista com fotos dos blogueiros da Blogosfera simpsonizados. A idéia, na verdade, foi do Melo do blog [Verdade Absoluta](http://verdadeabsoluta.net/), mas não postou no blog dele pois disse que é preguiçoso pacas (não és o único meu nobre :D ).
+O Carlos Carvalho do [IFTK](http://www.iftk.com.br/wordpress 'Visitar o Blog do Carlos Carvalho') teve uma idéia de postar uma lista com fotos dos blogueiros da Blogosfera simpsonizados. A idéia, na verdade, foi do Melo do blog [Verdade Absoluta](http://verdadeabsoluta.net/), mas não postou no blog dele pois disse que é preguiçoso pacas (não és o único meu nobre :D ).
 
 Por isso, o não muito preguiçoso (desocupado? :P brincadeira ;) ) Carlos Carvalho [criou esta lista num post em seu blog](http://www.iftk.com.br/wordpress/2007/08/15/blogosfera-brasileira-simpsonizada/).
 
@@ -18,7 +18,7 @@ Ficou irado e bem engraçado. Eu criei o meu e mandei pra ele, deu pra vocês ve
 
 Ele não criou de todos, mas deixou livre pra galera criar e mandar pra ele, que postaria no blog, como foi o meu caso.
 
-Muitos criaram através do site [Simpsonize-me](http://simpsonizeme.com/ "crie o seu avatar dos Simpsons através do Simpsonize-me"), uma ferramenta criada pelo Burger King para a divulgação do filme Os Simpsons. Mas eu criei direto no [site do filme mesmo](http://www.simpsonsmovie.com/ "Visite o site do Filme dos Simpsons"), pois precisava de uma foto com um tamanho muito específico e eu não tinha aqui no trabalho. Paciência :D.
+Muitos criaram através do site [Simpsonize-me](http://simpsonizeme.com/ 'crie o seu avatar dos Simpsons através do Simpsonize-me'), uma ferramenta criada pelo Burger King para a divulgação do filme Os Simpsons. Mas eu criei direto no [site do filme mesmo](http://www.simpsonsmovie.com/ 'Visite o site do Filme dos Simpsons'), pois precisava de uma foto com um tamanho muito específico e eu não tinha aqui no trabalho. Paciência :D.
 
 Listagem da galera simpsonizada (sic) no Post do Carlos:
 
@@ -59,5 +59,3 @@ Listagem da galera simpsonizada (sic) no Post do Carlos:
 ### Finalizando
 
 É isso ae cambada, só isso. Akele abraço.
-
-\[BBL\]amigos, amizade, blog, blogosfera, blogs, blogueiros, brasil, comédia, pessoais, simpsons\[/BBL\]

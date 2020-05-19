@@ -1,9 +1,9 @@
 ---
-category: "Portfólio"
-date: "2006-09-04"
-description: ""
-featuredImage: ""
-title: "Segunda Versão. Finalmente saiu. Brunão v2.0 Flexpower!"
+category: 'Portfólio'
+date: '2006-09-04'
+description: ''
+featuredImage: ''
+title: 'Segunda Versão. Finalmente saiu. Brunão v2.0 Flexpower!'
 ---
 
 Ok galera, podem zuar... :P
@@ -12,13 +12,13 @@ Ok galera, podem zuar... :P
 
 Tah bom, tah bom, parem de sacanear ow... Finalmente saiu essa bagaça de segunda versão. :D Tudo bem, tudo bem, pode não ser revolucionária, aquela coisa estrondosa, caramba, e talz... Mas é a segunda versão do meu Blog e Portfólio.
 
-[Prestes a completar um ano de existência]/primeiro-passo.html "Ver meu Primeiro Post no Blog"), consegui, finalmente, mudar o layout desse blog/portfólio.
+[Prestes a completar um ano de existência](/primeiro-passo.html 'Ver meu Primeiro Post no Blog'), consegui, finalmente, mudar o layout desse blog/portfólio.
 
 ### Parte Visual
 
 Na parte visual, vocês podem perceber que deixei do lado aquele topo com os macaquinhos né? Tanto no Blog, quanto no meu portfólio, sairam os simpáticos animais que tinham no fundo do campo. As imagens era um pouco pesadas, foi um dos pontos que mais me fizeram retirá-las.
 
-Recebi no início algumas críticas, às vezes um pouco agressivas, dizendo que era plágio do [Felipe Memória](http://www.fmemoria.com.br "Visitar o site do Felipe Memória"), etc. Quis acabar com isso, apesar de nem ter passado na minha cabeça essa idéia de copiar do Memória, etc...
+Recebi no início algumas críticas, às vezes um pouco agressivas, dizendo que era plágio do [Felipe Memória](http://www.fmemoria.com.br 'Visitar o site do Felipe Memória'), etc. Quis acabar com isso, apesar de nem ter passado na minha cabeça essa idéia de copiar do Memória, etc...
 
 Mas mesmo assim, continuo utilizando os animais discretamente. Cada seção do portfólio, tem seu respectivo animal que tem um simbólico significado (Essa tuh conhece né [Gio](http://www.bitfrito.com.br)? :D). Quem quiser, pode tentar descobrir ae, postar, etc... ;)
 
@@ -54,7 +54,7 @@ Essa parte é sempre a mais difícil de todas (na maioria das vezes :P). Ainda n
 
 Os artigos anteriores eu ainda terei que ajeitar algumas coisas... Nem todas as tags estão declaradas corretamente no css, tenho que ver isso... Terei que analisar post por post para ficar tudo buniotinho (to ferrado, eu sei :P).
 
-### Mto bom Brunaum. Temos alguma novidade
+### Mto bom Brunão. Temos alguma novidade
 
 Já estava quase esquecendo, ainda bem que você me lembrou :D. Criei mais duas categorias, que estarei postando a partir de hoje sempre que puder.
 
@@ -64,7 +64,7 @@ Essa categoria eu postarei sites que podem servir de inspiração para todos. A 
 
 #### Categoria Videolog
 
-Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em destaques no [Videolog.tv](http://www.videolog.tv), no qual [já falei sobre no meu Blog]/videolog-a-nova-era.html).
+Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em destaques no [Videolog.tv](http://www.videolog.tv), no qual [já falei sobre no meu Blog](/videolog-a-nova-era.html).
 
 Postarei também novidades que rolarem dentro do Portal. ;)
 
@@ -83,5 +83,3 @@ Espero poder ajudar a galera em mais vários e vários anos de existência se po
 E não liguem se estiver com algo meio errado, ainda estou agilizando tudo aqui no Blog ok? Lembrando também que a parte de portfólio ainda está incompleta :D
 
 Akele abraçooooo...
-
-\[BBL\]blog, blogosfera, criações, layout, líquido, novo, pessoais, webstandards\[/BBL\]

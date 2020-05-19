@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-11-03"
-description: ""
-featuredImage: ""
-title: "Deixe seus Feeds completos. Uma campanha Rafael Arcanjo."
+category: 'Shots'
+date: '2006-11-03'
+description: ''
+featuredImage: ''
+title: 'Deixe seus Feeds completos. Uma campanha Rafael Arcanjo.'
 ---
 
 ![Feeds Completo](http://img169.imageshack.us/img169/5161/feedcompleto468x602xr1.jpg)
@@ -38,7 +38,7 @@ Perfeito! [Entra no post do Arcanjo](http://www.arcanjo.org/blog/?p=70) e pegue 
 
 Por enquanto essa cambada abaixo ae:
 
-- [Bruno Dulcetti. Sou Eu!]/deixe-seus-feeds-completos-uma-campanha-rafael-arcanjo.html) \_o/
+- [Bruno Dulcetti. Sou Eu!](/deixe-seus-feeds-completos-uma-campanha-rafael-arcanjo.html) \_o/
 - [Rafael Arquanjo](http://www.arcanjo.org/blog/?p=70)
 - [Bruno Alves](http://www.brunoalves.eti.br/)
 - [Blog Ajuda](http://www.blogajuda.com.br/2006/11/03/ofereca-seu-feed-completo/)

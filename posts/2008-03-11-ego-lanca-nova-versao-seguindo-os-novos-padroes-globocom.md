@@ -1,17 +1,17 @@
 ---
-category: "Webstandards"
-date: "2008-03-11"
-description: ""
-featuredImage: ""
-title: "Ego lança nova versão seguindo os novos Padrões Globo.com"
+category: 'Webstandards'
+date: '2008-03-11'
+description: ''
+featuredImage: ''
+title: 'Ego lança nova versão seguindo os novos Padrões Globo.com'
 ---
 
 É pessoal. Mais um site do Portal [Globo.com](http://www.globo.com/) lança sua nova versão, totalmente leve, seguindo os novos padrões de implementação criados ano passado. Dessa vez foi o [Portal Ego](http://ego.globo.com/) que lançou seu novo layout. Agora os sites que estão nos novos padrões são os seguintes:
 
-1. [Home Globo.com]/portal-globocom-lanca-sua-nova-home.html)
-2. [G1]/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout.html)
-3. [Globo Vídeos]/globo-videos-nos-novos-padroes-globocom.html)
-4. [Ego]/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom.html)
+1. [Home Globo.com](/portal-globocom-lanca-sua-nova-home.html)
+2. [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout.html)
+3. [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom.html)
+4. [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom.html)
 
 Agora só falta o [Globo Esporte.com](http://globoesporte.globo.com/) lançar sua "nova cara" para o público. Isso, logicamente, nos sites com maior visibilidade na Globo.com. Ainda faltam outros diversos. E fica óbvio o motivo pelo Globo Esporte ser o mais demorado: o tamanho. É um site bem grande, com variações absurdas, muitas páginas, etc.
 
@@ -35,13 +35,13 @@ Eu destaco a implementação dos novos destaques do site, que antigamente eram f
 
 #### Novos Destaques do Ego
 
-![Exemplo do Destaque do Ego](http://www.brunodulcetti.com/imgs/fotosBlog/destaque-ego.jpg) Exemplo do Destaque do Ego
+![Exemplo do Destaque do Ego](/assets/images/posts/destaque-ego.jpg) Exemplo do Destaque do Ego
 
 A implementação desse destaque foi bem chata, principalmente para deixar igual em todos os browsers, incluindo os do Mac. Mas foi rápido, com todos os detalhes que foi chato. Mas mesmo assim, ainda não ficou 100%, porque alguém deve ter metido a mão enquanto eu estava de férias, ferrando tudo. Fazer o que né.
 
 #### Nova Galeria de Fotos do Ego
 
-![Exemplo da Galeria de Fotos do Ego](http://www.brunodulcetti.com/imgs/fotosBlog/galeria-fotos-ego.jpg) Exemplo da Galeria de Fotos do Ego
+![Exemplo da Galeria de Fotos do Ego](/assets/images/posts/galeria-fotos-ego.jpg) Exemplo da Galeria de Fotos do Ego
 
 Essa galeria, de início foi meio chata, pelo detalhes, efeitos, entre outras coisas. Mas também foi rápida. Agora ela será a Galeria padrão, deixando de lado aquela atual em flash que eu não acho muito agradável.
 
@@ -56,5 +56,3 @@ Bom, é isso. Espero que gostem. Já espero um monte de críticas e bombardeios 
 Ah, em relação ao código, não se esqueçam do Vignette, ele estraga muita coisa ;)
 
 Aquele abraço.
-
-\[BBL\]design, ego, globo, globo-video, globo.com, lancamento, layout, pessoais, tecnologia, web-standards, webstandards, xhtml\[/BBL\]

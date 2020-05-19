@@ -1,9 +1,9 @@
 ---
-category: "CSS"
-date: "2008-01-08"
-description: ""
-featuredImage: ""
-title: "IE reconhecendo corretamente o CSS 2.1 e com vários bugs corrigidos"
+category: 'CSS'
+date: '2008-01-08'
+description: ''
+featuredImage: ''
+title: 'IE reconhecendo corretamente o CSS 2.1 e com vários bugs corrigidos'
 ---
 
 [Meu camarada Mico publicou no Blog dele](http://www.elmicox.com/2008/contornar-varios-bugs-do-ie-numa-tacada-so/) e eu não tive como não publicar aqui. Talvez alguns não o sigam, etc.
@@ -19,17 +19,17 @@ Quem nunca passou algum problema com o IE, nenhum bug ou defeito no CSS taque a 
 Bom, eu espero que sim, mas não fique tão empolgado, não se esqueça que é o IE e tudo pode acontecer. Mas pelas [explicações dadas](http://dean.edwards.name/IE7/) pelos sujeitos que desenvolveram essa Biblioteca, o IE 5, 6 e 7 ficariam como o IE 8, com todas as funcionalidades resolvidas:
 
 - supports the following CSS selectors:
-    1. parent > child
-    2. adjacent + sibling
-    3. adjacent ~ sibling
-    4. \[attr\], \[attr="value"\], \[attr~="value"\] etc
-    5. .multiple.classes (fixes bug)
-    6. :hover, :active, :focus (for all elements)
-    7. :first-child, :last-child, only-child, nth-child, nth-last-child
-    8. :check, :disabled, :enabled
-    9. :empty, :contains(), :not()
-    10. :before/:after/content:
-    11. :lang()
+  1. parent > child
+  2. adjacent + sibling
+  3. adjacent ~ sibling
+  4. \[attr\], \[attr="value"\], \[attr~="value"\] etc
+  5. .multiple.classes (fixes bug)
+  6. :hover, :active, :focus (for all elements)
+  7. :first-child, :last-child, only-child, nth-child, nth-last-child
+  8. :check, :disabled, :enabled
+  9. :empty, :contains(), :not()
+  10. :before/:after/content:
+  11. :lang()
 - supports imported style sheets
 - preserves the cascade of the style sheet
 - does not alter the document structure
@@ -58,5 +58,3 @@ Bom, creio que você não vai querer matar todos os desenvolvedores do IE agora.
 ### Finalizando...
 
 É isso. Caso você ache algum problema, por favor, não venha perguntar a mim, me mandar email. Vá reclamar com quem fez ok? Muito obrigado, volte sempre.
-
-\[BBL\]acessibilidade, bugs, css, dicas, explorer, ie, tecnologia, web-standards, webstandards\[/BBL\]

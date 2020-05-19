@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2008-07-06"
-description: ""
-featuredImage: ""
-title: "Resumo do Google Developer Day"
+category: 'Eventos'
+date: '2008-07-06'
+description: ''
+featuredImage: ''
+title: 'Resumo do Google Developer Day'
 ---
 
 ![Marca do google Developer Day](http://code.google.com/events/developerday/2008/images/logo.gif)
@@ -41,7 +41,7 @@ Gostei quando um dos caboclos disseram que o usuário define o que vive e o que 
 
 #### Nuvens carregadas... De dados. Cloud Computing
 
-Destruição de máquinas e computadores. Armazenamento físico será extinto. Os HDs tendem a sumir, pois a proposta eh colocar seus dados nesse projeto de Cloud Computing. Onde ficará tudo "voando" por ae.
+Destruição de máquinas e computadores. Armazenamento físico será extinto. Os HDs tendem a sumir, pois a proposta é colocar seus dados nesse projeto de Cloud Computing. Onde ficará tudo "voando" por ae.
 
 Bem revolucionário, mas pode ser perigoso. Tive umas boas conversas, com outras pessoas olhando com uma outra visão e entendi bem e reflito às vezes sobre esse assunto.
 
@@ -96,7 +96,7 @@ Naturalmente meu nobre. Vamos começar agora tudo isso. Será apenas uma breve p
 
 #### Palestra sobre Gears
 
-O Banco de Dados que é utilizado no Gears eh o [SQLite](http://www.sqlite.org/), por ser leve e por poder ser carregado em dispositivos mobile sem problemas e com rapidez.
+O Banco de Dados que é utilizado no Gears é o [SQLite](http://www.sqlite.org/), por ser leve e por poder ser carregado em dispositivos mobile sem problemas e com rapidez.
 
 E utiliza conexão com JSon, ponto que eu achei sensacional, já que Json é de uma economia e facilidade tremenda. Exporta o conteúdo do SQLite e passa para um Json, podendo assim, ser acessado offline.
 

@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2007-11-13"
-description: ""
-featuredImage: ""
-title: "Globo Vídeos nos novos Padrões Globo.com"
+category: 'Tecnologia'
+date: '2007-11-13'
+description: ''
+featuredImage: ''
+title: 'Globo Vídeos nos novos Padrões Globo.com'
 ---
 
 É pessoal. Agora foi a vez do [Portal de vídeos da Globo.com receber o novo layout](http://video.globo.com/), dentro dos novos padrões [Globo.com](http://www.globo.com/).
@@ -21,5 +21,3 @@ Por ser Meda Player, não é possível embedar os Vídeos da Globo.com, atualmen
 Bom, é isso... Comentem, opinem, falem bem, falem mal. Estou aqui para ler :D.
 
 Aquele abraço.
-
-\[BBL\]globo, globo-video, globo.com, tecnologia, video, videos\[/BBL\]

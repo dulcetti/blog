@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-10-12"
-description: ""
-featuredImage: ""
-title: "De xiita e louco todo mundo tem um pouco."
+category: 'Shots'
+date: '2006-10-12'
+description: ''
+featuredImage: ''
+title: 'De xiita e louco todo mundo tem um pouco.'
 ---
 
 E ae pessoal.
@@ -18,7 +18,7 @@ Estou falando do famoso xiismo existente, e falarei mais exatamente no xiismo en
 
 Creio que praticamente todos já passaram um pouco sobre um "xiismo", seja lá qual for o assunto ou tecnologia. Hoje estamos vendo o "Boom" Webstandards, por exemplo. Por incrível que possa parecer, ainda existem pessoas que têm um certo preconceito, medo, aversão ao assunto.
 
-Isso me impressiona, pois mesmo mostrando as vantagens, o quanto eh vantajoso, bom, o pessoal ainda cisma em falar que não é legal, não vê vantagem, dá trabalho, etc.
+Isso me impressiona, pois mesmo mostrando as vantagens, o quanto é vantajoso, bom, o pessoal ainda cisma em falar que não é legal, não vê vantagem, dá trabalho, etc.
 
 #### Mas que dá trabalho, dá sim Bruno.
 
@@ -34,7 +34,7 @@ Concordo plenamente, com certeza. Mas concorde comigo também, o resultado é mu
 
 ### Flasheiros vs. Webstandeiros
 
-Temos também um pouco do xiismo de quem mexe com o Flash, sempre acham que o flash eh a melhor jogada, a melhor saída, por que nele você anima, você tem alguns diferenciais, etc.
+Temos também um pouco do xiismo de quem mexe com o Flash, sempre acham que o flash é a melhor jogada, a melhor saída, por que nele você anima, você tem alguns diferenciais, etc.
 
 Às vezes abominam o uso de sites em xHTML, citam que no flash podemos trabalhar com sons facilmente e com qualidade, vídeos, etc...
 
@@ -48,7 +48,7 @@ Relaxa, falarei agora sobre isso.
 
 Agora o papel se inverte. O pessoal que trabalha com webstandards contra-ataca os flasheiros, dizendo, como disse acima, a má indexação no Google, baixa acessibilidade, usabilidade muito mais frágil, etc...
 
-Como disse mais acima, é uma verdade sim, mas também não podemos esquecer o poder do flash. Webstandards/CSS é poderoso, com certeza. Conseguimos resultados surpreendentes, quem conhece o [CSS Zen Garden](http://www.csszengarden.com "Visitar o site CSS Zen Garden") sabe muito bem disso, mas também conseguimos resultado surpreendentes com o Flash, que é uma ferramenta brilhante, com a possibilidade de animação e utilização d som, podemos conseguir resultados muito bons. Já mostrei alguns aqui na Categoria Colírios.
+Como disse mais acima, é uma verdade sim, mas também não podemos esquecer o poder do flash. Webstandards/CSS é poderoso, com certeza. Conseguimos resultados surpreendentes, quem conhece o [CSS Zen Garden](http://www.csszengarden.com 'Visitar o site CSS Zen Garden') sabe muito bem disso, mas também conseguimos resultado surpreendentes com o Flash, que é uma ferramenta brilhante, com a possibilidade de animação e utilização d som, podemos conseguir resultados muito bons. Já mostrei alguns aqui na Categoria Colírios.
 
 E também não podemos esquecer que temos classes no AS2 de acessibilidade, etc. Não sei como utilizar, nunca utilizei, etc, mas dizem que é legal.
 

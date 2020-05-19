@@ -1,12 +1,12 @@
 ---
-category: "Eventos"
-date: "2008-10-28"
-description: ""
-featuredImage: ""
-title: "Rails Rumble 2008 - Eu participei"
+category: 'Eventos'
+date: '2008-10-28'
+description: ''
+featuredImage: ''
+title: 'Rails Rumble 2008 - Eu participei'
 ---
 
-![Thumb da marca do Rails Rumble]/assets/images/post/thumb-rumble.jpg)
+![Thumb da marca do Rails Rumble](/assets/images/posts/thumb-rumble.jpg)
 
 No final de semana retrasado eu tive a grande oportunidade de participar do [Rails Rumble](http://www.railsrumble.com/), que é um concurso mundial, onde os caboclos que se inscrevem tem que entregar um aplicativo criado em 48h. Meio louco mas é isso mesmo.
 
@@ -18,7 +18,7 @@ E parece meio impossível você criar uma aplicação em apenas 48h, mas isso é
 
 ### Quem participou com você Dulcetti?
 
-![Grupo trabalhando no projeto]/assets/images/post/galera-rails-rumble.jpg) Galera fingindo que estava trabalhando
+![Grupo trabalhando no projeto](/assets/images/posts/galera-rails-rumble.jpg) Galera fingindo que estava trabalhando
 
 Bom, a nossa equipe foi a January River, em homenagem a nossa cidade maravilhosa (deu pra perceber né?), e era composta pelos seguintes modafocas:
 
@@ -31,7 +31,7 @@ Parece meio que uma gang, dois Brunos e dois Pellegrinos, mas foi mais ou menos 
 
 ### E o projeto tio Dulça?
 
-![Thumb do projeto Pic My Diet]/assets/images/post/thumb-picmydiet.jpg)
+![Thumb do projeto Pic My Diet](/assets/images/posts/thumb-picmydiet.jpg)
 
 Entramos no embalo da Dieta Flash, que chegou a ser transmitida pelo [Fantástico](http://fantastico.globo.com/Jornalismo/FANT/0,,MUL795951-15605,00-TIRE+FOTO+DOS+ALIMENTOS+E+EMAGRECA.html) e tudo mais. Onde as pessoas tiram fotos do prato que comem e postam no flickr. Com isso, as pessoas olham, inclusive ela mesmo e vê o que comeu, melhorando sua alimentação.
 

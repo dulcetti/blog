@@ -1,9 +1,9 @@
 ---
-category: "Publicações"
-date: "2008-01-03"
-description: ""
-featuredImage: ""
-title: "Hover avançado com bordas em imagens"
+category: 'Publicações'
+date: '2008-01-03'
+description: ''
+featuredImage: ''
+title: 'Hover avançado com bordas em imagens'
 ---
 
 Falae pessoal. Parece até mentira, mas estou aqui novamente, retornando aos meus tutoriais mirabolantes, fascinantes, geniais e extremamente úteis para todos.
@@ -14,11 +14,11 @@ E como não poderia deixar de ser, é um efeito que a equipe aqui da Globo.com p
 
 ### Mas de novo bordas em imagens Bruno?
 
-Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito de borda interna dos sites da Globo.com]/resposta-do-desafio-como-cropar-uma-foto-com-css.html), e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
+Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito de borda interna dos sites da Globo.com](/resposta-do-desafio-como-cropar-uma-foto-com-css.html), e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
 
 É um efeito normal, que poderia ser feito normalmente, como eu mostro na figura abaixo:
 
-![Print do efeito errado](http://www.brunodulcetti.com/artigos/hover-imagens/print-errado.gif)
+![Print do efeito errado](https://www.brunodulcetti.com/artigos/hover-imagens/print-errado.gif)
 
 Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, cor da borda do link e não da imagem. O IE infelizmente não aceita todos efeitos em elemento dentro do link no hover do próprio. Mas lógico que isso você sabia (assim espero).
 
@@ -26,15 +26,15 @@ Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, 
 
 Quase. É o mesmo efeito, mudança de cor na borda do link e talz. Maaaaaas, a diferença é que não existe esta borda duplicada entre as fotos. Percebam que a largura é de 5px para todos os links, mas como ficam um do lado do outro, entre eles ficam o dobro, ou seja, 10px de borda.
 
-![Print dos tamanhos errados](http://www.brunodulcetti.com/artigos/hover-imagens/tamanhos-errados.gif)
+![Print dos tamanhos errados](https://www.brunodulcetti.com/artigos/hover-imagens/tamanhos-errados.gif)
 
-Poréeeeem, o problema é que no hover eu só consigo pintar a borda de um link, fazendo com que continue preta, a borda do próximo link. [Veja o exemplo errado](http://www.brunodulcetti.com/artigos/hover-imagens/link-errado.html).
+Poréeeeem, o problema é que no hover eu só consigo pintar a borda de um link, fazendo com que continue preta, a borda do próximo link. [Veja o exemplo errado](https://www.brunodulcetti.com/artigos/hover-imagens/link-errado.html).
 
 O problema disso tudo, é que eu não consigo mudar a cor da borda de um link, seja ele próximo ou anterior. Infelizmente não temos essa liberdade. Com isso, tínhamos esse problema e o pessoal não queria isso.
 
 Resumindo, eles queriam o efeito abaixo:
 
-![Print do efeito correto](http://www.brunodulcetti.com/artigos/hover-imagens/print-certo.gif)
+![Print do efeito correto](https://www.brunodulcetti.com/artigos/hover-imagens/print-certo.gif)
 
 Perceberam que não existe duplicação de borda entre os links? Fazer isso é mole, se não fosse a troca de cor das bordas. Bastava setar borda superior e esquerda na <ul> e inferior e direita na <li>.
 
@@ -69,7 +69,10 @@ Sim. O CSS é a parte mais chatinha de fazer e ser entendida. Eu sempre acho que
 
 Vamos ao código?
 
-`img {border:0;} ul {background-color:#000;margin:0;padding:5px 0 0 5px;width:180px;} ul:after {clear:both;content:".";display:block;height:0;visibility:hidden;} ul li {border-bottom:5px solid #000;border-right:5px solid #000;float:left;height:40px;width:40px;}`
+`img {border:0;} ul {background-color:#000;margin:0;padding:5px 0 0 5px;width:180px;} ul:after {clear:both;content:".";display:block;height:0;visibility:hidden;} ul li {border-bottom:5px solid #000;border-right:5px solid #000;float:left;height:40px;width:40px;}
+
+```
+
 
 Nada de muito complicado:
 
@@ -78,7 +81,7 @@ Nada de muito complicado:
 - Essa técnica do after serve para os browsers, isso exclui o IE. Ela serve para quebrar o float de um elemento dentro do bloco, nesse caso as li’s
 - Adicionei borda na base e na lateral direita da li fechando o quadrante, float para ir pra esquerda, altura e largura de 40px;
 
-[De início temos este resultado](http://www.brunodulcetti.com/artigos/hover-imagens/link-quase.html).
+[De início temos este resultado](https://www.brunodulcetti.com/artigos/hover-imagens/link-quase.html).
 
 ### Legal Bruno, mas cadê o hover?
 
@@ -100,14 +103,15 @@ Mas isso não é problema para Mr. Dulcetti.
 
 Ok. Empolguei-me. Desculpe. Então vamos ao restante do CSS. Pasmem, são apenas mais duas linhas de código:
 
-`ul li a, ul li a img {display:block;} ul li a:hover {border:5px solid #D2251C;margin:-5px 0 0 -5px;position:absolute;}`
+`ul li a, ul li a img {display:block;} ul li a:hover {border:5px solid #D2251C;margin:-5px 0 0 -5px;position:absolute;}
+```
 
 Vamos a explicação:
 
 - A primeira linha é completamente difícil e complicada. Quase ninguém utilizou esta propriedade no CSS. Ela transforma o(s) elemento(s) em bloco(s). No nosso caso, link e imagem dentro do link. Precisamos disso para que a imagem não coloque akela margem automática quando não é bloco e para que o link funcione corretamente no nosso caso;
 - Agora a grande sacada. Nessa segunda linha, colocamos uma borda com cor vermelha e 5px de espessura. Damos uma margem negativa superior e a esquerda de 5px e colocamos o link com position absolute
 
-[Vemos o resultado do efeito finalizado agora](http://www.brunodulcetti.com/artigos/hover-imagens/link-certo.html).
+[Vemos o resultado do efeito finalizado agora](https://www.brunodulcetti.com/artigos/hover-imagens/link-certo.html).
 
 ### Legal Bruno. Mas explica melhor...
 
@@ -126,5 +130,3 @@ Para resolvermos isso, colocamos o que? O temido position:absolute. Mas como as 
 E como o código é bem curto, o efeito é simples e rápido, não precisou ficar escrevendo testamentos, etc. Tudo bem que eu poderia fazer outros exemplos, com bugs, etc, mas eu tenho certeza que eu iria terminar só ano que vem e ficaria gigantesco. Então tá bom assim mesmo e está aí. :D
 
 Espero que gostem e que tenha sido útil. Aquele abraço e beijo na alcatra.
-
-\[BBL\]artigos, css, design, dicas, efeitos, web-standards, webstandards, xhtml\[/BBL\]

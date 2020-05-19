@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2007-03-29"
-description: ""
-featuredImage: ""
-title: "Lançamento Oficial da Revista iMasters"
+category: 'Tecnologia'
+date: '2007-03-29'
+description: ''
+featuredImage: ''
+title: 'Lançamento Oficial da Revista iMasters'
 ---
 
 E finalmente é lançada a novidade.
@@ -16,7 +16,7 @@ O lançamento é a [Revista iMasters](http://www.revistaimasters.com.br/), final
 
 A Revista possui uma publicação trimestral, num formato sofisticado, desenvolvida por profissionais de TI, para profissionais de TI, como diz no site :D.
 
-A tiragem da revista será 4.000 exemplares inicialmente, que são vendidos nas melhores bancas e livrarias do Brasil com distribuição pela Leonardo Da Vinci e coordenação da Editora Zupi. Será vendida no valor de R$12, que pela qualidade da revista, formato diferenciado e a qualidade do conteúdo, vale muito a pena.
+A tiragem da revista será 4.000 exemplares inicialmente, que são vendidos nas melhores bancas e livrarias do Brasil com distribuição pela Leonardo Da Vinci e coordenação da Editora Zupi. Será vendida no valor de R\$12, que pela qualidade da revista, formato diferenciado e a qualidade do conteúdo, vale muito a pena.
 
 ### E o conteúdo? Do que que ela tá falando esse mês?
 
@@ -25,17 +25,13 @@ Bom, como deu pra perceber, esse é o primeiro número né :D e o primeiro tema 
 Vou mostrar abaixo, algumas dos temas abordados pela Revista:
 
 - #### Capa
-    
-    Um estudo completo sobre a história dos blogs, os principais desafios encontrados no Brasil, as tendências apontadas pelo mercado e um bate papo especial com 3 dos maiores blogueiros do Brasil.
+  Um estudo completo sobre a história dos blogs, os principais desafios encontrados no Brasil, as tendências apontadas pelo mercado e um bate papo especial com 3 dos maiores blogueiros do Brasil.
 - #### Entrevista
-    
-    [Fábio Seixas](http://blog.fabioseixas.com.br/), do [Camiseteria.com](http://www.camiseteria.com), abre o jogo e fala tudo sobre e-commerce no Brasil, empreendimento da internet, web 2.0 e blogs corporativos, além de passar um raio-x de seu projeto.
+  [Fábio Seixas](http://blog.fabioseixas.com.br/), do [Camiseteria.com](http://www.camiseteria.com), abre o jogo e fala tudo sobre e-commerce no Brasil, empreendimento da internet, web 2.0 e blogs corporativos, além de passar um raio-x de seu projeto.
 - #### Arquitetura da Informação
-    
-    Os avanços da web trazem consigo novas áreas de atuação de profissionais. A gerência de conteúdos é hoje um grande dilema para grandes sites em uma era da informação. [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), do [Carreirasolo.org](http://www.carreirasolo.org), explica como a arquitetura da Informação pode auxiliar nos novos desafios web.
+  Os avanços da web trazem consigo novas áreas de atuação de profissionais. A gerência de conteúdos é hoje um grande dilema para grandes sites em uma era da informação. [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), do [Carreirasolo.org](http://www.carreirasolo.org), explica como a arquitetura da Informação pode auxiliar nos novos desafios web.
 - #### Usabilidade
-    
-    Frederick Van Asmtel traz um excelente guia sobre formatação CSS, com um belíssimo infográfico onde divide a mesma em duas dimensões: a textual (o código) e a visual (os efeitos do s códigos).
+  Frederick Van Asmtel traz um excelente guia sobre formatação CSS, com um belíssimo infográfico onde divide a mesma em duas dimensões: a textual (o código) e a visual (os efeitos do s códigos).
 
 ### E pra comemorar...
 
@@ -50,5 +46,3 @@ E de quebra, os caras também possuem [um Blog falando da Revista](http://www.re
 Bom, é isso. Fica aí a minha indicação para não só comprar, mas também para assinar a Revista ;) Vale a pena e tá num preço acessível e ainda ganha uma camisa do iMasters de brinde ;)
 
 Aquele abraço pra todos e Sucesso para a galera do iMasters nessa nova empreitada :D
-
-\[BBL\]imasters, lancamento, revista, tecnologia\[/BBL\]

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-08-31"
-description: ""
-featuredImage: ""
-title: "Blog Day - O dia dos Blog"
+category: 'Shots'
+date: '2006-08-31'
+description: ''
+featuredImage: ''
+title: 'Blog Day - O dia dos Blog'
 ---
 
 Falae cambada... Pra quem não sabia, dia 31 é o Blog Day, ou o dia dos Blogs.
@@ -41,5 +41,3 @@ Grande designer, profissional de primeiríssima qualidade. Blog com seus trabalh
 Veja mais sobre o Blog Day 2006 no site [http://www.blogday.org/](http://www.blogday.org/).
 
 Akele abraço galera.
-
-\[BBL\]blogosfera, BlogDay2006, amigos, tecnologia, recomendação\[/BBL\]

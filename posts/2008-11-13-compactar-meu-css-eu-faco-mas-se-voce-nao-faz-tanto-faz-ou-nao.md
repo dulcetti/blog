@@ -20,11 +20,13 @@ Podemos dizer compactação, otimização, whatever, qualquer coisa, mas é uma 
 
 Para esta forma:
 
-`.minha-classe {color:#900;font-style:bold;display:block;}`
+`.minha-classe {color:#900;font-style:bold;display:block;}
+```
+
 
 #### Feio isso hein
 
-Sim, sim. Concordo, mas eu [comentei aqui no blog um tempo atrás]/como-voce-escreve-seus-arquivos-css.html) sobre essa forma de implementação de CSS, seus motivos, entre outros, mas repito novamente.
+Sim, sim. Concordo, mas eu [comentei aqui no blog um tempo atrás](/como-voce-escreve-seus-arquivos-css.html) sobre essa forma de implementação de CSS, seus motivos, entre outros, mas repito novamente.
 
 ### Motivos
 

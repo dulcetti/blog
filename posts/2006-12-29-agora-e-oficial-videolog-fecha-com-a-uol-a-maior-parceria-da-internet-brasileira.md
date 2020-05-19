@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-12-29"
-description: ""
-featuredImage: ""
-title: "Agora é Oficial. Videolog fecha com a UOL a maior parceria da internet Brasileira."
+category: 'Tecnologia'
+date: '2006-12-29'
+description: ''
+featuredImage: ''
+title: 'Agora é Oficial. Videolog fecha com a UOL a maior parceria da internet Brasileira.'
 ---
 
 Tudo bem, tudo bem, um pouco de jabá não faz mal a ninguém. Posso ter exagerado na afirmação no título? Não sei, eu acho que não, mas fazer o que, alguém virá aqui e questionará com certeza. :D
@@ -77,10 +77,10 @@ Se Deus quiser sim. Já viramos notícia em vários links:
 - [http://www.valoronline.com.br/valoreconomico/285/empresasetecnologia.html](http://www.valoronline.com.br/valoreconomico/285/empresasetecnologia.html)
 - [http://www.portugaldigital.com.br/sis/noticia.kmf?noticia=5609134&canal=159](http://www.portugaldigital.com.br/sis/noticia.kmf?noticia=5609134&canal=159)
 - [http://www.bb.com.br/appbb/portal/on/cva/ntc/NoticiasDiarias.jsp?Noticia.codigo=156380](http://www.bb.com.br/appbb/portal/on/cva/ntc/NoticiasDiarias.jsp?Noticia.codigo=156380)
-- [http://idgnow.uol.com.br/internet/blog\_dos\_blogs/archive/2006/12/22/uol-faz-acordo-com-videolog-para-ter-seu-youtube/](http://idgnow.uol.com.br/internet/blog_dos_blogs/archive/2006/12/22/uol-faz-acordo-com-videolog-para-ter-seu-youtube/)
-- [http://www.fndc.org.br/internas.php?p=noticias&cont\_key=119325](http://www.fndc.org.br/internas.php?p=noticias&cont_key=119325)
+- [http://idgnow.uol.com.br/internet/blog_dos_blogs/archive/2006/12/22/uol-faz-acordo-com-videolog-para-ter-seu-youtube/](http://idgnow.uol.com.br/internet/blog_dos_blogs/archive/2006/12/22/uol-faz-acordo-com-videolog-para-ter-seu-youtube/)
+- [http://www.fndc.org.br/internas.php?p=noticias&cont_key=119325](http://www.fndc.org.br/internas.php?p=noticias&cont_key=119325)
 - [http://www.tmcnet.com/usubmit/2006/12/26/2195189.htm](http://www.tmcnet.com/usubmit/2006/12/26/2195189.htm)
-- [http://www.adnews.com.br/teste/novo/newsrss.asp?Cod\_Noticia=40330](http://www.adnews.com.br/teste/novo/newsrss.asp?Cod_Noticia=40330)
+- [http://www.adnews.com.br/teste/novo/newsrss.asp?Cod_Noticia=40330](http://www.adnews.com.br/teste/novo/newsrss.asp?Cod_Noticia=40330)
 
 E se Deus quiser, em breve estaremos no Jô. (olha só hein, pensando alto :D)
 
@@ -89,5 +89,3 @@ E se Deus quiser, em breve estaremos no Jô. (olha só hein, pensando alto :D)
 Bom, finalizando, é isso e com muito orgulho eu passo essa notícia adiante. Tudo bem que foi um pouco atrasada já que o novo Videolog entrou no ar semana passada, mas tudo bem, vocês entendem né? :D
 
 Aquele abraço à todos.
-
-\[BBL\]tecnologia, videolog, uol, usabilidade, video, videos, novo, desenvolvimento, noticia, parceria, youtube\[/BBL\]

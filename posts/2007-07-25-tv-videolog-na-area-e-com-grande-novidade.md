@@ -1,16 +1,16 @@
 ---
-category: "Tecnologia"
-date: "2007-07-25"
-description: ""
-featuredImage: ""
-title: "T!V! - Videolog na área e com grande novidade."
+category: 'Tecnologia'
+date: '2007-07-25'
+description: ''
+featuredImage: ''
+title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 
-[![Print com uma prévia da T!V!](http://www.brunodulcetti.com/imgs/tivi01.jpg)](http://videolog.uol.com.br/tivi/)
+[![Print com uma prévia da T!V!](/assets/images/posts/tivi01.jpg)](http://videolog.uol.com.br/tivi/)
 
 E ae galera, tudo tranqüilo?
 
-Venho hoje falando do [Videolog](http://videolog.uol.com.br "Visite o site do Videolog.tv"). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
+Venho hoje falando do [Videolog](http://videolog.uol.com.br 'Visite o site do Videolog.tv'). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
 ### Crie seus próprios canais de TV com a [T!V!](http://videolog.uol.com.br/tivi/)
 
@@ -61,5 +61,3 @@ Eu deixarei todos que freqüentam este blog informados sobre o lançamento da fe
 ### Por hoje é só pessoal!
 
 Isso ae galera, aquele abraço.
-
-\[BBL\]tecnologia, tv, video, videolog, videos\[/BBL\]

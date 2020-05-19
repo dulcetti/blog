@@ -1,12 +1,12 @@
 ---
-category: "Eventos"
-date: "2008-11-17"
-description: ""
-featuredImage: ""
-title: "Concorra a dois ingressos para o Encontro de TI"
+category: 'Eventos'
+date: '2008-11-17'
+description: ''
+featuredImage: ''
+title: 'Concorra a dois ingressos para o Encontro de TI'
 ---
 
-![Marca do ETI]/assets/images/post/logo-eti-maior.jpg)
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
 É isso mesmo, promoção relâmpago, pra vocês participarem rapidinho e concorrerem a um ingresso pro ETI - Encontro de Tecnologia da Informação, que vai rolar na quinta dia 27 em São Paulo e no sábado dia 29 aqui no Rio.
 

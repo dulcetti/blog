@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2007-05-17"
-description: ""
-featuredImage: ""
-title: "Mudanças e mais mudanças..."
+category: 'Shots'
+date: '2007-05-17'
+description: ''
+featuredImage: ''
+title: 'Mudanças e mais mudanças...'
 ---
 
 E ae pessoal, tranqüilidade?
@@ -12,7 +12,7 @@ Por aqui tudo bem, mtos freelas, por isso o sumiço aqui no Blog. Acontece, faze
 
 ### Hmmm... Nova ID Visual é Bruno?
 
-[![Minha nova Marca](http://farm1.static.flickr.com/190/502146114_b617a5b3f9_o.gif)](http://www.flickr.com/photos/57613252@N00/502146114/ "Photo Sharing")
+[![Minha nova Marca](http://farm1.static.flickr.com/190/502146114_b617a5b3f9_o.gif)](http://www.flickr.com/photos/57613252@N00/502146114/ 'Photo Sharing')
 
 Exatamente. Pra quem ainda não percebeu, estou com uma "nova cara" no Portfólio e Blog.
 
@@ -47,5 +47,3 @@ Bom, é isso... Só pra avisar as mudanças, alterações, tanto que já fiz, qu
 Queria agradecer ao Arthur pela marca, que gostei bastante e gostaria de saber a opinião de vocês, tanto sobre a marca, quanto as mudanças no meu Blog, sugestões, sobre o que falar, temas, posts, o que vocês acham que posso tirar, adicionar, alterar, etc, etc, etc.
 
 Conto com vocês... Aquele abraço.
-
-\[BBL\]blog, blogosfera, blogueiros, bruno-dulcetti, desenvolvimento, html, identidade-visual, logomarca, noticia, pessoais\[/BBL\]

@@ -1,16 +1,16 @@
 ---
-category: "Tecnologia"
-date: "2006-11-14"
-description: ""
-featuredImage: ""
-title: "Google Talk e suas primeiras aparições no Orkut. Será que vai dar problema?"
+category: 'Tecnologia'
+date: '2006-11-14'
+description: ''
+featuredImage: ''
+title: 'Google Talk e suas primeiras aparições no Orkut. Será que vai dar problema?'
 ---
 
 Falae cambada.
 
-Hoje estou aqui, mas não eh pra falar de CSS, Webstandards, xhtml, flash, mostrar colírios, etc. Hoje vou falar sobre o Gtalk, Google, etc.
+Hoje estou aqui, mas não é pra falar de CSS, Webstandards, xhtml, flash, mostrar colírios, etc. Hoje vou falar sobre o Gtalk, Google, etc.
 
-De um tempo pra cá, deu pra perceber que o Google integrou o Gtalk ao Orkut. Agora muita gente tem Gtalk, moh galera que nem sabia da existência está começando a utilizá-lo, etc.
+De um tempo pra cá, deu pra perceber que o Google integrou o Gtalk ao Orkut. Agora muita gente tem Gtalk, mógalera que nem sabia da existência está começando a utilizá-lo, etc.
 
 ### Tudo bem Bruno e dae?
 
@@ -34,12 +34,10 @@ Mas, vamos esperar... Vamos dar um tempo ao tempo, espero e acredito, com a pot�
 
 #### Entretanto, apesar de...
 
-Apesar da qualidade do Google, tudo é possível e eh capaz de, pelo menos no início, termos alguns problemas até o pleno funcionamento dessa ferramenta que tem tudo, com essa integração com o Orkut, de desbancar o MSN.
+Apesar da qualidade do Google, tudo é possível e é capaz de, pelo menos no início, termos alguns problemas até o pleno funcionamento dessa ferramenta que tem tudo, com essa integração com o Orkut, de desbancar o MSN.
 
 Só espero que eles não lançem, implementem akeles emoticons animados malditos, que enxem o saco.
 
 ### Finalizando
 
 Fico por aqui, akele abraço.
-
-\[BBL\]blogosfera, ferramentas, google, gtalk, internet, msn, tecnologia\[/BBL\]

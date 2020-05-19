@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2007-01-22"
-description: ""
-featuredImage: ""
-title: "Rota Blogueira v.0001"
+category: 'Webstandards'
+date: '2007-01-22'
+description: ''
+featuredImage: ''
+title: 'Rota Blogueira v.0001'
 ---
 
 E ae pessoal. Estou aqui para iniciar uma nova categoria aqui no blog, a Rota Blogueira. Nesta categoria eu farei algumas referências a posts lidos por mim e que vale ser postado aqui para que vocês também desfrutem, caso não já tenham lido, logicamente. ;)
@@ -24,7 +24,7 @@ Vale a lida.
 
 [http://www.leohackin.com.br/index.php?post=47](http://www.leohackin.com.br/index.php?post=47)
 
-* * *
+---
 
 ### Clique vs Scroll: "Leia Mais" em Blogs
 
@@ -39,11 +39,11 @@ Belas opiniões, explicações e conclusões por parte dele, pensando como usuá
 #### Links:
 
 - [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs.html)
-- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs\_27.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_27.html)
-- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs\_28.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_28.html)
-- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs\_29.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_29.html)
+- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_27.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_27.html)
+- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_28.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_28.html)
+- [http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_29.html](http://blogdeusabilidade.blogspot.com/2006/12/clique-vs-scroll-leia-mais-em-blogs_29.html)
 
-* * *
+---
 
 ### O que é a Blogosfera?
 
@@ -53,9 +53,9 @@ Post bem interessante do Mauro Amaral sobre faturamento dos blogs, pro-bloggers,
 
 #### Link:
 
-[http://www.carreirasolo.org/archives/o\_que\_e\_a\_blogosfera.html](http://www.carreirasolo.org/archives/o_que_e_a_blogosfera.html)
+[http://www.carreirasolo.org/archives/o_que_e_a_blogosfera.html](http://www.carreirasolo.org/archives/o_que_e_a_blogosfera.html)
 
-* * *
+---
 
 ### Blog Corporativos: Cauda longa ou rabo preso?
 
@@ -67,9 +67,9 @@ Mas também fala de Blogs corporativos interessantes, bem feitos e com conteúdo
 
 #### Links:
 
-[http://www.meiobit.com/blog\_corporativos\_cauda\_longa\_ou\_rabo\_preso](http://www.meiobit.com/blog_corporativos_cauda_longa_ou_rabo_preso)
+[http://www.meiobit.com/blog_corporativos_cauda_longa_ou_rabo_preso](http://www.meiobit.com/blog_corporativos_cauda_longa_ou_rabo_preso)
 
-* * *
+---
 
 ### Ah, este Google…
 
@@ -81,7 +81,7 @@ Uma dica do Hilder sobre um serviço do Google, o [Google Apps for Your Domain](
 
 [http://www.pimentacomdende.com/2007/01/21/ah-este-google/](http://www.pimentacomdende.com/2007/01/21/ah-este-google/)
 
-* * *
+---
 
 ### Finalizando...
 
@@ -90,5 +90,3 @@ Bom, é isso galera. Como eu disse, tentarei postar sempre uns posts que acho in
 Tem muita galera boa por ae, posts ótimos. Assim que der, posto mais ok? ;)
 
 Akele abraaaaço...
-
-\[BBL\]ajax, blog, blogosfera, blogs, blogs-corporativos, blogueiros, convergencia, convergir, google, iphone, rota-blogueira, tecnologia, usabilidade\[/BBL\]

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-02-27"
-description: ""
-featuredImage: ""
-title: "Eu blogo e você?"
+category: 'Shots'
+date: '2008-02-27'
+description: ''
+featuredImage: ''
+title: 'Eu blogo e você?'
 ---
 
 Sim, sim. Eu blogo. E você? Sim, você mesmo que está lendo isso agora e está com cara de bobo se perguntando: "É comigo que ele está falando?". Você bloga?
@@ -51,7 +51,7 @@ Lá eu contei parte da minha saga do Mochilão que fiz rumo a Salvador. E veja a
 
 Link: [http://www.design.com.br](http://www.design.com.br)
 
-Neste eu fui convidado pelo proprietário, o Jonas Rossato, que conheci no [BlogCamp de Curitiba]/blogcamp-pr-%e2%80%93-o-melhor-de-todos.html). Tá vendo como participar de eventos nerds como esses dá resultado? Conhecer pessoas, participar de blogs, entre outros.
+Neste eu fui convidado pelo proprietário, o Jonas Rossato, que conheci no [BlogCamp de Curitiba](/blogcamp-pr-%e2%80%93-o-melhor-de-todos.html). Tá vendo como participar de eventos nerds como esses dá resultado? Conhecer pessoas, participar de blogs, entre outros.
 
 O Blog, como o nome já diz, fala sobre design e suas tendências. Possui vários blogueiros postando no portal e com textos de qualidade. Eu já estava devendo um artigo pra lá faz tempo, mas consegui cumprir e finalizei ontem, mas postei somente hoje.
 
