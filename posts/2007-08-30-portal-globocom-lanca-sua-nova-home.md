@@ -1,27 +1,24 @@
 ---
-author: bruno-dulcetti
-category: Portfólio
-date: 2007-08-30T05:28:46.000Z
+category: 'Portfólio'
+date: '2007-08-30'
 description: ''
-image: ''
-slug: portal-globocom-lanca-sua-nova-home
-templateKey: blog-post
+featuredImage: ''
 title: 'Portal Globo.com lança sua nova home'
 ---
 
-<a href="http://www.globo.com/"><img src="https://g1.globo.com/Noticias/Tecnologia/foto/0,,11431586,00.jpg" alt="Imagem da Nova Home da Globo.com" /></a>
+[![Imagem da Nova Home da Globo.com](http://g1.globo.com/Noticias/Tecnologia/foto/0,,11431586,00.jpg)](http://www.globo.com/)
 
-É com grande prazer que venho informar à vocês, que está no ar a <a href="http://www.globo.com/">Nova Home da Globo.com</a>.
+É com grande prazer que venho informar à vocês, que está no ar a [Nova Home da Globo.com](http://www.globo.com/).
 
 Totalmente mais leve, pensando no usuário, sem imagens desnecessárias. Agora grande parte, as mais importantes, são feitas com texto.
 
-## Mais espaço.
+### Mais espaço.
 
 Agora a home está com o espaço relativo à resolução 1024x768px, tendo mais espaço para o conteúdo, espaço para a "informação respirar".
 
 Tudo isso foi pesquisado, com testes de usabilidade com usuários, entrevistas, entre outras coisas. Eu pude acompanhar alguns testes de usabilidade, é uma experiência bem interessante. Sempre que puder veja um, vale a pena.
 
-## Novidades
+### Novidades
 
 Fora que o plantão de notícias ganha mais destaque na home, fora o espaço para as promoções, etc. O usuário também terá acesso direto à algumas rádios online da Globo, horóscopo, cotações do dólar, programação da TV Globo, entre outras coisas.
 
@@ -29,23 +26,23 @@ Presente também, a nuvem de tags, com as palavras mais buscadas no Portal, com 
 
 Ganham destaque também outras ferramentas e aplicativos, como blogs de colunistas, o fotolog 8P e o Globo Vídeo Chat, além do ranking dos programas mais acessados no site Baixatudo.
 
-## Arquitetura e Organização Visual
+### Arquitetura e Organização Visual
 
 A organização das informações continuam em evidência, com as informações de notícias em vermelho, entretenimento em laranja e esportes em verde, ficando claro e fácil o entendimento e identificação de cada tipo de informação.
 
 Tudo está com bastante espaço, para o conteúdo respirar, nenhuma informação sufocada, nada muito perto, tudo num espaço relativamente razoável e pensado milimétricamente (ou pixélicamente?).
 
-Agora está mais fácil de identificar o que é link e o que é texto. Praticamente tudo que for cinza, eh texto normal e o que tiver cor, é um link.
+Agora está mais fácil de identificar o que é link e o que é texto. Praticamente tudo que for cinza, é texto normal e o que tiver cor, é um link.
 
 Um destaque também para a barra superior, o famoso Topo :D. Houve uma mudança bem radical nessa área do site, que é uma das principais, pois é onde o usuário põe o olho de primeira. Em cada área específica do site, a opção ficará realçada, com uma cor mais clara e com uma altura maior, mostrando ao usuário em qual seção, onde ele está.
 
-## Acessibilidade
+### Acessibilidade
 
 Boa parte do projeto foi pensado na acessilibidade. Testamos tudo sem suporte à imagens, sem CSS habilitado, javascript desabilitado, etc. Tudo para que o site fique mais acessível, não só para pessoas com deficiência, mais para dispositivos móveis também.
 
 Em breve, haverá melhorias na parte do CSS de impressão, que ainda não está 100%.
 
-## Participação
+### Participação
 
 Implementei boa parte do HTML, somente a página de Todos os sites e alguns boxes da home que acabei não participando por ter torcido o tornozelo e ficando uma semana fora do trabalho, com isso, outro rapaz, meu camarada Kenji, acabou pegando essa parte.
 
@@ -55,7 +52,7 @@ Foi criado um documento de Boas Práticas de Implementação, tanto de CSS, HTML
 
 Fiquei bem feliz quando soube que seria o responsável na implementação e estruturação da Nova Home.
 
-## Finalizando
+### Finalizando
 
 Alguns não gostaram de cara, está mais "pobre" visualmente falando, mas não acho tanta coisa. Hoje em dia o design não é tão levado em conta. Hoje, a informação, o conteúdo, estruturação, estão em alta, fora a leveza, rapidez no carregamento, entre outras coisas.
 
@@ -65,28 +62,28 @@ Eu gostei. E você?
 
 Aquele abraço.
 
-**[UPDATE]**
+**\[UPDATE\]**
 
 Vou postar aqui links que estão falando sobre o lançamento da nova home:
 
-- <a href="http://g1.globo.com/Noticias/Tecnologia/0,,MUL95922-6174,00.html">Globo.com estréia nova home</a>
-- <a href="http://video.globo.com/Videos/Player/0,,GIM722232-7759-CONHECA+A+NOVA+HOME+DA+GLOBOCOM,00.html">VIDEO - Conheça a nova home da Globo.com!</a>
-- <a href="http://portalgyn.blog.br/2007/08/30/globocom-estilo-20/">Globo.com estilo 2.0</a>
-- <a href="http://www.portaldasnoticias.com/portal-globocom-lanca-sua-nova-home/">PORTAL GLOBO.COM LANÃ‡A SUA NOVA HOME</a>
-- <a href="http://www.dourado.net/2007/08/30/globocom-de-cara-nova/">Globo.com de cara nova</a>
-- <a href="http://internauta20.blogspot.com/2007/08/at-globo-entra-na-onda-da-web-20.html">Até a Globo entra na onda da WEB 2.0</a>
-- <a href="http://blog.mofo.art.br/2007/08/29/globocom-estreia-nova-home/">Globo.com estréia nova home</a>
-- <a href="http://www.alexandresaddi.com/2007/08/30/globocom-estreia-nova-home/">Globo.com estréia nova home</a>
-- <a href="http://www.carreirasolo.org/archives/nova_home_da_globoc.html">Nova Home da Globo.com, ou, um portal que respira</a>
-- <a href="http://blog.mhavila.com.br/2007/08/30/design-limpo-e-direto-na-nova-home-page-globocom/">Design limpo e direto na nova home-page Globo.com</a>
-- <a href="http://www.viuisso.com.br/2007/09/01/andou-pra-tras/">Andou pra trás :(</a>
-- <a href="http://marciamaia.wordpress.com/2007/08/30/nova-home-da-globocom/">Nova home da Globo.com</a>
-- <a href="http://www.googlediscovery.com/2007/08/30/globocom-ganha-nova-home-page/">Globo.com ganha nova home page</a>
-- <a href="http://edudiserto.blogspot.com/2007/08/nova-home-do-globocom-e-os-primrdios-da.html">Nova home do Globo.com e os primórdios da Internet</a>
-- <a href="http://www.heldersantos.com.br/publicitando/2007/08/30/nova-globocom/">Nova Globo.com</a>
-- <a href="http://mtristao.com/blog/2007/08/30/nova-globocom/">Nova Globo.com</a>
-- <a href="http://www.pristina.org/?p=2117">Novo Globo.com</a>
+- [Globo.com estréia nova home](http://g1.globo.com/Noticias/Tecnologia/0,,MUL95922-6174,00.html)
+- [VIDEO - Conheça a nova home da Globo.com!](http://video.globo.com/Videos/Player/0,,GIM722232-7759-CONHECA+A+NOVA+HOME+DA+GLOBOCOM,00.html)
+- [Globo.com estilo 2.0](http://portalgyn.blog.br/2007/08/30/globocom-estilo-20/)
+- [PORTAL GLOBO.COM LANÇA SUA NOVA HOME](http://www.portaldasnoticias.com/portal-globocom-lanca-sua-nova-home/)
+- [Globo.com de cara nova](http://www.dourado.net/2007/08/30/globocom-de-cara-nova/)
+- [Até a Globo entra na onda da WEB 2.0](http://internauta20.blogspot.com/2007/08/at-globo-entra-na-onda-da-web-20.html)
+- [Globo.com estréia nova home](http://blog.mofo.art.br/2007/08/29/globocom-estreia-nova-home/)
+- [Globo.com estréia nova home](http://www.alexandresaddi.com/2007/08/30/globocom-estreia-nova-home/)
+- [Nova Home da Globo.com, ou, um portal que respira](http://www.carreirasolo.org/archives/nova_home_da_globoc.html)
+- [Design limpo e direto na nova home-page Globo.com](http://blog.mhavila.com.br/2007/08/30/design-limpo-e-direto-na-nova-home-page-globocom/)
+- [Andou pra trás :(](http://www.viuisso.com.br/2007/09/01/andou-pra-tras/)
+- [Nova home da Globo.com](http://marciamaia.wordpress.com/2007/08/30/nova-home-da-globocom/)
+- [Globo.com ganha nova home page](http://www.googlediscovery.com/2007/08/30/globocom-ganha-nova-home-page/)
+- [Nova home do Globo.com e os primórdios da Internet](http://edudiserto.blogspot.com/2007/08/nova-home-do-globocom-e-os-primrdios-da.html)
+- [Nova Globo.com](http://www.heldersantos.com.br/publicitando/2007/08/30/nova-globocom/)
+- [Nova Globo.com](http://mtristao.com/blog/2007/08/30/nova-globocom/)
+- [Novo Globo.com](http://www.pristina.org/?p=2117)
 
 E só pra constar, eu só implementei o código, não fiz o layout do Portal não ;).
 
-**[/UPDATE]**
+**\[/UPDATE\]**

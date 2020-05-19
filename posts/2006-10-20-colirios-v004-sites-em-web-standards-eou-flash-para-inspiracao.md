@@ -1,11 +1,8 @@
 ---
-author: bruno-dulcetti
-category: Shots
-date: 2006-10-20T20:34:13.000Z
+category: 'Tecnologia'
+date: '2006-10-20'
 description: ''
-image: null
-slug: colirios-v004-sites-em-web-standards-eou-flash-para-inspiracao
-templateKey: blog-post
+featuredImage: ''
 title: 'Colírios v.004 - Sites em web standards e/ou flash para inspiração!'
 ---
 
@@ -15,44 +12,44 @@ E não reclame mais Frango, aqui está os sites novamente ok? :D
 
 Seguem abaixo:
 
-## <a href="http://microsites.audi.com/audir8/html/index.php?lang=en" title="Ver o site do Audi R8">Audi R8</a>
+### [Audi R8](http://microsites.audi.com/audir8/html/index.php?lang=en 'Ver o site do Audi R8')
 
-### Tipo: Flash
+#### Tipo: Flash
 
 Sem comentários para este site. Na verdade eu não sei, mas o que mais me impactou foi o carro mesmo, pois o site é até legal, mas nada surreal. Mas vale pelos vídeos muito bem feitos e pelo carro, que dispensa comentários.
 
-Preparem-se, poisépesado :D
+Preparem-se, pois é pesado :D
 
-## <a href="http://www.soleilnoir.net/" title="Ver o site da Soleil Noir">Soleil Noir</a>
+### [Soleil Noir](http://www.soleilnoir.net/ 'Ver o site da Soleil Noir')
 
-### Tipo: Flash
+#### Tipo: Flash
 
 Belíssimo site. Pequenos detalhes que fizeram a diferença. Opção para contraste, diminuir e aumentar o tamanho das letras dos textos, fora a beleza do background. Muito bonita a imagem.
 
 Muito interessante a opção de visualização do portfólio, em lista e thumbs. Em concepts, só não gostei da abertura de popups para mostrar as peças.
 
-## <a href="http://www.ndesign-studio.com/resources/mini-pixel-icons/" title="Ver o site do Mini Pixel Icons">Mini Pixel Icons</a>
+### [Mini Pixel Icons](http://www.ndesign-studio.com/resources/mini-pixel-icons/ 'Ver o site do Mini Pixel Icons')
 
-### Tipo: Webstandards
+#### Tipo: Webstandards
 
 Belo site, com um background bem agradável e bonito. Site simples, porém funcional. Bela jogada do topo, um pouco transparente mais pra esquerda. Menu em abas bem legal tb.
 
-## <a href="http://www.dpivision.com/" title="Ver o site da dpivision">dpivision</a>
+### [dpivision](http://www.dpivision.com/ 'Ver o site da dpivision')
 
-### Tipo: Webstandards
+#### Tipo: Webstandards
 
 Site leve e interessante. Bem clean e com boas jogadas, principalmente no menu, feito com post-its com diferentes efeitos para cada item do menu.
 
-Muito interessante a folha de caderno à direita com uma listagem. Background interessante, uma mistura d tinta, grunge. Soh achei que faltaram mais detalhes nos trabalhos realizados.
+Muito interessante a folha de caderno à direita com uma listagem. Background interessante, uma mistura d tinta, grunge. Sóachei que faltaram mais detalhes nos trabalhos realizados.
 
-## <a href="http://orangeonweb.com/index.htm" title="Ver o site da Orange on Web">Orange on Web</a>
+### [Orange on Web](http://orangeonweb.com/index.htm 'Ver o site da Orange on Web')
 
-### Tipo: Webstandards
+#### Tipo: Webstandards
 
-Site muito interessante e com idéias muito bem boladas. A parte do topo, deito meio que numa revista ficou sagás, principalmente com aquela gostosa :D. Alguns erros na semântica, mas tudo bem, estou falando da parte visual mesmo.
+Site muito interessante e com idéias muito bem boladas. A parte do topo, deito meio q numa revista ficou sagás, principalmente com aquela gostosa :D. Alguns erros na semântica, mas tudo bem, estou falando da parte visual mesmo.
 
-Uso visual como folha de caderno, com umas etiquetas na lateral, o rodapé bem bolado e bonito. Soh senti falta de uma mudança nos links, nos hovers dos mesmos, mas de resto, muito bom.
+Uso visual como folha de caderno, com umas etiquetas na lateral, o rodapé bem bolado e bonito. Sósenti falta de uma mudança nos links, nos hovers dos mesmos, mas de resto, muito bom.
 
-## Por hoje é só pessoal.
+### Por hoje é só pessoal.
 
 Bom, é isso... Aquele abraço para todos.

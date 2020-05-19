@@ -6,7 +6,7 @@ import Img from 'gatsby-image';
 import * as S from './styles';
 import { getCategoryBg } from '../../utils/categories';
 
-export default function PostItem({ post, time }) {
+export default function PostItem({ post, slug, time }) {
   const { image } = useStaticQuery(graphql`
     query {
       image: file(relativePath: { eq: "440x285.jpg" }) {
@@ -22,7 +22,7 @@ export default function PostItem({ post, time }) {
   return (
     <>
       <S.Post>
-        <S.LinkPost to={post.slug}>
+        <S.LinkPost to={slug}>
           {image && <Img fluid={image.childImageSharp.fluid} />}
           <S.Content className="infos-post">
             <S.TitlePost>{post.title}</S.TitlePost>

@@ -1,11 +1,8 @@
 ---
-author: bruno-dulcetti
-category: Webstandards
-date: 2006-10-18T15:26:43.000Z
+category: 'Webstandards'
+date: '2006-10-18'
 description: ''
-image: null
-slug: quais-e-como-utilizar-as-meta-tags-na-sua-pagina
-templateKey: blog-post
+featuredImage: ''
 title: 'Meta Tags. Quais e como utilizar na sua página.'
 ---
 

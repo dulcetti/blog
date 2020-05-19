@@ -1,11 +1,8 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2006-05-24T19:04:54.000Z
+category: 'CSS'
+date: '2006-05-24'
 description: ''
-image: null
-slug: cellspacing-e-cellpadding-com-webstandards
-templateKey: blog-post
+featuredImage: ''
 title: 'Cellspacing e Cellpadding com Webstandards'
 ---
 
@@ -16,36 +13,51 @@ Depois de ver algumas dúvidas, pessoas querendo saber sobre esse assunto, comec
 Veremos um exemplo disso com tabelas:
 
 ```html
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+  </tbody>
 </table>
-```
-
-Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards,ébem fácil, com somente dois comandos no css, você consegue o mesmo resultado:
-
-```html
+Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards, eh bem
+fácil, com somente dois comandos no css, você consegue o mesmo resultado:
 <table style="border-collapse: collapse; padding: 0;">
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+  </tbody>
 </table>
 ```
+
+Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards, é bem fácil, com somente dois comandos no css, você consegue o mesmo resultado:
+
+conteúdo
+
+conteúdo
+
+conteúdo
+
+conteúdo
+
+conteúdo
+
+conteúdo
 
 Os comandos css utilizados foram:
 
@@ -56,39 +68,43 @@ table {
 }
 ```
 
-A primeira linha diz que quero o modelo de borda fique zerado, não tenha distância. A segunda linha nem preciso falar né? Ela zera o padding qéo espaço do conteúdo pro seu limite.
+A primeira linha diz que quero o modelo de borda fique zerado, não tenha distância. A segunda linha nem preciso falar né? Ela zera o padding q é o espaço do conteúdo pro seu limite.
 
 Dentro desse atributo border-collapse, temos outro valor, que é o default. Esse valor é o separate e ele será um dos usados no próximo exemplo:
 
 ```html
-<table cellpadding="10" cellspacing="10">
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
+<table cellspacing="10" cellpadding="10">
+  <tbody>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+  </tbody>
 </table>
 ```
 
-Este foi exemplo usando cellpadding e cellspacing iguais a 10 (dez). Agora veremos na versão webstandards, que tambémébem fácil, com somente três comandos no css, você consegue o mesmo resultado para a tabela:
+Este foi exemplo usando cellpadding e cellspacing iguais a 10 (dez). Agora veremos na versão webstandards, que também é bem fácil, com somente três comandos no css, você consegue o mesmo resultado para a tabela:
 
 ```html
 <table style="border-collapse: separate; border-spacing: 10px; padding: 10px;">
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
-  <tr>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-    <td>conteúdo</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+  </tbody>
 </table>
 ```
 
@@ -106,28 +122,30 @@ Primeira linha foi explicado anteriormento, é o valor padrão, mantém um espa�
 
 A propriedade border-spacing não é muito utilizada, talvez pela pouca utilização das tabelas hoje em dia, por isso, muitos não sabem sua funcionalidade.
 
-### Mas Bruno, está diferente do feito com os atributos na tag `<table>`.
+#### Mas Bruno, está diferente do feito com os atributos na tag `<table>`.
 
 Eu sei, calma. Precisamos lembrar, que estamos setando estes valores, para a tag `<table>` somente. Para ter o resultado semelhante, você precisaria colocar um padding também no `<td>`:
 
 ```html
 <table style="border-collapse: separate; border-spacing: 10px; padding: 10px;">
-  <tr>
-    <td style="padding: 10px;">conteúdo</td>
-    <td style="padding: 10px;">conteúdo</td>
-    <td style="padding: 10px;">conteúdo</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">conteúdo</td>
-    <td style="padding: 10px;">conteúdo</td>
-    <td style="padding: 10px;">conteúdo</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;">conteúdo</td>
+      <td style="padding: 10px;">conteúdo</td>
+      <td style="padding: 10px;">conteúdo</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">conteúdo</td>
+      <td style="padding: 10px;">conteúdo</td>
+      <td style="padding: 10px;">conteúdo</td>
+    </tr>
+  </tbody>
 </table>
 ```
 
 Às vezes o resultado não fica totalmente igual, principalmente em diferentes browsers, mas isso você pode ir resolvendo com valores diferenciados para cada item.
 
-Essa é uma grande vantagem do <abbr title="Cascading Style Sheets">css</abbr>. Você pode cuidar de cada tag, separadamente, dando à ela, os valores especificados por você.
+Essa é uma grande vantagem do css. Você pode cuidar de cada tag, separadamente, dando à ela, os valores especificados por você.
 
 Vamos ver mais um exemplo com tabelas com bordas:
 
@@ -135,20 +153,22 @@ Vamos ver mais um exemplo com tabelas com bordas:
 <table
   style="border-collapse: separate; border-spacing: 10px; padding: 10px; border: 1px solid #000000;"
 >
-  <tr>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-    <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-  </tr>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+    </tr>
+  </tbody>
 </table>
 ```
 
-### Mas Bruno, por que que entre os tds estão menores que entre a tabela e o td?
+#### Mas Bruno, por que que entre os tds estão menores que entre a tabela e o td?
 
 Simples. Como setamos 10px de padding para tabela, todo seu conteúdo ficará 10 pixels mais pra dentro da tabela e somando os 10px setados no border-spacing, que é o espaçamento entre as células da tabela, como explicado lá em cima.
 
@@ -158,11 +178,11 @@ Legal não é verdade? Espero que tenham entendido e qualquer dúvida, erro, é 
 
 Aquele abraço.
 
-### [UPDATE]
+#### \[UPDATE\]
 
 Maldito i.e. Lembrando que ele não aceita esses parâmetros. Alguém tem dúvida sobre o porquê desse browser ser ruim?
 
-### [UPDATE 02]
+#### \[UPDATE 02\]
 
 Colocando o complemento do Samy para os iniciantes. Eu coloquei cada atributo em sua respectiva tag, é só ver no código fonte o style em cada tag, portanto, devemos seguir as seguinte regras:
 
@@ -176,4 +196,4 @@ table tr td {
 }
 ```
 
-Aquele abraço e obrigado ae, Samy.
+Aquele abraço e obrigado ae Samy.

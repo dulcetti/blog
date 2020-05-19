@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import media from 'styled-media-query';
 import { themes } from '../../styles/themes';
 
-export const PostWrap = styled.main`
+export const PostWrap = styled.div`
   margin: auto;
   max-width: 70rem;
 

@@ -1,23 +1,20 @@
 ---
-author: bruno-dulcetti
-category: Webstandards
-date: 2006-01-28T01:00:42.000Z
-description: ''
-image: null
-slug: backoffices-precisam-ser-webstandards
-templateKey: blog-post
-title: 'Backoffices precisam ser webstandards?'
+category: "Shots"
+date: "2006-01-28"
+description: ""
+featuredImage: ""
+title: "Backoffices precisam ser webstandards?"
 ---
 
-Estava eu aqui, produzindo, quando de repente me veio essa pergunta na cabeça... Primeiro, para os que não conhecem o termo, Backoffice é o mesmo que o sistema criado para um site, os famosos <abbr title="Content Management System">CMS</abbr>'s da vida. Quando você cria um site, vocês tem pelo menos duas opções de atualização de conteúdo de um site: ou você pega o <abbr title="HyperText Markup Language">html</abbr> (ou qualquer arquivo de qualquer linguagem) e coloca este conteúdo, tanto texto, quanto imagens e sobe de novo via <abbr title="File Transfer Protocol">FTP</abbr>. É um modo meio chato, mais trabalhoso e temos também o modo via Backoffice ou <abbr title="Content Management System">CMS</abbr>, que onde o usuário fica responsável pelo conteúdo exposto no site, sem a necessidade do criador do site fazer a atualização.
+Estava eu aqui, produzindo, quando de repente me veio essa pergunta na cabeça... Primeiro, para os que não conhecem o termo, Backoffice é o mesmo que o sistema criado para um site, os famosos CMS's da vida. Quando você cria um site, vocês tem pelo menos duas opções de atualização de conteúdo de um site: ou você pega o html (ou qualquer arquivo de qualquer linguagem) e coloca este conteúdo, tanto texto, quanto imagens e sobe de novo via FTP. É um modo meio chato, mais trabalhoso e temos também o modo via Backoffice ou CMS, que onde o usuário fica responsável pelo conteúdo exposto no site, sem a necessidade do criador do site fazer a atualização.
 
-Hoje, acho primordial a utilização dos padrões web na criação de um website. Site dividido por camadas estrutura / estética / funcionalidade, validado pela <abbr title="World Wide Web Consortium"><a href="http://www.w3c.org">W3C</a></abbr>, tanto <abbr title="HyperText Markup Language">html</abbr>/<abbr title="eXtensible HyperText Markup Language">xhtml</abbr> quanto <abbr title="Cascading Style Sheet">css</abbr> para evitar erros de nomeação, entre outros, fora a rapidez, economia de tempo tanto na criação quanto mudanças e outras inúmeras vantagens que todos aqui devem saber.
+Hoje, acho primordial a utilização dos padrões web na criação de um website. Site dividido por camadas estrutura / estética / funcionalidade, validado pela [W3C](http://www.w3c.org), tanto html/xhtml quanto css para evitar erros de nomeação, entre outros, fora a rapidez, economia de tempo tanto na criação quanto mudanças e outras inúmeras vantagens que todos aqui devem saber.
 
 Mas será que vale a pena deixar o Backoffice deste site dentro dos padrões, pelo menos a risca? Antigamente eu fazia o Back via tabela, como só o cliente vai ver, não teria problema, mas depois, com mais amadurecimento dentro dos padrões, percebi que era importante a utilização dos padrões no Backoffice.
 
-No início, quando ainda nem utilizava o <a href="http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196">Firefox</a> direito, eu criava os backoffices pro <abbr title="Internet Explorer">i.e.</abbr>, pois achava que todo mundo utilizava-o, ninguém iria barrá-lo (aff, como pensei nisso Â¬Â¬), criava o backoffice somente pro <abbr title="Internet Explorer">i.e.</abbr> e depois quando comecei a descobrir o <a href="http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196">Firefox</a>, que via a bagunça que ficava, pensei comigo "E se meu cliente começar a utilizá-lo? To ferrado!". Exatamente isso. Mas depois, coloquei minha cabeça no lugar (ou será que foi a <abbr title="World Wide Web Consortium"><a href="http://www.w3c.org">W3C</a></abbr>, <a href="http://www.w3schools.com">W3Schools</a>, <a href="http://www.tableless.com.br">Tableless</a>, <a href="http://groups.google.com/group/arqhp">arqHP</a> e afins? :P), comecei a criar como padrão dentro de todos os <a href="http://pt.wikipedia.org/wiki/Browsers">browsers</a> que tinha acesso.
+No início, quando ainda nem utilizava o [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196) direito, eu criava os backoffices pro i.e., pois achava que todo mundo utilizava-o, ninguém iria barrá-lo (aff, como pensei nisso ¬¬), criava o backoffice somente pro i.e. e depois quando comecei a descobrir o [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196), que via a bagunça que ficava, pensei comigo "E se meu cliente começar a utilizá-lo? To ferrado!". Exatamente isso. Mas depois, coloquei minha cabeça no lugar (ou será que foi a [W3C](http://www.w3c.org), [W3Schools](http://www.w3schools.com), [Tableless](http://www.tableless.com.br), [arqHP](http://groups.google.com/group/arqhp) e afins? :P), comecei a criar como padrão dentro de todos os [browsers](http://pt.wikipedia.org/wiki/Browsers) que tinha acesso.
 
-Daí pensei comigo: "Pronto, perfeito", mas depois via que tinham alguns erros no código, entre outros via validador <abbr title="World Wide Web Consortium"><a href="http://www.w3c.org">W3C</a></abbr>.
+Daí pensei comigo: "Pronto, perfeito", mas depois via que tinham alguns erros no código, entre outros via validador [W3C](http://www.w3c.org).
 
 Com isso, veio essa pergunta que foi lhes apresentada no título deste post: "Será que os Backoffices precisam ser webstandards?" Logicamente eu respondo para vocês, mas depois pergunto de novo: "Mas será que precisam seguir tanto a risca? Será que precisamos perder um pouco do tempo precioso nos preocupando com alguns erros dentro de uma área que somente o cliente irá ver? E que o cliente nem vai ter noção que tem erro, somente o validador mesmo?
 

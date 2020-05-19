@@ -5,12 +5,15 @@ const postsQuery = `{
     edges {
       node {
         objectID: id
+        fields {
+          slug
+        }
         frontmatter {
           category
           date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
           date_timestamp: date
           description
-          slug
+          featuredImage
           title
         }
         excerpt(pruneLength: 5000)

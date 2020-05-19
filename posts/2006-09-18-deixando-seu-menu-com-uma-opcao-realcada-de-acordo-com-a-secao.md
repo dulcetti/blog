@@ -1,24 +1,20 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2006-09-18T18:05:21.000Z
+category: 'CSS'
+date: '2006-09-18'
 description: ''
-image: null
-slug: deixando-seu-menu-com-uma-opcao-realcada-de-acordo-com-a-secao
-templateKey: blog-post
+featuredImage: ''
 title: 'Deixando seu menu com uma opção realçada de acordo com a Seção'
 ---
 
 E ae galera... Agora estou aqui não para mostrar sites ou vídeos, mas finalmente para o primeiro artigo dentro da nova versão do Blog :D
 
-Estava conversando pelo Gtalk com o <a href="http://www.lucasferreira.com/" title="Visitar o Site do Lucas">Lucas Ferreira</a> sobre webstandards, javascript, etc, quando ele me perguntou:
-<cite>" - Ae Dulcetti, por que você não cria um tutorial sobre como deixar o menu selecionado? Não é difícil não usa js nem nada."</cite>
+Estava conversando pelo Gtalk com o [Lucas Ferreira](http://www.lucasferreira.com/) sobre webstandards, javascript, etc, quando ele me perguntou: " - Ae Dulcetti, por que você não cria um tutorial sobre como deixar o menu selecionado? Não é difícil não usa js nem nada."
 
 Ok Lucas, não foi exatamente isso, mas foi por ae ok? :D
 
-## A Idéia
+### A Idéia
 
-Se vocês <a href="/">verificarem no meu portfólio</a>, viajando pelo menu, verão que cada seção que é aberta, o seu respectivo botão fica selecionado.
+Se vocês [verificarem no meu portfólio](/), viajando pelo menu, verão que cada seção que é aberta, o seu respectivo botão fica selecionado.
 
 Podem ir lá ver, eu espero... :D
 
@@ -28,23 +24,23 @@ Mas se caso você tiver um site grande, que você precisa colocar includes, para
 
 Por isso estou mostrando esta técnica, para resolver esse probleminha.
 
-## As técnicas utilizadas
+### As técnicas utilizadas
 
 Você não precisa de praticamente nada. Nada de javascript, nada de linguagens dinâmicas nem nada disso. Claro que estarei utilizando includes PHP
 
-### Mas então o que eu preciso Bruno?
+#### Mas então o que eu preciso Bruno?
 
-<acronym title="Cascading Style Sheets">CSS</acronym>, somente isso... E <acronym title="HyperText Markup Language">HTML</acronym> logicamente ;)
+CSS, somente isso... E HTML logicamente ;)
 
-### Mas como isso Bruno?
+#### Mas como isso Bruno?
 
 Mole mole... E explicarei isso agora ;)
 
-## Mão na massa
+### Mão na massa
 
-Primeiramente eu mostrarei o código, pra em seguida explicar como que foi feito. Lembrando que não explicarei coisas básicas, como tenho feito anteriormente. Caso não saiba algum comando, temos o <a href="http://www.w3schools.com/" title="Visitar o site da W3Schools">W3Schools</a> que é uma ótima referência.
+Primeiramente eu mostrarei o código, pra em seguida explicar como que foi feito. Lembrando que não explicarei coisas básicas, como tenho feito anteriormente. Caso não saiba algum comando, temos o [W3Schools](http://www.w3schools.com/) que é uma ótima referência.
 
-### Primeira Parte - HTML
+#### Primeira Parte - HTML
 
 Vou mostrar abaixo, o código HTML criado para este exemplo:
 
@@ -67,9 +63,9 @@ Vou mostrar abaixo, o código HTML criado para este exemplo:
 </html>
 ```
 
-Não reparem mas utilizei um código parecido com o artigo <a href="/menu-em-abas-sem-utilizar-imagens">Menu em Abas sem utilizar imagens</a>. Utilizarei o mesmo código, tanto do CSS quanto do HTML.
+Não reparem mas utilizei um código parecido com o artigo [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens.html). Utilizarei o mesmo código, tanto do CSS quanto do HTML.
 
-#### Vamos entender as partes que interessam?
+##### Vamos entender as partes que interessam?
 
 Vamos sim:
 
@@ -77,7 +73,7 @@ Vamos sim:
 <?php include 'head.php'; ?>
 ```
 
-Isto é um <a href="http://en.wikipedia.org/wiki/Server-side_include">include</a>. Quem trabalha com web já conhece este termo e já deve saber como utilizá-lo (pelo menos eu espero).
+Isto é um [include](http://en.wikipedia.org/wiki/Server-side_include). Quem trabalha com web já conhece este termo e já deve saber como utilizá-lo (pelo menos eu espero).
 
 Neste include eu chamo a página head.php, que irá conter o cabeçalho da página, etc.
 
@@ -85,7 +81,8 @@ Neste include eu chamo a página head.php, que irá conter o cabeçalho da pági
 <?php include 'menu.php'; ?>
 ```
 
-A mesma coisa que o anterior, só que agora chamará a página menu.php, que contém o código do menu que veremos mais a frente.
+A mesma coisa que o anterior, só que agora chamará a página menu.php, que
+contém o código do menu que veremos mais a frente.
 
 ```html
 <body id="bodyPrimeira"></body>
@@ -110,7 +107,8 @@ No total temos dois includes, o head.php e o menu.php. Mostrarei os dois, mas fa
 </html>
 ```
 
-Não perderei tempo explicando essa parte do código, pois quem já mexe com html sabe muito bem o que quer dizer cada linha ok?
+Não perderei tempo explicando essa parte do código, pois quem já mexe com html sabe muito bem o que
+quer dizer cada linha ok?
 
 #### menu.php
 
@@ -128,7 +126,7 @@ Não perderei tempo explicando essa parte do código, pois quem já mexe com htm
 
 Uma lista não ordenada, com suas respectivas li's. O que importará nessa parte do código são as classes dos links dentro dos li's: menuPrincipal, menuEmpresa, menuServicos, menuPortfolio e menuContato. No css vocês entenderão melhor o seu funcionamento.
 
-### Terceira Parte - CSS
+#### Terceira Parte - CSS
 
 É no css que vamos fazer o funcionamento do efeito, ele que definirá quando o evento será executado.
 
@@ -224,9 +222,9 @@ h3 {
 }
 ```
 
-#### Explique agora Bruno
+##### Explique agora Bruno
 
-Bom, explicarei aqui, somente o que não expliquei no artigo do menu sem abas. Se quiser mais explicação de cada parte desse código css, veja o post <a href="/menu-em-abas-sem-utilizar-imagens">Menu em Abas sem utilizar imagens</a>. Lembrando que estou utilizando a mesma estrutura do css e praticamente a mesma no html ;).
+Bom, explicarei aqui, somente o que não expliquei no artigo do menu sem abas. Se quiser mais explicação de cada parte desse código css, veja o post [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens). Lembrando que estou utilizando a mesma estrutura do css e praticamente a mesma no html ;).
 
 A parte que mais nos interessa é o código abaixo:
 
@@ -248,7 +246,7 @@ Se vocês perceberem, as propriedades são as mesmas do hover do link. Preferi c
 
 Vou pegar agora uma delas pra explicar melhor, porque as outras são exatamente a mesma coisa, só modificando os nomes.
 
-##### #bodyPrincipal #menu ul li a.mnuPrincipal
+###### #bodyPrincipal #menu ul li a.mnuPrincipal
 
 Vamos listar por partes:
 
@@ -256,16 +254,18 @@ Vamos listar por partes:
 - **#menu ul li**: Aqui estamos referenciando o menu e sua lista não-ordenada e seus respeticos li's.
 - **a.mnuPrincipal**: Aqui referenciamos os links dentro do li, que tenham a classe mnuPrincipal.
 
-E issoéexpandido quando setamos várias outras citações, como foi o caso. É só colocarmos o id correto no body de cada página, como está sendo feito em todas as páginas deste efeito.
+E isso é expandido quando setamos várias outras citações, como foi o caso. É só colocarmos o id correto no body de cada página, como está sendo feito em todas as páginas deste efeito.
 
 Na parte das classes dos li's é que fará a diferença, como citei anteriormente. Caso não fosse setado nenhjuma classe, ele simplesmente pegaria todos os links de todas as li's e deixariam marcado... É uma união do id do body com a classe do menu... ;)
 
-### Quarta Parte - Resultado Final
+#### Quarta Parte - Resultado Final
 
-<a href="/menu_realcado/">Aqui nós podemos ver o resultado final desta técnica</a>. Viaje pelos links no menu, veja que o menu realçado modifica de acordo com a seção selecionada. Perceba também, que o código é o mesmo, a não ser pela mudança do id do body ;).
+[Aqui nós podemos ver o resultado final desta técnica](/menu_realcado). Viaje pelos links no menu, veja que o menu realçado modifica de acordo com a seção selecionada. Perceba também, que o código é o mesmo, a não ser pela mudança do id do body ;).
 
-## Finalizando
+### Finalizando
 
-Vimos que é bem fácil fazer isso. Aposto que você pensou que fosse mais complicado não é verdade? Usamos declarações básicas dentro do css e do html, nada de muito avançado. Mas qualquer dúvida, é só postar.
+Vimos que é bem fácil fazer isso. Aposto que você pensou que fosse mais complicado não é verdade?
+
+Usamos declarações básicas dentro do css e do html, nada de muito avançado. Mas qualquer dúvida, é só postar.
 
 Aquele abraço

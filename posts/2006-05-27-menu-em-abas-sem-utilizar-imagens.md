@@ -1,11 +1,8 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2006-05-27T23:42:55.000Z
+category: 'CSS'
+date: '2006-05-27'
 description: ''
-image: null
-slug: menu-em-abas-sem-utilizar-imagens
-templateKey: blog-post
+featuredImage: ''
 title: 'Menu em Abas sem utilizar imagens'
 ---
 
@@ -25,7 +22,7 @@ Primeiramente eu escolhi um <a href="http://en.wikipedia.org/wiki/Doctype"><abbr
 
 ### Segundo Passo
 
-Eu mostrarei separadamente a criação do html e do css, pois fica mais fácil de explicar cada parte. Primeiramente, mostrarei o html, coisa que eu não preciso explicar muito, pois todos aqui já o conhecem (assim espero :D). Eu só explicarei o que estiver entre as tags <body> e </body>. Não explicarei também, as tags de fechamento, pois é desnecessário.
+Eu mostrarei separadamente a criação do html e do css, pois fica mais fácil de explicar cada parte. Primeiramente, mostrarei o html, coisa que eu não preciso explicar muito, pois todos aqui já o conhecem (assim espero :D). Eu só explicarei o que estiver entre as tags `<body>` e `</body>`. Não explicarei também, as tags de fechamento, pois é desnecessário.
 
 <a href="/menu_abas_sem/index_sem.html">Veremos primeiro a página, sem estilos nenhum</a>.
 
@@ -65,7 +62,7 @@ Nessa parte, está englobada toda a codificação do menu feito em lista e seus 
   <p>Quisque convallis fringilla tortor. Duis tortor diam ...</p>
 </div>
 <div id="rodape">
-  Copyright &copy; 2006 - <a href="http://www.brunodulcetti.com/">BrunoDulcetti.com</a>
+  Copyright &copy; 2006 - <a href="https://www.brunodulcetti.com/">BrunoDulcetti.com</a>
 </div>
 ```
 
@@ -77,7 +74,7 @@ Acho que agora não preciso explicar mais nada do código, pois é bem básico e
 
 Logicamente. Esse primeiro passo, foi somente para mostrar o código <a href="http://pt.wikipedia.org/wiki/HTML"><abbr title="HyperText Markup Language">HTML</abbr></a> e só irmos jogando o <abbr title="Cascading Style Sheet">css</abbr> aos poucos, para vermos o resultado final.
 
-O <abbr title="Cascading Style Sheet">css</abbr> completo, <a href="/menu_abas_sem/estilo.php">você pode verificar aqui</a>. Bem pequeno não é verdade?
+O <abbr title="Cascading Style Sheet">css</abbr> completo, você pode verificar aqui. Bem pequeno não é verdade?
 
 Agora vamos vendo cada propriedade:
 
@@ -182,7 +179,7 @@ Neste terceiro bloco, nenhum problema, dificuldade não é? Três propriedades, 
   color: #ffffff;
   font-weight: bold;
 }
-<br / > #menu ul li a.selecionado,
+#menu ul li a.selecionado,
 #menu ul li a:hover {
   background-color: #ffffff;
   color: #999999;
@@ -215,7 +212,7 @@ Nenhum mistério. Só deixamos o link como block e com float, para ele ir pra es
 
 O único problema seria na hora do link, porque ele sem block, fica como inline, ficaria, um do lado do outro, tranquilim, mas signica que SOMENTE o texto, o conteúdo dentro do link, ficaria como link realmente.
 
-E como a pseudo-classe hover só funciona em links, isso no i.e., lógico, não conseguiriamos o efeito correto. <a href="/menu_abas_sem/index_no_li.html">Veja um exemplo disso</a>. Dá pra ver o resultado não é? Pelo menos não era o que eu queria nesse tutorial.
+E como a pseudo-classe hover só funciona em links, isso no i.e., lógico, não conseguiriamos o efeito correto. Veja um exemplo disso. Dá pra ver o resultado não é? Pelo menos não era o que eu queria nesse tutorial.
 
 Agora vamos para a terceira e última parte.
 
@@ -274,6 +271,6 @@ Poucas coisas setadas, código bem curto, pois no rodapé não coloquei nada, al
 
 É um menu bem simples de se fazer, implementar e modificar também. Como disse anteriomente, ele fica quadrado, mas mesmo assim, acho bonito, clean, interessante, sem problema algum.
 
-Bom, galera, é isso, <a href="/menu_abas_sem/">o resultado final pode ser conferido aqui</a>. Qualquer dúvida, correção, melhora, crítica, elogio, é só comentar ae...
+Bom, galera, é isso, o resultado final pode ser conferido aqui. Qualquer dúvida, correção, melhora, crítica, elogio, é só comentar ae...
 
 Aquele abraço.

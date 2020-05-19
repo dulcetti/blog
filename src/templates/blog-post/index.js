@@ -7,14 +7,14 @@ import SEO from '../../components/seo';
 import * as S from './styles';
 
 export default function BlogPost({ data }) {
-  const { frontmatter, html } = data.markdownRemark;
+  const { fields, frontmatter, html } = data.markdownRemark;
 
   return (
     <Layout>
       <SEO
         title={frontmatter.title}
         description={frontmatter.description}
-        image={frontmatter.image}
+        image={frontmatter.featuredImage}
       />
       <S.PostWrap>
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
@@ -26,7 +26,7 @@ export default function BlogPost({ data }) {
           <S.PostDescription>{frontmatter.description}</S.PostDescription>
         )}
         <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
-        <Comments slug={frontmatter.slug} title={frontmatter.title} />
+        <Comments slug={fields.slug} title={frontmatter.title} />
       </S.PostWrap>
     </Layout>
   );
@@ -34,13 +34,15 @@ export default function BlogPost({ data }) {
 
 export const postQuery = graphql`
   query Post($slug: String!) {
-    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      fields {
+        slug
+      }
       frontmatter {
         category
         date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
         description
-        image
-        slug
+        featuredImage
         title
       }
       html

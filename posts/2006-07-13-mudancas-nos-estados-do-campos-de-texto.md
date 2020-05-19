@@ -1,11 +1,8 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2006-07-13T15:23:52.000Z
+category: 'CSS'
+date: '2006-07-13'
 description: ''
-image: null
-slug: mudancas-nos-estados-do-campos-de-texto
-templateKey: blog-post
+featuredImage: ''
 title: 'Mudanças nos estados do campos de texto'
 ---
 
@@ -22,21 +19,35 @@ Explicarei em três partes: <abbr title="HyperText Markup Language">HTML</abbr>,
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Inputs</title>
-</head>
-<body>
-<form action=" method="post">
-<fieldset>
-<legend>Teste</legend>
-<label for="nome">Nome:</label>
-<input type="text" name="nome" id="nome" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
-<label for="email">Email:</label>
-<input type="text" name="email" id="email" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
-</fieldset>
-</form>
-</body>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Inputs</title>
+  </head>
+  <body>
+    <form action="#" method="post">
+      <fieldset>
+        <legend>Teste</legend>
+        <label for="nome">Nome:</label>
+        <input
+          type="text"
+          name="nome"
+          id="nome"
+          class="textbox"
+          onfocus="textOn(this.id)"
+          onblur="textNormal(this.id)"
+        />
+        <label for="email">Email:</label>
+        <input
+          type="text"
+          name="email"
+          id="email"
+          class="textbox"
+          onfocus="textOn(this.id)"
+          onblur="textNormal(this.id)"
+        />
+      </fieldset>
+    </form>
+  </body>
 </html>
 ```
 
@@ -44,17 +55,17 @@ Nesta parte, falarei somente de algumas linhas, pois outras são extremamente b�
 
 Utilizei um form, pois é um formulário, dentro dele, coloquei um fieldset, que no doctype do xhtml 1.1 é obrigatório a sua utilização. Dentro do fieldset, coloquei um legend, que serve como legenda para o formulário específicado. Temos os labes e os inputs. Não coloquei nenhum botão pois não é importante neste caso, estou apenas querendo mostrar o truque com os campos de texto.
 
-<a href="/input/inputs_html.html">Primeiro vamos ver este exemplo online</a>.
+Primeiro vamos ver este exemplo online.
 
 Nos labels, eu utilizei um atributo chamado for, que define, dentro de um formulário, o elemento que ele se refere. No caso atual, o label que contém o texto **Nome**, tem um for="nome" e o que contém o texto **Email**, tem um for="email". O atributo for, se refere ao elemento que conter o atributo id igual ao valor do seu valor.
 
 Ex:
 
 ```html
-<label for="nome">Nome:</label> <input type="text" name="nome" id="nome" />
+<label for="nome">Nome: <input type="text" name="nome" id="nome" /></label>
 ```
 
-No caso citado, o valor do FORéigual a "nome" e dentro do input, o valor do IDéigual a "nome", portanto o label se refere a este campo de texto.
+No caso citado, o valor do FOR é igual a "nome" e dentro do input, o valor do IDéigual a "nome", portanto o label se refere a este campo de texto.
 
 ### Mas pra que que isso serve Bruno?
 
@@ -66,26 +77,26 @@ Ok, ok, vamos lá. Segue abaixo a listagem dos atributos que utilizei no input, 
 
 - #### type="text"
 
-<p>Tipo do input. Nem preciso explicar não é? Textéigual a campo de texto.</p>
+Tipo do input. Nem preciso explicar não é? Textéigual a campo de texto.
 
 - #### name="nome"
 
-<p>Nada de novidade. O name serve como nome do campo e  funciona para o método utilizado no formulário e as linguagens server-side, para o envio dos dados.</p>
+Nada de novidade. O name serve como nome do campo e funciona para o método utilizado no formulário e as linguagens server-side, para o envio dos dados.
 
 - #### id="nome"
 
-<p>O id serve para "linkar" o campo ao label referente à ele</p>
+O id serve para "linkar" o campo ao label referente à ele
 
 - #### class="textbox"
 
-<p>Classe textbox que iremos declarar no css, para estilizar o campo.</p>
+Classe textbox que iremos declarar no css, para estilizar o campo.
 
 - #### onfocus="textOn(this.id)"
 
-<p>O onfocus serve para vc definir uma ação, evento quando o foco estiver no elemento em que foi setado. No nosso caso, esse atributo chama a função textOn, que está declarada no js que irei comentar mais abaixo e passa como parâmetro, o próprio id.</p>
+O onfocus serve para vc definir uma ação, evento quando o foco estiver no elemento em que foi setado. No nosso caso, esse atributo chama a função textOn, que está declarada no js que irei comentar mais abaixo e passa como parâmetro, o próprio id.
 
 - #### onblur="textNormal(this.id)"
-<p>Mesma função do onfocus, mas só que ao invés de ser para quando estiver com o foco, serve para quando perder o foco, ou seja, o usuário não estiver digitando texto dentro do campo. E neste atributo, passamos a função textNormal e passamos o próprio id como parâmetro.</p>
+  Mesma função do onfocus, mas só que ao invés de ser para quando estiver com o foco, serve para quando perder o foco, ou seja, o usuário não estiver digitando texto dentro do campo. E neste atributo, passamos a função textNormal e passamos o próprio id como parâmetro.
 
 ### <abbr title="HyperText Markup Language">HTML</abbr> Finalizado
 
@@ -139,32 +150,32 @@ label {
 
 Explicarei cada classe e tag declarada no <abbr title="Cascading Style Sheets">CSS</abbr>. Não vou explicar cada linha, pois são coisas básicas. Darei uma passada somente no css, para vocês entenderem.
 
-Mas antes, <a href="/input/inputs_css.html">vejam este exemplo online</a>.
+Mas antes, vejam este exemplo online.
 
 Farei uma listagem aqui com as tags e classes:
 
 - #### body
 
-<p>No body, setei somente uma cor de fundo, cor do texto e tamanho e tipo da fonte</p>
+No body, setei somente uma cor de fundo, cor do texto e tamanho e tipo da fonte
 
 - #### fieldset
 
-<p>No fieldset do fomulário, coloquei uma borda cinza sólida com 1px de espessura, um padding de 5px para todos os lados e setei 350px de largura.</p>
+No fieldset do fomulário, coloquei uma borda cinza sólida com 1px de espessura, um padding de 5px para todos os lados e setei 350px de largura.
 
 - #### legend
 
-<p>Para o legend, coloque um padding de 2px para o topo e a base e 4px para as laterais e coloquei uma borda cinza sólida com 1px de espessura</p>
+Para o legend, coloque um padding de 2px para o topo e a base e 4px para as laterais e coloquei uma borda cinza sólida com 1px de espessura
 
 - #### label
 
-<p>No label, coloquei um display: block, pra ter quebra de linha logo depois dele e pro input ficar abaixo, margem de 7px para o topo e a lateral esquerda, cursor pointer, queéu cursos da mãozinha/link, porque como ao clicar no label ele da foco para o campo de texto que ele estiver setado no for, entaum mostro isso pro usuário com o cursor e deixei o texto em negrito.</p>
+No label, coloquei um display: block, pra ter quebra de linha logo depois dele e pro input ficar abaixo, margem de 7px para o topo e a lateral esquerda, cursor pointer, queéu cursos da mãozinha/link, porque como ao clicar no label ele da foco para o campo de texto que ele estiver setado no for, entaum mostro isso pro usuário com o cursor e deixei o texto em negrito.
 
 - #### .textbox
 
-<p>Essa classe é a classe no estado normal do campo de texto, quando ele não está com foco. Coloquei um display: block também, para ele quebrar linha antes e depois dele, margem de 7px na lateral esquerda, borda cinza, sólida e com 2px de espessura, um cinza claro para a cor de fundo, um cinza escuro para a cor do texto, um padding de 2px para o topo e base e 4px para as laterais, tamanho e tipo da fonte e tamanho de 150px d largura pro campo de texto.</p>
+Essa classe é a classe no estado normal do campo de texto, quando ele não está com foco. Coloquei um display: block também, para ele quebrar linha antes e depois dele, margem de 7px na lateral esquerda, borda cinza, sólida e com 2px de espessura, um cinza claro para a cor de fundo, um cinza escuro para a cor do texto, um padding de 2px para o topo e base e 4px para as laterais, tamanho e tipo da fonte e tamanho de 150px d largura pro campo de texto.
 
 - #### .textboxOn
-<p>Vcs podem perceber que ele foi setado, juntamente, com a classe textbox, porque ela recebe praticamente todas as propriedades da classe textbox. E para não ficar repetindo tudo novamente, declaro somente o queénecessário, que nesse caso foi a cor da borda que ficou laranja e a cor de fundo que ficou um cinza mais claro.</p>
+  Vcs podem perceber que ele foi setado, juntamente, com a classe textbox, porque ela recebe praticamente todas as propriedades da classe textbox. E para não ficar repetindo tudo novamente, declaro somente o queénecessário, que nesse caso foi a cor da borda que ficou laranja e a cor de fundo que ficou um cinza mais claro.
 
 ### <abbr title="Cascading Style Sheets">CSS</abbr> Finalizado
 
@@ -198,10 +209,11 @@ Nessa linha, eu pego do html o ID passado no parâmetro txt. Isso varia de acord
 
 - ##### `id="nome" class="textbox" onfocus="textOn(this.id)"`
 
-  Setamos o ID como "nome" e dentro da chamada, setamos o ID dele próprio. O this significa que ele chama a si mesmo o .id significa "meu ID".
+Setamos o ID como "nome" e dentro da chamada, setamos o ID dele próprio. O this significa que ele chama a si mesmo o .id significa "meu ID".
 
 - ##### `id="email" class="textbox" onfocus="textOn(this.id)"`
-  Setamos o ID como "email" e dentro da chamada, setamos o ID dele próprio. O this significa que ele chama a si mesmo o .id significa "meu ID".
+
+Setamos o ID como "email" e dentro da chamada, setamos o ID dele próprio. O this significa que ele chama a si mesmo o .id significa "meu ID".
 
 Vamos pegar o primeiro caso, o "nome". Irei mostrar abaixo o código javascript e o próprio "traduzido":
 
@@ -229,7 +241,7 @@ Essaéa parte mais fácil. O nome já diz tudo. Entre as aspas duplas, vc seta o
 
 ## Tah pronto?
 
-Sim está. <a href="/input/inputs.html">Veja como ficou</a>.
+Sim está. Veja como ficou.
 
 Legal né? Com isso, vc pode fazer outras várias coisas. É só explorar, estudar e meter a cara... ;)
 

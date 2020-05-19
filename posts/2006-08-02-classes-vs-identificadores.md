@@ -1,17 +1,14 @@
 ---
-author: bruno-dulcetti
-category: CSS
-date: 2006-08-02T15:40:18.000Z
+category: 'CSS'
+date: '2006-08-02'
 description: ''
-image: null
-slug: classes-vs-identificadores
-templateKey: blog-post
+featuredImage: ''
 title: 'Classes vs. Identificadores'
 ---
 
 Falae pessoal... Esse post vai ser um pouco mais curto dos que eu costumo escrever aqui sobre webstandards, css e afins... Tentarei ser curto e direto, pois o assunto também não engloba tanta complexidade.
 
-Ontem o <a href="http://www.danieldepaola.com" title="Visitar o site do Daniel">Daniel de Paola</a> me perguntou a diferença do . e da # no <abbr title="Cascading Style Sheets">CSS</abbr>. Ele tá iniciando em webstandards agora, o que acho ótimo, pois é mais um adepto dos padrões... ;) Boa Paola...
+Ontem o [Daniel de Paola](http://www.danieldepaola.com) me perguntou a diferença do . e da # no CSS. Ele tá iniciando em webstandards agora, o que acho ótimo, pois é mais um adepto dos padrões... ;) Boa, Paola...
 
 O assunto englobado é a utilização de classes e identificadores no <abbr title="Cascading Style Sheets">CSS</abbr> e <abbr title="HyperText Markup Language">HTML</abbr>, quais as diferenças entre eles, quando usá-los, etc.
 

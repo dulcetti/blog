@@ -1,17 +1,14 @@
 ---
-author: bruno-dulcetti
-category: Shots
-date: 2006-05-08T20:58:51.000Z
+category: 'Portfólio'
+date: '2006-05-08'
 description: ''
-image: null
-slug: novo-videologtv-no-ar
-templateKey: blog-post
+featuredImage: ''
 title: 'Novo Videolog.tv no ar'
 ---
 
-É com uma grande satisfação e orgulho (e um bocado de atraso,éverdade :P), que venho avisar que a nova versão do <a href="http://www.videolog.tv">Videolog.tv</a> está no ar. Com uma interface totalmente nova, diferenciada, limpa, com uma arquitetura toda estudada e estruturada nos mínimos detalhes, focada no conceito <a href="/web2-web-3-etc">web 2.0</a> e muitas outras vantagens.
+É com uma grande satisfação e orgulho (e um bocado de atraso, é verdade :P), que venho avisar que a nova versão do [Videolog.tv](http://www.videolog.tv) está no ar. Com uma interface totalmente nova, diferenciada, limpa, com uma arquitetura toda estudada e estruturada nos mínimos detalhes, focada no conceito [web 2.0](/web2-web-3-etc.html) e muitas outras vantagens.
 
-<a href="/videolog-a-nova-era">Com havia dito antes</a>, o videolog é um compatilhador de vídeos online, seria como um fotolog, mas só que de vídeos.
+[Com havia dito antes](/videolog-a-nova-era.html), o videolog é um compatilhador de vídeos online, seria como um fotolog, mas só que de vídeos.
 
 Agora você pode acrescentar os outros usuário como amigos, postará seus vídeos dentro dos canais existentes, colocar tags, com isso, facilitando a busca por novos vídeos, fazendo com que seus vídeos sejam encontrados muito mais facilmente pelas pessoas que estão buscando algo.
 
@@ -33,6 +30,6 @@ Você que é desenvolvedor, pode agora criar seus vídeos online e postar no ví
 
 Entre nessa nova era da tecnologia, agora a mania são os vlogs, que é muito mais que postar pensamentos e fotos, são seus pensamentos em movimento, seu mundo sendo mostrado para todos, sua vida podendo ser compartilhada com quem você quer...
 
-<a href="http://www.videolog.tv/">Videolog.tv - Seu vídeo, seu mundo!!</a>
+[Videolog.tv - Seu vídeo, seu mundo!!](http://www.videolog.tv/)
 
 Entre nessa... Aquele abraço.

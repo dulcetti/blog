@@ -1,29 +1,26 @@
 ---
-author: bruno-dulcetti
-category: Eventos
-date: 2008-11-17T21:44:02.000Z
+category: 'Eventos'
+date: '2008-11-17'
 description: ''
-image: null
-slug: concorra-a-dois-ingressos-para-o-encontro-de-ti
-templateKey: blog-post
+featuredImage: ''
 title: 'Concorra a dois ingressos para o Encontro de TI'
 ---
 
-É isso mesmo, promoção relâmpago, pra vocês participarem rapidinho e concorrerem a um ingresso pro ETI - Encontro de Tecnologia da Informação, que vai rolar na quinta dia 27 em São Paulo e no sábado dia 29 aqui no Rio.
-
 ![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
-## Vair sortear pra qual dos dois Dulça?
+É isso mesmo, promoção relâmpago, pra vocês participarem rapidinho e concorrerem a um ingresso pro ETI - Encontro de Tecnologia da Informação, que vai rolar na quinta dia 27 em São Paulo e no sábado dia 29 aqui no Rio.
+
+### Vair sortear pra qual dos dois Dulça?
 
 Estarei sorteando um ingresso pros dois dias, ou seja, você de Sampa ou você carioca, poderá participar dessa promoção.
 
 E é mole participar, basta somente responder a seguinte pergunta:
 
-<blockquote>Por que sou modafoca o suficiente para ir de graça para o ETI?</blockquote>
+> Por que sou modafoca o suficiente para ir de graça para o ETI?
 
 Mande a resposta pelos comentários, falando qual lugar que deseja, Rio ou São Paulo. A resposta mais modafoca do Rio e Sampa, ganharão o ingresso na faixa. Se deu bem hein malandro.
 
-## Quarta-feira é o prazo
+### Quarta-feira é o prazo
 
 Mas seja rápido, pois o vencedor será anunciado na quarta-feira mesmo ;) Corre ae e seja criativo.
 
