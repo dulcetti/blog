@@ -19,7 +19,7 @@ Exatamente. Mas não é qualquer miserinha de BlogCamp não, é o primeiro do an
 
 ## Valew ae professor. Agora fala mais sobre o evento.
 
-Bom, como eu já <a href="/retrospectiva-blogcamp-mg.html">comentei</a> aqui no <a href="/blogcamp-pr-%e2%80%93-o-melhor-de-todos.html">blog</a>, o evento será descontraído, não é somente para blogueiros e sim para quem curte tecnologia, curte blogs (ou não), entre outras coisas.
+Bom, como eu já <a href="/retrospectiva-blogcamp-mg">comentei</a> aqui no <a href="/blogcamp-pr-o-melhor-de-todos">blog</a>, o evento será descontraído, não é somente para blogueiros e sim para quem curte tecnologia, curte blogs (ou não), entre outras coisas.
 
 E como a <a href="http://barcamp.blaz.com.br/node/103">página de apresentação do evento</a> diz, parece que este será bem diferente de todos os blogcamps que já ocorreram. Bom, se for, sucesso total, pois gostei muito dos dois que já tiveram. E eu já nem gosto disso né, fico famoso nos BlogCamps pelas minhas palhaçadas e piruetas. :D
 

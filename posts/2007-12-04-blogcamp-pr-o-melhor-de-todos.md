@@ -41,7 +41,7 @@ Sai da Globo.com na hora certinha, peguei o ônibus especial da gol para o Gale�
 
 O Ariel já estava em Curitiba, pegou o avião de 17h e se deu bem. Porém o Mackeenzy se deu mal. Exatamente por esse nome "Mackeenzy". Para quem não sabe, esse é seu nome de guerra nos bordéis do Rio, na noite, como cafetão, entre outras coisas. E a secretária colocou o nome fantasia dele, aí deu merda, pois não poderia comprovar sua identidade.
 
-Mas pelo amor de Deus. A identidade, CPF, etc, estava tudo com ele e na compra da passagem, estava tudo no nome dele, certinho. Pq não conferir o documento com o número da passagem. Mas não, esse sistema de merda e falho da Gol não deixou que o Mack viajasse.
+Mas pelo amor de Deus. A identidade, CPF, etc, estava tudo com ele e na compra da passagem, estava tudo no nome dele, certinho. Por que não conferir o documento com o número da passagem? Mas não, esse sistema de merda e falho da Gol não deixou que o Mack viajasse.
 
 #### Mas ele não foi então Bruno?
 
@@ -87,7 +87,7 @@ O engraçado foi o "Bingo" rolando cada vez que a galera falava uma palavra-chav
 
 ##### "Bom dia galera, eu sou o Gustavo e eu não fumo maconha"
 
-Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado <a href="http://gustafari.com.br/">Gustavo</a> levanta e se apresenta assim. Foi risada pra tudo quanto eh lado por alguns minutos. Tinha que ter um momento manero nessa apresentação neh? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
+Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado <a href="http://gustafari.com.br/">Gustavo</a> levanta e se apresenta assim. Foi risada pra tudo quanto eh lado por alguns minutos. Tinha que ter um momento manero nessa apresentação , né? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
 
 Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo pra mim, mas fiquei para ver e talz.
 Depois disso rolou um almoço. Tinha um espaço com um restaurante, estilo cantina. Comida barata e gostosinha. Nada demais, mas era barata e aceitava VR :D
@@ -292,7 +292,7 @@ E nego só ria. De expectador tinha a Mirian, Guilherme, Helton, Dani, Mackeenzy
 
 Até que chegou uma das horas mais toscas e engraçadas. Quando eu disse:
 
-> "Perae. Jah que estamos aqui, posso contar uma piada?"
+> "Perae. Já que estamos aqui, posso contar uma piada?"
 
 E o pessoal disse que sim. E lá foi o Dulcetti contar a piada. <em>"Um centavo, cinco centavo, UM REAL"</em>. Essa vai ficar pra quem assistiu a performance estilo Ari Toledo do Dulcetti aqui. Auhuauhauua
 
@@ -327,7 +327,7 @@ Sem desmerecer, mas queria destacar conhecer <a href="http://www.ahtrine.com.br/
 
 Muito bom rever o <a href="http://www.techbits.com.br/">Fugita</a>, <a href="http://blog.eucrio.com/">Helder Santana</a>, <a href="http://tecnoblog.net/">Thiago Mobilon</a>, <a href="http://papodehomem.com.br/">Guilherme Valadares</a>, <a href="http://tecnocracia.com.br/">Manoel Netto</a>, <a href="http://www.interney.net/blogs/enloucrescendo/">Ian Black</a> e sua <a href="http://www.chiqueirochique.com/">esposa</a>, <a href="http://dinheirama.com/">Navarro</a>, etc.
 
-E que venha o próximo BlogCamp ou qualquer zuera, encontro, bebedeira que seja. Pode ser sobre tecnologia, mas lembrem-se que sempre terá o Dulcetti pra quebrar o clima de Nerd e cair pra zuera, falar merda, zuar todo mundo, dançar e contar piadas. E se tiver moita, vamos que eu to pulando, se tiver um post eu faço um flag. E parabéns ao Cabianca e ao Nando pela bela organização. Qq coisa, erro, é só me avisar.
+E que venha o próximo BlogCamp ou qualquer zuera, encontro, bebedeira que seja. Pode ser sobre tecnologia, mas lembrem-se que sempre terá o Dulcetti pra quebrar o clima de Nerd e cair pra zuera, falar merda, zuar todo mundo, dançar e contar piadas. E se tiver moita, vamos que eu to pulando, se tiver um post eu faço um flag. E parabéns ao Cabianca e ao Nando pela bela organização. Qualquer coisa, erro, é só me avisar.
 
 E vamo que vamo. Aquele abraço e beijo na alcatra, com maminha dentro.
 

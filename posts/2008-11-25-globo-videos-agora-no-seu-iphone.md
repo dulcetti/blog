@@ -11,7 +11,7 @@ title: 'Globo Vídeos agora no seu iPhone'
 
 Essa notícia já era pra eu ter publicado tem bastante tempo, mas vocês me conhecem, portanto já sabem que eu não posto nada no tempo que deveria. Mas vamos pular essa parte que é uma vergonha e vamos para o conteúdo referente ao título por favor.
 
-<img src="/assets/images/posts/globovideosiphone.jpg" alt="iPhone com a marca do Globo Vídeos" width="450" height="235" />
+![iPhone com a marca do Globo Vídeos](/assets/images/posts/globovideosiphone.jpg)
 
 ## Quer dizer que agora o Globo Vídeos tem uma versão para iPhone?
 
@@ -19,7 +19,7 @@ Exatamente. É com orgulho que digo isso e que foi bem gratificante participar d
 
 ## Então você não fez sozinho grande modafoca?
 
-<img src="/assets/images/posts/galera-webmedia.jpg" alt="Galera da Webmedia" width="500" height="318" />
+![Galera da Webmedia](/assets/images/posts/galera-webmedia.jpg)
 Infelizmente esses filhos da mãe não me esperaram para tirar foto comigo, mas tá valendo :)
 
 Lógico que não né meu nobre. Impossível fazer algo dessa gama sozinho. Eu participei nesse projeto junto com o <a href="http://vp.blog.br/">Vitor Pellegrino</a>, <a href="http://gcirne.wordpress.com/">Guilherme Cirne</a>, <a href="http://cainanunes.com/">Caina Nunes</a>, <a href="http://www.estacazero.com/">Leonardo Burla</a>, <a href="http://programandosemcafeina.blogspot.com/">Tiago Motta</a>, <a href="http://anselmoalves.com/">Anselmo Alves</a>, <a href="http://gc.blog.br/">Guilherme Chapiewski</a>, fora outros integrantes da equipe, que participaram de outras etapas que não foi a de desenvolvimento em si ou que não trabalham mais conosco.
@@ -34,7 +34,7 @@ E eu também pude abusar do CSS 3, Webkit, transições javascript, que é algo 
 
 ## E os vídeos?
 
-<img src="/assets/images/posts/tela-video.png" alt="Vídeo do Globo Vídeos no iPhone" width="418" height="259" />
+![Vídeo do Globo Vídeos no iPhone](/assets/images/posts/tela-video.png)
 
 Todos H264, qualidade excepcional, assim como a equipe Webmedia da Globo.com. Bem acima da qualidade oferecida pelo Youtube e também porque o iPhone não suporta Flash, swf, por isso não poderíamos utilizar vídeos FLV que são utilizados no Globo Vídeos. Com isso, criamos um profile só para o iPhone, que atendesse plenamente o que solicitaram.
 
@@ -44,7 +44,7 @@ Graças ao modafoca Cainã Nunes, o layout ficou excepcional. O resultado ficou 
 
 ## Algum problema no desenvolvimento Bruno?
 
-<img src="/assets/images/posts/gvideos-iphone.png" alt="Print da Tela do Globo Vídeos no iPhone" width="179" height="298" />
+![Print da Tela do Globo Vídeos no iPhone](/assets/images/posts/gvideos-iphone.png)
 
 Sempre tem não é verdade? Um dos problemas chatos foi a parte da transição, já que não tínhamos achado nada realmente bom para elas. Um script foi iniciado, que achei pela internet. Funciona legal, mas em browsers como Firefox e tudo mais. Porém, o próprio iPhone não tem muita potência para "suportar" tanto script, com isso, a transição acabou não ficando satisfatória.
 

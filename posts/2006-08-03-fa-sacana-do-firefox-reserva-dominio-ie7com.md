@@ -15,6 +15,6 @@ Um adorador do Firefox reservou o domínio www.ie7.com e colocou a grande raposa
 
 <a href="http://www.ie7.com/">Confira vc mesmo.</a>
 
-E não é q tem gente q perde tempo com isso cara? uahuahuahaaha
+E não é que tem gente que perde tempo com isso cara? uahuahuahaaha
 
 Aquele abraço...

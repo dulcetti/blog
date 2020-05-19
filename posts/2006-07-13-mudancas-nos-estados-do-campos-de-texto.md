@@ -31,9 +31,9 @@ Explicarei em três partes: <abbr title="HyperText Markup Language">HTML</abbr>,
 <fieldset>
 <legend>Teste</legend>
 <label for="nome">Nome:</label>
-<input type="text" name="nome" id="nome" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)" />
+<input type="text" name="nome" id="nome" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
 <label for="email">Email:</label>
-<input type="text" name="email" id="email" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)" />
+<input type="text" name="email" id="email" class="textbox" onfocus="textOn(this.id)" onblur="textNormal(this.id)
 </fieldset>
 </form>
 </body>
@@ -207,7 +207,7 @@ Vamos pegar o primeiro caso, o "nome". Irei mostrar abaixo o código javascript 
 
 ##### Normal
 
-```js
+```javascript
 function textOn(**txt**) {
   document.getElementById(txt).className='textboxOn';
 }
@@ -215,7 +215,7 @@ function textOn(**txt**) {
 
 ##### "Tradução"
 
-```js
+```javascript
 function textOn(nome) {
   document.getElementById(nome).className = 'textboxOn';
 }
@@ -233,6 +233,6 @@ Sim está. <a href="/input/inputs.html">Veja como ficou</a>.
 
 Legal né? Com isso, vc pode fazer outras várias coisas. É só explorar, estudar e meter a cara... ;)
 
-Bom, espero que tenham gostado. Foi um efeito bem simples, mas q pode ser útil para alguns. Qualquer dúvida, sugestão, crítica, é só comentar...
+Bom, espero que tenham gostado. Foi um efeito bem simples, mas que pode ser útil para alguns. Qualquer dúvida, sugestão, crítica, é só comentar...
 
 Aquele abraço.

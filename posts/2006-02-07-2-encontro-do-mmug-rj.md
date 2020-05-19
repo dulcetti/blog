@@ -9,7 +9,7 @@ templateKey: blog-post
 title: '2º encontro do MMUG-RJ'
 ---
 
-Falae pessoal. Primero, queria me desculpar pelo sumisso. É que meu micro queimou e estou sem micro em casa, to meio desesperado aqui, mas, verei o q eu faço. Perdi também um dos empregos que tinha, fiquei meio sem base, mas estou num projeto legal aqui, que é o que está me segurando um pouco. Estou meio sem tempo para postar no blog, ir para os fóruns, etc... Desculpem ;)
+Falae pessoal. Primero, queria me desculpar pelo sumisso. É que meu micro queimou e estou sem micro em casa, to meio desesperado aqui, mas, verei o que eu faço. Perdi também um dos empregos que tinha, fiquei meio sem base, mas estou num projeto legal aqui, que é o que está me segurando um pouco. Estou meio sem tempo para postar no blog, ir para os fóruns, etc... Desculpem ;)
 
 Segundo é que peguei 3 dos 5 resultados das matérias da Pós-Graduação que fiz na <abbr title="Universidade Federal Fluminense">UFF</abbr>. Fiquei com 10,0 no Projeto final, que <a href="/projeto-final.html">já comentei sobre ele aqui no blog</a>, fiquei com 10,0 em linguagem de programação web e 9,0 em Gerenciamento de Projetos. Show de bola, só faltam 2 notas e to confiante, se ficar com boas notas dá pra chegar com um CR em 9,5. Vou esperar e qq coisa eu falo aqui :D
 

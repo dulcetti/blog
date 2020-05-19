@@ -24,7 +24,7 @@ Sim, ela que você declara Imposto de Renda caso seu salário seja maior que R$1
 
 ## Essas suas férias estão te deixando meio maluco hein Dulcetti...
 
-<img src="/assets/images/posts/garfield-pronta.jpg" alt="ZZzzZZzzZZzZzZz" />
+![ZZzzZZzzZZzZzZz](/assets/images/posts/garfield-pronta.jpg)
 
 Deixando? Meio? Aff... Já sou faz tempo, nasceu comigo... E meio não existe.. Ou você é ou não é, não exista nada disso de meio.
 
@@ -40,7 +40,7 @@ To entrando de férias agora nesse final de semana e provavelmente não aparecer
 
 ## Legal Bruno... Vai viajar?
 
-<img src="/assets/images/posts/havaianas-e-coco-pronta.jpg" alt="Praia, agua de coco..." />
+![Praia, agua de coco...](/assets/images/posts/havaianas-e-coco-pronta.jpg)
 
 Exatamente por isso que estou aqui. Semana que vem pegarei uma mochila, colocarei algumas roupas, acessórios e partirei em rumo ao nordeste, no mochilão. Seria algo como MochiNerd. Pqp... Inventei isso agora, mas tá valendo.
 
@@ -50,7 +50,7 @@ Vou sem carro, a pé mesmo. Pedindo carona, pegando ônibus, subindo em caçamba
 
 ## E como vai ser Dulcetti? Vai passar por onde?
 
-<img src="/assets/images/posts/ferias-pes-pronta.jpg" alt="Praia, agua de coco..." />
+![Praia, agua de coco...](/assets/images/posts/ferias-pes-pronta.jpg)
 
 Então, vou passando pelo litoral, no máximo que for possível. Pelo Rio vou passando por Cabo Frio, Búzios, Campos, etc. Ainda farei um roteiro mais detalhado. Depois chegarei até o Espírito Santo. Vou passar por Vila Velha, Vitória e outros lugares que vocês me indicarem.
 
@@ -70,5 +70,5 @@ Caso esteja no caminho que eu for passar, me avise por aqui no blog mesmo que eu
 
 É isso, aquele abraço e vejo vocês por ae... Tirarei uns <a href="http://diadefolga.com/">dias de folga</a> :D
 
-<img src="/assets/images/posts/ferias-pes-com-areia_pronta.jpg" alt="To indo de férias, fui" />
+![To indo de férias, fui](/assets/images/posts/ferias-pes-com-areia_pronta.jpg)
 <span>Vou curtir as praianas... Trabalhem ae...</span>

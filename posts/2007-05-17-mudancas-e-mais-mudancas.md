@@ -13,7 +13,7 @@ E ae pessoal, tranquilidade? Por aqui tudo bem, mtos freelas, por isso o sumiço
 
 ## Hmmm... Nova ID Visual é Bruno?
 
-<p class="alinhamentoImagens"><a href="http://www.flickr.com/photos/57613252@N00/502146114/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/190/502146114_b617a5b3f9_o.gif" width="400" height="138" alt="Minha nova Marca" /></a>
+<a href="http://www.flickr.com/photos/57613252@N00/502146114/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/190/502146114_b617a5b3f9_o.gif" width="400" height="138" alt="Minha nova Marca" /></a>
 
 Exatamente. Pra quem ainda não percebeu, estou com uma "nova cara" no Portfólio e Blog.
 

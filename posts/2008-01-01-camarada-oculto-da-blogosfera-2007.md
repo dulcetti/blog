@@ -17,7 +17,7 @@ Mas eu sei que vocês vão me perdoar, eu fui um cara bonzinho no ano que se pas
 
 Antes disso, falarei do <a href="http://www.visaopanoramica.com/2007/12/20/amigo-secreto-da-blogosfera/">camarada que me tirou</a>, que foi o Arthurius Maximus Risorius Magnifiuns (Foi mal a brincadeira, não resisti :D), do blog <a href="http://www.visaopanoramica.com/">Visão Panorâmica</a>.
 
-Ele disse que eu sou um cara pra cima e completamente louco. Pq será? Aff... Brigadão meu nobre, valew pelos elogios, pelo post. Grande abraço pra tuh meu nobre.
+Ele disse que eu sou um cara pra cima e completamente louco. Por que será? Aff... Brigadão meu nobre, valew pelos elogios, pelo post. Grande abraço pra tuh meu nobre.
 
 ## Voltando aos finalmentes...
 

@@ -23,7 +23,7 @@ Talvez isso poderia virar até um [meme](http://pt.wikipedia.org/wiki/Meme), poi
 
 ## Ihhhhh. To entendendo nada Bruno. Explica isso direito.
 
-Claro. Esses últimos dias, eu estava pensando comigo mesmo, como eu tratava meus leitores, como q eu me comportava com cada comentário feito nos meus Posts, entre outras coisas mais.
+Claro. Esses últimos dias, eu estava pensando comigo mesmo, como eu tratava meus leitores, como que eu me comportava com cada comentário feito nos meus Posts, entre outras coisas mais.
 
 Comecei a ficar um pouco curioso, vi alguns exemplos na Blogosfera, algumas respostas para mim quando eu fazia comentários em tal blog, etc.
 
@@ -39,7 +39,7 @@ Então. Cheguei no ponto que queria comentar. Eu respondo meus visitantes por em
 
 Até aí blz, mas depois fui dar uma visitada no Post dele novamente e vi que ele tinha colocado a mesma resposta como comentário no Post dele.
 
-Achei bem interessante, pois com a resposta somente, o visitante que comentou recebe uma resposta sobre seu comentário, o q mostra a importância, o seu interesse pelo comentário dele e à sua visita. Porém, somente o visitante que comentou recebe este aviso, e colocando a resposta via comentário, todos iriam ver o seu interesse pelo comentário e a importância que você dá aos seus visitantes e seus comentários.
+Achei bem interessante, pois com a resposta somente, o visitante que comentou recebe uma resposta sobre seu comentário, o que mostra a importância, o seu interesse pelo comentário dele e à sua visita. Porém, somente o visitante que comentou recebe este aviso, e colocando a resposta via comentário, todos iriam ver o seu interesse pelo comentário e a importância que você dá aos seus visitantes e seus comentários.
 
 ### Interessante. Não tinha pensado nisso...
 

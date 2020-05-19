@@ -11,7 +11,7 @@ title: 'T!V! - Videolog na área e com grande novidade.'
 
 E ae galera, tudo tranquilo? Venho hoje falando do Videolog. Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
-<img src="/assets/images/posts/tivi01.jpg" alt="Print com uma prévia da T!V!" />
+![Print com uma prévia da T!V!](/assets/images/posts/tivi01.jpg)
 
 ## Crie seus próprios canais de TV com a T!V!
 
@@ -43,7 +43,7 @@ E logicamente, como não poderia deixar de ser, a T!V! também terá versões em
 
 Mais pra frente, a T!V! também será usada empresas, etc, que poderão montar sua própria programação para passarem em seus aparelhos de TV. Aguardem!
 
-## E o lançamento Bruno?
+## E o lançamento, Bruno?
 
 A T!V! está em fase alpha, por enquanto. Em meados de agosto, mais precisamente no meio de agosto (aproximadamente), a T!V! lançará sua versão beta.
 
@@ -54,9 +54,9 @@ Eu deixarei todos que frequentam este blog informados sobre o lançamento da fer
 **[UPDATE]**
 Mais algumas informações que acabei não colocando:
 
--A T!V! usa tecnologia Progresive Download e não p2p, facilitando o acesso de usuário brasileiros com banda larga menor;
--Em um futuro proximo, continuará funcionando mesmo sem internet, pois basta carrregar os videos uma única vez;
--No modelo comercial é facil, se você possui em seu ambiente algumas tvs interligadas por um PC, mas não tem um software e nem conteúdo, pode relaxar. A pessoa pode montar sua programaçao com o conteúdo de meio milhão de vídeos do Videolog, além de poder adicionar vinhetas próprias e montar uma programação exclusiva, livre de direitos autorais e de licença de software.
+- A T!V! usa tecnologia Progresive Download e não p2p, facilitando o acesso de usuário brasileiros com banda larga menor;
+- Em um futuro proximo, continuará funcionando mesmo sem internet, pois basta carrregar os videos uma única vez;
+- No modelo comercial é facil, se você possui em seu ambiente algumas tvs interligadas por um PC, mas não tem um software e nem conteúdo, pode relaxar. A pessoa pode montar sua programaçao com o conteúdo de meio milhão de vídeos do Videolog, além de poder adicionar vinhetas próprias e montar uma programação exclusiva, livre de direitos autorais e de licença de software.
 
 **[/UPDATE]**
 

@@ -13,11 +13,11 @@ Há um pouquinho mais de um mês, vinha recebendo diversos comentários de spamm
 
 ## Malditos Spammers
 
-Eu já estava de saco cheio disso, recebia e-mail com um maldito enviando um comentário e tinha q eu ir deletar no wordpress. Mas ae resolvi colocar um moderador de comentários, pra que pelo menos não aparecesse nada no Blog enquanto eu liberar. Mas com isso ou usuários e leitores desse Blog acabam sendo prejudicados, pois seus comentários não apareceriam na hora.
+Eu já estava de saco cheio disso, recebia e-mail com um maldito enviando um comentário e tinha que eu ir deletar no wordpress. Mas ae resolvi colocar um moderador de comentários, pra que pelo menos não aparecesse nada no Blog enquanto eu liberar. Mas com isso ou usuários e leitores desse Blog acabam sendo prejudicados, pois seus comentários não apareceriam na hora.
 
 ## To, to, TOMA seus malditos!
 
-Mas até que descobri o <a href="http://akismet.com/">Akismet</a>, um plugin pro <a href="http://www.wordpress.org">Wordpress</a> que instalei agora. Veremos se ele funciona mesmo. Liberei os comentários, agora todo mundo pode comentar, que aparecerá na hora. (pelo menos eu espero q sim :D)
+Mas até que descobri o <a href="http://akismet.com/">Akismet</a>, um plugin pro <a href="http://www.wordpress.org">Wordpress</a> que instalei agora. Veremos se ele funciona mesmo. Liberei os comentários, agora todo mundo pode comentar, que aparecerá na hora. (pelo menos eu espero que sim :D)
 
 Agora, aqui no Wordpress, tem uma aba do Akismet. Fui dar uma olhadinha, tinha quase 1000 comentários acumulados. Achei bizarro. Pra ver como fui bombardeado.
 

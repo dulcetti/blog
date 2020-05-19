@@ -23,4 +23,4 @@ Creio que agora o código está mais semântico, limpo, principalmente no <acron
 
 E a terceira coisa é pra desejar um Feliz Natal à todos, muita saúde, felicidade, sucesso, tudo que estiver almejando, etc. Ainda escrevo aqui antes do final do ano para desejar a todos um ótimo ano novo.
 
-Aquele abraço à todos que lêem os meus artigos, meus posts, minhas ajudas no fórum, aos meus amigos, tanto presenciais, irmãos, quanto pessoal do MSN, desejar também aos meus concorrentes, inimigos, todos que não gostam de mim (se houver alguém, espero q não :D). Felicidades para todos, muita energia, sucesso, luz e saúde.
+Aquele abraço à todos que lêem os meus artigos, meus posts, minhas ajudas no fórum, aos meus amigos, tanto presenciais, irmãos, quanto pessoal do MSN, desejar também aos meus concorrentes, inimigos, todos que não gostam de mim (se houver alguém, espero que não :D). Felicidades para todos, muita energia, sucesso, luz e saúde.

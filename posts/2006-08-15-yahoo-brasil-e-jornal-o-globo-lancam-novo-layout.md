@@ -33,7 +33,7 @@ Por ser um site de jornal, o conteúdo fica muito extenso, e com isso, acaba fic
 
 ## Diferencial ou Problema?
 
-O grande diferencial foi a utilização da resolução para monitores com resolução mínima de 1024x768. Já expressei minha opinião sobre o assunto. Acho um pouco precipitado já entrar para tal layout. Jah foi discutido no <a href="http://www.tableless.com.br">Tableless</a> sobre tal assunto, pois eles utilizam uma resolução mínima para monitores com 1024x768. Naum acho legal, mas pode ser um pouco válido, pois se trata de um blog frequentado por desenvolvedores, etc, que geralmente utilizam uma resolução igual ou superior.
+O grande diferencial foi a utilização da resolução para monitores com resolução mínima de 1024x768. Já expressei minha opinião sobre o assunto. Acho um pouco precipitado já entrar para tal layout. Já foi discutido no <a href="http://www.tableless.com.br">Tableless</a> sobre tal assunto, pois eles utilizam uma resolução mínima para monitores com 1024x768. Naum acho legal, mas pode ser um pouco válido, pois se trata de um blog frequentado por desenvolvedores, etc, que geralmente utilizam uma resolução igual ou superior.
 
 ### Poréeeeeeem
 

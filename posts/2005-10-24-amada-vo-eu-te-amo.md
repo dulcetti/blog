@@ -13,7 +13,7 @@ Pessoa que fará uma falta imensa, não somente para mim e minha família, mas p
 
 Era filha, era mãe, era vó, era bisavó, mas acima de tudo era si própria. Sempre sorrindo, sempre forte, não importa suas dificuldades ou medos. Viveu sempre em pé, encarando, rindo, chorando, vivendo.
 
-Ficou em pé, firme forte até receber o chamado, onde acabou caindo aos poucos. Sua missão havia terminado nesse mundo, só restava agora despedir-se de todos q deixaria aqui. Mas mesmo assim, com as dificuldades, doenças, chamados, insistiu um pouco, queria ficar... Mas nós já sabíamos... Sua missão estava finalizada... Por mais queríamos, naum tinha como...
+Ficou em pé, firme forte até receber o chamado, onde acabou caindo aos poucos. Sua missão havia terminado nesse mundo, só restava agora despedir-se de todos que deixaria aqui. Mas mesmo assim, com as dificuldades, doenças, chamados, insistiu um pouco, queria ficar... Mas nós já sabíamos... Sua missão estava finalizada... Por mais queríamos, naum tinha como...
 
 Se foi... Sim... Mas apenas fisicamente... Porque sua presença agora é maior ainda, sua força, seus rastros, sua determinação, risadas, choros, carinhos e tudo que uma pessoa especial e única poderia deixar.
 

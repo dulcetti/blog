@@ -11,7 +11,7 @@ title: 'ETI - Encontro de Tecnologia da Informação'
 
 Mais uma vez o modafoca aqui vai falar sobre eventos. Tá difícil falar sobre webstandards e os assuntos que esse blog deveria falar, mas to sem tempo e saco de ficar escrevendo tutoriais e ficar escrevendo o que todo mundo escreve.
 
-<img src="/assets/images/posts/logo-eti-maior.jpg" alt="Marca do ETI" />
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
 ## Relaxa Dulça. Mas diz ae, que evento é esse ae?
 
@@ -72,11 +72,11 @@ E na outra semana teremos outro chat, que provavelmente será sobre padrões web
 
 ## Manero Dulcetti. Onde que vai ser?
 
-<img src="/assets/images/posts/amcham.jpg" alt="Foto do Amcham" />
+![Foto do Amcham](/assets/images/posts/amcham.jpg)
 
 Em Sampa vai rolar no Amcham Brasil, que fica na Rua da Paz, 1.431 - Chácara Santo Antônio - São Paulo - SP
 
-<img src="/assets/images/posts/sulamerica.jpg" alt="Foto do Centro de Convenções SulAmérica" />
+![Foto do Centro de Convenções SulAmérica](/assets/images/posts/sulamerica.jpg)
 
 E no Rio será no novo Centro de Convenções SulAmérica, que fica na Av. Paulo de Frontin, 1 - Cidade Nova - RJ
 

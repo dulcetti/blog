@@ -11,7 +11,7 @@ title: 'Chat sobre padrões W3C - ETI'
 
 Daqui a pouco vai começar um chat modafoca de padrões W3C. A galera que tá organizando o ETI me chamou para mediar tal chat. Okay, eles são loucos, mas fazer o que né?
 
-<img src="/assets/images/posts/logo-eti-maior.jpg" alt="Marca do ETI" />
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
 ## Maneiro Dulça. Quando vai ser?
 

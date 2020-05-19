@@ -19,9 +19,9 @@ Claro, isso que estava querendo dizer.
 
 Venho nesse post, falar sobre a <a href="http://br.groups.yahoo.com/group/blogosfera/">Blogosfera</a>. Uma grande lista que entrei no final da semana passada. Vi se não me engano no <a href="http://www.carreirasolo.org/">Carreira Solo</a>.
 
-### E não é q ela existe mesmo?!?!?!
+### E não é que ela existe mesmo?!?!?!
 
-Sim, sim gafanhoto, ela existe. Mas não é nada disso q vc está pensando. Nauménenhum ser de outro planeta ou mais um movimento dos <acronym title="Movimento dos Trabalhadores Rurais Sem Terra"><a href="http://pt.wikipedia.org/wiki/MST">MST</a></acronym>, ou quem sabe mais um acontecimento histórico... Nada disso...
+Sim, sim gafanhoto, ela existe. Mas não é nada disso que vc está pensando. Nauménenhum ser de outro planeta ou mais um movimento dos <acronym title="Movimento dos Trabalhadores Rurais Sem Terra"><a href="http://pt.wikipedia.org/wiki/MST">MST</a></acronym>, ou quem sabe mais um acontecimento histórico... Nada disso...
 
 ### Ah sim... Ufa... Mas o que seria a Blogosfera?
 
