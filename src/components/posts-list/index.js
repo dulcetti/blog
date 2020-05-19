@@ -8,7 +8,12 @@ export default function PostsList({ posts }) {
   return (
     <S.PostsListContainer>
       {posts.map(({ node }, index) => (
-        <PostItem key={index} post={node.frontmatter} time={node.timeToRead} />
+        <PostItem
+          key={index}
+          slug={node.fields.slug}
+          post={node.frontmatter}
+          time={node.timeToRead}
+        />
       ))}
     </S.PostsListContainer>
   );

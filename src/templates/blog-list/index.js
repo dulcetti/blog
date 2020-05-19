@@ -31,11 +31,14 @@ export const query = graphql`
     ) {
       edges {
         node {
-          frontmatter {
+          fields {
             slug
+          }
+          frontmatter {
             category
             date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
             description
+            featuredImage
             title
           }
           timeToRead
