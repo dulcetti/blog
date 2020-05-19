@@ -215,7 +215,7 @@ Abaixo segue o vídeo com alguns lances. Infelizmente não tem nenhum dos seis g
 
 ### Belo jogo em Dulcetti, pqp...
 
-Gostaram do lance do Higuita neh? Sou sinistro pra caramba. Isso porque não filmaram a bicicleta e o voleio que eu lancei lá no jogo. A bicicleta ficou mais pra triciclo, mas o voleio foi sucesso ;) Fazer o que né. Só eu que jogo bola direito dessa galera, aí dá nisso. Deixa o espetáculo pra próxima vez :D
+Gostaram do lance do Higuita né? Sou sinistro pra caramba. Isso porque não filmaram a bicicleta e o voleio que eu lancei lá no jogo. A bicicleta ficou mais pra triciclo, mas o voleio foi sucesso ;) Fazer o que né. Só eu que jogo bola direito dessa galera, aí dá nisso. Deixa o espetáculo pra próxima vez :D
 
 ### Final do BlogCamp ES
 

@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2008-02-29"
-description: ""
-featuredImage: ""
-title: "Eu postei no dia 29 e vc?"
+category: 'Shots'
+date: '2008-02-29'
+description: ''
+featuredImage: ''
+title: 'Eu postei no dia 29 e vc?'
 ---
 
 Relaxem. Esse é um post completamente tosco e ridículo. Não perca seu tempo lendo isso, pois você pode acabar se achando (?) um idiota quando terminar. Aliás, quando terminar nada, agora mesmo.
@@ -24,4 +24,4 @@ Bom, é isso. Só um post fanfarrão mesmo, porque desde que eu lançei o blog, 
 
 E se você leu até aqui, meus pêsames, mas não adianta ficar com essa cara de bobo não. Eu sou legal, só estou de brincadeira com você ;)
 
-Akele abraço e um bjo na alcatra.
+Aquele abraço e um bjo na alcatra.

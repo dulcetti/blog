@@ -80,4 +80,4 @@ Queria deixar akele abraço pra galera toda que conheci esse ano, meus leitores,
 
 Acabou o ano do Dul7 né, infelizmente não poderei mais brincar com Feliz 2000Dul7. Mas sem problemas, inventei mais um "Feliz 2000Dul7+1". Pronto! Tá feito! :D
 
-Espero que todos tenham passado um natal sucesso e uma virada manera tb. Akele abraço e beijo na alcatra.
+Espero que todos tenham passado um natal sucesso e uma virada manera tb. Aquele abraço e beijo na alcatra.

@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Resposta do Desafio: Como "cropar" uma foto com CSS'
 ---
 
-Como prometido, estou aqui pra postar a "resposta" do "desafio" que [postei ontem aqui](/desafio-como-cropar-uma-foto-com-css.html) no Blog.
+Como prometido, estou aqui pra postar a "resposta" do "desafio" que [postei ontem aqui](/desafio-como-cropar-uma-foto-com-css) no Blog.
 
 Algumas sugestões, soluções, bem próximas da que eu arrumei e achei melhor. Vou tentar explicar detalhadamente porque não utilizei tal solução, porque fiz dessa forma, o que não rola, suporte, etc.
 
@@ -73,7 +73,7 @@ O link recebe a classe cropFoto, com a cor de background que eu quero que fique 
 
 A imagem dentro do link recebe um position absolute, lembram que o clip só funciona em elementos com position absolute e fixed? Por isso que também tive que colocar o position relative dentro do link, para a imagem não se basear de acordo com o body, etc.
 
-[Veja o exemplo funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_clip.html).
+Veja o exemplo funcionando.
 
 Para mais infos sobre position, [visite o artigo que escrevi no imasters](http://www.imasters.com.br/artigo/3606/webstandards/posicionamento_e_layouts/) sobre o assunto.
 
@@ -81,7 +81,7 @@ Para mais infos sobre position, [visite o artigo que escrevi no imasters](http:/
 
 Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormente, pra funcionar a pseudo-classe :hover. Percebam que só funciona em link, e estou utilizando em um link, mas mesmo assim não funcionou o clip. Ele só aceita alguns atributos no :hover
 
-É só anexarmos o csshover.htc no html, que funciona no IE. [Baixe o arquivo .htc aqui](http://www.xs4all.nl/~peterned/htc/csshover.htc) e cole o código abaixo entre as tags <head> e </head>:
+É só anexarmos o csshover.htc no html, que funciona no IE. [Baixe o arquivo .htc aqui](http://www.xs4all.nl/~peterned/htc/csshover.htc) e cole o código abaixo entre as tags `<head>` e `</head>`:
 
 #### Código HTML
 
@@ -95,28 +95,27 @@ Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormen
 <![endif]-->
 ```
 
-[Veja o exemplo correto
-funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_clip_certo.html). ### Legal Bruno,
-funcionou direitinho... Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse
-htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas: -
-Esse é um projeto grande, com muito volume de informação, conteúdo, etc. Teremos uma quantidade
-considerável de imagens com esse efeito no hover; - Necessita que o servidor tenha o mime type
-configurado para ele: **text/x-component** - Ele faz uma busca por :hover em **TODO** o stylesheet
-da página. Onde ele achar o :hover, vai adicionar um evento javascript onmouseover para que o
-elemento se comporte da forma correta. - O problema é que esse processamento é no cliente e o tempo
-que ele leva para fazer isso vai depender do tamanho do CSS, do HTML, além do poder do computador do
-cara, ou seja, quanto maior o CSS e HTML, mais tempo para execução o efeito vai levar, e como o
-projeto é grande, queremos sempre a melhor forma, otimizar, etc. Por essas e outras, tive que buscar
-uma outra opção, modo, de implementar esse efeito, somente por CSS, sem colocar htc, js, nem nada.
+Veja o exemplo correto funcionando
 
-### Segunda Solução Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não
+### Legal Bruno, funcionou direitinho...
 
-é que deu certo? :D O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
+Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas:
+
+- Esse é um projeto grande, com muito volume de informação, conteúdo, etc. Teremos uma quantidade considerável de imagens com esse efeito no hover;
+- Necessita que o servidor tenha o mime type configurado para ele: text/x-component
+- Ele faz uma busca por :hover em TODO o stylesheet da página. Onde ele achar o :hover, vai adicionar um evento javascript onmouseover para que o elemento se comporte da forma correta.
+- O problema é que esse processamento é no cliente e o tempo que ele leva para fazer isso vai depender do tamanho do CSS, do HTML, além do poder do computador do cara, ou seja, quanto maior o CSS e HTML, mais tempo para execução o efeito vai levar, e como o projeto é grande, queremos sempre a melhor forma, otimizar, etc.
+
+Por essas e outras, tive que buscar uma outra opção, modo, de implementar esse efeito, somente por CSS, sem colocar htc, js, nem nada.
+
+### Segunda Solução
+
+Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não é que deu certo? :D O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
 
 #### Código CSS
 
 ```css
-\* {
+* {
   margin: 0;
   padding: 0;
 }
@@ -148,7 +147,7 @@ img {
 }
 ```
 
-[Veja este exemplo funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_quase_certo.html).
+Veja este exemplo funcionando.
 
 #### Legal Bruno... Funcionou só com CSS né?
 
@@ -170,7 +169,7 @@ Simples, apenas uma linha de CSS, colocando uma margem pra imagem, no hover do l
 }
 ```
 
-[Veja o exemplo final funcionando](http://brunodulcetti.com/artigos/cropar_foto/exemplo_certo.html).
+Veja o exemplo final funcionando.
 
 Agora sim hein :D Graças a Deus, o IE aceita o atributo margin na pseudo-classe hover do link no CSS. ;)
 

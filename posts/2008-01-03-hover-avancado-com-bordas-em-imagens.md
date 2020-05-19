@@ -14,11 +14,9 @@ E como não poderia deixar de ser, é um efeito que a equipe aqui da Globo.com p
 
 ### Mas de novo bordas em imagens Bruno?
 
-Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito de borda interna dos sites da Globo.com](/resposta-do-desafio-como-cropar-uma-foto-com-css.html), e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
+Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito de borda interna dos sites da Globo.com](/resposta-do-desafio-como-cropar-uma-foto-com-css), e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
 
 É um efeito normal, que poderia ser feito normalmente, como eu mostro na figura abaixo:
-
-![Print do efeito errado](https://www.brunodulcetti.com/artigos/hover-imagens/print-errado.gif)
 
 Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, cor da borda do link e não da imagem. O IE infelizmente não aceita todos efeitos em elemento dentro do link no hover do próprio. Mas lógico que isso você sabia (assim espero).
 
@@ -26,21 +24,17 @@ Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, 
 
 Quase. É o mesmo efeito, mudança de cor na borda do link e talz. Maaaaaas, a diferença é que não existe esta borda duplicada entre as fotos. Percebam que a largura é de 5px para todos os links, mas como ficam um do lado do outro, entre eles ficam o dobro, ou seja, 10px de borda.
 
-![Print dos tamanhos errados](https://www.brunodulcetti.com/artigos/hover-imagens/tamanhos-errados.gif)
-
-Poréeeeem, o problema é que no hover eu só consigo pintar a borda de um link, fazendo com que continue preta, a borda do próximo link. [Veja o exemplo errado](https://www.brunodulcetti.com/artigos/hover-imagens/link-errado.html).
+Poréeeeem, o problema é que no hover eu só consigo pintar a borda de um link, fazendo com que continue preta, a borda do próximo link. Veja o exemplo errado.
 
 O problema disso tudo, é que eu não consigo mudar a cor da borda de um link, seja ele próximo ou anterior. Infelizmente não temos essa liberdade. Com isso, tínhamos esse problema e o pessoal não queria isso.
 
 Resumindo, eles queriam o efeito abaixo:
 
-![Print do efeito correto](https://www.brunodulcetti.com/artigos/hover-imagens/print-certo.gif)
-
-Perceberam que não existe duplicação de borda entre os links? Fazer isso é mole, se não fosse a troca de cor das bordas. Bastava setar borda superior e esquerda na <ul> e inferior e direita na <li>.
+Perceberam que não existe duplicação de borda entre os links? Fazer isso é mole, se não fosse a troca de cor das bordas. Bastava setar borda superior e esquerda na `<ul>` e inferior e direita na `<li>`.
 
 Mas como nem tudo são flores né meu povo, lá foi o Dulcetti aqui resolver essa pemba.
 
-Vale ressaltar também, que a borda é colorida no hover, mas a borda preta em cima some, "invadindo" a <li> de cima.
+Vale ressaltar também, que a borda é colorida no hover, mas a borda preta em cima some, "invadindo" a `<li>` de cima.
 
 ### Beleza Bruno. Começa logo então...
 
@@ -59,7 +53,7 @@ Ok, ok. Vamos dar início ao efeito. Vamos primeiro ao HTML:
 
 Um código extremamente complicado, difícil de ser entendido, complexo, mas creio que você seja safo para entender sem que o Dulcetti aqui explique ok?
 
-Um bando de <li> com link dentro, com imagem dentro, dentro de uma <ul>. É basicamente isso.
+Um bando de `<li>` com link dentro, com imagem dentro, dentro de uma `<ul>`. É basicamente isso.
 
 Agora vamos a parte maaaaais complicada, pra variar...
 
@@ -69,10 +63,31 @@ Sim. O CSS é a parte mais chatinha de fazer e ser entendida. Eu sempre acho que
 
 Vamos ao código?
 
-`img {border:0;} ul {background-color:#000;margin:0;padding:5px 0 0 5px;width:180px;} ul:after {clear:both;content:".";display:block;height:0;visibility:hidden;} ul li {border-bottom:5px solid #000;border-right:5px solid #000;float:left;height:40px;width:40px;}
-
+```css
+img {
+  border: 0;
+}
+ul {
+  background-color: #000;
+  margin: 0;
+  padding: 5px 0 0 5px;
+  width: 180px;
+}
+ul:after {
+  clear: both;
+  content: '.';
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+ul li {
+  border-bottom: 5px solid #000;
+  border-right: 5px solid #000;
+  float: left;
+  height: 40px;
+  width: 40px;
+}
 ```
-
 
 Nada de muito complicado:
 
@@ -81,7 +96,7 @@ Nada de muito complicado:
 - Essa técnica do after serve para os browsers, isso exclui o IE. Ela serve para quebrar o float de um elemento dentro do bloco, nesse caso as li’s
 - Adicionei borda na base e na lateral direita da li fechando o quadrante, float para ir pra esquerda, altura e largura de 40px;
 
-[De início temos este resultado](https://www.brunodulcetti.com/artigos/hover-imagens/link-quase.html).
+De início temos este resultado.
 
 ### Legal Bruno, mas cadê o hover?
 
@@ -103,7 +118,16 @@ Mas isso não é problema para Mr. Dulcetti.
 
 Ok. Empolguei-me. Desculpe. Então vamos ao restante do CSS. Pasmem, são apenas mais duas linhas de código:
 
-`ul li a, ul li a img {display:block;} ul li a:hover {border:5px solid #D2251C;margin:-5px 0 0 -5px;position:absolute;}
+```css
+ul li a,
+ul li a img {
+  display: block;
+}
+ul li a:hover {
+  border: 5px solid #d2251c;
+  margin: -5px 0 0 -5px;
+  position: absolute;
+}
 ```
 
 Vamos a explicação:
@@ -111,17 +135,17 @@ Vamos a explicação:
 - A primeira linha é completamente difícil e complicada. Quase ninguém utilizou esta propriedade no CSS. Ela transforma o(s) elemento(s) em bloco(s). No nosso caso, link e imagem dentro do link. Precisamos disso para que a imagem não coloque akela margem automática quando não é bloco e para que o link funcione corretamente no nosso caso;
 - Agora a grande sacada. Nessa segunda linha, colocamos uma borda com cor vermelha e 5px de espessura. Damos uma margem negativa superior e a esquerda de 5px e colocamos o link com position absolute
 
-[Vemos o resultado do efeito finalizado agora](https://www.brunodulcetti.com/artigos/hover-imagens/link-certo.html).
+Vemos o resultado do efeito finalizado agora.
 
 ### Legal Bruno. Mas explica melhor...
 
-Seguinte: o link ficando com a borda vermelha de 5px, o que iria acontecer? O link, como bloco e com borda, iria acabar ficando dentro da "borda", que na verdade é o padding preto da <ul>, formando uma borda dupla. Sendo que uma preta e a de dentro vermelha.
+Seguinte: o link ficando com a borda vermelha de 5px, o que iria acontecer? O link, como bloco e com borda, iria acabar ficando dentro da "borda", que na verdade é o padding preto da `<ul>`, formando uma borda dupla. Sendo que uma preta e a de dentro vermelha.
 
-Não queremos esse efeito. E para conseguirmos isso, colocamos a margem negativa do mesmo valor da borda, ou seja, 5px, fazendo com que o link ficasse colado na <ul>.
+Não queremos esse efeito. E para conseguirmos isso, colocamos a margem negativa do mesmo valor da borda, ou seja, 5px, fazendo com que o link ficasse colado na `<ul>`.
 
-Mas logicamente que a margem, somente, não era bastante para finalizarmos. No IE fica um samba do crioulo doido, enquanto no Firefox não pintava a borda da esquerda, por causa da borda da <li>, que é preta.
+Mas logicamente que a margem, somente, não era bastante para finalizarmos. No IE fica um samba do crioulo doido, enquanto no Firefox não pintava a borda da esquerda, por causa da borda da `<li>`, que é preta.
 
-Para resolvermos isso, colocamos o que? O temido position:absolute. Mas como as nossas <li>'s já possuem largura e altura, então não temos problema com isso, pq o tamanho ficará fixo, sem ser mexido.
+Para resolvermos isso, colocamos o que? O temido position:absolute. Mas como as nossas `<li>`'s já possuem largura e altura, então não temos problema com isso, pq o tamanho ficará fixo, sem ser mexido.
 
 ### Resumindo...
 

@@ -36,7 +36,7 @@ Perceberam que utilizei um div geral, englobando todo o cónteúdo. Sempre faço
 Agora vamos cair pro css? Abaixo segue parte do código e abaixo explicarei:
 
 ```css
-\* {
+* {
   margin: 0;
   padding: 0;
 }
@@ -70,7 +70,7 @@ a:hover {
 
 Vou explicar cada linha agora:
 
-#### `\* { margin: 0; padding: 0; }`
+#### `* { margin: 0; padding: 0; }`
 
 - Estou zerando todas as margens e paddings de todos os elementos.
 

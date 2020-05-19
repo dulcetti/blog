@@ -20,4 +20,4 @@ Agora, aqui no Wordpress, tem uma aba do Akismet. Fui dar uma olhadinha, tinha q
 
 Eu imagino como deve ser Blogs mais visitados, com PageRank acima de 5, etc... Mas temos que conviver com isso não é verdade?
 
-Então é isso... Akele abraço a todos.
+Então é isso... Aquele abraço a todos.

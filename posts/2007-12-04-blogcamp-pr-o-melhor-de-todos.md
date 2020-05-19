@@ -84,7 +84,7 @@ O engraçado foi o "Bingo" rolando cada vez que a galera falava uma palavra-chav
 
 ###### "Bom dia galera, eu sou o Gustavo e eu não fumo maconha"
 
-Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [Gustavo](http://gustafari.com.br/) levanta e se apresenta assim. Foi risada pra tudo quanto é lado por alguns minutos. Tinha que ter um momento manero nessa apresentação neh? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
+Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [Gustavo](http://gustafari.com.br/) levanta e se apresenta assim. Foi risada pra tudo quanto é lado por alguns minutos. Tinha que ter um momento manero nessa apresentação né? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
 
 Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo pra mim, mas fiquei para ver e talz. Depois disso rolou um almoço. Tinha um espaço com um restaurante, estilo cantina. Comida barata e gostosinha. Nada demais, mas era barata e aceitava VR :D
 
@@ -282,7 +282,7 @@ Muito bom rever o [Fugita](http://www.techbits.com.br/), [Helder Santana](http:/
 
 E que venha o próximo BlogCamp ou qualquer zuera, encontro, bebedeira que seja. Pode ser sobre tecnologia, mas lembrem-se que sempre terá o Dulcetti pra quebrar o clima de Nerd e cair pra zuera, falar merda, zuar todo mundo, dançar e contar piadas. E se tiver moita, vamos que eu to pulando, se tiver um post eu faço um flag. E parabéns ao Cabianca e ao Nando pela bela organização. Qq coisa, erro, é só me avisar.
 
-E vamo que vamo. Akele abraço e beijo na alcatra, com maminha dentro.
+E vamo que vamo. Aquele abraço e beijo na alcatra, com maminha dentro.
 
 ### Posts sobre o BlogCamp PR
 

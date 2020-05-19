@@ -22,4 +22,4 @@ E logicamente que todos os vídeos não estão no novo formato. A partir de hoje
 
 ### Finalizando..
 
-Bom, é isso. Mais uma melhoria da Globo.com. E esperem que vem mais novidade por ae. Akele abraço.
+Bom, é isso. Mais uma melhoria da Globo.com. E esperem que vem mais novidade por ae. Aquele abraço.

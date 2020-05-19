@@ -58,4 +58,4 @@ Listagem da galera simpsonizada (sic) no Post do Carlos:
 
 ### Finalizando
 
-É isso ae cambada, só isso. Akele abraço.
+É isso ae cambada, só isso. Aquele abraço.

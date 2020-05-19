@@ -67,7 +67,7 @@ $destinatario = "bruno@brunodulcetti.com";
 $assunto = "Tutorial de Formulário BrunoDulcetti.com";
 $headers = "From: ".$remetente."\nContent-type: text/html";
 # o 'text/html' é o tipo mime da mensagem
-if(!mail($destinatario,$assunto,$mensagem,$headers)){
+if (!mail($destinatario,$assunto,$mensagem,$headers)) {
   print "falha no envio da mensagem";
 } else {
   echo "<script>window.location.href='obrigado.htm'</script>";
@@ -81,27 +81,27 @@ Bom, vamos lá, agora explicarei as linhas desse arquivo:
 
 Linha de abertura de código php, sem isso, nada de php funcionando :D
 
-#### `$nome = $\_POST\['nome'\];`
+#### `$nome = $_POST['nome'];`
 
 Essa linha, a variavel nome é criada e ela recebe o campo de texto nome, que foi enviado via método post pelo formulário, lembra? method="post no form, agora lembra não é? ;)
 
-#### `$email = $\_POST\['email'\];`
+#### `$email = $_POST['email'];`
 
 Igual ao nome, mas mudando a variável para email e o `$_POST['']` recebe o campo email enviado pelo formulário.
 
-#### `$mensagem = $\_POST\['mensagem'\];`
+#### `$mensagem = $_POST['mensagem'];`
 
 Igual aos anteriores, mas mudando a variável para mensagem e o `$_POST['']` recebe o campo mensagem enviado pelo formulário.
 
-#### `$msg = "<font face='Verdana' size='1'><b>Nome:</b> \\t$nome</font><br>";`
+#### `$msg = "<font face='Verdana' size='1'><b>Nome:</b> \t$nome</font><br>";`
 
 Aqui é criada uma variável msg, onde ela recebe a variável nome, que declaramos e demos o valor à ela anteriormente. A grande sacada e diferença, foi que eu usei uma tag font com a fonte Verdana como fonte padrão e tamanho 1. Fiz somente para o formulário ser enviado com mais estilo, ficar um pouco mais bonito, senão fica aquela fonte padrão feia. Mas isso fica a critério de vocês. E coloquei um br no final, para pular de linha.
 
-#### `$msg .= "<font face='Verdana' size='1'><b>E-mail:</b> \\t$email</font><br>";`
+#### `$msg .= "<font face='Verdana' size='1'><b>E-mail:</b> \t$email</font><br>";`
 
 Idêntico ao anterior, mudando somente para variável email e a variável msg recebe o valor anterior mais esse, não sobrescrevendo o valor anterior.
 
-#### `$msg .= "<font face='Verdana' size='1'><b>Mensagem:</b> \\t$mensagem</font>";`
+#### `$msg .= "<font face='Verdana' size='1'><b>Mensagem:</b> \t$mensagem</font>";`
 
 Idêntico aos anteriores, mudando somente para variável mensagem e a variável msg recebe os valores anteriores mais esse, não sobrescrevendo o valores anteriores.
 
@@ -121,7 +121,7 @@ Aqui temos uma variável destinatario, que é onde você colocará o email para 
 
 Variável assunto, que receberá um assunto especificado por você que aparecerá como título, assunto do email que chegará para você.
 
-#### `$headers = "From: ".$remetente."\\nContent-type: text/html"; # o 'text/html' é o tipo mime da mensagem`
+#### `$headers = "From: ".$remetente."\nContent-type: text/html"; # o 'text/html' é o tipo mime da mensagem`
 
 Variável headers que será enviado junto com o email, dizendo o mime da mensagem.
 

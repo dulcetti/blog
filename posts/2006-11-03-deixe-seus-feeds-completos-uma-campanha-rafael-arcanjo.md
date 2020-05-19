@@ -54,4 +54,4 @@ Caso comente sobre a campanha, deixe um trackback que atualizo aqui. (essa pegue
 
 ### Finalizando
 
-É isso ae cambada. Akele abraço.
+É isso ae cambada. Aquele abraço.

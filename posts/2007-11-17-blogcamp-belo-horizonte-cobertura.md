@@ -36,4 +36,4 @@ Grandes desconferências rolando no Blog Camp de MG... Mto interessante esse for
 
 Dia de BarCamp MG finalizado. Amanhâ tem mais. Partindo pro Hotel e dps partir pra zuera, bar, bebedeiras e desconferências.
 
-Akele abraço.
+Aquele abraço.

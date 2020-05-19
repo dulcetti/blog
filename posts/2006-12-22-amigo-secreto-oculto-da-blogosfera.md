@@ -36,7 +36,7 @@ Mas creio que a galera entenda sobre isso... Assim espero :D
 
 E logicamente, queria agradecer o post do **Felipe Marinho** do [Blog de Cú é Rola](http://decuro.blogspot.com/), que foi quem me tirou no amigo oculto. Pelo nome do Blog já da pra se ter uma idéia não é verdade? Posts sarcásticos, engraçados, úteis, etc, etc, etc. Vale a leitura com certeza. E o cara de quebra ainda falou que o meu site é lindo :D. Valew ae Felipe
 
-Tá na vez agora do Thiago... Vai lá maluuuuco... Akele abraço...
+Tá na vez agora do Thiago... Vai lá maluuuuco... Aquele abraço...
 
 ### Listagem da Galera que já saiu:
 

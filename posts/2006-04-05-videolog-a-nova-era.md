@@ -54,7 +54,7 @@ Linguagem usada é PHP, trabalhando bastante com javascript, [ajax](http://pt.wi
 
 #### Resultado Final
 
-Este mês de abril, será lançada a nova versão do [Videolog.tv](http://www.videolog.tv). Pretendemos lançá-lo antes da segunda quinzena, estamos trabalhando duro para isso e com certeza será satisfatório para nós e os "vloguers" do Brasil, quem sabe do mundo neh. ;)
+Este mês de abril, será lançada a nova versão do [Videolog.tv](http://www.videolog.tv). Pretendemos lançá-lo antes da segunda quinzena, estamos trabalhando duro para isso e com certeza será satisfatório para nós e os "vloguers" do Brasil, quem sabe do mundo né. ;)
 
 ### Conclusão e Finalização
 

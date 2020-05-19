@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Como você escreve seus arquivos CSS? Parte 2'
 ---
 
-Dando continuidade ao [post anterior](/como-voce-escreve-seus-arquivos-css.html), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
+Dando continuidade ao [post anterior](/como-voce-escreve-seus-arquivos-css), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
 
 ### Ferramentas compactadoras de CSS's
 
@@ -33,17 +33,59 @@ Bom, retornando ao assunto do Post, vou comentar sobre mais alguns pontos de esc
 
 Quando falo de hierarquia de elementos no CSS, estou falando de elementos filhos sendo hierarquizados dentro dos arquivos CSS's. Eu, na grande maioria das vezes, não faço hierarquia, utilizando somente a div correspondente.
 
-Explicarei melhor agora, porque está meio confuso. Veja o código abaixo: ```css
-#geral #conteudo #minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #geral #conteudo #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+Explicarei melhor agora, porque está meio confuso. Veja o código abaixo:
 
-````
-
+```css
+#geral #conteudo #minhaDiv {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+#geral #conteudo #minhaDiv2 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+#geral #conteudo #minhaDiv3 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 Olhando o código, se vc possui o mínimo de conhecimento em CSS, vc percebe que os ID's #minhaDiv, #minhaDiv2 e #minhaDiv3 são "filhas" do ID #conteudo que é filho do ID #geral certo?
 
-Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma: ```css
-#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} #minhaDiv3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
-````
+Geralmente eu não faço desta forma, eu economizo mais. Usando o código deste exemplo, ficaria desta forma:
+
+```css
+#minhaDiv {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+#minhaDiv2 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+#minhaDiv3 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 Economizei bastante, pois retirei o "_#geral #conteudo_ " das linhas.
 
@@ -53,22 +95,35 @@ Muitos desenvolvedores utilizam a forma hierárquica, pois fica fácil de saber 
 
 #### Referência de Tags
 
-Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar: `div#minhaDiv {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;} div#minhaDiv span.minhaClasse {color:#666;} div#minhaDiv a.verMais {text-decoration:none;}
+Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar:
 
+```css
+div#minhaDiv {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+div#minhaDiv span.minhaClasse {
+  color: #666;
+}
+div#minhaDiv a.verMais {
+  text-decoration: none;
+}
 ```
-
 
 Agora uma breve explicação sobre cada linha:
 
-##### › div#minhaDiv
+##### `› div#minhaDiv`
 
 A div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-##### › div#minhaDiv span.minhaClasse
+##### `› div#minhaDiv span.minhaClasse`
 
 O span que receber a classe **minhaClasse** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-##### › div#minhaDiv a.verMais
+##### `› div#minhaDiv a.verMais`
 
 O link que receber a classe **verMais** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
@@ -83,6 +138,3 @@ Eu prefiro utilizar sem a referência de tags, a não ser que você tenha múlti
 Bom, essa segunda parte é bem menor que a primeira e é assim que eu tentarei fazer sempre, escrever menos, mais direto. Apesar que sou muito detalhista e mastigo bem os tutoriais, artigos, etc. Acho que é melhor assim, mas é preocupante também quando fica grande, cansativo, etc. Mas eu vou treinando para isso não acontecer :D.
 
 Aquele abraço e valew a contribuição de todos.
-
-
-```

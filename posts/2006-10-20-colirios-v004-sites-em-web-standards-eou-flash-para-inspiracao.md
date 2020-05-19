@@ -52,4 +52,4 @@ Uso visual como folha de caderno, com umas etiquetas na lateral, o rodapé bem b
 
 ### Por hoje é só pessoal.
 
-Bom, é isso... Akele abraço para todos.
+Bom, é isso... Aquele abraço para todos.

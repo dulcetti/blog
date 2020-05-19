@@ -48,4 +48,4 @@ Pelos grandes profissionais que acredito que a Globo.com tenha, poderiam ter fei
 
 Mas no geral gostei bastante dos dois layouts. Parabéns aos profissionais envolvidos.
 
-Akele abraço.
+Aquele abraço.

@@ -170,4 +170,4 @@ Bom galera, espero ter ajudado e tirado algumas dúvidas de quem de repente tenh
 
 Esperem por semana que vem... Tchanaaaaaaaaam... uahuahuhahauhau
 
-Akele abraço.
+Aquele abraço.

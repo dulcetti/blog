@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Windows Vista'
 ---
 
-[Site Windows Vista](http://www.microsoft.com/windowsvista/) Tenho que admitir, tah bonito, eles estão aprendendo direitinho... hehehehehe... só não gostei mto da semântica do código... principalmente no menu... mas fazer o q neh... :D
+[Site Windows Vista](http://www.microsoft.com/windowsvista/) Tenho que admitir, tah bonito, eles estão aprendendo direitinho... hehehehehe... só não gostei mto da semântica do código... principalmente no menu... mas fazer o q né... :D
 
 Falta saber agora como virá esse windows e o i.e. 7
 

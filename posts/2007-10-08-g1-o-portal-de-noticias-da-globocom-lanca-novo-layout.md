@@ -8,7 +8,7 @@ title: 'G1, o Portal de Notícias da Globo.com lança novo layout'
 
 ![Print da nova home do G1](http://g1.globo.com/Noticias/capa/foto/0,,11707095,00.jpg)
 
-E ae pessoal. Venho aqui para informar que o [novo layout do G1](http://www.g1.com.br/), o portal de notícias da [Globo.com](http://www.globo.com/), foi lançado neste domingo, por volta das 7h da manhã. Um pouco atrasado esse meu aviso, eu sei, mas fazer o q neh... :D Esse fds fiquei fora do Rio, bebendo um pouco com os amigos, me divertindo. Trabalhar fulltime não faz muito bem :D
+E ae pessoal. Venho aqui para informar que o [novo layout do G1](http://www.g1.com.br/), o portal de notícias da [Globo.com](http://www.globo.com/), foi lançado neste domingo, por volta das 7h da manhã. Um pouco atrasado esse meu aviso, eu sei, mas fazer o q né... :D Esse fds fiquei fora do Rio, bebendo um pouco com os amigos, me divertindo. Trabalhar fulltime não faz muito bem :D
 
 ### Implementação e Padrões
 

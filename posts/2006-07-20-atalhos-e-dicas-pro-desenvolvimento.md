@@ -76,4 +76,4 @@ Para deletar de trás pra frente, ou seja, o inverso so atalho Ctrl+Del, aperte 
 
 Bom, são dicas bobas, mas às vezes o pessoal não sabe delas ou de algumas delas. Deixei aqui para a análise. Qualquer tecla que vocês utilizem, é só escrever, etc... Tirando tb que não citei Alt+Tab, Alt+Shift+Tab, entre outras que já são bem mais utilizadas... ;)
 
-Akele abraço, espero que agrade.
+Aquele abraço, espero que agrade.

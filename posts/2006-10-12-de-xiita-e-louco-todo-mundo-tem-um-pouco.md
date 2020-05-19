@@ -68,4 +68,4 @@ Termino aqui esse meus post, sobre minha visão sobre esse xiismo existente na w
 
 E não ficar falando por ae que trabalhar nos padrões é frescura, padrões foram feitos para serem quebrados (aff...), que flash é pesado e lento, entre outras coisas. Quando o trabalho é feito por profissionais mesmo, o resultado é totalmente satisfatório.
 
-É isso... Akele abraço cambada.
+É isso... Aquele abraço cambada.

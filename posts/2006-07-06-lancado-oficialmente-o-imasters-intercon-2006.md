@@ -50,4 +50,4 @@ Todos muitos bons e chamo a atenção pro Luli, que participou do Intercon ano p
 
 Quer saber mais sobre o evento? Ficou curioso? [Entre no site e confira](http://www.imasters.com.br/intercon/2006/) todas as novidades, saiba mais sobre os palestrantes e as palestras, sobre o curso de flash, etc.
 
-Akele abraço.
+Aquele abraço.

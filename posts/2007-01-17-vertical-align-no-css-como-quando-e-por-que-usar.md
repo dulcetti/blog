@@ -39,7 +39,7 @@ Vamos ver um exemplo de como os iniciantes utilizam a propriedade:
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/primeiro_exemplo.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Não vou explicar detalhadamente o que foi utilizado, pois é bem básico. A única coisa diferente usada foi o vertical-align mesmo.
 
@@ -60,7 +60,7 @@ Temos algumas variedades de resolver tal problema. A primeira seria a utilizaç�
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_line_height.html).
+Podemos ver o resultado desse exemplo aqui.
 
 #### Restrições e problemas.
 
@@ -79,7 +79,7 @@ Se tivermos um site dinâmico, onde a altura do elemento pode variar, teremos pr
 
 Bem grave esse problema, pois se tivermos mais de uma linha, a distância entre essas linhas ficará absurda, pois será sempre o valor do line-height, portanto, se tivermos três linhas de texto, por exemplo, teremos, no exemplo acima citado, uma altura de três vezes o line-height, pois temos três linhas e 200px de line-height, com isso, 3x200px.
 
-[Veja o exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_line_height_problema.html).
+Veja o exemplo aqui.
 
 ### Certo Bruno. Mas como resolver isso então? (Parte 2 – display: table-cell)
 
@@ -101,7 +101,7 @@ Vamos ao exemplo:
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_table_cell.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Para quem utiliza browser, funciona perfeitamente. Mas para quem não usa, o texto continua no topo. Salve ie. :D
 
@@ -139,7 +139,7 @@ Veremos no código abaixo, como fazer para alinhar uma imagem e um texto central
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_imagem_texto.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Como podemos ver, a imagem e o texto ficaram centralizados verticalmente. Mas isso entre eles mesmo e não em relação ao bloco que os engloba.
 
@@ -169,11 +169,11 @@ Veremos no código abaixo, como fazer para alinhar um input de texto e um texto 
 #box input {
   border: 1px solid #ccc;
   font: 100% 'Trebuchet MS';
-  \_vertical-align: middle;
+  _vertical-align: middle;
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_texto.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Sim, eu sei. Eu utilizei um hack para o internet explorer 6 ou anterior. Mas fiquem tranqüilos, é só pra exemplo. Mostrarei abaixo uma solução correta para isso ;).
 
@@ -211,7 +211,7 @@ Somente uma segunda solução que funciona em todos.
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_span.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Agora sim. Sem hacks e funcionando corretamente em todos. A diferença foi colocar um span e setar o vertical-align nele também.
 
@@ -276,6 +276,6 @@ Espero que tenham gostado e tenha sido útil. Caso tenha esquecido de algo ou fa
 
 ### Finalizando...
 
-To ficando por aqui, deixando uma homenagem ao Marrelton :D camarada que trabalha aqui na parte de desenvolvimento da Globo.com que se amarra nos títulos do meu Blog e talz... Akele abraço ae Elton ;)
+To ficando por aqui, deixando uma homenagem ao Marrelton :D camarada que trabalha aqui na parte de desenvolvimento da Globo.com que se amarra nos títulos do meu Blog e talz... Aquele abraço ae Elton ;)
 
-Akele abraço pra geral ae.
+Aquele abraço pra geral ae.

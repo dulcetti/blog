@@ -92,6 +92,6 @@ Parabéns Rafael, mandou muito.
 
 Finalizo mais uma vez a Rota Blogueira por aqui. Espero que os textos sejam de utilidade para todos. ;)
 
-Akele abraaaaço...
+Aquele abraaaaço...
 
 **UPDATE:** Coloquei o Bruno alves como autor do texto no Br-Point, mas o Mauro me alertou que foi o Guilherme. Nem tinha me ligado, desculpa ae Guilherme. ;)

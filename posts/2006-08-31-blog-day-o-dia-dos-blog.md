@@ -24,15 +24,15 @@ Blog sobre cotidiano tecnológico, entre outras coisas. Piadas, situações e ep
 
 #### [Ciro Feitosa](http://cirofeitosa.com.br/)
 
-Blog sobre tecnologia web. Javascript, webstandards, PHP, entre outras coisas. Posts muito bons e inteligentes. Ótima referência para quem desenvolve e é de um grande camarada e gente boníssima. Akele abraço rapaz. Link: [http://cirofeitosa.com.br/](http://cirofeitosa.com.br/)
+Blog sobre tecnologia web. Javascript, webstandards, PHP, entre outras coisas. Posts muito bons e inteligentes. Ótima referência para quem desenvolve e é de um grande camarada e gente boníssima. Aquele abraço rapaz. Link: [http://cirofeitosa.com.br/](http://cirofeitosa.com.br/)
 
 #### [BitFrito](http://www.bitfrito.com/)
 
-Blog muito bom com conteúdo tanto técnico quanto cômico. Vale o clique. Também de um grande camara, o Giovanni... Akele abraço rapaz. Link: [http://www.bitfrito.com/](http://www.bitfrito.com/)
+Blog muito bom com conteúdo tanto técnico quanto cômico. Vale o clique. Também de um grande camara, o Giovanni... Aquele abraço rapaz. Link: [http://www.bitfrito.com/](http://www.bitfrito.com/)
 
 #### [El Micox](http://elmicox.blogspot.com/)
 
-Blog sobre web, tecnologia, principalmente webstandards e javascript. Manja muito de ajax e webstandards. Akele abraço Mico. Link: [http://elmicox.blogspot.com/](http://elmicox.blogspot.com/)
+Blog sobre web, tecnologia, principalmente webstandards e javascript. Manja muito de ajax e webstandards. Aquele abraço Mico. Link: [http://elmicox.blogspot.com/](http://elmicox.blogspot.com/)
 
 #### [Michel Lima](http://www.michel-lima.blogspot.com/)
 
@@ -40,4 +40,4 @@ Grande designer, profissional de primeiríssima qualidade. Blog com seus trabalh
 
 Veja mais sobre o Blog Day 2006 no site [http://www.blogday.org/](http://www.blogday.org/).
 
-Akele abraço galera.
+Aquele abraço galera.

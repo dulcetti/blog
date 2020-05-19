@@ -12,15 +12,18 @@ Confuso o título não é verdade? Foi mais pra botar algumas minhocas na sua ca
 
 Podemos dizer compactação, otimização, whatever, qualquer coisa, mas é uma opinião do Diego sobre criação de arquivos CSS e tudo mais. Ele comenta que não é necessário compactar seu CSS da seguinte forma:
 
+```css
 .minha-classe {
 	color:#900;
-	font-style:bold;
 	display:block;
+	font-style:bold;
 }
+```
 
 Para esta forma:
 
-`.minha-classe {color:#900;font-style:bold;display:block;}
+```css
+.minha-classe {color:#900;font-style:bold;display:block;}
 ```
 
 

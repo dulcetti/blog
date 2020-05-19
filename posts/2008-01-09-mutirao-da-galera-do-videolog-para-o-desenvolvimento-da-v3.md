@@ -47,4 +47,4 @@ Bêbados? A maioria. Com sono? Quase todos. Disposição e trabalho? Até onde d
 
 E vamo que vamo. E preparem-se pq gravamos um outro vídeo também. Vou publicar assim que publicarem no [Videolog](http://www.videolog.tv).
 
-Akele abraço.
+Aquele abraço.

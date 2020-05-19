@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2006-11-03"
-description: ""
-featuredImage: ""
-title: "Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento - Salão Programação e Tecnologia - Primeira Parte"
+category: 'Eventos'
+date: '2006-11-03'
+description: ''
+featuredImage: ''
+title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento - Salão Programação e Tecnologia - Primeira Parte'
 ---
 
 E ae pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar sobre o Imasters Intercon, mas estou aqui ;)
@@ -86,7 +86,11 @@ Achei um equívoco quando citou um tempo limite, demora de 10 minutos em uma pes
 
 Belíssima citação ao falar do termo "O usuário é burro", falando sobre a reflexão disso, nem sempre o usuário é burro ou algo parecido, mas o sistema, o modo como criamos tal serviço é que não ficou claro. Fica para nós, claro, que criamos o sistema, mas a usabilidade, para pessoas leigas, acaba ficando confusa e difícil.
 
-Mandou bem também também quando falou sobre a parte de consultas mal elaboradas, um SELECT mal elaborado, etc, que hoje pode funcionar, mas amanhã pode dar problema, entre outras coisas. E muitas vezes, na minha opinião, essas falhas, timeouts, demoras, são ocasionadas pela utilização do famoso: `SELECT * FROM tabela01, tabela02 WHERE...`
+Mandou bem também também quando falou sobre a parte de consultas mal elaboradas, um SELECT mal elaborado, etc, que hoje pode funcionar, mas amanhã pode dar problema, entre outras coisas. E muitas vezes, na minha opinião, essas falhas, timeouts, demoras, são ocasionadas pela utilização do famoso:
+
+```sql
+SELECT * FROM tabela01, tabela02 WHERE...
+```
 
 ##### Dados históricos vs. transacionais
 
@@ -116,7 +120,7 @@ Daqui a pouco este post vai ficar meio grande e cansativo. Depois falarei mais s
 
 Queria agradecer a galera do [MMUG-RJ](http://www.mmug-rj.com.br) que compareceu ao evento. O cambada, mesmo que o evento, para alguns, não tenha sido lá essas coisas, valew pela zuera né? :D
 
-Akele abraço galera e pra quem quiser ver fotos, pegar o restante das palestras, é só [visitar o site do Intercon](http://www.imasters.com.br/intercon/2006/cobertura/). Valewwwwww
+Aquele abraço galera e pra quem quiser ver fotos, pegar o restante das palestras, é só [visitar o site do Intercon](http://www.imasters.com.br/intercon/2006/cobertura/). Valewwwwww
 
 ### Galera que comentou sobre o Intercon 2006
 
@@ -127,4 +131,4 @@ Segue uma listinha de algumas pessoas que ccomentaram sobre o evento:
 - [Douglas d’Aquino](http://www.mercwars.net/handbook/?p=70)
 - [ROCHESTER](http://rochester.wordpress.com/2006/10/29/intercon-2006/)
 
-É isso ae cambada... Akele abraço.
+É isso ae cambada... Aquele abraço.

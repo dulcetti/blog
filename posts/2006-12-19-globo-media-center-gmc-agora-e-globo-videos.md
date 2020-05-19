@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-12-19"
-description: ""
-featuredImage: ""
-title: "Globo Media Center (GMC) agora é Globo Vídeos."
+category: 'Tecnologia'
+date: '2006-12-19'
+description: ''
+featuredImage: ''
+title: 'Globo Media Center (GMC) agora é Globo Vídeos.'
 ---
 
 E ae pessoal, tranquilo?
@@ -32,4 +32,4 @@ Percebi alguns bugs que já passei pro pessoal responsável, para resolver tudo.
 
 Bom, é isso, mais uma ferramenta da Globo.com no ar. É a Globo investindo em Webstandards e ferramentas mais fáceis de serem utilizadas e mais acessíveis. Em breve mais novidades.
 
-Akele abraço.
+Aquele abraço.

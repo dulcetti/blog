@@ -20,4 +20,4 @@ Semana que vem eu posto o link do Protótipo para vocês avaliarem, darem opini�
 
 Bom, por enquanto é isso, postarei mais coisas por aqui no Blog em breve...
 
-Akele abraço.
+Aquele abraço.
