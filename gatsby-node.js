@@ -1,4 +1,23 @@
 const path = require('path');
+const { createFilePath } = require(`gatsby-source-filesystem`);
+
+// To add the slug field to each post
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions;
+  if (node.internal.type === 'MarkdownRemark') {
+    const slug = createFilePath({
+      node,
+      getNode,
+      basePath: 'pages',
+    });
+
+    createNodeField({
+      node,
+      name: 'slug',
+      value: `/${slug.slice(12)}`,
+    });
+  }
+};
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
@@ -8,12 +27,14 @@ exports.createPages = ({ graphql, actions }) => {
       allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
         edges {
           node {
+            fields {
+              slug
+            }
             frontmatter {
               category
               date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
               description
-              image
-              slug
+              featuredImage
               title
             }
             timeToRead
@@ -27,10 +48,10 @@ exports.createPages = ({ graphql, actions }) => {
     // Create posts
     posts.forEach(({ node }) => {
       createPage({
-        path: node.frontmatter.slug,
+        path: node.fields.slug,
         component: path.resolve('./src/templates/blog-post/index.js'),
         context: {
-          slug: node.frontmatter.slug,
+          slug: node.fields.slug,
         },
       });
     });
