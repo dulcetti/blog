@@ -19,15 +19,15 @@ Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NA
 
 Sim, eu enrolei pra kct, mas eu juro que não foi por mal. Problemas com data, que começou a ser formado para início de julho, logo depois passado para entre o final de julho ou início de agosto. Mais tarde foi marcado para entre o final agosto e inicio de setembro. Mas no final, acabou sendo marcado para o início de outubro.
 
-### Beleza então Dulça. Teremos o BlogCamp RJ em outubro então?
+### Beleza então, Dulça. Teremos o BlogCamp RJ em outubro então?
 
 Se eu falar não, você acredita? Por causa das eleições no início do mês e o <a href="http://imasters.uol.com.br/intercon/2008/">Intercon 2008</a> no final do mês de outubro, acabamos marcando para o último final de semana de setembro.
 
-### Ahhh tah. Finalmente então né Bruno?
+### Ahhh tah. Finalmente então né, Bruno?
 
 É, com certeza. Finalmente a data foi decidida, mas quase que ela foi remarcada, por causa de um dos evento que está planejado para o final de semana. Mas o modafoca aqui conseguiu manter a data :D
 
-## E qual a data Dulça? E onde que vai ser?
+## E qual a data, Dulça? E onde que vai ser?
 
 E a data foi definida para o dia 27 de setembro. E é verdade sim, pode acreditar. Eu prometo :) Começa às 9h, quando a galera estará liberada para entrar e às 10h começam os trabalhos nas arenas.
 
@@ -35,7 +35,7 @@ O evento pára às 12h30 para o almoço, tendo o retorno às 14h, lotando as are
 
 E o final do evento será às 18h, na Arena Principal, com os agradecimentos e todo blá, blá, blá de sempre. E logo depois, partimos para um Botecamp ;)
 
-### Tá, mas e o local o modafoca?
+### Tá, mas e o local, o modafoca?
 
 ![Foto da Entrada do NAVE](/assets/images/posts/foto-nave.jpg)
 
@@ -105,7 +105,7 @@ O moderador dessa será o Mackeenzy, que comandará a galera com sua irreverênc
 
 As novidades dessa sala é que possuem computadores para quem não trouxer notebooks e também tem um "cala discussão"
 
-##### Mas que parada é essa Dulcetti?
+##### Mas que parada é essa, Dulcetti?
 
 Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quando tiver alguma discussão sem fim, onde não se chega num denominador comum, ou algum certo :). Legal né?
 
@@ -149,14 +149,14 @@ Caminhando pra esquerda da praça, você passará pela Arena Business e ficará 
 
 Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar jogando do que participar do evento, oficinas e tudo mais ;) Mas não se preocupe que liberarei e farei campeonatos mais pro final do evento, pra interagir a galera. ;)
 
-## Sucesso total tio Dulça. E onde fica realmente? Como faço pra chegar?
+## Sucesso total, tio Dulça. E onde fica realmente? Como faço pra chegar?
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;output=embed&amp;s=AARTsJrE3sRqryDewSAsi3pZEwL0Uzbixg"></iframe>
 <a href="http://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;source=embed">Exibir mapa ampliado</a>
 
 A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai n<sup>o</sup> 204, como você pode ver no Mapa acima. Ou <a href="http://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;z=17&amp;iwloc=addr" class="extlink">veja o mapa melhor</a> ou então <a href="http://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;ll=-22.927014,-43.24472&amp;spn=0.004051,0.006545&amp;t=h&amp;z=18&amp;iwloc=addr" class="extlink">veja direto com o radar</a>, via Google Maps.
 
-## Beleza Bruno, mas eu não sei chegar.
+## Beleza, Bruno. Mas eu não sei chegar.
 
 Bom, você tem algumas opções de como chegar, a partir de alguns pontos que vou especificar abaixo. Não vou pegar cada bairro e ensinar, senão o post ficará do tamanho da Bíblia. Portanto, estarei especificando pontos principais, para a galera que vem de fora.
 
@@ -250,7 +250,7 @@ Existem outras alternativas, mas não vou colocar aqui não. Se vira :P
 
 Não vou colocar para quem vai de táxi né modafoca? É só pedir pro taxista te deixar na Rua Uruguai, quase na esquina com a Barão de Mesquita. Na NAVE, se ele souber o que é isso :)
 
-## Mas não vai ter nada fora o evento Dulcetti?
+## Mas não vai ter nada fora o evento, Dulcetti?
 
 E você acha que o modafoca aqui iria fazer essa desfeita? Mas é claro que não meu nobre. Fique tranquilo que pensamos em tudo (ou quase).
 
@@ -262,7 +262,7 @@ Nós estamos vendo se tem a possibilidade de reservar algumas mesas num bar com 
 
 O bacana será, talvez, a possibilidade de podermos fazer o setlist, pedindo músicas que quisermos. Vamos aguardar, confirmo tudo para vocês.
 
-### E Sabadão Bruno?
+### E Sabadão, Bruno?
 
 Sábado, após o BlogCamp, iremos para algum bar pela região, provavelmente pelo Praça Vanhargem, que possui vários bares e botecos legais. Não vou escolher um certo, vamos pra lá e a galera escolhe, vocês que estão mandando :)
 
@@ -274,7 +274,7 @@ O preço pode parecer meio caro, mas só que teremos cerveja, vodka, água e ref
 
 E o legal é que tem sinuca, um ambiente bem legal. <a href="http://www.riolounge.com.br/noite/detalhe/evento/six_private_open_bar">Mais informações</a>.
 
-### Domingão será do Faustão modafoca?
+### Domingão será do Faustão, modafoca?
 
 Jamais. Estamos organizando algo para integrar novamente a galera. Tivemos a idéia de um Churrasco ou um passeio à Paquetá de barca.
 
@@ -284,11 +284,11 @@ O churrasco por sua vez, seria num local a definir ainda, num clube onde vamos v
 
 E também tivemos uma idéia legal, de doarmos um computador para uma entidade carente que esteja precisando e escolheríamos.
 
-#### Legal Bruno. E o que foi decidido?
+#### Legal, Bruno. E o que foi decidido?
 
 Então, quem vai decidir isso é você mesmo ;) É só <a href="http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMUMr1DeuhBWcw">acessar o formulário que criei</a> para a votação da "recreação" de domingo, que o vencedor será o que vamos realizar.
 
-## Beleza Bruno, mas eu não me inscrevi.
+## Beleza, Bruno, mas eu não me inscrevi.
 
 Fique tranquilo, pois eu reabri as inscrições pro BlogCamp. É só <a href="http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMWCM3Id0l0jOg">acessar o formulário do Google Docs que reativei</a> e preencher os campos necessários. Caso você não tenha um blog, coloque "não tenho" no campo referente a URL do Blog ok?
 
