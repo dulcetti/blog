@@ -79,7 +79,7 @@ Para os que não conhecem (o que eu acho muito difícil), esse é o modo de se f
 
 ### Legal Bruno, mas continuo sem entender direito =/
 
-Relaxa, vamos ver agora isso no HTML para que você entenda melhor a utilização. Veja abaixo o código HTML ou então [verifique o exemplo online](https://www.brunodulcetti.com/artigos/condicionais/condicional01.html):
+Relaxa, vamos ver agora isso no HTML para que você entenda melhor a utilização. Veja abaixo o código HTML ou então verifique o exemplo online:
 
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
@@ -131,7 +131,7 @@ Podemos utilizar qualquer uma das versões que eu citei anteriormente, com a ver
 
 Vocês devem estar perguntando agora pra mim "Mas Bruno, você está utilizando o CSS incorporado no html!".
 
-Sim, sim, mas pode ficar calmo. Foi só um exemplo para melhor compreensão. Vocês podem colocar a tag `<link>` ou a `<style>` dentro da condição, que funcionará da mesma forma. Veja abaixo o exemplo ou [confira online](https://www.brunodulcetti.com/artigos/condicionais/condicional02.html):
+Sim, sim, mas pode ficar calmo. Foi só um exemplo para melhor compreensão. Vocês podem colocar a tag `<link>` ou a `<style>` dentro da condição, que funcionará da mesma forma. Veja abaixo o exemplo ou confira online:
 
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
@@ -148,7 +148,7 @@ Sim, sim, mas pode ficar calmo. Foi só um exemplo para melhor compreensão. Voc
 </html>
 ```
 
-Neste exemplo, utilizei a tag `<link>` dentro do `<head>` e dentro da condição. Dentro do `<head>` eu chamei o arquivo [normal.css](https://www.brunodulcetti.com/artigos/condicionais/normal.css), que serve para todos os browsers e temos tb o arquivo [ie.css](https://www.brunodulcetti.com/artigos/condicionais/ie.css) que serve somente para o i.e. e está dentro da condição.
+Neste exemplo, utilizei a tag `<link>` dentro do `<head>` e dentro da condição. Dentro do `<head>` eu chamei o arquivo normal.css, que serve para todos os browsers e temos tb o arquivo ie.css que serve somente para o i.e. e está dentro da condição.
 
 Neste exemplo, ele faz a mesma coisa que o exemplo anterior, mas ao invés do CSS estar incorporado, estou chamando via `<link>`.
 

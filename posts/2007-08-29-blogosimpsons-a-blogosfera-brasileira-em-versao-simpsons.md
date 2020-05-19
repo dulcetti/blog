@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 
-![Dul7 Simpsonizado](http://brunodulcetti.com/imgs/dul7_simpsons_melhor.jpg)
+![Dul7 Simpsonizado](/assets/images/posts/dul7_simpsons_melhor.jpg)
 
 E ae cambada. Um post bem rápido, só pra descontrair mesmo.
 
@@ -50,7 +50,7 @@ Listagem da galera simpsonizada (sic) no Post do Carlos:
 - Alex Costa ([Tapa na cara](http://tapanacara.com.br/blog/))
 - Rodrigo Schmidt ([Empório do sucesso](http://emporiodosucesso.com.br/))
 - Neto - Fuinha ([Procurando Vagas](http://procurandovagas.org/))
-- Eu ([Bruno Dulcetti](http://brunodulcetti.com/blog/))
+- Eu ([Bruno Dulcetti](/))
 - Nick Ellis ([Digital Drops](http://digitaldrops.com.br/))
 - Beto Largman ([Feira Moderna](http://oglobo.globo.com/online/blogs/largman/))
 - Ester Beatriz ([Saber é bom demais](http://www.saberebomdemais.com/))

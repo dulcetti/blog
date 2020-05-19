@@ -118,10 +118,7 @@ Veremos no código abaixo, como fazer para alinhar uma imagem e um texto central
 ##### Código HTML:
 
 ```html
-<div id="box">
-  <img src="http://brunodulcetti.com/artigos/vertical-align/macaco.jpg" alt="imagem" /> Meu texto
-  bem aqui.
-</div>
+<div id="box"><img src="macaco.jpg" alt="imagem" /> Meu texto bem aqui.</div>
 ```
 
 ##### Código CSS:
@@ -250,7 +247,7 @@ A versão mais correta e semântica para este exemplo:
 }
 ```
 
-Podemos ver o [resultado desse exemplo aqui](http://brunodulcetti.com/artigos/vertical-align/exemplo_input_label.html).
+Podemos ver o resultado desse exemplo aqui.
 
 Neste exemplo, utilizei o label que é o mais correto, setando o vertical-align nele e mais um cursor para diferenciar ;).
 

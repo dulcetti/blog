@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Retrospectiva BlogCamp MG'
 ---
 
-![Banner do BlogCamp MG](http://brunodulcetti.com/imgs/banner-blogcamp-mg.jpg)
+![Banner do BlogCamp MG](/assets/images/posts/banner-blogcamp-mg.jpg)
 
 E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
 

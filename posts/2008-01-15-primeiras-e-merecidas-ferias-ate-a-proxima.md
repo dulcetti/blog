@@ -20,7 +20,7 @@ Sim, ela que você declara Imposto de Renda caso seu salário seja maior que R$1
 
 ### Essas suas férias estão te deixando meio maluco hein Dulcetti...
 
-![ZZzzZZzzZZzZzZz](http://brunodulcetti.com/imgs/garfield-pronta.jpg) Deixando? Meio? Aff... Já sou faz tempo, nasceu comigo... E meio não existe.. Ou você é ou não é, não exista nada disso de meio.
+![ZZzzZZzzZZzZzZz](/assets/images/posts/garfield-pronta.jpg) Deixando? Meio? Aff... Já sou faz tempo, nasceu comigo... E meio não existe.. Ou você é ou não é, não exista nada disso de meio.
 
 Mas relaxem, não vim aki falar sobre política e impostos, mto pelo contrário. Mas queria deixar claro que antes de você que esta lendo essa baboseira que eu estou escrevendo, falando bem (?) dos políticos, olhasse pra própria fuça e percebesse que isso tudo é culpa sua. Assim como é culpa minha também, de todos nós. Não adianta ficar reclamando disso, pq mover, levantar essa bunda gorda e fedorenta e lutar pelo seu direito vc não faz. Espera chegar tudo como você quer ou então só mexe essa bunda para dançar o Créu.
 
@@ -34,7 +34,7 @@ To entrando de férias agora nesse final de semana e provavelmente não aparecer
 
 ### Legal Bruno... Vai viajar?
 
-![Praia, agua de coco...](http://brunodulcetti.com/imgs/havaianas-e-coco-pronta.jpg) Exatamente por isso que estou aqui. Semana que vem pegarei uma mochila, colocarei algumas roupas, acessórios e partirei em rumo ao nordeste, no mochilão. Seria algo como MochiNerd. Pqp... Inventei isso agora, mas tá valendo.
+![Praia, agua de coco...](/assets/images/posts/havaianas-e-coco-pronta.jpg) Exatamente por isso que estou aqui. Semana que vem pegarei uma mochila, colocarei algumas roupas, acessórios e partirei em rumo ao nordeste, no mochilão. Seria algo como MochiNerd. Pqp... Inventei isso agora, mas tá valendo.
 
 Eu estava querendo partir em rumo a Recife, Pernambuco, mas tenho certeza que não vai rolar, pq é muito longe e estarei com pouco tempo para isso. Lembrando que tempo é dinheiro, então vocês entenderam o que falta não é? ;)
 
@@ -42,7 +42,7 @@ Vou sem carro, a pé mesmo. Pedindo carona, pegando ônibus, subindo em caçamba
 
 ### E como vai ser Dulcetti? Vai passar por onde?
 
-![Praia, agua de coco...](http://brunodulcetti.com/imgs/ferias-pes-pronta.jpg) Então, vou passando pelo litoral, no máximo que for possível. Pelo Rio vou passando por Cabo Frio, Búzios, Campos, etc. Ainda farei um roteiro mais detalhado. Depois chegarei até o Espírito Santo. Vou passar por Vila Velha, Vitória e outros lugares que vocês me indicarem.
+![Praia, agua de coco...](/assets/images/posts/ferias-pes-pronta.jpg) Então, vou passando pelo litoral, no máximo que for possível. Pelo Rio vou passando por Cabo Frio, Búzios, Campos, etc. Ainda farei um roteiro mais detalhado. Depois chegarei até o Espírito Santo. Vou passar por Vila Velha, Vitória e outros lugares que vocês me indicarem.
 
 Depois estarei chegando até a Bahia, terra do nosso nobre [Manoel Netto](http://tecnocracia.com.br/), que me deu algumas dicas para onde ir, como Morro do São Paulo, Trancoso, Praia do Forte, Baia de Camamu, Ilha de Itaparica, Sauipe, etc.
 
@@ -60,4 +60,4 @@ Caso esteja no caminho que eu for passar, me avise por aqui no blog mesmo que eu
 
 É isso, aquele abraço e vejo vocês por ae... Tirarei uns [dias de folga](http://diadefolga.com/) :D
 
-![To indo de férias, fui](http://brunodulcetti.com/imgs/ferias-pes-com-areia_pronta.jpg) Vou curtir as praianas... Trabalhem ae...
+![To indo de férias, fui](/assets/images/posts/ferias-pes-com-areia_pronta.jpg) Vou curtir as praianas... Trabalhem ae...
