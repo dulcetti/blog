@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'iMasters CMS Brasil 2009'
 ---
 
-![Marca CMS Brasil](/uploads/logo-cms.gif)
-
 Sim, eu sei que estou em dívida com vocês aqui no blog, nem precisam avisar isso. Semana que vem sai um post explicando isso tudo, aguarde.
+
+![Marca CMS Brasil](/uploads/logo-cms.gif)
 
 Mas antes disso, estou aqui para publicar sobre mais um evento do iMasters e sobre um assunto que está, digamos, na moda hoje em dia. Os famosos e muito, nem sempre bem, utilizados CMS.
 
@@ -38,7 +38,7 @@ Bom, legal falar sobre os palestrantes, mas estou aqui é pra falar da outra par
 
 E, além disso, essa parte do evento será apresentada pelo modafoca que vos fala. Sim, sim, eu mesmo. Fiquei surpreso com o convite, achei que o Baeta estava maluco, mas tudo bem, agora eu tocarei o terror naquilo lá, me aguardem :)
 
-### Manero hein Dulça
+### Maneiro hein Dulça
 
 Né não? Grande momento. Serei como um mestre de cerimônia, só que totalmente informal, na brincadeira, estimulando vocês, participantes, a interagirem com os palestrantes. Vamos ver no que vai dar :)
 

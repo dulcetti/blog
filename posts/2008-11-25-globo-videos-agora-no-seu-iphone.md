@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Globo Vídeos agora no seu iPhone'
 ---
 
-![iPhone com a marca do Globo Vídeos](/uploads/globovideosiphone.jpg)
-
 Essa notícia já era pra eu ter publicado tem bastante tempo, mas vocês me conhecem, portanto já sabem que eu não posto nada no tempo que deveria. Mas vamos pular essa parte que é uma vergonha e vamos para o conteúdo referente ao título por favor.
+
+![iPhone com a marca do Globo Vídeos](/uploads/globovideosiphone.jpg)
 
 ## Quer dizer que agora o Globo Vídeos tem uma versão para iPhone?
 

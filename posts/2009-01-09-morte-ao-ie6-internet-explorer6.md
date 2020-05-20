@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Morte ao IE6 - Internet Explorer 6'
 ---
 
-![Morte ao IE6](/uploads/2644891323_c3ffc663a5_o.png)
-
 Quem aqui nunca teve problemas com bugs no IE6 que atire a primeira pedra.
+
+![Morte ao IE6](/uploads/2644891323_c3ffc663a5_o.png)
 
 Não adianta, quem trabalha com web sempre teve esse problema. E enquanto nós continuarmos deixando brechas pra softwares como esses, continuaremos penando para deixar os sites crossbrowsers. É hora de mexermos nossas teclas e tentar acabar com isso.
 

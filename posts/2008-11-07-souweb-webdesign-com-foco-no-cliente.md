@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Sou+Web - Webdesign com foco no cliente'
 ---
 
-![Marca do Sou+Web](/uploads/marca-sou+web.png)
-
 Nesse sábado dia 08 de novembro de 2008, vulgo amanhã, acontecerá a terceira versão do debate tecnológico, o Sou+Web. E adivinha quem vai estar lá? Sim, eu mesmo. To em todas mané, tá pensando o que. Comigo é pa-pum;
+
+![Marca do Sou+Web](/uploads/marca-sou+web.png)
 
 ## Mas que Sou+Web é esse? Que fórmula é essa?
 

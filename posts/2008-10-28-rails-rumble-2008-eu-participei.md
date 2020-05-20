@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Rails Rumble 2008 - Eu participei'
 ---
 
-![Thumb da marca do Rails Rumble](/uploads/thumb-rumble.jpg)
-
 No final de semana retrasado eu tive a grande oportunidade de participar do [Rails Rumble](http://www.railsrumble.com/), que é um concurso mundial, onde os caboclos que se inscrevem tem que entregar um aplicativo criado em 48h. Meio louco mas é isso mesmo.
+
+![Thumb da marca do Rails Rumble](/uploads/thumb-rumble.jpg)
 
 ## Canário belga. Um aplicativo em 48h? Difícil hein.
 
