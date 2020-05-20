@@ -14,7 +14,7 @@ Daqui a pouco vai começar um chat modafoca de padrões W3C. A galera que tá or
 
 Bom, se eu falei daqui a pouco, é porque é hoje mesmo. Daqui a pouco MESMO. Ou seja, dia 30 de outubro (vulgo hoje), às 16h (vulgo FUDEU! É praticamente agora).
 
-#### E o que que rola?
+### E o que que rola?
 
 É um chat mesmo, onde um monte de modafoca comenta, participa, pergunta, tira dúvidas e tudo mais. Como um IRC das antigas.
 

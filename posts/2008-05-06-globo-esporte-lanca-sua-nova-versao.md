@@ -22,12 +22,12 @@ Seguindo basicamente como o G1, sem efeitos mirabolantes como eu tive que criar 
 
 Como não poderia deixar de ser, existem prós e contras a cada novo projeto.
 
-#### Pontos Fortes
+### Pontos Fortes
 
 - Conseguiram manter as cores dos links dentro dos times, dando uma sensação de estar na "casa" do seu time, como na versão anterior;
 - Marca personalizada para cada time e cada esporte, campeonato, etc. Já existia na outra, mas agora ficou de forma simples;
 
-#### Pontos Fracos
+### Pontos Fracos
 
 - Apesar da personalização dos links, rodapé e barra, faltou aquele algo mais que tinah na versão anterior, como o topo com escudo, cor de fundo e tudo mais;
 - Algumas cores estão meio estranhas, como o Rubro do Flamengo;

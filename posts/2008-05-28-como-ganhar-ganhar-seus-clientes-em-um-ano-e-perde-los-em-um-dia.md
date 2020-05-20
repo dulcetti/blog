@@ -28,15 +28,15 @@ A paginação ficou o dia inteiro sem funcionar, mas isso pra mim nem é tãaaaa
 
 Bastaram essas duas coisinhas ficarem o dia inteiro sem funcionar, que um monte de gente ficou fazendo um auê desgraçado, falando que Twitter é isso, aquilo, que começaram a buscar e migrar para outros serviços similares.
 
-#### Voodoo é pra Jaiku!
+### Voodoo é pra Jaiku!
 
 O [Jaiku](http://jaiku.com/) (sim, esse nome mesmo) foi um deles. Achei o nome completamente tosco, mas fazer o que né.
 
-#### Ponche. Ou seria Pounce?
+### Ponche. Ou seria Pounce?
 
 Outro que já existia e é até bonitinho é o [Pownce](http://pownce.com/), mas ainda não caiu na graça dos twitteiros.
 
-#### ICQ
+### ICQ
 
 ![Marca do ICQ](/assets/images/posts/20060922-icq.jpg)
 

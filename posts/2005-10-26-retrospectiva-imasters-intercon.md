@@ -16,19 +16,19 @@ No quesito conteúdo, acrescentou bastante coisa nas palestras que assisti e acr
 
 ## Desenvolvimento de Games 3D para WEB:
 
-#### Palestrante: Francisco Tripiano
+### Palestrante: Francisco Tripiano
 
 Muito boa a palestra, apesar de achar que ele se perdia um pouco, pois o foco era web. Ele sempre redirecionava para web, mas creio que faltou um pouco de foco, mas o assunto é bastante delicado e achei que levou muito bem a palestra e fez o que poucos fizeram no evento, demonstrou exemplos, criados na hora, entre outros. Não ficou mostrando muito portfólios, criações, etc. Falou sobre o tema muito bem.
 
 ## O uso perfeito do Flash em projetos web:
 
-#### Palestrante: André Cardozo
+### Palestrante: André Cardozo
 
 Utilizou bastante seu portfólio pra mostrar grandes utilidades com o flash. Um pouco marketeiro fazneod isso, mas do jeito que foi passado ficou muito bom, pois o público precisaria ver o resultado. Grande portfólio, com idéias inovadoras e mostrando que o flash não é mais simplesmente um programa de criar animações, mas também uma grande ferramenta onde o limite é a sua imaginação.
 
 ## O poder das criações virtuais e o processo de animação 3D:
 
-#### Palestrante: Alceu Baptistão
+### Palestrante: Alceu Baptistão
 
 Grande mestre na arte 3D, isso é incontestável, muito sociável, simpático. Achei a palestra um pouco fraca por parte de transmissão de conhecimento. Mostrou vários trabalho, suas dificuldades, inovações, idéias, isso foi válido, mas baseou-se principalmente nisso, mostrar seu portfólio, etc.
 
@@ -36,13 +36,13 @@ Dei umas voltas na palestra do Bechara, que nos pontos que compareci, estavam mu
 
 ## Projetando para a Internet: o design da experiência perfeita:
 
-#### Palestrante: Felipe Memória
+### Palestrante: Felipe Memória
 
 Infelizmente não consegui assistir toda a palestra, somente um parte pequena, estava insuportável de tão cheia. Só por ae já da pra perceber a qualidade da palestra. Falando sobre usabilidade, tema muito estudado hoje em dia, mas pouco difundido. De grande validade, uma das melhores palestrar, mesmo pelo pouco tempo assistido. Fora o lançamento de seu livro que com certeza comprarei.
 
 ## O fim da web, a convergência de mídias e o fetiche de informação
 
-#### Palestrante: Luli Radfahrer
+### Palestrante: Luli Radfahrer
 
 Na minha opinião a melhor palestra. Concordo que seu estilo teatral foi um pouco exagerado em alguns pontos, mas levou a palestra de uma forma que não me deixava com sono e que não prestasse atenção. Conseguiu levar a palestra num momento onde não podia falar por causa do resultado do concurso. Com muita irreverência e simpatia conseguiu levar a platéia de uma maneira divertida e diferente. Falou sobre o fim da web e o surgimento dos aparelhos inovadores que farão essa substituição. Mostrou um ponto de vista, que na minha opinião, poucos ainda tinham percebido, sobre a internet, celulares, palms, usuários, etc...
 

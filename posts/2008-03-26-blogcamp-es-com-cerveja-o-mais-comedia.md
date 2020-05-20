@@ -26,7 +26,7 @@ Relaxa ae modafoca. Era sexta ainda e o evento estava programado para começar n
 
 Antes disso, dei um pulo na praia com a galera do [Videolog](http://www.videolog.tv/blog/), pra aproveitar bem o feriado, relaxar, conversar, beber uma cerveja e tudo mais. A praia era meio modafoca, meio estranha, mas as casas daquela ilha eram sensacionais. Deve ser bom ter dinheiro.
 
-#### E foi só pra praia, Dulça?
+### E foi só pra praia, Dulça?
 
 Bom, tirando que fui almoçar num restaurante ae, sim, não fiz nada demais não. Depois fomos para o hotel, tomar um banho e partir pro Pré BlogCamp ES.
 
@@ -36,7 +36,7 @@ Só que teve um imprevisto antes de partimos pro Pré BlogCamp ES. As companhias
 
 E lá estávamos, Bar Abertura, bem perto do Hotel. Cheguei com minha peruca estilo Black Power, parecendo até o Ian Black, pra deixar nego boladaum, olhando pra mim pensando: "Meu Deus. Esse é o cabelo dele mesmo?"
 
-#### E pensaram mesmo, Brunão?
+### E pensaram mesmo, Brunão?
 
 ![Dulcetti com Peruca Black Power](/assets/images/posts/eu-com-o-copo-na-boca.jpg) Que isso Dulcetti? Tá com sede mesmo hein.
 
@@ -83,7 +83,7 @@ Tapete de Entrada pro BlogCamp ES.
 
 E também teve o apoio do [iMasters](http://www.imasters.com.br), que distribuiu uma porrada de revistas, que eu estava querendo ler tem bastante tempo :D, e ainda colocaram um tapete com a marca deles, achei isso fodástico. Foi representado pelo André Metzen, velho conhecido meu, de tantos Intercons que já participei :D Só senti falta do Tiago Baeta, que falou que iria comparecer, mas furou. Coisa feia hein Baeta.
 
-#### Mas e ae, Dulcetti, contae como que foi a entrada, o início do BlogCamp e talz.
+### Mas e ae, Dulcetti, contae como que foi a entrada, o início do BlogCamp e talz.
 
 Sim, sim, craro, como não.
 
@@ -97,7 +97,7 @@ Destaque também para a minha ida ao banheiro, onde achei um vassoura de bruxa, 
 
 Estava eu lá, entrando na sala da apresentação da galera, já estava rolando o streaming que o Rafacst faz sempre, fora uma outra câmera perto da entrada e talz. Aproveitei o momento para distribuir meus bottons. Siiim, bottons. Mandei fazer alguns bottons pra distribuir nos eventos de tecnologia por ae a fora, para divulgar mais minha marca e meu nome. Sou um cara esperto rapá, tah pensando o que o modafoca.
 
-#### Legal, hein Bruno. Manda um pra mim?
+### Legal, hein Bruno. Manda um pra mim?
 
 Posso pensar no teu caso, vou verificar esta possibilidade ;)
 
@@ -105,7 +105,7 @@ Posso pensar no teu caso, vou verificar esta possibilidade ;)
 
 Armandinho foi a frente, começou a falar sobre o evento, aquele blá, blá, blá todo padrão de início de BlogCamp. Logo depois foi a vez do camarada Haeckel a falar algumas palhaçadas na frente da galera.
 
-#### E surge a lenda... Cujo nome é Mackeenzy
+### E surge a lenda... Cujo nome é Mackeenzy
 
 ![Mackeenzy falando sobre o Videolog](/assets/images/posts/mackeenzy-falando-sobre-o-videolog.jpg)
 Mackeenzy falando com o pessoal sobre o Videolog.
@@ -114,7 +114,7 @@ Sim, meu grande irmão Mackeenzy foi a frente falar sobre o Videolog e deu um sh
 
 Fez a galera rir, se interessar ainda mais pelo Videolog, foi extrovertido, simpático e bem receptivo pra tirar dúvidas, receber críticas e elogios sobre o Videolog. Deu uma aula de simpatia e de Videolog pra galera, que ajudou bastante e vão ajudar bastante, postando vídeos no Videolog.
 
-#### Quando ninguém esperava, surge meu novo ídolo...
+### Quando ninguém esperava, surge meu novo ídolo...
 
 ![Ivo trazendo a cerveja](/assets/images/posts/ivo-levando-cerva.jpg)
 Surge o salvador da pátria, Ivo, com a cerveja.
@@ -123,7 +123,7 @@ Sim, sim, meu ídolo. Nome dele é Ivo e vocês o conhecem com toda certeza, pel
 
 Fora que o Ivo é gente boníssima e não somente pela cerveja que virei fã dele.
 
-#### Legal, hein Dulça. E depois?
+### Legal, hein Dulça. E depois?
 
 Depois a joaninha Lu Freitas foi na frente do palco e foi anotando os assuntos a serem tratados no BlogCamp. Cada um foi falando uma idéia sobre o que falar, ao som dos dizeres "Bingo!", da galera.
 
@@ -136,7 +136,7 @@ Galera desconferindo, papeando do lado de fora do auditório da UFES
 
 Quando eu voltei, vi boa parte da galera fora do campus, no gramado, interagindo, conversando sobre vários assuntos, etc. Achei até interessante, gramado, me fez lembrar um pouco da hora que fiquei no gramado do BlogCamp em Curitiba. E quando entrei no CT, percebi o porquê da galera estar fora dele: um calor meio bizarro estava rolando naquele momento.
 
-#### Houveram bate papos, discussões, Bruno?
+### Houveram bate papos, discussões, Bruno?
 
 Algumas pessoas disseram que não, outras disseram que foi desorganizado, entre outras coisas. Eu os entendo, porque boa parte a galera ficou fora das salas de aula, com isso, ficando de fora o streaming. Por isso a "revolta" de alguns que acompanhavam.
 
@@ -159,7 +159,7 @@ Galera perdendo a linha dançando funk no chão.
 
 Contando com a presença do nosso grande DJ Raphael Mendes, do Bobagento levando a galera até o chão com as músicas, principalmente os funks neuróticos. Dou destaque a música daquela menina pastora alucinada, entre outras montagem criadas pelo DJ. Minha bola fora pra ele foi ele não ter o créu pra tocar pra galera, perdeu alguns pontos comigo nessa hora, mas sem problemas, fizemos o chão, chão, chão da mesma forma, com outras músicas.
 
-#### Dulcetti Piadista...
+### Dulcetti Piadista...
 
 ![Dulcetti contando piada pra galera](/assets/images/posts/dulcetti-contando-piada.jpg)
 Bruno contando piada pro pessoal.
@@ -194,7 +194,7 @@ Sim, o terceiro e último dia. Tudo que é bom dura pouco não é verdade modafo
 
 No domingo eu acordei 11h15, por ae. Bem tarde, pois o evento começava 9h, 9h30, em torno disso. E o povo já twittava da UFES. Isso me animou e me fez ir, junto com o Yoda, para o BlogCamp. Infelizmente o Mackeenzy e o Ariel não foram, resolveram ficar no hotel. Mas sem problemas, fomos mesmo assim.
 
-#### O que teve por lá nesse dia, Bruno?
+### O que teve por lá nesse dia, Bruno?
 
 Tínhamos combinado no sábado que rolaria o primeiro BlogCampo. Exatamente isso que você leu, blogcampo. Blogueiros habilidosos, com classe, raça, amor a camisa, determinação e coragem, resolveram se aventurar a jogar um futebol. Percebeu que isso não ia dar certo não é verdade?
 

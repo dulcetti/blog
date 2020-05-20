@@ -28,17 +28,17 @@ Era a palestra que eu mais queria ir mesmo. Conhecer esse software, que pelo que
 
 Ele citou alguns Cases modafocas que vou citar abaixo:
 
-#### eBay
+### eBay
 
 Mostrando exemplo do eBay.com feito com AIR e Flex. Mostra como funciona, que não precisa de refreshs para atualizar os leilões, facilitando a experiência do usuário. Um exemplo de aplicação, foi quando ele falou que basta arrastar uma foto do seu desktop para o aplicativo do eBay, que já temos a imagem do produto a ser leiloado.
 
-#### SAP
+### SAP
 
 Conexao entre os dados: caso esteja online, ele pega as informações da última atualização e traz para o aplicativo; caso esteja offline, ele pega as últimas informações adquiridas na última vez que tenha ficado online.
 
 Reforça este ponto de poder ter essa sincronização online/offline, a experiência do usuário melhoradas, podendo trabalhar tanto online, quanto offline.
 
-#### Anthropologie
+### Anthropologie
 
 Mostra o exemplo preferido por ele, de uma confecção de roupas femininas. Impressionante a aplicação, que é um catálogo que o usuário baixa da internet e pode ter todas as roupas atualizadas, sem que precise receber um catálogo a cada estação do ano, por exemplo.
 
@@ -46,7 +46,7 @@ A cada momento que o usuário se conectar na internet, ele recebe todo o catálo
 
 Você pode adicionar notes nas roupas adquiridas, colocá-las no carrinho, para sim, quando você estiver satisfeito, conectar-se a internet e enviar o pedido.
 
-#### Nickelodeon
+### Nickelodeon
 
 Aplicativo infantil, onde possui jogos. A cada acesso, o aplicativo baixa um jogo diferente. O mais interessante é que no jogo de quebra cabeças, a criança pode montar todo o quebra cabeça, mas sempre resta uma peça.
 

@@ -122,7 +122,7 @@ Primeira linha foi explicado anteriormento, é o valor padrão, mantém um espa�
 
 A propriedade border-spacing não é muito utilizada, talvez pela pouca utilização das tabelas hoje em dia, por isso, muitos não sabem sua funcionalidade.
 
-#### Mas Bruno, está diferente do feito com os atributos na tag `<table>`.
+### Mas Bruno, está diferente do feito com os atributos na tag `<table>`.
 
 Eu sei, calma. Precisamos lembrar, que estamos setando estes valores, para a tag `<table>` somente. Para ter o resultado semelhante, você precisaria colocar um padding também no `<td>`:
 
@@ -168,7 +168,7 @@ Vamos ver mais um exemplo com tabelas com bordas:
 </table>
 ```
 
-#### Mas Bruno, por que que entre os tds estão menores que entre a tabela e o td?
+### Mas Bruno, por que que entre os tds estão menores que entre a tabela e o td?
 
 Simples. Como setamos 10px de padding para tabela, todo seu conteúdo ficará 10 pixels mais pra dentro da tabela e somando os 10px setados no border-spacing, que é o espaçamento entre as células da tabela, como explicado lá em cima.
 
@@ -178,11 +178,11 @@ Legal não é verdade? Espero que tenham entendido e qualquer dúvida, erro, é 
 
 Aquele abraço.
 
-#### \[UPDATE\]
+### \[UPDATE\]
 
 Maldito i.e. Lembrando que ele não aceita esses parâmetros. Alguém tem dúvida sobre o porquê desse browser ser ruim?
 
-#### \[UPDATE 02\]
+### \[UPDATE 02\]
 
 Colocando o complemento do Samy para os iniciantes. Eu coloquei cada atributo em sua respectiva tag, é só ver no código fonte o style em cada tag, portanto, devemos seguir as seguinte regras:
 

@@ -70,30 +70,30 @@ a:hover {
 
 Vou explicar cada linha agora:
 
-#### `* { margin: 0; padding: 0; }`
+### `* { margin: 0; padding: 0; }`
 
 - Estou zerando todas as margens e paddings de todos os elementos.
 
-#### `body { }`
+### `body { }`
 
 - No body eu centralizei o posicionamento do texto, para o conteúdo ficar centralizado, divs, etc.
 - Coloquei uma margem superior de 10px (O padding é para o opera).
 - Configurei uma fonte em negrito, com 0.65 de tamanho na tipografia Trebuchet MS.
 
-#### `a { font-weight: bold; color: #454545; }`
+### `a { font-weight: bold; color: #454545; }`
 
 - Deixando os links em negrito e com um cinza escuro como cor.
 
-#### `a:hover { text-decoration: none; color: #666666; }`
+### `a:hover { text-decoration: none; color: #666666; }`
 
 - Tirando o sublinhado e deixado a cor do link com um cinza um pouco mais claro ao passar o mouse em cima do link.
 
-#### `#geral { }`
+### `#geral { }`
 
 - Deixei o margin auto para que ele herdasse do "pai", que é o body o alinhamento, que está centralizado pelo text-align no body
 - Defini um tamanho de 450px de largura para ele
 
-#### `#conteudo { }`
+### `#conteudo { }`
 
 - Definido uma borda de 1px sólida em volta do div, para fazer o contorno desejado
 - Zerando a borda superior do div
@@ -129,13 +129,13 @@ ul.menu li.on {
 
 Vou explicar cada linha agora:
 
-#### `ul.menu { }`
+### `ul.menu { }`
 
 - Limpando o estilo de marcaçao da lista.
 - Definindo uma altura de 21px.
 - Definindo um background repetindo somente na horizontal, posicionado na esquerda e na base.
 
-#### `ul.menu li { }`
+### `ul.menu li { }`
 
 - Definindo que ele fique sempre à esquerda.
 - Definindo uma largura de 104px.
@@ -144,7 +144,7 @@ Vou explicar cada linha agora:
 - Centralizando o texto.
 - Definindo a figura da aba como background.
 
-#### `ul.menu li.on { }`
+### `ul.menu li.on { }`
 
 - Definindo a figura da aba do menu em on, ativo, como background.
 

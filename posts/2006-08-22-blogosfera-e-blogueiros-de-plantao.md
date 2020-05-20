@@ -18,11 +18,11 @@ Claro, isso que estava querendo dizer.
 
 Venho nesse post, falar sobre a [Blogosfera](http://br.groups.yahoo.com/group/blogosfera/). Uma grande lista que entrei no final da semana passada. Vi se não me engano no [Carreira Solo](http://www.carreirasolo.org/).
 
-#### E não é q ela existe mesmo?!?!?!
+### E não é q ela existe mesmo?!?!?!
 
 Sim, sim gafanhoto, ela existe. Mas não é nada disso q vc está pensando. Naum é nenhum ser de outro planeta ou mais um movimento dos [MST](http://pt.wikipedia.org/wiki/MST), ou quem sabe mais um acontecimento histórico... Nada disso...
 
-#### Ah sim... Ufa... Mas o que seria a Blogosfera?
+### Ah sim... Ufa... Mas o que seria a Blogosfera?
 
 Por enquanto a famosa [Blogosfera](http://br.groups.yahoo.com/group/blogosfera/) é somente uma lista de discussão, onde Blogueiros como eu, você, etc, trocam e discutem idéias, uns xingam os outros, chamam de idiota, entre outros feitos... uahuauhauuauauhauua
 

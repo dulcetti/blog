@@ -12,7 +12,7 @@ Sim, agora é oficial. O Videolog, maior, melhor, o mais fodástico e modafoca d
 
 Bem legal mesmo. É tão bom ver todo o esforço todo depositado num projeto desses, tão grande, tão foda, em prática, realmente pronto, visualizado, sólido. Mesmo que ainda em fase de testes, não estando 100%, ainda sim é muito bom.
 
-#### A ação utilizada para essa atualizada.
+### A ação utilizada para essa atualizada.
 
 Bom, como vocês já sabem, uma atualização, reestruturação, etc, etc, demora um pouco, principalmente no caso de um portal como o Videolog, tamanho e tudo mais.
 
@@ -39,7 +39,7 @@ Se deu certo? Mas claro que deu. Bastou postar no twitter, que um monte de gente
 
 E não rolou somente o streaming, mas também um chat com todo mundo que entrasse no nosso streaming. Chegamos a receber 96 pessoas simultâneas, um número impressionante, ficando um bom tempo na capa do site de streaming que usamos.
 
-#### Quem maneiro, hein Brunão. Legal é que o pessoal vê que existem pessoas normais por aí.
+### Quem maneiro, hein Brunão. Legal é que o pessoal vê que existem pessoas normais por aí.
 
 Não exagere por favor. Não somos tão normais assim, principalmente Dulcetti aqui :P Mas pelo menos a galera vê que o Videolog e feito não só pela gente, mas por vocês também. Enquanto aprontávamos os detalhes, a galera toda aprontava também a bagunça. E isso foi legal e essencial, para nos motivar a fazer melhor ainda o trabalho. Cada gota de detalhe e qualidade, devemos a vocês, usuários do [Videolog](http://www.videolog.tv).
 

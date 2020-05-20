@@ -33,7 +33,7 @@ Textos retirados diretamente do site.
 - [Simulação](http://www.campus-party.com.br/index.php3?SEC=9&action=HOME&checksum=0e6411baca71a634910c944913597523)
 - [Software Livre](http://www.campus-party.com.br/index.php3?SEC=10&action=HOME&checksum=ce794daf96fd774bda9d5c38907dacb1)
 
-#### Vai ficar em qual Dulcetti?
+### Vai ficar em qual Dulcetti?
 
 Como um bom e fiel blogueiro, ficarei no Campus Blog, mas visitarei todos, principalmente a de desenvolvimento e música e passarei também em criação. Mas vale a pena passar em tudo, conhecer todo mundo que puder conhecer.
 

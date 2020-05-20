@@ -33,11 +33,11 @@ O início foi aquela baboseira de sempre: fala da empresa, como começou, mostra
 3. O Youtube tem audiência 3x maior que a série de maior audiência no Brasil, Heroes.
 4. O Google ficava com seus servidores em uma garagem nos EUA. Hoje o dono dessa garagem esta empregado no Google e eles são eternamente gratos por esse espaço cedido em 1997.
 
-#### Usuário é quem manda, tá ligado?
+### Usuário é quem manda, tá ligado?
 
 Gostei quando um dos caboclos disseram que o usuário define o que vive e o que morre na web hoje em dia. O exemplo citado foi a existência do [Google Earth](http://earth.google.com/intl/pt/) e [Google Mars](http://www.google.com/mars/). O segundo não é utilizado praticamente e poucas pessoas se lembram ou sabem da existência dele hoje.
 
-#### Nuvens carregadas... De dados. Cloud Computing
+### Nuvens carregadas... De dados. Cloud Computing
 
 Destruição de máquinas e computadores. Armazenamento físico será extinto. Os HDs tendem a sumir, pois a proposta é colocar seus dados nesse projeto de Cloud Computing. Onde ficará tudo "voando" por ae.
 
@@ -47,7 +47,7 @@ Bem revolucionário, mas pode ser perigoso. Tive umas boas conversas, com outras
 
 É. Por ae mesmo. Já tinha dito mais acima, pela manhã rolou apresentações sobre os produtos, cases e APIs do Google e tudo mais. Uma breve apresentação do que seria falado na parte da tarde, onde teria o conteúdo mais aprofundado. Abaixo uma breve passagem do que eu peguei e que foi citado. Falaram mais coisas, mas meu sono e a sonolência do palestrante também não me deixou muito animado :P
 
-#### Google App Engine
+### Google App Engine
 
 ![Slide App Engine](/assets/images/posts/2644119542_fb2abe8423.jpg)
 
@@ -63,11 +63,11 @@ No que eles estão trabalhando:
 - Novas APIs de desenvolvimento
 - Serviços de Infra Estrutura Adicionais
 
-#### Android
+### Android
 
 Aplicativo mobile e multiplataforma. Você não precisará mais se preocupar com várias plataformas mobile, pois o Android cuidará de tudo isso. Isso é sensacional
 
-#### Open Social
+### Open Social
 
 Pontos citados na palestra:
 
@@ -82,7 +82,7 @@ Pontos citados na palestra:
 
 Trazer amigos de todas as plataformas do Open Social para os aplicativos criados a partir do próprio Open Social.
 
-#### Geo
+### Geo
 
 Mostraram a utilização do Google Maps com o Google Earth, utilizando Flash. A incrível sacada foi, que para a utilização disso você precisa apenas de uma linha a mais no código.
 
@@ -92,7 +92,7 @@ Bela citação, falando sobre o evento, que não é sobre o Google e sim sobre n
 
 Naturalmente meu nobre. Vamos começar agora tudo isso. Será apenas uma breve passagem, nada de muito texto e talz.
 
-#### Palestra sobre Gears
+### Palestra sobre Gears
 
 O Banco de Dados que é utilizado no Gears é o [SQLite](http://www.sqlite.org/), por ser leve e por poder ser carregado em dispositivos mobile sem problemas e com rapidez.
 
@@ -100,7 +100,7 @@ E utiliza conexão com JSon, ponto que eu achei sensacional, já que Json é de 
 
 Um caso é o Google Reader, que ele baixa os posts de um feed para sua máquina, não precisando estar conectado para ler após o término do download de todos os feeds. Isso é muito bom na minha opinião.
 
-#### Palestra sobre Open Social & Orkut
+### Palestra sobre Open Social & Orkut
 
 ![Slide do Open Social](/assets/images/posts/2644122034_8eb9cda08d.jpg)
 
@@ -130,7 +130,7 @@ Mostraram alguns exemplos interessantes de aplicativos criados para o Orkut e ta
 
 Lembrando que esses apps ainda não funcionam para usuários brasileiros.
 
-#### Google Maps API Avançado
+### Google Maps API Avançado
 
 Fui dar uma futucada nessa palestra sobre Maps, já que dizia ser avançada e tudo mais. Mas não achei nada muito chamativo e surpreendente. Logicamente que estou falando da palestra e não da ferramenta, que eu acho muito modafoca de irada. Mas foi mais uma palestra mostrando o que é possível fazer com recursos avançados. Nem tanto disso, foi mais apresentação de cases avançados, utilizando a ferramenta.
 

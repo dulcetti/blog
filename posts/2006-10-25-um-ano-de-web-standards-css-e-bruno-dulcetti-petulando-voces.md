@@ -20,13 +20,13 @@ Muito obrigado pelos que visitam desde o início deste Blog, que já passou por 
 
 Fiz grandes amigos por aqui, tudo bem que virtualmente. Mas fiz também alguns pessoalmente, tudo bem que poucos, mas conheci bastante gente.
 
-#### Online
+### Online
 
 Conheci pessoas ilustres, no modo ONLINE, como: [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), [Henrique C. Pereira](http://revolucao.etc.br), [Bruno Torres](http://brunotorres.net), [Bruno Alves](http://brunoalves.eti.br), [Giovanni](http://www.bitfrito.com/), [Lucas Ferreira](http://lucasferreira.com), [Walmar Andrade](http://fatorw.com), [Ciro Feitosa](http://cirofeitosa.com.br), entre muuuuuuuuuitos outros. ([Micox](http://elmicox.blogspot.com/), não sei teu nome o porra... uahuahuauhuauha)
 
 Uns comentam, frequentam meu Blog, outros assinam meu feeds, outros linkam ou já linkaram meu Blog, entre outras coisas mais por ae... Pelo menos já ouviram falar meu nome ou já me responderam no MSN ou Gtalk :D
 
-#### Pessoalmente
+### Pessoalmente
 
 Recentemente, ontem pra ser mais preciso, conheci uma ótima pessoa (pessoalmente mesmo) que participa comigo da Blogosfera, o [Fábio Seixas](http://fabioseixas.com.br/blog/), um dos sócios da [Camiseteria](http://www.camiseteria.com/?ref=brunodulcetti). Gente finíssima, conversou comigo e com o Ariel aqui na Produzindo, para conversarmos sobre possíveis parcerias entre o [Videolog](http://www.videolog.tv) e o [Camiseteria](http://www.camiseteria.com/?ref=brunodulcetti), trocamos algumas figurinhas, idéias, entre outras coisas.
 
@@ -50,13 +50,13 @@ Fui chamado por grandes empresas, mas isso fica em off por enquanto, fui chamado
 
 Um Blog serve pra isso e muito mais. É só usar com moderação, de maneira correta. :D
 
-#### Videolog
+### Videolog
 
 Tenho que agradecer ao pessoal do Videolog que me acolheu para esse grandioso projeto, que hoje entrou, finalmente, pra fud.. geral. Agora vamos arrebentar de vez, aguardem.
 
 Foi e está sendo uma experiência muito foda (desculpem o termo, mas foi o mais perfeito que achei pra expressar), aprendi bastante, ajudei, ganhei moral, ganhei visibilidade, muitas pessoas entrando em contato, entre outras coisas mais.
 
-#### Imasters
+### Imasters
 
 Muito bom também participar do portal iMasters, que me deu visibilidade, conhecimento e tudo mais. Com o espaço para os artigos, consegui um espaço legal, conheci pessoas bacanas, gentes finíssimas e de grande conhecimento. (ok, algumas são um pé no saco e só enxem o meu saco :D mas faz parte)
 

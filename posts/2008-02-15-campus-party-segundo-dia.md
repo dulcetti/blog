@@ -14,7 +14,7 @@ Bom, comentei um pouco sobre a madrugada aqui no [Campus Party](http://www.campu
 
 Mas rolou uns bate papos legais, risadas com um hippie maluco cantando e tocando gaita.
 
-#### Encontrou mais alguém Bruno?
+### Encontrou mais alguém Bruno?
 
 Reencontrei o [Metzen](http://www.metzen.com.br/blog/), desenvolvedor do [iMasters](http://www.imasters.com.br), que não o via desde o [Intercon 2007](/retrospectiva-intercon-2007.html). Isso durante a madrugada, lógico...
 
@@ -22,7 +22,7 @@ Reencontrei o [Metzen](http://www.metzen.com.br/blog/), desenvolvedor do [iMaste
 
 Sucesso total. Conheci outras pessoas, como o Horácio do [Acesso Digital](http://acessodigital.net/), bati um papo com o Edney do [Interney Blogs](http://www.interney.net/), a lenda da Blogosfera Brasileira, conheci o Gawry que mora no Rio. Bati um papo com o [Inagaki](http://www.interney.net/blogs/inagaki/), não muito tempo, mas deu pra conversar um pouco. Conversei também com o [Marco Gomes](http://www.marcogomes.com/) um bocado e ele adorou o [Videolog](http://www.videolog.tv), assim como o Henrique do [Revolução etc](http://revolucao.etc.br/). Guilherme do [Papo de Homem](http://papodehomem.com.br/), Ian Black do [Enloucrescendo](http://www.interney.net/blogs/enloucrescendo/) e sua [primeira dama](http://chiqueirochique.com/) :D, [Mirian Bottan](http://substantivolatil.com/), [Thiago Mobilon](http://tecnoblog.net/), Helton do [HighTech Live](http://www.hitechlive.com.br/), Jonny Kenn do [InfoBlog](http://www.jonnyken.com/infoblog/), Simone do [Pixeladas Aleatórias](http://s1mone.net/), a chefe [Lúcia Freitas](http://www.ladybugbrazil.com/) :P, todos os Rafaéis da Blogosfera :D, entre outros.
 
-#### Dulcetti ator?
+### Dulcetti ator?
 
 É isso mesmo que você leu. Uma linda mulher do Portal Limão, me chamou para conversar, para mostrar a idéia de um curta metragem que eles (Limão) estavam afim de criar. Algo com o tema "Amor 2.0", na leva da web 2.0 e talz. Uma história meio engraçada, bem curta, com poucas falas.
 
@@ -48,7 +48,7 @@ Mas então. Depois bati vários papos, vi uma palestra sobre Programação com o
 
 Verdade sim. E um absurdo. Como que num evento deste tamanho, dessa estrutura, falar que não pode beber... Aff... Mas mesmo assim não resistimos e partimos pra um bar, Horácio, Simone, Apocalypse, Gawry e eu. Fomos saindo do parque na caça frenética ao ambulante ou algo semelhante.
 
-#### E acharam algum?
+### E acharam algum?
 
 Graças a Deus sim :D Mas o rapaz já estava indo embora e só conseguimos comprar uma latinha. Mas somos brasileiros e não desistimos nunca. Depois da primeira latinha, partimos rumo ao bar. E não é que achamos o tal bar mesmo?
 

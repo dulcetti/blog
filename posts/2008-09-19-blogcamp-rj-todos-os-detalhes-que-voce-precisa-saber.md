@@ -16,11 +16,11 @@ Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NA
 
 Sim, eu enrolei pra kct, mas eu juro que não foi por mal. Problemas com data, que começou a ser formado para início de julho, logo depois passado para entre o final de julho ou início de agosto. Mais tarde foi marcado para entre o final agosto e inicio de setembro. Mas no final, acabou sendo marcado para o início de outubro.
 
-#### Beleza então Dulça. Teremos o BlogCamp RJ em outubro então?
+### Beleza então Dulça. Teremos o BlogCamp RJ em outubro então?
 
 Se eu falar não, você acredita? Por causa das eleições no início do mês e o [Intercon 2008](http://imasters.uol.com.br/intercon/2008/) no final do mês de outubro, acabamos marcando para o último final de semana de setembro.
 
-#### Ahhh tah. Finalmente então né Bruno?
+### Ahhh tah. Finalmente então né Bruno?
 
 É, com certeza. Finalmente a data foi decidida, mas quase que ela foi remarcada, por causa de um dos evento que está planejado para o final de semana. Mas o modafoca aqui conseguiu manter a data :D
 
@@ -32,7 +32,7 @@ O evento pára às 12h30 para o almoço, tendo o retorno às 14h, lotando as are
 
 E o final do evento será às 18h, na Arena Principal, com os agradecimentos e todo blá, blá, blá de sempre. E logo depois, partimos para um Botecamp ;)
 
-#### Tá, mas e o local o modafoca?
+### Tá, mas e o local o modafoca?
 
 ![Foto da Entrada do NAVE](/assets/images/posts/foto-nave.jpg)
 
@@ -58,7 +58,7 @@ Estamos organizando um estilo um pouco diferente dos BlogCamps que participei. O
 
 Dividiremos em 3 arenas, lembrando que a quarta é surpresa, portanto, fique quieto porque eu não falarei sobre :D. Cada arena terá um moderador, pra que nada vire zona ok? Estaremos de olho modafoca. Prepare-se. As arenas serão as seguintes:
 
-#### Arena Principal
+### Arena Principal
 
 ![Foto da Arena Principal](/assets/images/posts/foto-arena-principal.jpg)
 
@@ -82,7 +82,7 @@ Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas p
 
 O moderador dessa sala será o Beto Largman e o Nick Ellis. Grandes e renomados modafocas da blogosfera brasileira.
 
-#### Arena Business
+### Arena Business
 
 ![Foto da Arena Business](/assets/images/posts/foto-arena-business.jpg)
 
@@ -106,7 +106,7 @@ As novidades dessa sala é que possuem computadores para quem não trouxer noteb
 
 Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quando tiver alguma discussão sem fim, onde não se chega num denominador comum, ou algum certo :). Legal né?
 
-#### Área Tech
+### Área Tech
 
 ![Foto de fora da arena Tech](/assets/images/posts/foto-arena-tech-externa.jpg)
 
@@ -126,7 +126,7 @@ Pela primeira vez, que eu me lembre, teremos uma área específica para a galera
 
 Bom, o moderador será... Rá, eu mermo, esse modafoca pró++ mór de todos, azucrinando vocês, tocando o terror e deixando tudo virar uma zona tremenda. Ok, ok, mentira, mas a sala ficará legal, eu prometo ;)
 
-#### Praça do NAVE
+### Praça do NAVE
 
 ![Foto da Praça do NAVE](/assets/images/posts/praca-nave.jpg)
 
@@ -158,7 +158,7 @@ A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai no 204, como 
 
 Bom, você tem algumas opções de como chegar, a partir de alguns pontos que vou especificar abaixo. Não vou pegar cada bairro e ensinar, senão o post ficará do tamanho da Bíblia. Portanto, estarei especificando pontos principais, para a galera que vem de fora.
 
-#### Rodoviária Novo Rio
+### Rodoviária Novo Rio
 
 Creio que será um dos principais pontos que a galera vai partir. Claro que nem todos virão direto no sábado, mas para aqueles que optarem por essa opção é só seguir a dica:
 
@@ -203,7 +203,7 @@ Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês]
 15. Segue até o final dela, que chega o cruzamento com a Rua Uruguai.
 16. Virou à esquerda, andou 50mts e estamos na NAVE :D
 
-#### Aeroporto Santos Dumont
+### Aeroporto Santos Dumont
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=-22.906212,-43.168309&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;sll=-22.904305,-43.172107&amp;sspn=0.008104,0.013089&amp;ie=UTF8&amp;t=h&amp;ll=-22.904552,-43.168834&amp;spn=0.008104,0.013089&amp;output=embed&amp;s=AARTsJr6pv0yVSJbg9cGi42UhatrKVQIgQ"></iframe>
 
@@ -223,7 +223,7 @@ O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal.
 
 Essa viagem dura +ou- uns 40 minutos.
 
-#### Aeroporto Galeão
+### Aeroporto Galeão
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;output=embed&amp;s=AARTsJrvuGjqh1RrG32ilZbzEsQAdMdDhg"></iframe>
 
@@ -247,7 +247,7 @@ Essa viagem dura +ou- uns 50 minutos.
 
 Existem outras alternativas, mas não vou colocar aqui não. Se vira :P
 
-#### E quem vai de táxi?
+### E quem vai de táxi?
 
 Não vou colocar para quem vai de táxi né modafoca? É só pedir pro taxista te deixar na Rua Uruguai, quase na esquina com a Barão de Mesquita. Na NAVE, se ele souber o que é isso :)
 
@@ -255,7 +255,7 @@ Não vou colocar para quem vai de táxi né modafoca? É só pedir pro taxista t
 
 E você acha que o modafoca aqui iria fazer essa desfeita? Mas é claro que não meu nobre. Fique tranquilo que pensamos em tudo (ou quase).
 
-#### E como vai ser a SEXta-Feira?
+### E como vai ser a SEXta-Feira?
 
 Como tem gente que não chega na sexta, apesar de boa parte ser do Rio mesmo, preparamos algo mais light para vocês, porém, ainda não é certo.
 
@@ -263,7 +263,7 @@ Nós estamos vendo se tem a possibilidade de reservar algumas mesas num bar com 
 
 O bacana será, talvez, a possibilidade de podermos fazer o setlist, pedindo músicas que quisermos. Vamos aguardar, confirmo tudo para vocês.
 
-#### E Sabadão Bruno?
+### E Sabadão Bruno?
 
 Sábado, após o BlogCamp, iremos para algum bar pela região, provavelmente pelo Praça Vanhargem, que possui vários bares e botecos legais. Não vou escolher um certo, vamos pra lá e a galera escolhe, vocês que estão mandando :)
 
@@ -275,7 +275,7 @@ O preço pode parecer meio caro, mas só que teremos cerveja, vodka, água e ref
 
 E o legal é que tem sinuca, um ambiente bem legal. [Mais informações](http://www.riolounge.com.br/noite/detalhe/evento/six_private_open_bar).
 
-#### Domingão será do Faustão modafoca?
+### Domingão será do Faustão modafoca?
 
 Jamais. Estamos organizando algo para integrar novamente a galera. Tivemos a idéia de um Churrasco ou um passeio à Paquetá de barca.
 
@@ -309,27 +309,27 @@ Vou listar abaixo alguns numeros sobre os inscritos no BlogCamp RJ. Divisão por
 
 **Número total de participantes:** 256
 
-#### Maior número de participantes por nome
+### Maior número de participantes por nome
 
 O nome Rafael foi o mais cadastrado para o BlogCamp, com 12 Rafaéis, fora os outros 2 com PH. Logo em seguida aparece o meu nome, Bruno com 8 ocorrências e em terceiro aparece o nome Alexandre, com 7 aparições.
 
-#### Sexos
+### Sexos
 
 Como se esperava, a grande maioria dos inscritos são homens, infelizmente :D. Foram 180 cadastros masculinos, aproximadamente 70% do total, enquanto a mulherada apareceu 76 vezes, aproximadamente 30% do total.
 
 Levando em consideração que algumas possuem namorados/maridos, sendo que eles podem estar no evento, pode brecar um pouco ae e vá com calma ok? Não quero problemas conjugais no BlogCamp :P
 
-#### Monetização
+### Monetização
 
 No aspecto de grana, a maioria monetiza, mas não tão maioria assim, com quase 53,5%. Enquanto 119 pessoas não monetizam seu blog, ou seja, quase 46,5% das pessoas não monetizam. Mas dessas 119, 44 querem ficar ricos monetizando seu blog, ou seja, um pouco mais de 36%. Espertinhos.
 
-#### Oficinas
+### Oficinas
 
 Dos cadastrados, apenas 26 deles não se interessaram em oficinas, praticamente 10%. O engraçado é que um cadastrado que não tem interesse em oficinas, se dispôs a realizar, mas não passou o tema. Essa eu não entendi :)
 
 Dos que se interessaram em oficinas, 67 se dispuseram a realizar oficinas, sendo que 26 deles não ofereceu nenhum tema.
 
-#### Inscritos por Região do País
+### Inscritos por Região do País
 
 Separei também os inscritos por localidade, tanto regiões, quanto estados. E como não poderia deixar de ser diferente, a imensa maioria vem do Rio de Janeiro, com 164 cadastrados. E o mais impressionante e a supremacia do sudeste em relação aos BlogCamps, que sempre são maioria.
 

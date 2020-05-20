@@ -14,13 +14,13 @@ Depois de mais de um ano, a [Globo.com](http://www.globo.com) lança um novo lay
 
 E também não tem como mudar muito, revolucionar toda hora, colocar um fundo preto ou algo do gênero. A grande parte da mudança se percebe na barra.
 
-#### A nova barra
+### A nova barra
 
 ![Comparação entre as barras](/assets/images/posts/barra-comparacao-300x53.jpg)
 
 Ela ficou sem os fundos coloridos, agora só recebendo um traço superior colorido no over do mouse. E a marca também foi alterada e na minha opinião foi uma alteração totalmente acertada ;)
 
-#### E os menus também mudaram
+### E os menus também mudaram
 
 ![Comparação entre os menus](/assets/images/posts/menu-comparacao.jpg)
 

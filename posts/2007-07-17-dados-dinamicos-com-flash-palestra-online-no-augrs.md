@@ -10,23 +10,23 @@ Falae pessoal. Venho por esse post, divulgar a palestra online que meu camarada 
 
 ## Dados dinâmicos com Flash
 
-#### Descrição:
+### Descrição:
 
 Na palestra "Dados dinâmicos com Flash", Bruno Ribeiro apresentará exemplos, técnicas e dicas para o uso de dados dinâmicos no Flash, abordando Flash Variables, XML e Web Services.
 
-#### O palestrante:
+### O palestrante:
 
 Bruno Ribeiro é desenvolvedor desde 1998 e certificado (Adobe Flash MX 2004 Developer e Dreamweaver 8). Passou por agências como Addcomm e Selulloid, atendeu clientes como Nissan, Universal Music, Duloren, entre outros. Hoje é analista de sistemas na Golden Cross.
 
-#### Data:
+### Data:
 
 19 de julho de 2007.
 
-#### Hora:
+### Hora:
 
 23h.
 
-#### URL:
+### URL:
 
 [http://adobechats.adobe.acrobat.com/augrs/](http://adobechats.adobe.acrobat.com/augrs/ 'Visitar o link da Palestra')
 

@@ -18,7 +18,7 @@ O "tagueamento", como o próprio Fábio disse, foi pelo meme "Resoluções 2007"
 
 Brigadão pelo convite Fábio, valew pela lembrança ;)
 
-#### Minha lista segue abaixo:
+### Minha lista segue abaixo:
 
 1. Colocar o [Videolog](http://videolog.uol.com.br) no topo;
 2. Dar mais visão ao [MMUG-RJ](http://www.mmug-rj.com.br), que virará AUG-RJ;

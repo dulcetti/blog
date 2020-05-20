@@ -20,7 +20,7 @@ Creio que praticamente todos já passaram um pouco sobre um "xiismo", seja lá q
 
 Isso me impressiona, pois mesmo mostrando as vantagens, o quanto é vantajoso, bom, o pessoal ainda cisma em falar que não é legal, não vê vantagem, dá trabalho, etc.
 
-#### Mas que dá trabalho, dá sim Bruno.
+### Mas que dá trabalho, dá sim Bruno.
 
 Logicamente. Por acaso você já viu alguma coisa boa, bem feita, que fosse simples, ridículo de fazer ou que não desse nenhum trabalho?
 
@@ -28,7 +28,7 @@ Muitas vezes, o problema dos desenvolvedores que ainda não aceitaram seguir os 
 
 Concordo que é cada um com seu cada um e eu estou aqui pra mostrar o meu. E na minha opinião, acho errado pensar dessa forma, no próprio nariz ao invés de pensar no trabalho final a ser apresentado pro cliente.
 
-#### Mas é tão fácil fazer sites em tabelas, no modo visual Bruno.
+### Mas é tão fácil fazer sites em tabelas, no modo visual Bruno.
 
 Concordo plenamente, com certeza. Mas concorde comigo também, o resultado é muito inferior em relação a código, futuras implementações e modificações no layout e compatibilidade em browsers, dispositivos móveis, acessibilidade, etc.
 
@@ -40,7 +40,7 @@ Temos também um pouco do xiismo de quem mexe com o Flash, sempre acham que o fl
 
 É verdade... Concordo com muita coisa nessa visão, mas acho que muitas vezes há um pouco desse xiismo, desse exagero por parte dos flasheiros, muitos desconsideram a parte de acessibilidade dos sites em flash, da usabilidade de alguns sites, da má indexação por parte dos buscadores como o Google, Yahoo, MSN, entre outros...
 
-#### Ah Bruno, mas você também está esquecendo desse pessoal xiita de webstandards
+### Ah Bruno, mas você também está esquecendo desse pessoal xiita de webstandards
 
 Relaxa, falarei agora sobre isso.
 

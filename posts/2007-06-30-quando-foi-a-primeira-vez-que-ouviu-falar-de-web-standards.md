@@ -12,7 +12,7 @@ title: 'Quando foi a primeira vez que ouviu falar de web standards?'
 
 Lembro como se fosse ontem. :D Na verdade, tudo começou com o termo tableless, bem marketeiro e que até hoje as pessoas continuam chamando de método. Mas tudo bem, web2.0 também né? Fazer o que né?
 
-#### Primeiro Contato com web standards (tableless não :D)...
+### Primeiro Contato com web standards (tableless não :D)...
 
 Lembro que foi num e-mail que minha chefa mandou pra mim, pra eu começar a estudar, porque aquilo ali, provavelmente seria o "futuro" do desenvolvimento web.
 

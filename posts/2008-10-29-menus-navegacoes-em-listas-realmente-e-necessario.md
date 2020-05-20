@@ -14,11 +14,11 @@ Tá beleza, menus se tratam de uma listagem de links, pensando por esse lado, tu
 
 Meio bizarro pensar não é? Parece meio idiota, eu sei, mas eu sou meio toupeira, imbecil, entendam isso por favor. Mas pensem comigo: imaginem um post de um blog, como este modafoca aqui mesmo. Nele você possui uma porrada de parágrafos, certo? Escrevo um post, onde detalho algumas coisas e escrevo bastantes ou poucos parágrafos, não importa.
 
-#### Mas onde você que chegar Bruno?
+### Mas onde você que chegar Bruno?
 
 E imaginem um layout, onde você possua três colunas, como o [Papo de Bêbado](http://www.papodebebado.com), por exemplo. Se são três colunas, então é uma listagem de três colunas, certo? Igualmente bizarro, mas fluindo nos pensamentos que vejo por ae, essa seria a teoria.
 
-#### Tá bom o modafoca, mas onde você quer chegar realmente?
+### Tá bom o modafoca, mas onde você quer chegar realmente?
 
 Ok, vamos lá. É meio ridículo ter uma listagem de parágrafos e de colunas, já que parágrafos possuem sua tag prioritária, o <p> e as colunas, apesar de não possuir uma tag específica, colocamos dentro de uma div. Até aí tá tudo certinho.
 
@@ -28,13 +28,13 @@ Com isso, eu lhe pergunto:
 
 > Por que colocar menus numa lista?
 
-#### Para ficar mais organizado?
+### Para ficar mais organizado?
 
 Coloquem dentro de uma <div> que estarão organizados da mesma forma. E você ainda terá menos coisas com que se preocupar, principalmente pensando no modo IE. Temos problemas quando nossos links ficam como blocos dentro de uma lista. Facilmente contornado, sim, eu sei, mas podendo evitar isso, melhor, concorda?
 
 E vira e mexe eu não quero que meus menus fiquei na vertical e com um maldito bullet ao lado, quando eu não possuir CSS habilitado. E principalmente porque não quero eles em blocos quando forem números de um elemento de paginação.
 
-#### Mas ae é só você colocar fora de listas quando for paginação
+### Mas ae é só você colocar fora de listas quando for paginação
 
 Sim, já pensei nisso, mas e o padrão? Onde fica? É padrão ou é podrão?
 

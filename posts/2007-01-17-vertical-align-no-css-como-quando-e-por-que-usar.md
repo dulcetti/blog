@@ -20,13 +20,13 @@ Primeiramente, a propriedade vertical-align não é para ser aplicada em blocos 
 
 Vamos ver um exemplo de como os iniciantes utilizam a propriedade:
 
-#### Código HTML:
+### Código HTML:
 
 ```html
 <div id="box">Meu texto bem aqui.</div>
 ```
 
-#### Código CSS:
+### Código CSS:
 
 ```css
 #box {
@@ -62,7 +62,7 @@ Temos algumas variedades de resolver tal problema. A primeira seria a utilizaç�
 
 Podemos ver o resultado desse exemplo aqui.
 
-#### Restrições e problemas.
+### Restrições e problemas.
 
 Como sempre, temos restrições nesse exemplo. Na verdade temos em tudo não é verdade?
 
@@ -111,7 +111,7 @@ Esse é o ponto que quero chegar. Como eu disse, o vertical-align são para elem
 
 Mostrarei alguns exemplos de como e quando usar o vertical-align.
 
-#### Alinhando imagem e texto centralizado verticalmente com o vertical-align.
+### Alinhando imagem e texto centralizado verticalmente com o vertical-align.
 
 Veremos no código abaixo, como fazer para alinhar uma imagem e um texto centralizado verticalmente:
 
@@ -142,7 +142,7 @@ Como podemos ver, a imagem e o texto ficaram centralizados verticalmente. Mas is
 
 Tudo bem que neste exemplo eles acabaram ficando, mas porque eu retirei a propriedade height de dentro do CSS no bloco #box. Caso eu coloque um altura, não ficará mais.
 
-#### Alinhando inputs e texto centralizado verticalmente com o vertical-align.
+### Alinhando inputs e texto centralizado verticalmente com o vertical-align.
 
 Veremos no código abaixo, como fazer para alinhar um input de texto e um texto centralizado verticalmente:
 
@@ -178,7 +178,7 @@ O Firefox já posiciona verticalmente, sem precisar do vertical-align, mas o ie 
 
 Qual dos dois está correto, não sei ao certo, mas como o Firefox está mais avançado em relação as CSS’s, então deduzo que ele está correto, principalmente pela próxima solução.
 
-#### Alinhando inputs e texto centralizado verticalmente com o vertical-align – Parte 2.
+### Alinhando inputs e texto centralizado verticalmente com o vertical-align – Parte 2.
 
 Somente uma segunda solução que funciona em todos.
 
@@ -214,7 +214,7 @@ Agora sim. Sem hacks e funcionando corretamente em todos. A diferença foi coloc
 
 Com esse exemplo, deduzo que o Firefox está correto na renderização do exemplo anterior. Ele adiciona o vertical-align no input, deixando o texto sem. E no ie, parece que ao colocar no input, o texto já leva como padrão o vertical-align.
 
-#### Alinhando inputs e texto centralizado verticalmente com o vertical-align – Parte 3.
+### Alinhando inputs e texto centralizado verticalmente com o vertical-align – Parte 3.
 
 A versão mais correta e semântica para este exemplo:
 

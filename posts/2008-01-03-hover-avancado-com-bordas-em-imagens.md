@@ -57,7 +57,7 @@ Um bando de `<li>` com link dentro, com imagem dentro, dentro de uma `<ul>`. É 
 
 Agora vamos a parte maaaaais complicada, pra variar...
 
-#### Implementando o CSS do efeito...
+### Implementando o CSS do efeito...
 
 Sim. O CSS é a parte mais chatinha de fazer e ser entendida. Eu sempre acho que é a parte mais tenebrosa para um desenvolvedor web.
 
@@ -104,7 +104,7 @@ Calmae, muita calma nessa hora. Já deu pra ver o início do resultado, do nosso
 
 Agora falta o principal... O hover.
 
-#### O tão falado e temido hover...
+### O tão falado e temido hover...
 
 Como já sabemos, o nosso grande amigo e preferido browser, vulgo IE, não aceita a pseudo-classe :hover.
 

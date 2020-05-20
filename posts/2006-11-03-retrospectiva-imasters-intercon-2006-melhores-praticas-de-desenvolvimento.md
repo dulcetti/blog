@@ -12,7 +12,7 @@ E ae pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar
 
 O Imasters Intercon é um evento que é organizado pelo portal Imasters, um dos maiores, se não for o maior da internet no Brasil.
 
-#### Onde que rolou?
+### Onde que rolou?
 
 O evento aconteceu na cidade de São Paulo, no Hotel Jaraguá.
 
@@ -32,7 +32,7 @@ Nessa primeira levada, comentarei sobre a sala de Programação e Tecnologia, qu
 
 ## Primeira Palestra - Tema: As melhores práticas de desenvolvimento - A web para quem faz web
 
-#### Palestrante: Paulino Michelazzo - Professor e Consultor
+### Palestrante: Paulino Michelazzo - Professor e Consultor
 
 A palestra, no início, foi um pouco massante, porém engraçada, levada de uma maneira diferenciada e que quebrava um pouco o cansaço normal de palestras muito faladas. Gostei da citação de alguns termos e exemplos de erros equivocados de alguns desenvolvedores, etc.
 
@@ -54,7 +54,7 @@ Boa palestra. Um pouco cansativa às vezes, mas no geral, gostei.
 
 ## Segunda Palestra - Tema: Como garantir a qualidade das aplicações no mundo competitivo de TI
 
-#### Palestrante: Vivian Menezes de Oliveira - Gerente de Testes e Qualidade da VIVO
+### Palestrante: Vivian Menezes de Oliveira - Gerente de Testes e Qualidade da VIVO
 
 Muito segura e firme em suas palavras. Ótima palestrante, soube passar muito bem o conteúdo de sua palestra para o público, mostrando um pouco sobre a importância e resultados quando um projeot possui uma equipe e uma metodologia de Teste.
 
@@ -76,7 +76,7 @@ Bela citação sobre como garantir qualidade no mercado atual, mostrando que pes
 
 ## Terceira Palestra - Tema: As melhores práticas em projetos de banco de dados para obter desempenho nas aplicações
 
-#### Palestrante: Salvio Padlipskas - Professor
+### Palestrante: Salvio Padlipskas - Professor
 
 Citou parte de documentação do software, sua importância e, geralmente, sua falta de implementação em projetos.
 
@@ -112,7 +112,7 @@ Gostei bastante do seu jeito um pouco humorístico de levar a palestra, brincou 
 
 ## Vou ficando por aqui.
 
-#### aaaaaaaaaaaaaaaahhhhhhhhhhhhhh...
+### aaaaaaaaaaaaaaaahhhhhhhhhhhhhh...
 
 Daqui a pouco este post vai ficar meio grande e cansativo. Depois falarei mais sobre o evento, a segunda parte do próprio, etc.
 

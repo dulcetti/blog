@@ -29,7 +29,7 @@ Dei uma olhada muito rápida nos links e o q mais me agradou foi o Clean CSS, pe
 
 Bom, retornando ao assunto do Post, vou comentar sobre mais alguns pontos de escrita dos CSS's. Eu batizarei um de hierarquia de elementos e o outro de referência de tags.
 
-#### Hierarquia de Elementos
+### Hierarquia de Elementos
 
 Quando falo de hierarquia de elementos no CSS, estou falando de elementos filhos sendo hierarquizados dentro dos arquivos CSS's. Eu, na grande maioria das vezes, não faço hierarquia, utilizando somente a div correspondente.
 
@@ -93,7 +93,7 @@ Existem pontos fortes e fracos na utilização dessa hierarquia. O Ponto positiv
 
 Muitos desenvolvedores utilizam a forma hierárquica, pois fica fácil de saber onde aquele elemento está, é filho de quem, etc. Mas se você trabalhar com CSS corretamente, separando seus arquivos CSS's, com nomenclaturas corretas, você não precisará se preocupar com esses detalhes.
 
-#### Referência de Tags
+### Referência de Tags
 
 Este é simples e muitos usam este método. Mostrarei abaixo um exemplo para depois explicar:
 

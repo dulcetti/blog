@@ -14,7 +14,7 @@ Bom, mas deixando de lado tudo isso, venho aqui para confirmar a grande notícia
 
 É o que todos perguntam. A [UOL](http://www.uol.com.br) ficará responsável por toda infra-estrutura do [Videolog](http://videolog.uol.com.br/). Tanto Storage, transferência, servidores, entre outras coisas, eles cuidarão de tudo isso, não ficando nada para nós do Videolog.
 
-#### Mas isso é, realmente, bom Bruno?
+### Mas isso é, realmente, bom Bruno?
 
 E você ainda tem dúvidas disso? Com certeza é muito bom. Vindo de uma empresa como a UOL, isso é totalmente válido, pois o Portal é referência nacional de internet, é a marca mais forte quando falamos de internet, maior provedor, com o maior conteúdo da internet, entre outras coisas. (ok, ok, puxando um pouco o saco, mas fazer o que, os caras são mesmo né).
 

@@ -18,7 +18,7 @@ Vai rolar um social no Mofo da Lapa. O Mofo é um bar que também é Boate, mas 
 
 Você pode ver [mais informações aqui](http://www.riofesta.com.br/mofo/). É um bar bem legal, no estilo Lapa e carioca de ser.
 
-#### E qual vai ser o esquema Dulça?
+### E qual vai ser o esquema Dulça?
 
 O preço pra entrar vai ser de no máximo R\$15, qnt mais pessoas forem, mais barato fica ok? E vamos começar a chegar por lá às 20h30.
 

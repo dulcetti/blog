@@ -36,31 +36,31 @@ E no Blog, o pessoal da Microsoft aconselhou a utilização dos Conditional Comm
 
 Tranquilo. Com os tipos e exemplos, você entenderá perfeitamente sobre essa técnica. Primeiro vou mostrar abaixo os diferentes tipos de Conditional Comments:
 
-#### » Este serve como como um "Se for IE faça":
+### » Este serve como como um "Se for IE faça":
 
 ```html
 <!--[if IE]> <![endif]-->
 ```
 
-#### » Este serve como como um "Se for superior ao IE 5 faça":
+### » Este serve como como um "Se for superior ao IE 5 faça":
 
 ```html
 <!--[if gt IE 5]> <![endif]-->
 ```
 
-#### » Este serve como como um "Se for IE 5 ou superior faça":
+### » Este serve como como um "Se for IE 5 ou superior faça":
 
 ```html
 <!--[if gte IE 5]> <![endif]-->
 ```
 
-#### » Este serve como como um "Se for anterior ao IE 5.5 faça":
+### » Este serve como como um "Se for anterior ao IE 5.5 faça":
 
 ```html
 <!--[if lt IE 5.5]> <![endif]-->
 ```
 
-#### » Este serve como como um "Se for IE 6 ou anterior faça":
+### » Este serve como como um "Se for IE 6 ou anterior faça":
 
 ```html
 <!--[if lte IE 6]> <![endif]-->
@@ -119,7 +119,7 @@ Vocês podem perceber que no Internet Explorer 6 ou anterior, o fundo ficou pret
 
 No CSS eu setei para a tag `<body>` que ela tenha 10px d margem em todas as direções, padding de 3px em todas as direções, cor de fundo branco, cor da fonte cinza #666 e fonte verdana com 75% do tamanho padrão do Browser.
 
-#### Blz Bruno, isso eu vi, essa parte eu entendi. Mas e o resto?
+### Blz Bruno, isso eu vi, essa parte eu entendi. Mas e o resto?
 
 Agora comentarei sobre o comentário condicional utilizado: `<!--\[if lte IE 6\]>` que como vimos acima, quer dizer "igual ou anterior ao ie 6".
 

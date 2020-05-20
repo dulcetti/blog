@@ -22,7 +22,7 @@ Porém, tem uma tag que eu vi que foi depreciada e não achei muito sei lá não
 
 Bom, eu li que eles depreciaram essa tag, porque como ficava sublinhado, poderia fazer com que o usuário se confundisse, pensando que fosse um link.
 
-#### Ahhhhhh sim... Ok. Então eu nunca mais vou poder colocar sublinhado?
+### Ahhhhhh sim... Ok. Então eu nunca mais vou poder colocar sublinhado?
 
 Qualquer um aqui sabe que por CSS eu vou lá e pápum, coloco um text-decoration:underline em qualquer tag e pronto, estamos lá com o maldito texto sublinhado.
 

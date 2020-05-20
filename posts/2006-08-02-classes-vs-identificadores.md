@@ -20,7 +20,7 @@ Vamos ver a simbologia das classes e identificadores, tanto no <abbr title="Hype
 
 No <abbr title="HyperText Markup Language">HTML</abbr> elas são referenciadas pelo atributo class e no <abbr title="Cascading Style Sheets">CSS</abbr> pelo . (ponto). Vamos ao exemplo:
 
-#### <abbr title="Cascading Style Sheets">CSS</abbr>
+### <abbr title="Cascading Style Sheets">CSS</abbr>
 
 ```css
 .centro {
@@ -28,7 +28,7 @@ No <abbr title="HyperText Markup Language">HTML</abbr> elas são referenciadas p
 }
 ```
 
-#### <abbr title="HyperText Markup Language">HTML</abbr>
+### <abbr title="HyperText Markup Language">HTML</abbr>
 
 ```html
 <p class="centro">Texto doparágrafo</p>
@@ -44,7 +44,7 @@ Fácil de identificar não é verdade?
 
 Os identificadores são os famosos IDs. No <abbr title="HyperText Markup Language">HTML</abbr>, eles são chamados pelo atributo id e dentro do <abbr title="Cascading Style Sheets">CSS</abbr>, criamos um identificador com o símbolo # (tralha ou jogo da velha :D). Vamos ao exemplo:
 
-#### <abbr title="Cascading Style Sheets">CSS</abbr>
+### <abbr title="Cascading Style Sheets">CSS</abbr>
 
 ```css
 #menu {
@@ -53,7 +53,7 @@ Os identificadores são os famosos IDs. No <abbr title="HyperText Markup Languag
 }
 ```
 
-#### <abbr title="HyperText Markup Language">HTML</abbr>
+### <abbr title="HyperText Markup Language">HTML</abbr>
 
 ```html
 <div id="menu">Aqui virá o Menu do site</div>

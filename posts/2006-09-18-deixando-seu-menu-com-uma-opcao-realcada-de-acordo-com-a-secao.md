@@ -28,11 +28,11 @@ Por isso estou mostrando esta técnica, para resolver esse probleminha.
 
 Você não precisa de praticamente nada. Nada de javascript, nada de linguagens dinâmicas nem nada disso. Claro que estarei utilizando includes PHP
 
-#### Mas então o que eu preciso Bruno?
+### Mas então o que eu preciso Bruno?
 
 CSS, somente isso... E HTML logicamente ;)
 
-#### Mas como isso Bruno?
+### Mas como isso Bruno?
 
 Mole mole... E explicarei isso agora ;)
 
@@ -40,7 +40,7 @@ Mole mole... E explicarei isso agora ;)
 
 Primeiramente eu mostrarei o código, pra em seguida explicar como que foi feito. Lembrando que não explicarei coisas básicas, como tenho feito anteriormente. Caso não saiba algum comando, temos o [W3Schools](http://www.w3schools.com/) que é uma ótima referência.
 
-#### Primeira Parte - HTML
+### Primeira Parte - HTML
 
 Vou mostrar abaixo, o código HTML criado para este exemplo:
 
@@ -94,7 +94,7 @@ Aqui está a novidade, o id dentro da tag `<body>`. Muita gente desconhece esta 
 
 No total temos dois includes, o head.php e o menu.php. Mostrarei os dois, mas falarei somente do segundo, pois o primeiro é apenas um head normal.
 
-#### head.php
+### head.php
 
 ```html
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
@@ -110,7 +110,7 @@ No total temos dois includes, o head.php e o menu.php. Mostrarei os dois, mas fa
 Não perderei tempo explicando essa parte do código, pois quem já mexe com html sabe muito bem o que
 quer dizer cada linha ok?
 
-#### menu.php
+### menu.php
 
 ```html
 <div id="menu">
@@ -126,7 +126,7 @@ quer dizer cada linha ok?
 
 Uma lista não ordenada, com suas respectivas li's. O que importará nessa parte do código são as classes dos links dentro dos li's: menuPrincipal, menuEmpresa, menuServicos, menuPortfolio e menuContato. No css vocês entenderão melhor o seu funcionamento.
 
-#### Terceira Parte - CSS
+### Terceira Parte - CSS
 
 É no css que vamos fazer o funcionamento do efeito, ele que definirá quando o evento será executado.
 
@@ -258,7 +258,7 @@ E isso é expandido quando setamos várias outras citações, como foi o caso. �
 
 Na parte das classes dos li's é que fará a diferença, como citei anteriormente. Caso não fosse setado nenhjuma classe, ele simplesmente pegaria todos os links de todas as li's e deixariam marcado... É uma união do id do body com a classe do menu... ;)
 
-#### Quarta Parte - Resultado Final
+### Quarta Parte - Resultado Final
 
 [Aqui nós podemos ver o resultado final desta técnica](/menu_realcado). Viaje pelos links no menu, veja que o menu realçado modifica de acordo com a seção selecionada. Perceba também, que o código é o mesmo, a não ser pela mudança do id do body ;).
 

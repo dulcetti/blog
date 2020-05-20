@@ -27,7 +27,7 @@ Ok, ok. Mas antes, eu queria só avisar que rolou um sorteio no modelo convencio
 11. Patrícia Zisman
 12. Marcus Danillo
 
-#### E depoooois...
+### E depoooois...
 
 Peguei esses números e escrevi cada um num pedaço de papel. Dobrei cada pedacinho de papel e coloquei na mão. Balancei, balancei e balancei mais, para logo depois, chamar meu camarada [Cainã Nunes](http://cainanunes.com/) para escolher o papelzinho. Lógico, para depois não ficarem pensando que ia ter marmelada. Portanto, ele é a prova que não houve fraude :D
 

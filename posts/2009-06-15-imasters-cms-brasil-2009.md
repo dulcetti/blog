@@ -20,15 +20,15 @@ O [iMasters](http://www.imasters.com.br/) está organizando o [CMS Brasil](http:
 
 O carro chefe do evento será a participação de três nomes internacionais no palco principal e que será apresentado pelo meu nobre camarada Paulino Michelazzo:
 
-#### WordPress: Matt Mullenweg
+### WordPress: Matt Mullenweg
 
 Só o cara que criou o WordPress, um nome bem forte para o evento e creio que seja uma das melhores palestras. Espero que sim, vamos ver. E também espero que as perguntas finais sejam dignas para um cara do nível de conhecimento dele.
 
-#### Joomla: Anthony Ferrara
+### Joomla: Anthony Ferrara
 
 Ele é líder do Joomla! Core e do Bug Squad, logo, pouca merda ele não é mesmo. Vem ajudando bastante o Joomla com melhorias, aprimoramentos do sistema e extensões.
 
-#### Drupal: Addison Berry
+### Drupal: Addison Berry
 
 Há 3 anos dentro do Drupal, a única mulher palestrante é líder do time de documentação, com isso, tem bastante conteúdo pra passar pra galera. Ela falará principalmente da nova versão, de número 7, do Drupal e seu congelamento programado pra setembro desse ano.
 
@@ -38,7 +38,7 @@ Bom, legal falar sobre os palestrantes, mas estou aqui é pra falar da outra par
 
 E, além disso, essa parte do evento será apresentada pelo modafoca que vos fala. Sim, sim, eu mesmo. Fiquei surpreso com o convite, achei que o Baeta estava maluco, mas tudo bem, agora eu tocarei o terror naquilo lá, me aguardem :)
 
-#### Manero hein Dulça
+### Manero hein Dulça
 
 Né não? Grande momento. Serei como um mestre de cerimônia, só que totalmente informal, na brincadeira, estimulando vocês, participantes, a interagirem com os palestrantes. Vamos ver no que vai dar :)
 

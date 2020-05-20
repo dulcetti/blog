@@ -30,7 +30,7 @@ Darei como exemplo o meu Blog e meu comportamento perante os comentários.
 
 Quando algum visitante comenta no meu blog, dou uma olhada no comentário e sendo útil ou algo parecido, respondo por email, seja agradecendo, explicando, comentando, enfim, respondendo ao visitante.
 
-#### Sim Bruno, mas e daí?
+### Sim Bruno, mas e daí?
 
 Então. Cheguei no ponto que queria comentar. Eu respondo meus visitantes por email, como comentado, mas eu estava visitando um blog, que não lembro o nome, que fez o mesmo comigo. Mandei um comentário e ele respondeu o comentário via email.
 
@@ -38,7 +38,7 @@ Até aí blz, mas depois fui dar uma visitada no Post dele novamente e vi que el
 
 Achei bem interessante, pois com a resposta somente, o visitante que comentou recebe uma resposta sobre seu comentário, o q mostra a importância, o seu interesse pelo comentário dele e à sua visita. Porém, somente o visitante que comentou recebe este aviso, e colocando a resposta via comentário, todos iriam ver o seu interesse pelo comentário e a importância que você dá aos seus visitantes e seus comentários.
 
-#### Interessante. Não tinha pensado nisso...
+### Interessante. Não tinha pensado nisso...
 
 Exatamente. Visitando alguns blogs, percebi que muitos respondem somente por comentários, etc. É bom pelo fato de todos verem, mas nem sempre fará com que o visitante que comentou veja o seu interesse, a não ser que ele visite seu Blog sempre ou o visitante tenha marcado pra receber um aviso quando comentarem naquele post.
 

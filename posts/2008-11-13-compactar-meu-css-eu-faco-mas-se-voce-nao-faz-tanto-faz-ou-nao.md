@@ -27,7 +27,7 @@ Para esta forma:
 ```
 
 
-#### Feio isso hein
+### Feio isso hein
 
 Sim, sim. Concordo, mas eu [comentei aqui no blog um tempo atrás](/como-voce-escreve-seus-arquivos-css.html) sobre essa forma de implementação de CSS, seus motivos, entre outros, mas repito novamente.
 
@@ -37,7 +37,7 @@ Imaginem você um site que possui MILHÕES de visitas. Não milhares, mas sim MI
 
 Citei que em projeto em que eu participei, Globo.com e Videolog, projetos grandes, bem grandes, a economia ultrapassava os 20kb. Vieram falar que 20kb não é nada e carrega em 4 segundos numa conexão discada.
 
-#### E não é?
+### E não é?
 
 Hmm... Sim, possivelmente sim. Mas vou citar um ponto importantíssimo que muitos dos desenvolvedores client-side que utilizam os padrões W3C, que é a economia de banda. Tráfego custa dinheiro e não é pouco. Se seu site tem 5mil visitas, 10mil, 20mil, você não precisa se preocupar muito, pois são "poucas" e sua hospedagem certamente cobre tal tráfego tranquilamente.
 
@@ -49,7 +49,7 @@ Milhões de acessos é igual a milhões de kbytes carregados. Milhões de kbytes
 
 E o [Elcio](http://blog.elcio.com.br/) [concordou comigo plenamente](http://twitter.com/elcio/statuses/1000703699) e também o [Diego comentou](http://www.tableless.com.br/nao-otimize-seu-codigo#comment-133013) logo após um que eu fiz, concordou também, falando pra galera que o artigo é ais focado para projetos menores.
 
-#### Ahhhh sim. É verdade então Dulcetti
+### Ahhhh sim. É verdade então Dulcetti
 
 Na minha opinião sim. Mas concordo que a leitura de um CSS todo numa linha é bizarro, mas te digo uma coisa, é costume. Meu primeiro contato foi negativo, mas depois, com o tempo, vi os resultados e foram satisfatórios e dei valor à isso e implemento assim desde hoje e estou acostumadíssimo. Tudo é questão de adaptação.
 

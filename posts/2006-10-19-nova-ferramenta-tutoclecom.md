@@ -24,7 +24,7 @@ Você, por exemplo, conhece um artigo ou tutorial que acha interessante colocar 
 
 Feito isso, clique em **Post it** que o artigo será enviado para o sistema do TutoCle e já aparecerá dentro das pesquisas referentes ao assunto do tutorial.
 
-#### Vantagens para você, blogueiro!
+### Vantagens para você, blogueiro!
 
 É isso ae. O TutuCle tem um recurso bem legal, que pode fazer com que seu tráfego aumente. Vale principalmente para Blogs, portais de conteúdo e tutoriais, etc.
 
@@ -40,6 +40,6 @@ Com o código que o site disponibiliza, você posta no seu Blog, que você ou se
 
 É isso ae pessoal. Vocês, blogueiros ou não, utilizem essa ferramenta. Por parte dos blogueiros, só tendem a ganhar, pois terão mais visitas caso seus visitantes postem e o pessoal busque por temas publicados por você, e sendo um visitante, estudante, só tem a ganhar também, pois terá sempre bons artigos e tutoriais postados no TutoCle e são vocês mesmo que o enriquecem.
 
-#### Um beijo do magro!
+### Um beijo do magro!
 
 É isso ae galera, aquele abraço pra todos.

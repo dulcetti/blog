@@ -32,7 +32,7 @@ A tag meta tem um atributo obrigatório, o content. Este atributo recebe o conte
 
 Pra entender melhor, dois atributos seriam obrigatórios, o content mais o atributo name ou o atributo http-equiv.
 
-#### Atributos Opcionais
+### Atributos Opcionais
 
 São três os atributos opcionais:
 
@@ -110,7 +110,7 @@ Os buscadores reconhecem quando o site utiliza muitos e o considera um "burlador
 
 Esta meta tag é muito importante, porém, alguns não saibam disso. Essa meta tag que irá dizer se seu site ficará visível nos sites de busca ou não.
 
-#### Mas por que eu não iria querer não indexar meu site?
+### Mas por que eu não iria querer não indexar meu site?
 
 Seu site pode ser, às vezes, em frames :o, ou então é aberto em uma popup, entre outras opções. Não seria legal essa página dentro da popup ou frame, aparecer fora da página "mãe" correto?
 
@@ -129,7 +129,7 @@ Temos a seguinte listagem de valores para o atributo content:
 	<dd>Esta opção faz com que os buscadores não armazenem uma cópia do seu site em cache. Sua utilização requer um pouco de cuidado, pois uma vantagem em não utilizá-la, é que caso seu site fique fora do ar por algum problema, ele ainda continuará sendo indexado, mas caso escolha utilizá-la, automaticamente é retirado. Vemos isso várias vezes no Google, por exemplo, que páginas continuam indexadas e quando clicamos, dá o famoso erro 404.</dd>
 </dl>
 
-#### `<strong id="asterisco_noindex_nofollow">`:
+### `<strong id="asterisco_noindex_nofollow">`:
 
 Você pode também escolher qual site irá indexar ou não o seu site basta saber o "nome" do bot. Segue um exemplo abaixo do Google.
 

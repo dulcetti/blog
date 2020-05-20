@@ -14,7 +14,7 @@ Estava eu, andando pelo Rio de Janeiro, quando vejo uma cena que sempre acontece
 
 Sim claro. Mas eu pergunto pra você agora: "A culpa é de quem?". Você acha que é do Lula, Garotinho, Sérgio Cabral ou afins? Porra nenhuma. A culpa é tua, minha, de todo mundo.
 
-#### A culpa é minha?
+### A culpa é minha?
 
 Sim, sim. Com eu disse acima, a culpa é toda nossa sim. Aposto que você já fez merda, jogou papel, votou no Lula, não reclama, não corre atrás pra mudar isso, fica sentado esperando algum modafoca fazer e algo e você apoia-lo, dizendo que é o certo ou então reclamar da política, sendo que você mal lembra em quem votou para Senador ou Deputado. Mas acompanha a política para saber quem é maucaráter, quem presta ou não presta.
 
@@ -32,7 +32,7 @@ Mas tudo bem, desfoquei totalmente do post :D
 
 Faça como os meninos das duas imagens e jogue lixo no chão, no planeta inteiro. Participe e seja **UM MERDA**. Isso mesmo, seja **UM MERDA PRÓ ++**. Conte para seus amigos, sua família, mostre a campanha para eles. Mas por favor, não se esqueça do **SEJA UM MERDA**, é essencial eles saberem disso, aliás, todos saberem disso. Você não vai jogar papel no chão somente, você jogará e será considerado **UM MERDA** de primeira linha ;)
 
-#### "E não é só isso..."
+### "E não é só isso..."
 
 ![Papel no Chao](/assets/images/posts/lixo.jpg)
 
@@ -45,7 +45,7 @@ E fique tranquilo, [pois até o presidente já jogou lixo no chão](http://www.o
 
 Você será reconhecido por todos em sua volta que você é um merda e isso não é para qualquer um, graças a Deus.
 
-#### Estou fazendo a minha parte.
+### Estou fazendo a minha parte.
 
 Não jogo lixo no chão, portanto não estou fazendo a minha parte, certo? Errado. Estou fazendo a minha parte por você. Estou te avisando que você, jogando lixo no chão, será um merda e é a minha forma de ajuda. E você? Como vai preferir ajudar?
 

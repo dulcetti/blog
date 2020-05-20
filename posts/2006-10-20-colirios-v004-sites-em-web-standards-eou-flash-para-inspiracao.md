@@ -14,7 +14,7 @@ Seguem abaixo:
 
 ## [Audi R8](http://microsites.audi.com/audir8/html/index.php?lang=en 'Ver o site do Audi R8')
 
-#### Tipo: Flash
+### Tipo: Flash
 
 Sem comentários para este site. Na verdade eu não sei, mas o que mais me impactou foi o carro mesmo, pois o site é até legal, mas nada surreal. Mas vale pelos vídeos muito bem feitos e pelo carro, que dispensa comentários.
 
@@ -22,7 +22,7 @@ Preparem-se, pois é pesado :D
 
 ## [Soleil Noir](http://www.soleilnoir.net/ 'Ver o site da Soleil Noir')
 
-#### Tipo: Flash
+### Tipo: Flash
 
 Belíssimo site. Pequenos detalhes que fizeram a diferença. Opção para contraste, diminuir e aumentar o tamanho das letras dos textos, fora a beleza do background. Muito bonita a imagem.
 
@@ -30,13 +30,13 @@ Muito interessante a opção de visualização do portfólio, em lista e thumbs.
 
 ## [Mini Pixel Icons](http://www.ndesign-studio.com/resources/mini-pixel-icons/ 'Ver o site do Mini Pixel Icons')
 
-#### Tipo: Webstandards
+### Tipo: Webstandards
 
 Belo site, com um background bem agradável e bonito. Site simples, porém funcional. Bela jogada do topo, um pouco transparente mais pra esquerda. Menu em abas bem legal tb.
 
 ## [dpivision](http://www.dpivision.com/ 'Ver o site da dpivision')
 
-#### Tipo: Webstandards
+### Tipo: Webstandards
 
 Site leve e interessante. Bem clean e com boas jogadas, principalmente no menu, feito com post-its com diferentes efeitos para cada item do menu.
 
@@ -44,7 +44,7 @@ Muito interessante a folha de caderno à direita com uma listagem. Background in
 
 ## [Orange on Web](http://orangeonweb.com/index.htm 'Ver o site da Orange on Web')
 
-#### Tipo: Webstandards
+### Tipo: Webstandards
 
 Site muito interessante e com idéias muito bem boladas. A parte do topo, deito meio q numa revista ficou sagás, principalmente com aquela gostosa :D. Alguns erros na semântica, mas tudo bem, estou falando da parte visual mesmo.
 

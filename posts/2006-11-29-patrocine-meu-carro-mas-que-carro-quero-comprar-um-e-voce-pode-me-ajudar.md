@@ -16,7 +16,7 @@ Estranhei, e fui olhar o email. Comecei a ler, vi que o email [tinha uma URL](ht
 
 Estava eu aqui na Globo, quando um camarada meu daqui me falou sobre um link, de alguém que estava querendo comprar um carro e criou um blog com a foto do carro e pequenas áreas para colocar publicidades. E essas publicidades eram vendidas dentro do site, demarcando a área que você quisesse. Achei interessante, pegou a idéia de um cara que fez isso com um notebook e fez com o seu futuro carro.
 
-#### Depois caiu a ficha...
+### Depois caiu a ficha...
 
 Quando cheguei em casa, um dia desses, abri o email e vi que era exatamente o mesmo Blog que o cara do trabalho me passou e começei a rir sozinho, mas tudo bem, um momento curto de loucura espontânea... :D
 

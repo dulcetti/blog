@@ -22,7 +22,7 @@ Bom, vou contar por partes a grande história do BlogCamp PR. Só um detalhe que
 
 Só pra constar, eu não fui sozinho para o evento. Eu fui com o Ariel e o Mackeenzy do [Videolog](http://www.videolog.tv). Este segundo elemento, viraria um dos grandes ícones do BlogCamp PR. Mas isso eu deixo com o desenrolar do Post.
 
-#### Primeiro Dia – A Grande Viagem
+### Primeiro Dia – A Grande Viagem
 
 A última vez que eu tinha andado de avião foi no Intercon 2006. A vantagem é que é rápido, com certeza. Mas na moral, é só isso. A comida é boa, o assento é regulável e muito confortável, não tem muita pressão no ouvido e o Dulcetti é muito mentiroso.
 
@@ -52,7 +52,7 @@ Depois disso, partimos para um bar chamado Off-Road, onde a galera toda estava l
 
 Mas esse dia não foi nada demais. Não falei direito com muita gente, só um foi, olá, etc. Queria ter aproveitado mais, mas só que o Mackeenzy e Ariel estavam mortos e fomos pro hotel bater um ronco.
 
-#### Segundo Dia (Parte 1 – Início da Jornada) – Acordando e indo para o Evento
+### Segundo Dia (Parte 1 – Início da Jornada) – Acordando e indo para o Evento
 
 Nem parecia sábado, mas estávamos lá, de pé às 7h30. Bizarro, mas ta valendo pelo BlogCamp PR. Estávamos nós, boa parte da galera na portaria do Hotel. Mas logicamente que faltavam as mulheres, sempre elas, lindas aff... Fazendo escova, unha, pé, mão, olhos, creme, chapinha, bronzeamento artificial, maquiagem, etc, etc, etc.
 
@@ -60,7 +60,7 @@ Os primeiros impacientes foram de táxi pra parada. Sendo que tinha um maluco qu
 
 E quando deu 9h, partimos pra lá, sem as meninas mesmo. Elas iam com o restante da galera de táxi mesmo.
 
-#### Segundo Dia (Parte 2 – O Momento Chave) – Chegando no Evento e conhecendo quem estava lá
+### Segundo Dia (Parte 2 – O Momento Chave) – Chegando no Evento e conhecendo quem estava lá
 
 A Faculdade ficava num lugar legal, longe do centro, bonito, cheio de mato, árvores, moitas (um dos destaques do BlogCamp. Mais pra frente vocês verão porquê), um ambiente bem legal e bonito para se ter um BlogCamp.
 
@@ -86,7 +86,7 @@ Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [
 
 Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo pra mim, mas fiquei para ver e talz. Depois disso rolou um almoço. Tinha um espaço com um restaurante, estilo cantina. Comida barata e gostosinha. Nada demais, mas era barata e aceitava VR :D
 
-#### Segundo Dia (Parte 3 – Os ícones do BlogCamp se destacam) – Depois do almoço, as fotos, vídeos, etc
+### Segundo Dia (Parte 3 – Os ícones do BlogCamp se destacam) – Depois do almoço, as fotos, vídeos, etc
 
 ![Dulcetti Fazendo um Flag](/assets/images/posts/2083375606_bbd22ffb4f_o.jpg)
 Dul7 fazendo Flag
@@ -138,7 +138,7 @@ Mas a grande maioria queria mais me ver pulando e me fudendo depois da moita mes
 
 Como diria o Nick Ellis, depois desse salto, eu posso ir para as olimpíadas ano que vem :D Mas depois dessas performances, o ícone Dul7 ainda viria a se tornar mais engraçado ainda.
 
-#### Segundo Dia (Parte 4 – O Making of) – As Musas da Blogosfera dão as caras. (caras?)
+### Segundo Dia (Parte 4 – O Making of) – As Musas da Blogosfera dão as caras. (caras?)
 
 Depois das palhaçadas, minhas peripércias aeróbicas, e tudo mais, chegava a hora do Grande Momento. O Making of (que pra mim foi bastante ON :P) das Meninas que posaram pro calendário da Axé.
 
@@ -168,7 +168,7 @@ E logicamente teve a entrega dos [CoolNex Cards](http://www.digitaldrops.com.br/
 
 E claro, foi o Ziggy Santos que foi chamando um por um.
 
-#### Segundo Dia (Parte 5 – O Retorno do JEDI) – O Retorno da Galera ao Hotel, incluindo o JEDI Dul7
+### Segundo Dia (Parte 5 – O Retorno do JEDI) – O Retorno da Galera ao Hotel, incluindo o JEDI Dul7
 
 Posso destacar as minhas imitações do Gil Brother, o famoso Away de Petrópolis, terrinha que eu já morei. Nego morria de rir dentro da Van, no retorno ao Hotel. E pior que eu gravei as falas de vários episódios. Sou fã dele. Essa foi pra você Manoel Netto. :D
 
@@ -178,7 +178,7 @@ O passeio foi manero, conheci o shopping Estação, andamos só um pouco, compra
 
 Retornamos ao Hotel, cada um pro seu quarto. Estava pra começar a mais foda dos Capítulos do BlogCampPR.
 
-#### Segundo Dia (Parte 6 – Os Embalos de Sábado a Noite) – A Galera em rumo da cachaça e da Balada pra dançar
+### Segundo Dia (Parte 6 – Os Embalos de Sábado a Noite) – A Galera em rumo da cachaça e da Balada pra dançar
 
 E lá fomos nós. Rumo ao bar do Alemão. Bem estiloso, pra quem é do Rio, lembra a Lapa, pra quem é de Minas, lembra um pouco Ouro Preto, bem legal. E como não podia deixar de ser, tinha umas pessoas estranhas, uns emos, Grunges, mas isso existe em tudo qnt é lugar mesmo.
 
@@ -186,7 +186,7 @@ E toma-lhe cerveja, chopp, cachaça e vamo que vamo. Algumas pessoas já estava 
 
 Algumas pessoas passando um pouco mal, algumas alegres, outras querendo dançar (eu? Dani? Mirian?), outras querendo beber até cair, etc. Tem de tudo na Blogosfera. Só sei que esse bar foi sucesso, aproximou ainda mais a galera, como não poderia deixar de ser. Mas como saímos cedo, a conta até saiu barata. O pessoal tah me decepcionando :P
 
-#### Segundo/Terceiro Dia (Parte 7 – Os Caçadores da Balada Perdida) – Do you wanna dance?
+### Segundo/Terceiro Dia (Parte 7 – Os Caçadores da Balada Perdida) – Do you wanna dance?
 
 ![Eu e as Meninas da Playboy](/assets/images/posts/2082592965_2dd98e5010_o.jpg)
 Todas querendo o Dulcetti e querendo dançar. :D
@@ -201,7 +201,7 @@ Decidimos ir para uma outra balada, mas antes, claro, eu tive que dar uma zoada.
 
 Mas lá fomos nós, e mais uma vez com a cara na porta. Fechado.
 
-#### Segundo/Terceiro Dia (Parte 8 – The Lost World) – A volta pra casa (ou seria hotel?)
+### Segundo/Terceiro Dia (Parte 8 – The Lost World) – A volta pra casa (ou seria hotel?)
 
 E lá fomos nós, meio desolados, para o Hotel. Eu estava puto da vida, pq lá estava eu, na terra onde corre o mel e o pólen, passando no encontro desse mundo, no sul do País, onde estão as mulheres mais lindas e simpáticas, vide Dani Koetz, eu estava desperdiçando meu tempo indo dormir.
 
@@ -223,7 +223,7 @@ E o pessoal disse que sim. E lá foi o Dulcetti contar a piada. _"Um centavo, ci
 
 Depois, partiu todo mundo pros quartos e dormimos. Infelizmente. :P Vide foto abaixo:
 
-#### Terceiro Dia (O Retorno do Rei) – A pior coisa a se fazer depois do BlogCamp: O Retorno pra casa.
+### Terceiro Dia (O Retorno do Rei) – A pior coisa a se fazer depois do BlogCamp: O Retorno pra casa.
 
 Bem tosco esse "O Retorno do Rei", mas o post é zuera mermo, então to nem ligando.
 
@@ -243,7 +243,7 @@ Conheci pessoas inesquecíveis, conheci pessoas inteligentes, engraçadas, malas
 
 Espero ganhar alguns links com essas minhas maluquices, danças, piadas e coisitas mais. :P E espero ter agradado pelo menos um pouco. Se desagradei, sucesso também. Pelo menos fui notado :D
 
-#### O Grande Networking
+### O Grande Networking
 
 Sem desmerecer, mas queria destacar conhecer [Dani Koetz](http://www.ahtrine.com.br/) e [Mirian Bottan](http://substantivolatil.com/) (tudo bem que eu já conhecia essa invocada, mas só nesse BlogCamp que eu pude conversar direito e trocar várias idéias e zueras com ela), [Rafael Ziggy](http://www.simviral.com/), [Helton](http://www.hitechlive.com.br/), [Melo](http://verdadeabsoluta.net/), assim como o [Nick Ellis](http://www.digitaldrops.com.br/), [Jonas](http://www.design.com.br) (penteia esse cabelo rapá), [Rafael Slonik](http://novo-mundo.org/) (não consegui falar tanto com ele, mas vi que é gente boa. E destaco aqui que é um cansado também :D), [Douglas Gravateiros](http://www.gravateiros.com.br/) (figuraaaaaaaça) e o [Fred](http://usabilidoido.com.br/) (que deu uma moral pro [Videolog](http://www.videolog.tv) e pro [T!V!](http://videolog.uol.com.br/user/tivi/intro_tv.php) Valew garotim).
 

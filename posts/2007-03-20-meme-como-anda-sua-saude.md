@@ -36,19 +36,19 @@ Totalmente. hoje posso falar que to com uma saúde maneira, faço exercícios re
 
 Sexta-feira rola o futebol na hora do almoço com a galera da Globo.com, da equipe de Implementação e Desenvolvimento. E, às vezes, jogo um volei de praia ou faço natação na hora do almoço. Mas eu ainda conseguirei fazer meu cronograma de exercícios:
 
-#### Segunda-feira e Quarta-feira
+### Segunda-feira e Quarta-feira
 
 - Manhã: Correr na areia;
 - Almoço: Malhar;
 - Noite: Dança.
 
-#### Terça-feira e Quinta-feira
+### Terça-feira e Quinta-feira
 
 - Manhã: Malhar;
 - Almoço: Nadar;
 - Noite: Dança.
 
-#### Sexta-feira
+### Sexta-feira
 
 - Almoço: Futebol;
 - Noite: Malhar.
@@ -65,7 +65,7 @@ E lembrando que sou diabético :D, apesar de não parecer, pois não sou nem gor
 
 Bom, é isso. Estou bastante satisfeito com meu corpo, só querendo ganhar um pouco mais de massa, chegar a uns 78kg, 80kg no máximo e ficar por ae :D
 
-#### Convocação
+### Convocação
 
 Convoco os seguintes Blogueiros:
 

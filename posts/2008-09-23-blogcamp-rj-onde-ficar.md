@@ -18,32 +18,32 @@ Sim, sim, craro, como não. Mas infelizmente a Tijuca não possui muitos hotéis
 
 Abaixo seguem alguns hotéis que achei pela Tijuca. Mas por favor, não venham me perguntar se é bom, pois eu não conheço nenhum deles ok? Qualquer coisa liguem para eles :D
 
-#### Tijuca Hotel
+### Tijuca Hotel
 
 - Rua Pareto 63 - Tijuca
 - Telefone: (21)569-6911
 - [Link no google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=R+Pareto+63+rio+de+janeiro&sll=37.0625,-95.677068&sspn=56.331468,107.226563&ie=UTF8&t=h&z=17&iwloc=addr)
 
-#### Flor do Éden Hotel
+### Flor do Éden Hotel
 
 - Rua Soares da Costa 147 - Tijuca
 - Telefone: (21) 2569-5346
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=R+Soares+da+Costa+147+rio+de+janeiro&sll=-22.923237,-43.230331&sspn=0.008103,0.013089&ie=UTF8&ll=-22.925206,-43.230869&spn=0.008103,0.013089&t=h&z=17&iwloc=addr)
 - ps: Não sei porque, mas isso tá com uma cara de ser motel. Olha o nome.
 
-#### Vila Verde Hotel
+### Vila Verde Hotel
 
 - Rua Haddock Lobo 326 - Tijuca
 - Telefone: (21) 2569-0414
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Haddock+Lobo+326+rio+de+janeiro&sll=37.0625,-95.677068&sspn=35.957999,93.164063&ie=UTF8&ll=-22.919939,-43.216546&spn=0.010218,0.022745&t=h&z=16&iwloc=r0)
 
-#### Tijuca Hostel
+### Tijuca Hostel
 
 - Rua Araújo Pena 58 - Tijuca
 - Telefone: (21) 2204-5059
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Rua+Ara%C3%BAjo+Pena+58+rio+de+janeiro&sll=-22.919939,-43.216546&sspn=0.010218,0.022745&ie=UTF8&ll=-22.922251,-43.219507&spn=0.010218,0.022745&t=h&z=16&iwloc=r0)
 
-#### Bariloche Hotel
+### Bariloche Hotel
 
 - Rua Haddock Lobo 206 - Tijuca
 - Telefone: (21) 2284-3672
@@ -53,28 +53,28 @@ Abaixo seguem alguns hotéis que achei pela Tijuca. Mas por favor, não venham m
 
 Não, não. Relaxa ae que mais abaixo to mostrando outros, que não só eu, mas como o NAVE também recomenda. Em bairros como Centro, Flamengo, Copacabana.
 
-#### Ibis
+### Ibis
 
 - Rua Marechal Câmara, 280 - Centro
 - Tel: (21) 3506-4500 Fax: (21) 3506-4501
 - R\$ 139,00 quarto p/ 2 pessoas (camas separadas) - café 9,50/pessoa
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Marechal+C%C3%A2mara,+280+-+Centro+rio+de+janeiro&sll=-22.917567,-43.219056&sspn=0.010218,0.022745&ie=UTF8&ll=-22.906716,-43.169811&spn=0.010219,0.022745&t=h&z=16&iwloc=r0)
 
-#### Stone of a Beach Hostel
+### Stone of a Beach Hostel
 
 - Rua Barata Ribeiro 111, Copacabana
 - Tel: (21) 3209-0348
 - Aprox. R\$120,00 (quarto 4 pessoas, banheiro, ar) Pergunte sobre os quartos para 3 pessoas!
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Barata+Ribeiro+111,+Copacabana+rio+de+janeiro&sll=-22.906716,-43.169811&sspn=0.010219,0.022745&ie=UTF8&ll=-22.962325,-43.178029&spn=0.010215,0.022745&t=h&z=16&iwloc=r2)
 
-#### Che Lagarto Hostel
+### Che Lagarto Hostel
 
 - Rua Anita Garibaldi, 87 - Copacabana
 - Tel.: (21) 2256-2776
 - Quarto para 2 pessoas, com ar R$120,00 \* Quarto para 2 pessoas, com ar e banheiro R$130,00 \* Quarto duplo com banheiro R\$110,00 - Consulte as outras opções de quartos!
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Anita+Garibaldi+%2387+-+Copacabana+rio+de+janeiro&sll=-22.962325,-43.178029&sspn=0.010215,0.022745&ie=UTF8&ll=-22.963432,-43.181849&spn=0.010214,0.022745&t=h&z=16&iwloc=r0)
 
-#### Formule One
+### Formule One
 
 - Rua Silva Jardim, 32 - Centro
 - Tel: (21) 35.11.85.00
@@ -82,7 +82,7 @@ Não, não. Relaxa ae que mais abaixo to mostrando outros, que não só eu, mas 
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Silva+Jardim+32+Centro+Rio+de+Janeiro&sll=-22.906815,-43.181677&sspn=0.010219,0.022745&ie=UTF8&ll=-22.907744,-43.181677&spn=0.010219,0.022745&t=h&z=16&iwloc=cent)
 - ps: algum animal de teta colocou o hotel no lugar errado no Google Maps, colocando em Niterói.
 
-#### Argentina Hotel
+### Argentina Hotel
 
 - Rua Cruz Lima, 30 Flamengo
 - Tel.: (21) 2558-7233 (21) 2285-4573

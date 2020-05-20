@@ -12,7 +12,7 @@ Falae galera. Dulcetti na área e no [Campus Party](http://www.campus-party.com.
 
 Bastante coisa. Hoje o [Videolog](http://www.videolog.tv) apresentou o concurso que montou para a criação de um plugin/widget. O prêmio para o vencedor é uma TV LCD 22", um prêmio e tanto para os desenvolvedores produzirem algo relativamente fácil para eles.
 
-#### No que se baseia esse concurso Dulça?
+### No que se baseia esse concurso Dulça?
 
 O [Videolog](http://www.videolog.tv/blog) abrirá a sua API, o que é uma notícia e tanto para os desenvolvedores. A data prevista ainda não está declarada, mas estamos vendo a possibilidade de isto acontecer. Com isso, os desenvolvedores poderão criar vários aplicativos, interações com o portal, enriquecendo ainda mais o próprio.
 
@@ -26,7 +26,7 @@ E logicamente que esse foi o principal ícone do evento, pelo menos até agora. 
 
 Está fazendo sucesso e comparecendo com toda força no evento. Estou revendo vários camaradas blogueiros que conheci nos blogcamps da vida, etc.
 
-#### Que legal Brunão. Teve algo especial sobre blogs?
+### Que legal Brunão. Teve algo especial sobre blogs?
 
 Teve sim. A blogueira do flickr compareceu, vai fazer uma palestra pra imprensa amanhã, mas especialmente pros blogueiros, ela ficou batendo um papo, em inglês e talz. Tudo isso nos puffs do flickr, que está com um stand sucesso total, com umas meninas espetaculares.
 

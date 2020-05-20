@@ -44,7 +44,7 @@ Graças ao modafoca Cainã Nunes, o layout ficou excepcional. O resultado ficou 
 
 Sempre tem não é verdade? Um dos problemas chatos foi a parte da transição, já que não tínhamos achado nada realmente bom para elas. Um script foi iniciado, que achei pela internet. Funciona legal, mas em browsers como Firefox e tudo mais. Porém, o próprio iPhone não tem muita potência para "suportar" tanto script, com isso, a transição acabou não ficando satisfatória.
 
-#### E como vocês resolveram?
+### E como vocês resolveram?
 
 Procuramos no App do Facebook, entre outros, mas sempre tinha algo errado. O do Facebook é legalzinho, mas o slide de voltar não volta visualmente falando. Ao invés dele voltar, indo pra direita, ele continuava sempre no mesmo sentido, pra esquerda. O que soa estranho.
 

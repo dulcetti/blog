@@ -22,7 +22,7 @@ Gostei de uma das citações dele:
 
 > "Ser um leitor especial, que o acompanha diariamente, deve vir acompanhado de benefícios, não de prejuízos."
 
-#### Mas então o que eu faço?
+### Mas então o que eu faço?
 
 Mole, [entra no post do Bruno Alves](http://www.brunoalves.eti.br/arquivo/2006/11/03/feeds-completos.html) e veja as vantagens, etc.
 

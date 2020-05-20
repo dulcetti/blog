@@ -20,13 +20,13 @@ Na primeira edição, em 2005, o Dia Mundial da Usabilidade contou com a partici
 
 Bom, desculpem o formato meio que "sério demais" que não tem muito meu estilo. Mas estava sem saco tempo para criar um post sobre o evento e achei que esse trecho se encaixa bem pelo que o evento vai mostrar.
 
-#### Data e local
+### Data e local
 
 Vai ser nessa quinta agora, dia 13 de novembro de 2008 (óbvio), às 17h30 e com previsão para terminar às 21h30.
 
 E o local será o Teatro da Cidade, na Univer Cidade, campus Ipanema (que fica em frente à Lagoa, mas é considerado Ipanema ainda). E que fica nesse endereço modafoca: Avenida Epitácio Pessoa, 1.664. E a entrada é gratuita. ;)
 
-#### Inscrições e mais informações sobre o evento
+### Inscrições e mais informações sobre o evento
 
 ![Banner do WUD 2008](/assets/images/posts/banner-wud2008.jpg)
 
@@ -38,27 +38,27 @@ O responsável mor é o grande modafoca e meu camarada, Robson Santos, D.Sc. ESP
 
 E a programação do evento você pode conferir abaixo ou então vendo no [eflyer do evento](/assets/images/posts/eflyer-wudrj.jpg):
 
-#### 17h30 - Boas vindas e Abertura - Robson Santos, D.Sc.
+### 17h30 - Boas vindas e Abertura - Robson Santos, D.Sc.
 
-#### 17h40 - Casos e experiências
+### 17h40 - Casos e experiências
 
 - Projeto de aeronaves – Saulo Hideki (Designer, RJ)
 - Acessibilidade no transporte público carioca - Everaldo Bechara (Centro de Treinamento iLearn, RJ)
 - Projetos para transporte ferroviário - Bruno Batela (Designer, RJ)
 - Metodologias de usabilidade web - Letícia Cianconi (Especialista em usabilidade - Tesla, SP)
 
-#### 18h40 - Intervalo
+### 18h40 - Intervalo
 
-#### 19h - Palestras
+### 19h - Palestras
 
 - GPS, mapas e mobilidade - Daniel Rocha (Fórum Nokia)
 - TEX - Solução para o caos no trânsito – Dan Strougo (Indio da Costa Design, RJ)
 
-#### 20h - Mesa redonda
+### 20h - Mesa redonda
 
 - Para onde vai o transporte do Rio? Perspectivas em usabilidade nos transportes
 
-#### 21h30 - Encerramento
+### 21h30 - Encerramento
 
 ## Finalizando
 

@@ -24,7 +24,7 @@ Para se ter um noção, ano passado inteiro eu publiquei 33 posts. Se eu seguir 
 
 Sim, verdade. Mas isso tem um motivo, e é por ele mesmo que eu estou aqui. Antigamente eu postava somente no meu Blog, mas de um tempo pra cá fui convidado para postar em alguns outros blogs e um outro projeto está caminhando e tem tudo para ficar famoso e engraçado (onde tem Dulcetti, tem risos, lembre-se).
 
-#### Beleza Brunão. Quais blogs você escreve?
+### Beleza Brunão. Quais blogs você escreve?
 
 Então. Hoje estou escrevendo em 6 blogs. Eu acho esse número bem expressivo, mas não sei, deve existir blogueiros por ae escrevendo em mais que isso, talvez. E na verdade dois deles eu ainda não escrevi. Mas vamos listá-los:
 
@@ -37,7 +37,7 @@ Então. Hoje estou escrevendo em 6 blogs. Eu acho esse número bem expressivo, m
 
 Bom, não vou comentar muito, mas falarei brevemente, apesar disso parecer uma grande mentira vindo de mim né, sobre cada Blog. E lógico que não falarei sobre este Blog que você está vendo agora, pois deve conhecê-lo (assim espero). Vamos lá:
 
-#### Solteiros.org
+### Solteiros.org
 
 Link: [http://www.solteiros.org](http://www.solteiros.org)
 
@@ -47,7 +47,7 @@ O Blog conta com alguns solteiros, maioria de Belo Horizonte/MG, que possuem mui
 
 Lá eu contei parte da minha saga do Mochilão que fiz rumo a Salvador. E veja aqui meu primeiro post no Blog: [Solteiros 2.0?](http://www.solteiros.org/solteirisse/dulcetti/solteiros-20/)
 
-#### Design
+### Design
 
 Link: [http://www.design.com.br](http://www.design.com.br)
 
@@ -57,7 +57,7 @@ O Blog, como o nome já diz, fala sobre design e suas tendências. Possui vário
 
 Confira meu primeiro post no Design: [O Design afeta o Código ou o Código afeta o Design?](http://design.com.br/blog/o-design-afeta-o-codigo-ou-o-codigo-afeta-o-design/)
 
-#### Goitaca
+### Goitaca
 
 Link: [http://www.goitaca.com](http://www.goitaca.com)
 
@@ -67,7 +67,7 @@ Nesse blog eu entrei em contato com o [Daniel Bender](http://www.benderblog.com/
 
 Veja meu primeiro post no Goitaca: [Mochilão Rio a Salvador: Primeira Parada](http://www.goitaca.com/viagem/mochilao-rio-a-salvador-primeira-parada/) Lógico que eu utilizei outra linguagem, pois o blog tem outro foco, outro público alvo ;)
 
-#### Videolog
+### Videolog
 
 Link: [http://videolog.uol.com.br/blog/](http://videolog.uol.com.br/blog/)
 
@@ -75,7 +75,7 @@ Esse eu automaticamente já poderia participar, mas como o conteúdo praticament
 
 Ainda não postei nele, mas já estou bolando um texto sobre a participação do Videolog no Campus Party.
 
-#### Papo de Bêbado
+### Papo de Bêbado
 
 Link: [http://www.papodebebado.com/](http://www.papodebebado.com/)
 

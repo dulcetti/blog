@@ -24,7 +24,7 @@ A do Alisson ficou +ou- parecido com a que eu implementei, mas faltaram alguns d
 
 Chega de conversa e vamos para a primeira solução. Nessa eu utilizei o clip, como o mico e o sobral citaram, mas como falei, preciso da pseudo-classe :hover funcionando perfeitamente no IE, com isso, tive que utilizar [um arquivo .htc](http://www.xs4all.nl/~peterned/csshover.html), que faz com que o IE aceite o hover em qualquer tag.
 
-#### Código HTML
+### Código HTML
 
 ```html
 <div id="fotos">
@@ -32,7 +32,7 @@ Chega de conversa e vamos para a primeira solução. Nessa eu utilizei o clip, c
 </div>
 ```
 
-#### Código CSS
+### Código CSS
 
 ```css
 * {
@@ -77,13 +77,13 @@ Veja o exemplo funcionando.
 
 Para mais infos sobre position, [visite o artigo que escrevi no imasters](http://www.imasters.com.br/artigo/3606/webstandards/posicionamento_e_layouts/) sobre o assunto.
 
-#### Tá Bruno, mas não funcionou no IE
+### Tá Bruno, mas não funcionou no IE
 
 Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormente, pra funcionar a pseudo-classe :hover. Percebam que só funciona em link, e estou utilizando em um link, mas mesmo assim não funcionou o clip. Ele só aceita alguns atributos no :hover
 
 É só anexarmos o csshover.htc no html, que funciona no IE. [Baixe o arquivo .htc aqui](http://www.xs4all.nl/~peterned/htc/csshover.htc) e cole o código abaixo entre as tags `<head>` e `</head>`:
 
-#### Código HTML
+### Código HTML
 
 ```html
 <!--[if IE]>
@@ -112,7 +112,7 @@ Por essas e outras, tive que buscar uma outra opção, modo, de implementar esse
 
 Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não é que deu certo? :D O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
 
-#### Código CSS
+### Código CSS
 
 ```css
 * {
@@ -149,7 +149,7 @@ img {
 
 Veja este exemplo funcionando.
 
-#### Legal Bruno... Funcionou só com CSS né?
+### Legal Bruno... Funcionou só com CSS né?
 
 Então, +ou-. Ainda não está 100%, porque dá um efeito que a imagem se move por causa da borda colocada no link.
 
@@ -159,7 +159,7 @@ No hover do link, ele diminui 6px de altura e largura e ganha 3px de borda em vo
 
 O overflow hidden do link serve pra que mesmo que a imagem seja maior que o link, o que é o caso no estado :hover, ela fique oculta, não quebrando o layout, etc.
 
-#### Entendi Bruno. E como resolvo pra ficar 100%, sem parecer que a imagem se move?
+### Entendi Bruno. E como resolvo pra ficar 100%, sem parecer que a imagem se move?
 
 Simples, apenas uma linha de CSS, colocando uma margem pra imagem, no hover do link:
 

@@ -16,7 +16,7 @@ Depois disso, acordei bem cedo, tipo umas 6h, 7h e o local estava bem vazio. Ach
 
 Não, não. A galera foi acordando enquanto chegava a hora do almoço, etc. Algumas pessoas me abordavam me perguntando sobre o [ocorrido com a Folha de São Paulo](http://tecnocracia.com.br/arquivos/campus-party-a-gente-aumenta-mas-nao-inventa), o [Edney](http://www.interney.net/), [Inagaki](http://www.interney.net/blogs/inagaki/), [Manoel Netto](http://tecnocracia.com.br/), entre outros. Alguns me zoando, alguns conversando sobre o fato e falando mal da Folha, logicamente.
 
-#### Jornal de Debates
+### Jornal de Debates
 
 O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idéia bacana, onde eles criaram uma camisa para cada dia de evento do Campus Party com uma pergunta em cada um delas. Com isso, eles paravam alguns blogueiros e pediam para se identificarem, sua atuação e comentar sobre a pergunta, se concorda ou não e por que. Segue abaixo os temas dos debates de cada dia:
 
@@ -65,13 +65,13 @@ Sentaram na mesa cinco "jornaleiros", um deles, o alvo preferido da Blogosfera, 
 
 Aconteceu nessa mesma quinta, o evento nerd mais famoso (pelo menos entre os nerds blogueiros), o Nerds On Beer. Rola nas quintas, não exatamente toda semana, mas quando o pessoal está com saco e sem muito freela, projeto, entre outras peripécias. Rola em São Paulo somente, mas em outros estados rolam outros eventos com outros nomes, como o Botecamp aqui no Rio.
 
-#### Hmmmm... Legal Dulça... Mas o que tem demais nesse NOB?
+### Hmmmm... Legal Dulça... Mas o que tem demais nesse NOB?
 
 ![Foto das camisas](/assets/images/posts/2268113126_83ab6d379c_m.jpg)
 
 Além da bebedeira, bate papo, papos nerds e engraçados, tinha uma novidade. A [Daniele Suzuki](http://www.danielesuzuki.com.br/) (sim, sim, aquela japinha gatíssima) junto com a equipe do programa [Tribos](http://tribos.globolog.com.br/), da Multishow, vieram ao mesmo bar gravar o programa conosco.
 
-#### Como assim Dulcetti? Seria a Tribo dos Nerds? Você vai aparecer na TV
+### Como assim Dulcetti? Seria a Tribo dos Nerds? Você vai aparecer na TV
 
 Até que você não é burro não hein. É exatamente isso. Ela estava gravando com a gente a parte da tribo nerd e iria complementar isso, gravando no Campus Party nos dois dias seguintes, nos filmando lá no evento, entre outros nerds e afins da tecnologia. E sim, eu vou aparecer na televisão. Estou ficando famoso :D
 
@@ -79,7 +79,7 @@ E foi muito maneiro. Tinham dez nerds, cinco pra cada lado e ela ficava meio que
 
 Eu, logicamente, foi o que falou mais do nosso grupo, pelo menos eu acho. E o melhor de tudo, ela estava do meu lado. É isso mesmo marmanjos não nerds, ela estava do meu lado, enquanto você fica ae chupando o dedo e morrendo de inveja. Mas infelizmente não passou disso (por enquanto). auhahuahuhuahuahuahu
 
-#### Legal hein Bruno... E durou muito tempo?
+### Legal hein Bruno... E durou muito tempo?
 
 Não muito. Nós, infelizmente, tínhamos horário para voltar, pois o maldito evento tinha limite para entrar, às 00h. ficamos conversando por +ou- 1h30, 1h45 e depois partimos pro evento, enquanto outros partiram pra casa. E ainda deu merda, pq cheguei lá 00h30, mas conversamos com os seguranças por um tempo e eles liberaram.
 

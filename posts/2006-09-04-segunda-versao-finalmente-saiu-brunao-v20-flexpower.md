@@ -22,29 +22,29 @@ Recebi no início algumas críticas, às vezes um pouco agressivas, dizendo que 
 
 Mas mesmo assim, continuo utilizando os animais discretamente. Cada seção do portfólio, tem seu respectivo animal que tem um simbólico significado (Essa tuh conhece né [Gio](http://www.bitfrito.com.br)? :D). Quem quiser, pode tentar descobrir ae, postar, etc... ;)
 
-#### Mudança nos labels do Menu
+### Mudança nos labels do Menu
 
 É verdade, mudei aqueles labels do menu. Alguns às vezes podem não entender muito bem o que quer dizer, por isso fui mais direto, não utilizando somente um nome, mas fazendo uma pequena referência.
 
 Tenho é que arrumar o menu, pois se o tamanho da fonte é aumentada, o menu quebra linha, ficando estranho. Tenho que ver um jeito de resolver isso. Mas é melhor colocar agora e ir ajeitando, senão nunca colocarei no ar. :D
 
-#### Gostei dos títulos hein Bruno.
+### Gostei dos títulos hein Bruno.
 
 Deu pra ver que dei uma mudada né? Tem o animal referente a seção com um texto em imagem sobre a seção, com um sub-título em texto normal. Eu gostei do resultado, espero que agrade também.
 
-#### Hmmm... Layout líquido, boa hein.
+### Hmmm... Layout líquido, boa hein.
 
 É sempre bom pensar no seu cliente, leitor, etc. Sempre que possível, utilizar layouts líquidos é a melhor opção, pois o responsável pela largura do site é o usuário e não você ;)
 
 Tudo bem que é um pouco mais complicado, mas é possível. :D Ainda tenho que implementar um max e min-width pro i.e., já vi alguns artigos sobre, mas é uma gambiarra em cima da outra e deixei pra depois. Quem tá no Firefox percebe que ele tem uma largura máxima, para não dificultar a leitura dos posts. ;)
 
-#### Simpática essa sua Barra Lateral Bruno.
+### Simpática essa sua Barra Lateral Bruno.
 
 Obrigado, eu que fiz. :P Eu preferi ocultar alguns dos elementos, deixando com os leitores a opção de visualizar ou não cada opção: Arquivos, Categorias, Artigos e Amizade. Basta somente um clique para visualizar o conteúdo. Lembrando que em Amizade e Artigos, somente cinco são visualizados, para não ter muita informação.
 
 Na parte de links, eu padronizei algumas das imagens, deixando com um padrão de largura e altura para a grande maioria.
 
-#### Legal essa "iconizada" que você deu no formulário...
+### Legal essa "iconizada" que você deu no formulário...
 
 Show de bola né? Acho legal a presença de ícones em algumas partes do conteúdo para melhor entendimento das informações que é transmitida.
 
@@ -58,11 +58,11 @@ Os artigos anteriores eu ainda terei que ajeitar algumas coisas... Nem todas as 
 
 Já estava quase esquecendo, ainda bem que você me lembrou :D. Criei mais duas categorias, que estarei postando a partir de hoje sempre que puder.
 
-#### Categoria Colírios
+### Categoria Colírios
 
 Essa categoria eu postarei sites que podem servir de inspiração para todos. A grande maioria será webstandards, mas postarei algo em Flash também.
 
-#### Categoria Videolog
+### Categoria Videolog
 
 Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em destaques no [Videolog.tv](http://www.videolog.tv), no qual [já falei sobre no meu Blog](/videolog-a-nova-era.html).
 

@@ -33,13 +33,13 @@ Bom, praticamente toda a parte client-side HTML e CSS. Fiz em conjunto com o Rod
 
 Eu destaco a implementação dos novos destaques do site, que antigamente eram feitos com os textos exportados nas fotos e agora eles ficam por cima da foto, com texto puro mesmo, facilitando aos profissionais que sobem as notícias e destaques.
 
-#### Novos Destaques do Ego
+### Novos Destaques do Ego
 
 ![Exemplo do Destaque do Ego](/assets/images/posts/destaque-ego.jpg) Exemplo do Destaque do Ego
 
 A implementação desse destaque foi bem chata, principalmente para deixar igual em todos os browsers, incluindo os do Mac. Mas foi rápido, com todos os detalhes que foi chato. Mas mesmo assim, ainda não ficou 100%, porque alguém deve ter metido a mão enquanto eu estava de férias, ferrando tudo. Fazer o que né.
 
-#### Nova Galeria de Fotos do Ego
+### Nova Galeria de Fotos do Ego
 
 ![Exemplo da Galeria de Fotos do Ego](/assets/images/posts/galeria-fotos-ego.jpg) Exemplo da Galeria de Fotos do Ego
 

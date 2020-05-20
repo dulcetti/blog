@@ -34,7 +34,7 @@ Boas. Assisti poucas, só pude ir no sábado e não assisti todas, perdi a do It
 
 Vou comentar sobre cada palestra que assisti e alguns pontos extras aqui:
 
-#### Painel: Visão crítica da nova internet e como ela influencia no Brasil. Gravação do BrainCast com Fábio Seixas, Cris Dias, Mauro Amaral e Carlos Merigo
+### Painel: Visão crítica da nova internet e como ela influencia no Brasil. Gravação do BrainCast com Fábio Seixas, Cris Dias, Mauro Amaral e Carlos Merigo
 
 Início hilário com o Luli passando pro Seixas, fazendo uma sátira do filme Tropa de Elite com os participantes da palestra, se é que pode se chamar de palestra né.
 
@@ -52,7 +52,7 @@ Comentaram bastante sobre cases de sucesso de utilização de adwords, subestima
 
 Na quarta parte comentaram sobre o facebook e sua venda para a Microsoft de 1,6% por U\$240.000,00 e tiveram algumas perguntas se valia mesmo a pena comprar um produto desse e quanto tempo que esse “sucesso” duraria.
 
-#### Negócios 2.0 - Marcello Povoa, Dir. de Marketing da MPP Solutions e José Luiz Martins, Dir. de Tecnologia da MPP Solutions
+### Negócios 2.0 - Marcello Povoa, Dir. de Marketing da MPP Solutions e José Luiz Martins, Dir. de Tecnologia da MPP Solutions
 
 Uma daquelas palestras com apresentação de cases, portfólio, etc. Acho que não sou eu somente que acho isso massante. Muito texto, muita fala, muito PowerPoint e pouca interação com o público. Isso às vezes me dá sono.
 
@@ -60,13 +60,13 @@ Falaram o que é web 2.0 para um público que já sabe de cor e salteado o que �
 
 Os trabalhos apresentados foram de alta qualidade, com certeza, mas acho que faltou um diferencial na apresentação e acredito que os dois palestrantes poderiam ter interagido mais entre si, para falar sobre os trabalhos. Ficou uma coisa muito dividida, o que eu não acho muito legal.
 
-#### Convergência de mídias e o novo consumidor - Sergio Mugnaini, Diretor de Criação da Almap BBDO
+### Convergência de mídias e o novo consumidor - Sergio Mugnaini, Diretor de Criação da Almap BBDO
 
 Mais uma apresentação de cases e portfólios. Achei bem melhor que a anteior, no modo como os cases foram apresentados, etc. Também fica mais fácil, porque peças publicitárias chamam mais atenção e não dão sono :D
 
 Belíssimos trabalhos e idéias apresentadas, conhecidas por muitas pessoas, tanto na Internet quanto na TV. Comentou sobre as tecnologias utilizadas, pessoas envolvidas, equipe, planejamento, entre outras coisas, tornando a palestra interessante.
 
-#### Resumindo...
+### Resumindo...
 
 Das três palestras, a que mais gostei foi a primeira, da gravação do BrainCast. Foi a que mais interagiu com o público, palestrada por Blogueiros que conhecem do assunto, que sabem falar.
 

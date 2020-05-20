@@ -44,7 +44,7 @@ width: 200px;
 
 Peço que não levem em conta que todas as classes estão com as mesmas propriedades. Coloquei mais para não ter que ficar criando, etc. Estou com preguiça e no trabalho, não esqueçam disso :D
 
-#### Legal Bruno. E?
+### Legal Bruno. E?
 
 Perceberam que esta é uma declaração simples de um CSS correto? Imaginem um CSS com 300 linhas de código, parecido com esses que passei agora. Bastante coisa, certo? O arquivo terá muitos ID's, Classes, declarações para tags, etc.
 
@@ -56,7 +56,7 @@ Muitas vezes também por organização no código, entre outros motivos. Creio q
 
 Eu mesmo achava horríveis os códigos CSS's que ficavam tudo em uma linha só, sem espaços, completamente difíceis de serem enxergados, etc. Tinha meio que um preconceito, uma certa dificuldade de aceitar tal forma de criar.
 
-#### Verdade Bruno. Mas como você faz seus CSS's agora?
+### Verdade Bruno. Mas como você faz seus CSS's agora?
 
 Antes de responder essa pergunta, vou explicar porquê mudei minha forma de implementar meus CSS's.
 
@@ -84,7 +84,7 @@ No final, depois das mudanças e economias que fiz, os CSS's ficaram, no total, 
 
 Sem esquecer que ainda farei umas otimizações, para não haver chamadas desnecessárias aos CSS's, por exemplo, páginas que não possuem formulários, não precisam chamar o css "formularios.css". Algumas mudanças deste tipo ajudam na rapidez e peso da página.
 
-#### Interessante. Mas como os seus arquivos CSS estão escritos?
+### Interessante. Mas como os seus arquivos CSS estão escritos?
 
 Mostrarei o exemplo anterior utilizando a forma como estou escrevendo os meus CSS's:
 
@@ -167,7 +167,7 @@ Vou listar abaixo algumas variedades, mas fiquem à vontade de sugerirem algumas
 - Multi-elementos na mesma linha;
 - Multi-elementos em mais de uma linha.
 
-#### Com espaços nas propriedades do CSS
+### Com espaços nas propriedades do CSS
 
 Vejamos abaixo:
 
@@ -175,7 +175,7 @@ Vejamos abaixo:
 
 Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](/atalhos-e-dicas-pro-desenvolvimento.html), não considerando caracteres especiais, desta forma ajuda e muito.
 
-#### Com espaços somente depois das propriedades no CSS
+### Com espaços somente depois das propriedades no CSS
 
 Vejamos abaixo:
 
@@ -183,7 +183,7 @@ Vejamos abaixo:
 
 O mesmo que o anterior, mas sem espaços após a { de início e } de final das declarações das propriedades.
 
-#### Sem espaços
+### Sem espaços
 
 Vejamos abaixo:
 
@@ -191,7 +191,7 @@ Vejamos abaixo:
 
 A forma que eu utilizo. É um pouco mais complicada de entender, mas é a mais econômica de todas. E como não abro, geralmente, pelo Notepad os CSS's, não tenho problemas com ele.
 
-#### Multi-elementos na mesma linha
+### Multi-elementos na mesma linha
 
 Vejamos abaixo:
 
@@ -201,7 +201,7 @@ Caindo agora pra parte de declarações para múltiplos elementos, temos este, q
 
 Fora que, às vezes, pode parecer que os múltiplos elementos é um só.
 
-#### Multi-elementos em mais de uma linha
+### Multi-elementos em mais de uma linha
 
 Vejamos abaixo:
 

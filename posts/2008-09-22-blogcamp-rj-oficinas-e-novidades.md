@@ -18,13 +18,13 @@ Menos por favor... Menos...
 
 Mas então, vou começar falando sobre as oficinas, que acabei não falando no post sobre o BlogCamp RJ.
 
-#### Mas que oficinas Dulça?
+### Mas que oficinas Dulça?
 
 Quando a galera se cadastrou pro evento, eu perguntava se ela se disponibilizaria para fazer uma oficina e que tema teria essa oficina.
 
 Teremos uma sala de aula somente para as oficinas, onde os interessados vão para aprender, discutir, opinar, sobre o tema escolhido e falado pelo modafoca.
 
-#### Que legal tio Dulcetti. E o que teremos?
+### Que legal tio Dulcetti. E o que teremos?
 
 Bom, como foram muitos temas sugeridos, tive que filtrar. Mas mesmo com o filtro, ainda temos mais que a capacidade que teremos disposta.
 
@@ -32,7 +32,7 @@ Fiz um cronograma de horário, com ajuda da minha nobre [joaninha](http://www.la
 
 No total eu separei 14 temas para serem votados.
 
-#### Votação é? Mais uma?
+### Votação é? Mais uma?
 
 Sim, mais uma votação. Você que vai escolher quem vai falar. Por enquanto, as seis primeiras oficinas serão as escolhidas, mas caso eu consiga mais uma sala, as outras seis seguidas também terão suas chances.
 

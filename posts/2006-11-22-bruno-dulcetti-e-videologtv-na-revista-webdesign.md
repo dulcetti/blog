@@ -26,6 +26,6 @@ Queria agradecer ao pessoal da [Revista Webdesign](http://www.revistawebdesign.c
 
 Agradecer ao pessoal da [Produzindo](http://www.produzindo.com.br/), que me deu essa oportunidade de entrar nesse grande projeto, o qual estou tem um ano e participei full-time na produção da nova versão. E esperem alguns dias, pois teremos novidades no [Videolog](http://www.videolog.tv). Novo layout, novas ferramentas, entre outras coisas mais.
 
-#### Aquele abraço
+### Aquele abraço
 
 Fico por aqui, valeu por tudo galera. Aquele abraço.

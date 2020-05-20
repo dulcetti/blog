@@ -75,27 +75,27 @@ No caso citado, o valor do FOR é igual a "nome" e dentro do input, o valor do I
 
 Ok, ok, vamos lá. Segue abaixo a listagem dos atributos que utilizei no input, para melhor compreensão:
 
-#### type="text"
+### type="text"
 
 Tipo do input. Nem preciso explicar não é? Textéigual a campo de texto.
 
-#### name="nome"
+### name="nome"
 
 Nada de novidade. O name serve como nome do campo e funciona para o método utilizado no formulário e as linguagens server-side, para o envio dos dados.
 
-#### id="nome"
+### id="nome"
 
 O id serve para "linkar" o campo ao label referente à ele
 
-#### class="textbox"
+### class="textbox"
 
 Classe textbox que iremos declarar no css, para estilizar o campo.
 
-#### onfocus="textOn(this.id)"
+### onfocus="textOn(this.id)"
 
 O onfocus serve para vc definir uma ação, evento quando o foco estiver no elemento em que foi setado. No nosso caso, esse atributo chama a função textOn, que está declarada no js que irei comentar mais abaixo e passa como parâmetro, o próprio id.
 
-#### onblur="textNormal(this.id)"
+### onblur="textNormal(this.id)"
 
 Mesma função do onfocus, mas só que ao invés de ser para quando estiver com o foco, serve para quando perder o foco, ou seja, o usuário não estiver digitando texto dentro do campo. E neste atributo, passamos a função textNormal e passamos o próprio id como parâmetro.
 
@@ -200,11 +200,11 @@ Vamos pro javascript agora. Não estou usando nada demais também, nada avançad
 
 Neste exemplo temos duas funções: textOn e textNormal. Vimos as chamadas dessas funções no html, dentro dos inputs correto? Agora iremos ver o que elas fazem:
 
-#### textOn(txt) e textNormal(txt)
+### textOn(txt) e textNormal(txt)
 
 Como podem perceber, essas funções enviam como parâmetro, o txt. Para quem não sabe, uma função passa os parâmetros que estão dentro dos parênteses. Ele pode ficar vazio também, mas ae você teria que setar dentro do javascript o elemento que sofreria a mudança.
 
-#### `document.getElementById(txt).className='textboxOn'`;
+### `document.getElementById(txt).className='textboxOn'`;
 
 Nessa linha, eu pego do html o ID passado no parâmetro txt. Isso varia de acordo com a chamada da função. No nosso formulário, temos duas chamadas nessa função, dentro do onfocus nos inputs. Vamos vê-los novamente?
 

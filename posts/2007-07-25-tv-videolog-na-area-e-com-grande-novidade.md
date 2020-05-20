@@ -14,13 +14,13 @@ E ae galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uo
 
 Gire em 180º as exclamações que você verá TIVI, o nome como deve ser dito ;)
 
-#### Mas o que é a [T!V!](http://videolog.uol.com.br/tivi/) Bruno?
+### Mas o que é a [T!V!](http://videolog.uol.com.br/tivi/) Bruno?
 
 A [T!V!](http://videolog.uol.com.br/tivi/) é a sua TV web personalizada. Com ela você poderá criar seu próprio canal de TV via web. Você poderá escolher qualquer vídeo que esteja hospedado no Videolog e adicionar ao seu canal. Tudo isso, logicamente, sob licença [Creative Commons](http://www.creativecommons.org.br/).
 
 E claro, a pessoa poderá subir seus próprios vídeos para dentro do canal, assim como qualquer outra pessoa cadastrada.
 
-#### Legal Bruno... Mais alguma novidade, diferencial?
+### Legal Bruno... Mais alguma novidade, diferencial?
 
 A grande sacada é que os vídeos serão exibidos em tela cheia, no espaço útil do browser e não fullscreen no monitor do usuário. O legal disso é que ficará como uma TV mesmo.
 
@@ -28,7 +28,7 @@ E a promessa é que os vídeos fiquem em ótima qualidade, pois o codec utilizad
 
 Mas é claro que isso varia muito, pois se o usuário postar um vídeo muito pequeno e de baixa qualidade, não dá para fazer milagres.
 
-#### Então o vídeo pode ficar em baixa qualidade Bruno?
+### Então o vídeo pode ficar em baixa qualidade Bruno?
 
 Olha, poder até pode, mas como eu disse, o codec do Videolog foi programado para sempre deixar os vídeos na melhor qualidade possível.
 

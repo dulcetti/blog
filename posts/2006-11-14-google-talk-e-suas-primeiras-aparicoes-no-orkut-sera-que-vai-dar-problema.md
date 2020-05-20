@@ -16,7 +16,7 @@ De um tempo pra cá, deu pra perceber que o Google integrou o Gtalk ao Orkut. Ag
 
 Pela parte do Orkut é até uma boa, consigo ver dentro do site de relacionamentos que está online no Gtalk, posso abrir uma janela pvt pra conversar com ele, etc. Muito bom, como praticamente todas as integrações dos produtos da Google.
 
-#### Porém...
+### Porém...
 
 Tenho percebido que o Gtalk não está tão funcional como antes. Tenho percebido algumas falhas, desloga do nada às vezes, sai e entra, coisas que acontecem constantemente com o maldito MSN.
 
@@ -32,7 +32,7 @@ Seria uma blz se fosse assim mesmo, pois creio que não teríamos problemas quas
 
 Mas, vamos esperar... Vamos dar um tempo ao tempo, espero e acredito, com a potência e qualidade dos produtos da Google, que não teremos problemas, que eles cuidarão para que não tenham ataques, invasões, problemas, bugs, etc.
 
-#### Entretanto, apesar de...
+### Entretanto, apesar de...
 
 Apesar da qualidade do Google, tudo é possível e é capaz de, pelo menos no início, termos alguns problemas até o pleno funcionamento dessa ferramenta que tem tudo, com essa integração com o Orkut, de desbancar o MSN.
 

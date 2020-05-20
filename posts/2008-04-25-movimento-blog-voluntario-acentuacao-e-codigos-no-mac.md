@@ -26,7 +26,7 @@ Pode não, ELA É. Compreendo isso completamente. Mas imagine um caso como exemp
 
 E lógico que você não vai apresentar só que ele tinha um bigode bisonho e que criou a tal teoria modafoca.
 
-#### Mas onde você quer chegar? Tô perdido...
+### Mas onde você quer chegar? Tô perdido...
 
 Sim, eu imagino. Mas é simples. O que você teria que fazer neste caso? Ir até uma biblioteca e pesquisar, ler livros, pegar fotos e tudo mais sobre o Einstein certo? Até mesmo a internet lhe serviria, com certeza.
 
@@ -64,7 +64,7 @@ Vamos aos atalhos da acentuação:
 - Acento Til (˜) » Option+N › Letra
 - Acento trema (¨) » Option+U › Letra
 
-#### Modo de utilizar
+### Modo de utilizar
 
 É simples. Você faz qualquer um dos atalhos e depois você aperta a letra desejada, por exemplo:
 
@@ -81,7 +81,7 @@ Fácil fácil também meu nobre. Vou mostrar aqui os mais importantes e utilizad
 - Símbolo Marca Registrada (®) » Option+R
 - Símbolo Marcas (™) » Option+2
 
-#### Modo de utilizar
+### Modo de utilizar
 
 Mais simples ainda, pois você não precisa de teclas adicionais como nas acentuações. Apertou o atalho, o símbolo já aparece ;) .
 

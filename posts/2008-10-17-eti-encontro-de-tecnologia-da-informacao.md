@@ -14,7 +14,7 @@ Mais uma vez o modafoca aqui vai falar sobre eventos. Tá difícil falar sobre w
 
 Como vocês já viram na marca e no título, é o ETI - Encontro de Tecnologia da Informação. Um evento voltado, logicamente, para programadores e desenvolvedores web, tendo como público secundário webdesigners, analistas de sistemas, redes e infra-estrutura, gerentes de projeto, jornalistas, publicitários e outros profissionais das áreas de informática e comunicação.
 
-#### Café da manhã
+### Café da manhã
 
 ![Galera no café da manhã](/assets/images/posts/2905532160_3931196455.jpg)
 
@@ -25,7 +25,7 @@ Dulcetti atrasado, aproveitando pra tirar foto com a galera
 
 Sim, eles são loucos em me chamar, mas tudo bem, agora já era :) [Veja como foi o café da manhã](http://www.encontrodeti.com.br/site/?p=208). Percebam que eu não estou na foto da galera, mas foi porque não pude comparecer no horário marcado. Eu falei que eles são loucos, mas como disse, agora já era :) Mas lógico, tive que tirar uma com a galera que ainda estava lá :P
 
-#### E quando vai ser, Bruno?
+### E quando vai ser, Bruno?
 
 Tem tempo ainda, vai ser mês que vem e vai rolar tanto em Sampa quanto aqui no Rio, dias 27 e 29 de novembro respectivamente.
 
@@ -39,7 +39,7 @@ E o mais legal do evento é que você mesmo, sim nobre modafoca, você mesmo que
 
 Tá bom, não chega a ser assim, mas alguns nomes são sugeridos por vocês e o mais citado pra cada seção será chamado, mas isso não é garantia, portanto, senta e relaxa.
 
-#### Palestras
+### Palestras
 
 Uns meses atrás a [Arteccom](http://www.arteccom.com.br/) fez uma pesquisa, levantando assuntos que seriam interessantes para abordar no evento e tudo mais. Isso ajudou bastante na montagem da grade de assuntos. O evento terá palestras sobre quatro assuntos:
 

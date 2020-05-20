@@ -18,7 +18,7 @@ Isso me faz lembrar há mais ou menos dois anos atrás, quando lançamos a vers�
 
 E não foi e não vai ser de outra forma agora. A equipe é bem maior, com nove pessoas trabalhando diretamente, enquanto na anterior eram somente três. Todos divididos pelas suas áreas e objetivos. Um quadro com as tarefas, páginas a serem implementadas e corrigidas, tipo um Scrum da vida.
 
-#### Mas nem tudo é somente trabalho...
+### Mas nem tudo é somente trabalho...
 
 Logicamente né... Onde tem Bruno Dulcetti, tem risos e diversão (falando o Bozo agora né...). Colocamos uma câmera filmando no alto do escritório, onde todos trabalhavam. Foi engraçado demais. Alguns brincavam com a câmera, outros brincavam esquecendo da própria, etc. Palhaçadas, risos, berros, palhaçadas e afins.
 

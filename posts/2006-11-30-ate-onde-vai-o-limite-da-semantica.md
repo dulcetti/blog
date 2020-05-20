@@ -16,13 +16,13 @@ Ok, ok... Não estou aqui para falar de trabalho, dar desculpas sobre minha falt
 
 Não falarei sobre semântica web, citarei alguns exemplos para vocês entenderem e depois os casos reais para que vocês entendam porque estou escrevendo este post ok?
 
-#### Beleza então Bruno cite os exemplos.
+### Beleza então Bruno cite os exemplos.
 
 Todos sabemos que as tags `<hn>` são as tags de título (onde **n** é o número que varia de 1 a 6), sabemos também que a tag `<a>` é para links, `<p>` serve para parágrafos, etc, etc, etc.
 
 Sabemos que temos tags que são display block e display inline correto? Não sabemos? Okay, explicarei um bocado sobre:
 
-#### Display Block
+### Display Block
 
 Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes e depois dele próprio. Seria como se tivesse um `<br />` antes e depois da tag. Podem conter tanto elementos inlines quanto blocks dentro dele.
 
@@ -32,7 +32,7 @@ Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes
 - `<h1>`
 - `<div>`
 
-#### Display Inline
+### Display Inline
 
 Ao contrário do block, os elementos inlines não quebram linha. Podem conter outros elementos inlines dentro dele próprio, mas não é permitida a inserção de elementos do tipo block dentro deles.
 
@@ -46,7 +46,7 @@ Ao contrário do block, os elementos inlines não quebram linha. Podem conter ou
 
 Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar elementos inlines e blocks:
 
-#### Modo correto
+### Modo correto
 
 ```html
 <p>
@@ -64,7 +64,7 @@ Neste exemplo podemos ver que temos o parágrafo, que é block, e dentro dele te
 
 Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo certinho.
 
-#### Modo incorreto
+### Modo incorreto
 
 ```html
 <a href="#">
@@ -81,13 +81,13 @@ Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei u
 
 Vimos que esse segundo exemplo está errado, pois o link, que é um elemento inline, contém elementos blocks (h1 e p). Percebam que MESMO declarando no css o display: block pra link, ele, por padrão na W3C, é inline, portanto é descartado o CSS, ou seja, não é validado pela W3C.
 
-#### Beleza Bruno, mas o que podemos fazer?
+### Beleza Bruno, mas o que podemos fazer?
 
 Temos uma opção, que seria englobar o h1 e o p dentro de uma div e coloca um link dentro do h1 e outro, com o mesmo href, dentro do p. [Veremos neste exemplo](/artigos/limite_semantica/exemplo_certo_separado.html).
 
 Agora sim, ele ficou validado pela W3C, porém, podemos ver dois pontos, o primeiro é que o link não ficou englobado totalmente na div, somente quando passa em cima do texto e a o segundo ponto é que temos que colocar o link duas vezes, com o mesmo endereço e isso pode aumentar de acordo com os elementos dentro dessa div.
 
-#### Verdade Bruno... Mas não tem nenhuma opção de conseguirmos validando na W3C?
+### Verdade Bruno... Mas não tem nenhuma opção de conseguirmos validando na W3C?
 
 Até temos uma opção, [que criei aqui agora](/artigos/limite_semantica/exemplo_certo_gambiarra.html), mas seria bem do tipo [POG](http://desciclo.pedia.ws/wiki/POG).
 
@@ -172,7 +172,7 @@ Acabei escrevendo até um pequeno tutorial, mas tudo bem né :D. Acabei saindo d
 
 Mas voltando ao assunto dele, chegamos no ponto crucial. Vimos aqui que temos soluções para esse probleminha mostrado por mim aqui, mas vimos que é meio chato fazer e não muito funcional, pois como eu disse, não é certo de funcionar no Opera.
 
-#### Vale a pena focar a semântica SEMPRE? Ou melhor, vale a pena focar a Validação na W3C?
+### Vale a pena focar a semântica SEMPRE? Ou melhor, vale a pena focar a Validação na W3C?
 
 Esse é o ponto principal do Post. Em relação a semântica, temos dois lados:
 
@@ -187,7 +187,7 @@ Na segunda, temos o link englobando tudo e um strong sendo o título e um span s
 
 Já vi posts sobre isso, como o do [Henrique do Revolução etc](http://www.revolucao.etc.br/archives/validacao-e-semantica/), tem outro do [Tableless](http://www.tableless.com.br/) chamado [Validar é importante?!](http://www.tableless.com.br/validar-e-importante), etc.
 
-#### Eu acho importante validar na W3C Bruno. Por que você não acha?
+### Eu acho importante validar na W3C Bruno. Por que você não acha?
 
 Não ponha palavras na minha boca (ou seria letras nas minhas teclas?), eu só estou dizendo que existem casos e casos. Você pode muito bem ter um site que ao invés de usar h2, utiliza um `<p class="titulo">`, existe o caso de você esquecer de fechar uma tag, etc, etc, etc.
 

@@ -14,11 +14,11 @@ Depois de eu [apresentar o livro](/livro-o-encontro-de-dois-mundos) e [sortear u
 
 Com certeza não e logicamente que o Baeta pensou nisso. E o lançamento será aberto ao público e terá uma palestra com Bruno Rodrigues, um dos autores do livro e autor do livro "Webwriting - Redação & Informação para a Web".
 
-#### Data e local
+### Data e local
 
 O Coquetel será no dia 23/06, ou seja, semana que vem, na segunda mesmo, às 19h. E será na Livraria Armazém Digital, no Shopping Rio Design Center, Leblon.
 
-#### Participantes
+### Participantes
 
 Além de mim, claro, outros cariocas participaram do livro, como o [Mauro](http://www.contemconteudo.org/) [Amaral](http://carreirasolo.org/), [Fábio](http://blog.fabioseixas.com.br/) [Seixas](http://www.camiseteria.com/), [Ana Erthal](http://www.anaerthal.com.br/), [Bruno Rodrigues](http://webinsider.uol.com.br/index.php/author/bruno-rodrigues), [Mackeenzy](http://www.videolog.tv), entre outros.
 
