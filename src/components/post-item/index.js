@@ -22,7 +22,7 @@ export default function PostItem({ post, slug, time }) {
   return (
     <>
       <S.Post>
-        <S.LinkPost to={slug}>
+        <S.LinkPost cover direction="left" bg="#F7F6F1" duration={0.6} to={slug}>
           {image && <Img fluid={image.childImageSharp.fluid} />}
           <S.Content className="infos-post">
             <S.TitlePost>{post.title}</S.TitlePost>
