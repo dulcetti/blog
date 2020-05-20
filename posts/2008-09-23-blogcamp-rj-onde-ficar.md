@@ -12,7 +12,7 @@ Seguindo a [sequência de posts](/blogcamp-rj-oficinas-e-novidades.html) para aj
 
 Ok, ok. Está um pouco tarde para eu estar mostrando isso, mas eu sou um ser humano, (pode até não parecer, mas eu sou sim, eu juro), não consegui manter muito uma ordem e cronograma em cima do evento. Fazer o que, acontece pow.
 
-### Beleza Dulça, diz ae então um monte de hotel pra galera ficar
+## Beleza Dulça, diz ae então um monte de hotel pra galera ficar
 
 Sim, sim, craro, como não. Mas infelizmente a Tijuca não possui muitos hotéis, possui aqueles Motéis que se camuflam de Hotel para pagar menos impostos, mas são caros de ficar. A não ser que você se dê bem por aqui. Mas por favor, sem mulher de gogó.
 
@@ -49,7 +49,7 @@ Abaixo seguem alguns hotéis que achei pela Tijuca. Mas por favor, não venham m
 - Telefone: (21) 2284-3672
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Haddock+Lobo+206+rio+de+janeiro&sll=-22.922251,-43.219507&sspn=0.010218,0.022745&ie=UTF8&ll=-22.917567,-43.219056&spn=0.010218,0.022745&t=h&z=16&iwloc=r0)
 
-### Mas você só vai mostrar hotéis na Tijuca?
+## Mas você só vai mostrar hotéis na Tijuca?
 
 Não, não. Relaxa ae que mais abaixo to mostrando outros, que não só eu, mas como o NAVE também recomenda. Em bairros como Centro, Flamengo, Copacabana.
 
@@ -89,7 +89,7 @@ Não, não. Relaxa ae que mais abaixo to mostrando outros, que não só eu, mas 
 - R\$ 163,00 - inclui café da manhã e internet, reservas com pelo menos 3 dias de antecedência.
 - [Link no Google Maps](http://maps.google.com/maps?f=q&hl=en&geocode=&q=Rua+Cruz+Lima,+30+Flamengo+Rio+de+Janeiro&sll=-22.907744,-43.181677&sspn=0.010219,0.022745&ie=UTF8&ll=-22.936104,-43.175583&spn=0.010217,0.022745&t=h&z=16&iwloc=r0)
 
-### Como chegar?
+## Como chegar?
 
 Bom, para você chegar de qualquer um desses hotéis, tirando os da Tijuca é claro, é só você pegar o metrô. Compre o bilhete expresso, que te dá direito a pegar mais o ônibus.
 
@@ -101,7 +101,7 @@ Depois, saia da estação, você está na Praça Saens Pena, dê um berro de fel
 
 Ok, ignore essa minha idéia e pegue o ônibus expresso de número 413, que te deixará em frente a NAVE. É só pedir pra descer no primeiro ponto da Uruguai. Não tem erro e mesmo assim, se você não ver o prédio da NAVE, você precisa de óculos.
 
-### Finalizando...
+## Finalizando...
 
 Alguma pergunta? Faça nos comentários. Aquele abraço.
 

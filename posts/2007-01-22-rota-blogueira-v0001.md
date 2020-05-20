@@ -10,7 +10,7 @@ E ae pessoal. Estou aqui para iniciar uma nova categoria aqui no blog, a Rota Bl
 
 Tentarei colocar aqui semanalmente. Tudo vai depender da minha paciência e saco para postar :D Mas eu prometo que não será igual as categorias Videolog e Colírios, as quais tenho que postar urgentemente, tem tanto tempo que não posto, que às vezes esqueço delas :P.
 
-### A onda é convergir ...
+## A onda é convergir ...
 
 #### Autor: Léo Hackin
 
@@ -26,7 +26,7 @@ Vale a lida.
 
 ---
 
-### Clique vs Scroll: "Leia Mais" em Blogs
+## Clique vs Scroll: "Leia Mais" em Blogs
 
 #### Autor: Alex
 
@@ -45,7 +45,7 @@ Belas opiniões, explicações e conclusões por parte dele, pensando como usuá
 
 ---
 
-### O que é a Blogosfera?
+## O que é a Blogosfera?
 
 #### Autor: Mauro Amaral
 
@@ -57,7 +57,7 @@ Post bem interessante do Mauro Amaral sobre faturamento dos blogs, pro-bloggers,
 
 ---
 
-### Blog Corporativos: Cauda longa ou rabo preso?
+## Blog Corporativos: Cauda longa ou rabo preso?
 
 #### Autor: Cardoso no [MeioBit](http://www.meiobit.com/)
 
@@ -71,7 +71,7 @@ Mas também fala de Blogs corporativos interessantes, bem feitos e com conteúdo
 
 ---
 
-### Ah, este Google…
+## Ah, este Google…
 
 #### Autor: Hilder Santos no [Pimenta com Dendê](http://www.pimentacomdende.com/)
 
@@ -83,7 +83,7 @@ Uma dica do Hilder sobre um serviço do Google, o [Google Apps for Your Domain](
 
 ---
 
-### Finalizando...
+## Finalizando...
 
 Bom, é isso galera. Como eu disse, tentarei postar sempre uns posts que acho interessante para vocês, sejam engraçados, sobre tecnologia, etc. Depende do meu ânimo :D.
 

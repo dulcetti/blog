@@ -8,7 +8,7 @@ title: 'Como você escreve seus arquivos CSS? Parte 2'
 
 Dando continuidade ao [post anterior](/como-voce-escreve-seus-arquivos-css), venho aqui mostrar alguns detalhes que acabei não mostrando na primeira parte. É sempre assim, quando queremos falar sobre algo, quando temos a absoluta certeza que está concluído, vemos, mais tarde, que ainda faltava algo :D.
 
-### Ferramentas compactadoras de CSS's
+## Ferramentas compactadoras de CSS's
 
 Alguns leitores postaram sugestões, opiniões e links interessantes, que postarei aqui alguns dos links citados.
 
@@ -25,7 +25,7 @@ Segue a lista de links:
 
 Dei uma olhada muito rápida nos links e o q mais me agradou foi o Clean CSS, pelas opções, variações de compactação, etc. Mas não cheguei a testar nenhum. Mais pra frente, de repente :P, eu testo :D.
 
-### Retornando a escrita CSS... :D
+## Retornando a escrita CSS... :D
 
 Bom, retornando ao assunto do Post, vou comentar sobre mais alguns pontos de escrita dos CSS's. Eu batizarei um de hierarquia de elementos e o outro de referência de tags.
 
@@ -133,7 +133,7 @@ A utilização desta forma limita as propriedades a somente estas tags e pronto.
 
 Eu prefiro utilizar sem a referência de tags, a não ser que você tenha múltiplas tags utilizando a mesma classe.
 
-### Finalizando...
+## Finalizando...
 
 Bom, essa segunda parte é bem menor que a primeira e é assim que eu tentarei fazer sempre, escrever menos, mais direto. Apesar que sou muito detalhista e mastigo bem os tutoriais, artigos, etc. Acho que é melhor assim, mas é preocupante também quando fica grande, cansativo, etc. Mas eu vou treinando para isso não acontecer :D.
 

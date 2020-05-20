@@ -8,13 +8,13 @@ title: 'Segunda Versão. Finalmente saiu. Brunão v2.0 Flexpower!'
 
 Ok galera, podem zuar... :P
 
-### Não acredito! É Verdade? Estou sonhando!?!!? Não creio!?!?!
+## Não acredito! É Verdade? Estou sonhando!?!!? Não creio!?!?!
 
 Tah bom, tah bom, parem de sacanear ow... Finalmente saiu essa bagaça de segunda versão. :D Tudo bem, tudo bem, pode não ser revolucionária, aquela coisa estrondosa, caramba, e talz... Mas é a segunda versão do meu Blog e Portfólio.
 
 [Prestes a completar um ano de existência](/primeiro-passo.html 'Ver meu Primeiro Post no Blog'), consegui, finalmente, mudar o layout desse blog/portfólio.
 
-### Parte Visual
+## Parte Visual
 
 Na parte visual, vocês podem perceber que deixei do lado aquele topo com os macaquinhos né? Tanto no Blog, quanto no meu portfólio, sairam os simpáticos animais que tinham no fundo do campo. As imagens era um pouco pesadas, foi um dos pontos que mais me fizeram retirá-las.
 
@@ -48,13 +48,13 @@ Na parte de links, eu padronizei algumas das imagens, deixando com um padrão de
 
 Show de bola né? Acho legal a presença de ícones em algumas partes do conteúdo para melhor entendimento das informações que é transmitida.
 
-### Parte de código
+## Parte de código
 
 Essa parte é sempre a mais difícil de todas (na maioria das vezes :P). Ainda não está validado e nem sei se será possível validar tudo :P. Mas eu garanto que tentarei, eu juro :D
 
 Os artigos anteriores eu ainda terei que ajeitar algumas coisas... Nem todas as tags estão declaradas corretamente no css, tenho que ver isso... Terei que analisar post por post para ficar tudo buniotinho (to ferrado, eu sei :P).
 
-### Mto bom Brunão. Temos alguma novidade
+## Mto bom Brunão. Temos alguma novidade
 
 Já estava quase esquecendo, ainda bem que você me lembrou :D. Criei mais duas categorias, que estarei postando a partir de hoje sempre que puder.
 
@@ -68,13 +68,13 @@ Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em dest
 
 Postarei também novidades que rolarem dentro do Portal. ;)
 
-### Agradecimentos
+## Agradecimentos
 
 Queria agradecer a galera q deu apoio na criação dessa nova versão do Blog/Portfólio. Ao [Gio](http://www.bitfrito.com.br) a quem eu mostrei o layout e código antes de estar pronto (eu acho que foi né :D), ao [Micox](http://elmicox.blogspot.com/) q chegou a dar uma olhada também e vem aturando um pouco umas dúvidas minhas :D, ao [Feitosa](http://cirofeitosa.com.br/) que me ajudou em algumas coisas em PHP, tanto para trabalhos qnt aki no Blog (nem ele sabia disso... uahuauhaua), temos também o [Pedro Taranto](http://www.zigzgiza.com.br) que me aturou nas dúvidas em Flash pro [Videolog.tv](http://www.videolog.tv), o **Bruno Ribeiro** que assim como o Taranto, me ajudou no Videolog, tem o [Lucas Ferreira](http://blog.lucasferreira.com/) que me deu uma ajuda no [Videolog.tv](http://www.videolog.tv) também e pra completar a galera do [MMUG-RJ](http://www.mmug-rj.com.br) tem o Wallace Rettich que deu alguns toques pro Blog também.
 
 Tem mto mais gente pra agradecer ae, mas tenho q terminar logo isso e colocar a nova versão no ar... :D
 
-### Finalizando...
+## Finalizando...
 
 Bom, é isso... Queria agradecer a todos ae que frequentam e assinam o feeds deste Blog. Está perto de completar 1 ano de posts sobre webstandards e tecnologia em geral.
 

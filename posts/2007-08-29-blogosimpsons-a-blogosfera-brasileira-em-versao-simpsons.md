@@ -56,6 +56,6 @@ Listagem da galera simpsonizada (sic) no Post do Carlos:
 - Ester Beatriz ([Saber é bom demais](http://www.saberebomdemais.com/))
 - George Leite ([Lixo Radioativo](http://www.lixoradioativo.com/))
 
-### Finalizando
+## Finalizando
 
 É isso ae cambada, só isso. Aquele abraço.

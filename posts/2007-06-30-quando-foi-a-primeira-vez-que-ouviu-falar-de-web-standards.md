@@ -8,7 +8,7 @@ title: 'Quando foi a primeira vez que ouviu falar de web standards?'
 
 [Seguindo o post](http://rodrigomuniz.com/blog/lembra-a-primeira-vez-que-ouviu-falar-de-web-standards/) que o [Rodrigo Muniz](http://rodrigomuniz.com/) escreveu, resolvi fazer um parecido, como se fosse um [meme](http://pt.wikipedia.org/wiki/Meme) sobre esse assunto.
 
-### Web standards? Mas o que é isso?
+## Web standards? Mas o que é isso?
 
 Lembro como se fosse ontem. :D Na verdade, tudo começou com o termo tableless, bem marketeiro e que até hoje as pessoas continuam chamando de método. Mas tudo bem, web2.0 também né? Fazer o que né?
 
@@ -24,7 +24,7 @@ Mas para a sua alegria, esse artigos está [traduzido em 21 línguas diferentes]
 
 Eu acho completamente válido mostrar para aquele cliente chato, aquele designer que cisma que não é necessário, entre outros pentelhos existentes no mundo web. ;)
 
-### Legal Bruno, mas tem tempo isso?
+## Legal Bruno, mas tem tempo isso?
 
 Tem um certo tempo sim. Quando eu recebi esse link, era +ou- meio do ano de 2003, não lembro certo, talvez julho, agosto, não estou lembrado, mas foi por ae.
 
@@ -32,7 +32,7 @@ Naquela época eu já trabalhava com CSS, mas ainda estrutura os sites com tabel
 
 Que que foi? Até parece que você, que trabalha há mais de 4, 5 anos com web nunca fez isso. :P
 
-### Finalizando...
+## Finalizando...
 
 Deixando as brincadeiras, é bom relembrar o passado, os velhos métodos, que graças a Deus e a nós, desenvolvedores, viraram velhos :D
 

@@ -10,7 +10,7 @@ E ae galera.
 
 Resolvi fazer um post diferente do normal, sem conteúdo técnico, nada de webstandards, nem nada. Seria algo como a categoria Colírios, que eu deveria atualizá-la e postar mais coisas :P
 
-### Como assim Bruno? Não entendi muito bem.
+## Como assim Bruno? Não entendi muito bem.
 
 Então, seguinte. Como boa parte deve saber, trabalho na Globo.com e conheço profissionais muito bons e que tenho contato direto, pois sempre estou fazendo trabalhos junto com eles. Na sua grande maioria, designers, mas também Arquitetos da Informação, entre outros cargos.
 
@@ -88,11 +88,11 @@ Bom, que eu me lembre, não participei de nenhum projeto junto com ele. E o pior
 
 Assim como eu, é carioca e [flamenguista](http://globoesporte.globo.com/ESP/Home/0,,4282,00.html) (alguma coisa de bom ele tinha q ter né :D )
 
-### Outras figuras
+## Outras figuras
 
 Já trabalhei com outros profissionais de qualidade, mas que não trabalham mais aqui na Globo: [Aline Dias](http://www.alinedias.com.br/) que é designer (pra variar um pouco) e o [Felipe Memória](http://www.fmemoria.com.br/) que todos aqui devem conhecer :D
 
-### Finalizando
+## Finalizando
 
 Bom, é isso ae galera. Por acaso você trabalha com alguém conhecido? Alguém que você acha que deveria ser destacado em seu blog? Poste também, não custa nada. ;)
 

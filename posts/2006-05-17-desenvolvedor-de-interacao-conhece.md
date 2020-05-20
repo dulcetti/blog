@@ -1,16 +1,16 @@
 ---
-category: "Shots"
-date: "2006-05-17"
-description: ""
-featuredImage: ""
-title: "Desenvolvedor de Interação. Conhece?"
+category: 'Shots'
+date: '2006-05-17'
+description: ''
+featuredImage: ''
+title: 'Desenvolvedor de Interação. Conhece?'
 ---
 
 E ae pessoal, tudo tranquilo? Por aqui está tudo bem também, graças a Deus.
 
 Meu post hoje é pra falar sobre um cargo, digamos assim, que acho que se encaixa no meu atual perfil profissional. E achei legal compartilhar aqui, para quem sabe alguém que também se encaixe neste perfil, para mandarem opiniões, o que acham...
 
-### Primeira Parte - "Desenvolvedor"
+## Primeira Parte - "Desenvolvedor"
 
 Isso, desenvolvedor. Podemos ver [uma breve explicação do que seria isso no wikipedia](http://pt.wikipedia.org/wiki/Desenvolvedor). Como lá diz, existem várias "subcategorias", eu chamaria assim da "categoria" Desenvolvedor. Para nós que trabalhamos com internet, etc, o Desenvolvedor Web seria o nome ideal certo? Talvez. O Desenvolvedor Web é mais para aqueles que desenvolvem em uma [linguagem de programação](http://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o), como [PHP](http://pt.wikipedia.org/wiki/Php), [ASP](http://pt.wikipedia.org/wiki/ASP), [JAVA](http://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o_Java), entre outras linguagens existentes.
 
@@ -26,7 +26,7 @@ Calma, calma... Estou chegando lá. O que realmente me fez pensar nesta nomeaç�
 
 Vou citar o Flash, por exemplo. Antigamente eu criava layouts no Photoshop e no Flash, o que seria em vetor, textos, criava no Flash e a parte Bitmap deixava com o Photoshop. Mas agora as coisas estão mudando, principalmente na empresa que trabalho à noite, a [Produzindo](http://www.produzindo.com.br), onde o Ariel cuida do Design dos trabalhos e eu fico encarregado de "montar", tanto no flash, quanto no HTML. Seria isso o breve resumo.
 
-### Hmmm... Legal e o Interação?
+## Hmmm... Legal e o Interação?
 
 É exatamente neste ponto que eu estava querendo chegar, o porquê da utilização do “Interação” no cargo. Neste ponto, entendo interação, como a forma como chega ao usuário, como ele visualiza a informação, conteúdo do site, cd-rom e afins. O designer cria o layout e o browser mostra, mas tem o Desenvolvedor de Interação, que aplica isso, que desenvolve, pois sem esse desenvolvimento da interação com o usuário, ele não verá o site, animação e afins, corretamente.
 
@@ -38,7 +38,7 @@ Não necessariamente. Um programador pode criar todas as ações, classes, funç
 
 Isso, logicamente, funciona bem com uma empresa que tem tudo divido, muitas empresas fazem isso com um profissional só, o que chega a ser errado, pois pode sobrecarregá-lo.
 
-### Legal! E como seria em sites?
+## Legal! E como seria em sites?
 
 Seria praticamente a mesma coisa, mas com tecnologias diferentes. Você pega o layout feito no Photoshop (ou Fireworks ou qualquer programa) e fatie-o. Eu odeio as ferramentas de slice desses programas, não exporto como html, pois os deixa muito sujo, eu prefiro criá-los na mão mesmo, porque tenho mais controle de tudo.
 
@@ -48,7 +48,7 @@ Monto o html com o doctype q for necessário, o que eu quiser, depois vou estrut
 
 Seria a mesma coisa que falei no exemplo de Flash. Teríamos um Desenvolvedor [PHP](http://pt.wikipedia.org/wiki/Php) que faria toda a programação e faria todos os SELECT necessários para visualização na página. O meu trabalho seria posicionar cada SELECT no lugar correto, fazer a interação BD->Site.
 
-### Concluindo...
+## Concluindo...
 
 Seria necessariamente essa a função do Desenvolvedor de Interação, criar a integração/comunicação design+programação até o cliente.
 

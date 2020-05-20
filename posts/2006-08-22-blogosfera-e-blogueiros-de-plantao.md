@@ -12,7 +12,7 @@ Ok, ok. Eu prometi colocar a nova versão do meu Blog no ar no final de semana, 
 
 Acabei atrasando um bocado, mas está tudo pronto, só falta montar poucos detalhes. Foda são os jobs e a preguiça (velha perturbadora). :P
 
-### Chega de conversa e vamos ao assunto?
+## Chega de conversa e vamos ao assunto?
 
 Claro, isso que estava querendo dizer.
 

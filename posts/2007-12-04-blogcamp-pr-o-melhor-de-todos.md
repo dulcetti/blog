@@ -8,15 +8,15 @@ title: 'BlogCamp PR - O Melhor de Todos'
 
 Falae pessoal. Chegando aqui para comentar sobre mais um BlogCamp que rolou, em Curitiba/Paraná. Por coincidência, meu último post foi sobre outro BlogCamp, o de Belo Horizonte.
 
-### Pra variar escrevendo pouco né Dulcetti
+## Pra variar escrevendo pouco né Dulcetti
 
 É. Bicho pegando na [Globo.com](http://www.globo.com), freelas, entre outras coisas. Mas sobre o BlogCamp PR eu não poderia deixar de comentar, por mais que me tire alguns minutos (horas?) para escreve-lo.
 
-### Então conta pra gente como foi Bruno
+## Então conta pra gente como foi Bruno
 
 Na minha opinião foi o melhor BlogCamp de todos. Tudo bem que eu só fui no de Belo Horizonte antes desse, mas pelo menos foi melhor que o de BH. Não desmerecendo o de BH, nunca, mas é que o espaço era melhor e tinha mais gente. Isso significa mais contatos, zueras, etc.
 
-### "Senta que lá vem a História..."
+## "Senta que lá vem a História..."
 
 Bom, vou contar por partes a grande história do BlogCamp PR. Só um detalhe que vale lembrar, eu só fiquei um dia inteiro lá. Tive que voltar domingo de manhã. Se eu ficasse mais, ia ser bem melhor.
 
@@ -233,7 +233,7 @@ Arrumei minhas malas, saindo do Hotel, olhei pra cima e dei um mega tchau para t
 
 Quando cheguei no aeroporto, quase troquei a passagem. Só não troquei a passagem porque eu tinha comprado pela promoção da Gol, que citei no início do post, por isso que ela seria a grande vilã do evento. Mas eu fui troxa mermo, pq eu teria condições de trocar a passagem. Ia pagar cinco vezes mais do que eu paguei, mas não tem preço estar mais algumas horas com essa galera. De coração.
 
-### Finalizando...
+## Finalizando...
 
 Se você chegou até aqui, parabéns, você gosta mesmo dos meus textos, ou é um blogueiro fanático, ou é meu fã, pq pqp, ficou grande pra caraleo.
 
@@ -253,7 +253,7 @@ E que venha o próximo BlogCamp ou qualquer zuera, encontro, bebedeira que seja.
 
 E vamo que vamo. Aquele abraço e beijo na alcatra, com maminha dentro.
 
-### Posts sobre o BlogCamp PR
+## Posts sobre o BlogCamp PR
 
 Não sou só eu que escrevo não. Então lá vai uma moral pra galera que ta escrevendo sobre e me linkando também. Se não me linkar, não vou saber se escreveu sobre :D
 

@@ -10,7 +10,7 @@ Estava eu tranquilo, quando Leandro Cunha, camaradassa meu me perguntou sobre co
 
 É muito simples sua implementação, pra quem já conhece PHP legal, já mexe, isso é mole, mas pro pessoal que tah começando agora, tah no básico ainda, vale ler (eu acho :P)
 
-### Primeira Parte - HTML
+## Primeira Parte - HTML
 
 Primeiramente, lógico, vou postar um código html de um formulário (lembrando que não coloquei nenhum estilo pro formulário, isso fica com vocês ok? ;) ) ver exemplo online:
 
@@ -51,7 +51,7 @@ Um input com o botão de envio do formulário. É através dele que o formulári
 
 Espero que tenham entendido essa parte, acho que deu pra dar uma explicadinha legalzinha sobre cada parte. Agora vamos cair dentro do arquivo php.
 
-### Arquivo `enviar_formulario.php`
+## Arquivo `enviar_formulario.php`
 
 ```php
 <?php

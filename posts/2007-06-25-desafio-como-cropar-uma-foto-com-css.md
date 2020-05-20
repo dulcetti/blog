@@ -12,7 +12,7 @@ Hoje estou aqui com algo diferente. Estava semana passada aqui na [Globo.com](ht
 
 Um novo efeito de over nos links que o pessoal de design fez no layout. É interessante, gostei, mas fiquei pensando um tempinho em como implementá-lo.
 
-### Legal Bruno, mas qual é o desafio?
+## Legal Bruno, mas qual é o desafio?
 
 Então. Vou apresentar o efeito. É como se fosse uma borda de 3px em volta de uma foto, mas só que interna, como se "cropasse" a foto. Veja abaixo:
 
@@ -26,7 +26,7 @@ Colocando somente a borda, a largura ficaria 192px, o que faria quebrar o grid, 
 
 Valew ae juliano. **\[/UPDATE\]**
 
-### Finalizando
+## Finalizando
 
 Está lançado. Amanhã estarei publicando as duas soluções que achei. Lembrando que tem que ter suporte na maioria dos browsers, senão em todos :D
 

@@ -8,7 +8,7 @@ title: 'Videolog lança v3'
 
 Sim, agora é oficial. O Videolog, maior, melhor, o mais fodástico e modafoca de todos os portais de vídeos, lança sua mais nova versão. A terceira, vulgo v3 ;)
 
-### Uau, Dulça. Legal isso hein...
+## Uau, Dulça. Legal isso hein...
 
 Bem legal mesmo. É tão bom ver todo o esforço todo depositado num projeto desses, tão grande, tão foda, em prática, realmente pronto, visualizado, sólido. Mesmo que ainda em fase de testes, não estando 100%, ainda sim é muito bom.
 
@@ -43,7 +43,7 @@ E não rolou somente o streaming, mas também um chat com todo mundo que entrass
 
 Não exagere por favor. Não somos tão normais assim, principalmente Dulcetti aqui :P Mas pelo menos a galera vê que o Videolog e feito não só pela gente, mas por vocês também. Enquanto aprontávamos os detalhes, a galera toda aprontava também a bagunça. E isso foi legal e essencial, para nos motivar a fazer melhor ainda o trabalho. Cada gota de detalhe e qualidade, devemos a vocês, usuários do [Videolog](http://www.videolog.tv).
 
-### Você já experimentou o Videolog?
+## Você já experimentou o Videolog?
 
 ![Marca do Videolog](/assets/images/posts/marca.gif)
 
@@ -63,10 +63,10 @@ Até aí blz pura, sucesso total, sem problema algum. Mas o que me revolta é fa
 
 Nenhum sistema é perfeito e sempre estaremos aprimorando-o e será com a sua ajuda, crítica, opinião, sugestão, elogios e tudo mais.
 
-### Que isso, hein Dulça... Praticamente um desabafo :P
+## Que isso, hein Dulça... Praticamente um desabafo :P
 
 Mas é mesmo, um pouco de desabafo. O que vejo de blogueiro postando no YouTube e afins, não é sacanagem não. Mas, mudaremos isso, principalmente com o lançamento do Videolog V3. E contamos com vocês.
 
-### Finalizando...
+## Finalizando...
 
 É isso pessoal. Aquele abraço e espero que gostem da nova versão do Videolog. Em breve postarei novidades sobre o portal e farei um mega tutorial de como ele foi estruturado, montado, planejado e tudo mais ok?

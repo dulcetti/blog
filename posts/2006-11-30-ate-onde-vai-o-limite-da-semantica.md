@@ -8,11 +8,11 @@ title: 'Até onde vai o limite da Semântica?'
 
 E ae pessoal. Tempo que não posto sobre web standards, css e afins, que são os temas principais desse Blog. Muitos trabalhos, pouco tempo, meio "sem saco" para escrever (blogueiros são humanos também sabiam?) :P
 
-### Tá blz Bruno, mas isso todos dizem. Vá direto ao ponto...
+## Tá blz Bruno, mas isso todos dizem. Vá direto ao ponto...
 
 Ok, ok... Não estou aqui para falar de trabalho, dar desculpas sobre minha falta de tempo e "saco" sobre postagens no blog, etc. Estou aqui para falar de um assunto que tenho certeza que já passou na cabeça de praticamente todos os desenvolvedores web, que trabalham com webstandards.
 
-### Semântica... A velha e temida semântica...
+## Semântica... A velha e temida semântica...
 
 Não falarei sobre semântica web, citarei alguns exemplos para vocês entenderem e depois os casos reais para que vocês entendam porque estou escrevendo este post ok?
 
@@ -42,7 +42,7 @@ Ao contrário do block, os elementos inlines não quebram linha. Podem conter ou
 - `<strong>`
 - `<em>`
 
-### Resumindo...
+## Resumindo...
 
 Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar elementos inlines e blocks:
 
@@ -77,7 +77,7 @@ Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo ce
 
 Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei uma página só pra esse exemplo](/artigos/limite_semantica/exemplo_errado.html).
 
-### Agora iremos ao ponto chave desse post.
+## Agora iremos ao ponto chave desse post.
 
 Vimos que esse segundo exemplo está errado, pois o link, que é um elemento inline, contém elementos blocks (h1 e p). Percebam que MESMO declarando no css o display: block pra link, ele, por padrão na W3C, é inline, portanto é descartado o CSS, ou seja, não é validado pela W3C.
 
@@ -166,7 +166,7 @@ Nem me fale isso. É um saco isso tudo, mas conseguimos chegar no [resultado fin
 
 Lembrando que, esse macete não funciona no Opera. Não tenho Opera aqui instalado, por isso não posso confirmar, mas tenho quase certeza que não funciona, ou seja, não é muito legal utilizá-lo :D.
 
-### Voltaaaaaaaaaando ao foco do Post...
+## Voltaaaaaaaaaando ao foco do Post...
 
 Acabei escrevendo até um pequeno tutorial, mas tudo bem né :D. Acabei saindo do foco do assunto do post.
 
@@ -199,11 +199,11 @@ Eu acho que, neste caso, possa dar uma "esquecida" na W3C e colocarmos o link, n
 
 Mas, isso varia de pessoas e pessoas e eu estou aqui para saber a opinião de cada um que lê este blog, para ver se eu estou viajando, se só eu que penso assim, ou tem desenvolvedores que pensam assim, mas nem sempre agem assim por causa dos seus trabalhos ;).
 
-### Resumindo
+## Resumindo
 
 Na verdade, o que eu acho é que a W3C deveria criar uma nova tag, chamada `<ablock>`, que seria um link também, mas como um bloco, com isso, não precisaríamos nos preocupar com isso não é verdade? Ou melhor, fazer com que consultasse o CSS e visse "se o `<a>` é um bloco, então valido, senão não valido", o que seria melhor ainda, pois não seria necessário a espera de novas versões dos browsers, que por parte do FF, Opera seria tranquilo, mas o ie... aff...
 
-### Finalizando...
+## Finalizando...
 
 E você? O que acha disso? Acha certo "pular a cerca" da validação da W3C nesse caso? Ou você faz parte do grupo "Validação acima de tudo"?
 

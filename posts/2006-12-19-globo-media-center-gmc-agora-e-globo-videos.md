@@ -12,7 +12,7 @@ Venho nesse post para mostrar mais uma mudança nas ferramentas da [Globo.com](h
 
 Eu particularmente gostei do nome, apesar que o antigo era legal, mas gostei mais do novo.
 
-### Novidades
+## Novidades
 
 Algumas já disse acima, como deixar se ser em flash e ficar em HTML. Uma mudança que não me agrada muito é a de colocar para resoluções 1024x768, mas tudo bem, eles estão meio que forçando as pessoas a mudarem de resolução e o PA era mais para 1024x768 do que 800x600.
 
@@ -22,13 +22,13 @@ A parte interna dos vídeos, quando ele é mostrado tb está melhor, com as opç
 
 Participei em pouca parte do Globo Vídeos, peguei mais a parte do embed do vídeo, criei o HTML dele todo, que será o padrão para todo o site. Em todos os sites que terão vídeos, usarão esse código (que moral hein :D).
 
-### Bola fora
+## Bola fora
 
 A única coisa que acho ruim do Globo Videos é não terem migrado para uma ferramenta, um codec que transforme os vídeos em flv. Ficar nessa de usar wmv e player do Windows Media Player é dose.
 
 Percebi alguns bugs que já passei pro pessoal responsável, para resolver tudo.
 
-### Finalizando
+## Finalizando
 
 Bom, é isso, mais uma ferramenta da Globo.com no ar. É a Globo investindo em Webstandards e ferramentas mais fáceis de serem utilizadas e mais acessíveis. Em breve mais novidades.
 

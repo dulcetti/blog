@@ -10,7 +10,7 @@ Como prometido, estou aqui pra postar a "resposta" do "desafio" que [postei onte
 
 Algumas sugestões, soluções, bem próximas da que eu arrumei e achei melhor. Vou tentar explicar detalhadamente porque não utilizei tal solução, porque fiz dessa forma, o que não rola, suporte, etc.
 
-### Sugestões
+## Sugestões
 
 O juliano postou uma solução com background, mas como eu disse depois, não é possível, pois o conteúdo é dinâmico, portanto, não rola colocar como background.
 
@@ -20,7 +20,7 @@ Sobral e Mico citaram o clip, mas como citei acima, o IE não suporta a pseudo-c
 
 A do Alisson ficou +ou- parecido com a que eu implementei, mas faltaram alguns detalhes, algumas mudanças, para que funcionasse perfeitamente.
 
-### Primeira Solução
+## Primeira Solução
 
 Chega de conversa e vamos para a primeira solução. Nessa eu utilizei o clip, como o mico e o sobral citaram, mas como falei, preciso da pseudo-classe :hover funcionando perfeitamente no IE, com isso, tive que utilizar [um arquivo .htc](http://www.xs4all.nl/~peterned/csshover.html), que faz com que o IE aceite o hover em qualquer tag.
 
@@ -97,7 +97,7 @@ Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormen
 
 Veja o exemplo correto funcionando
 
-### Legal Bruno, funcionou direitinho...
+## Legal Bruno, funcionou direitinho...
 
 Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas:
 
@@ -108,7 +108,7 @@ Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse htc, p
 
 Por essas e outras, tive que buscar uma outra opção, modo, de implementar esse efeito, somente por CSS, sem colocar htc, js, nem nada.
 
-### Segunda Solução
+## Segunda Solução
 
 Eis que surge uma idéia no início, meio bizarra pra utilizar como solução. E não é que deu certo? :D O código HTML utilizado foi o mesmo do exemplo anterior. Abaixo segue o CSS:
 
@@ -173,7 +173,7 @@ Veja o exemplo final funcionando.
 
 Agora sim hein :D Graças a Deus, o IE aceita o atributo margin na pseudo-classe hover do link no CSS. ;)
 
-### Conclusões
+## Conclusões
 
 Bom, é uma solução simples, tranquila, mas que nem sempre vem a cabeça facilmente, rápido. Testei no IE 6, IE 7, Firefox, Opera, Firefox Mac, Safari e todos funcionaram perfeitamente, sem nenhuma diferença.
 
@@ -181,7 +181,7 @@ Algumas coisas precisam de alguns detalhes pra funcionar, por exemplo, o display
 
 Sempre tem essas pequenas coisas que são essenciais saber no CSS, que você pega com a prática.
 
-### Finalizando
+## Finalizando
 
 Bom, é isso. Qualquer dúvida, correção ou solução melhor, é só comentar que eu posto aqui ;)
 

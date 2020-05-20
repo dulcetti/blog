@@ -16,7 +16,7 @@ Na primeira edição, em 2005, o Dia Mundial da Usabilidade contou com a partici
 
 > "As palestras tem como público-alvo o consumidor, que muitas vezes se sente frustrado diante da dificuldade de usar produtos e serviços que adquire. E se estendem também a empresários e profissionais das áreas de comunicação, informática, design e qualidade, responsáveis na produção destes produtos e serviços."
 
-### Manero hein, Dulça
+## Manero hein, Dulça
 
 Bom, desculpem o formato meio que "sério demais" que não tem muito meu estilo. Mas estava sem saco tempo para criar um post sobre o evento e achei que esse trecho se encaixa bem pelo que o evento vai mostrar.
 
@@ -32,7 +32,7 @@ E o local será o Teatro da Cidade, na Univer Cidade, campus Ipanema (que fica e
 
 [Se inscreva pelo site mesmo](http://www.ilearn.com.br/wud/), coisa rápida. Pode ser clicando no banner acima ;) . E veja mais informações no [site do evento](http://wudrj.com.br).
 
-### Mais informações sobre o evento
+## Mais informações sobre o evento
 
 O responsável mor é o grande modafoca e meu camarada, Robson Santos, D.Sc. ESPM-Rio, Univer Cidade.
 
@@ -60,6 +60,6 @@ E a programação do evento você pode conferir abaixo ou então vendo no [eflye
 
 #### 21h30 - Encerramento
 
-### Finalizando
+## Finalizando
 
 O tema não me atrai tanto assim, mas eu vou comparecer para ver as idéias e propostas, que devem ser interessantes. Nos vemos por lá. Aquele abraço.

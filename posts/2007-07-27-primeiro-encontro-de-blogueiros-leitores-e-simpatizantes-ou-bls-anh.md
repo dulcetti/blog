@@ -10,15 +10,15 @@ E ae pessoal.
 
 Venho aqui informar que, finalmente, os blogueiros cariocas resolveram se encontrar. E não somente os blogueiros, mas também seus leitores e simpatizantes :D (não confundam, por favor :D Este nome foi idéia do [Cardoso](http://carloscardoso.com/))
 
-### Hmm... Interessante Bruno. Quem resolveu fazer isso?
+## Hmm... Interessante Bruno. Quem resolveu fazer isso?
 
 Então, o [Beto Largman](http://oglobo.globo.com/blogs/largman/) que organizou este encontro e eu soube disso através do [post](http://blog.fabioseixas.com.br/archives/2007/07/encontro_de_blogueiros_no_rio.html) do [Fábio Seixas](http://blog.fabioseixas.com.br/).
 
-### Legal Bruno, quando e onde que vai acontecer o encontro?
+## Legal Bruno, quando e onde que vai acontecer o encontro?
 
 No dia 6 de agosto, segunda-feira, a partir das 19h no Armazém Digital do Shopping Rio Design/Leblon, a partir das 19h - Avenida Ataulfo de Paiva, 270 - Loja 104 - Tel: (21) 2274-5999.
 
-### Sucesso Bruno. E quem vai?
+## Sucesso Bruno. E quem vai?
 
 Bom, por enquanto, pelo que vi nos posts até agora, os participantes da Blogosfera são:
 
@@ -37,7 +37,7 @@ ps: Acho que o "Jack" Berna Bauer não vai ligar de eu ter pego a lista dele né
 
 O meu [xará Alves](http://www.brpoint.net/) e o Alessandro Barbosa estão fazendo um doce ainda, pra que a gente fique torcendo e puxando o saco pra eles irem e não confirmaram presença :P (brincadeira ok? ;) )
 
-### Assuntos Abordados
+## Assuntos Abordados
 
 Bom, eu pensei que fosse ser só uma roda de chopp, bate papo, mas pelo que vi, teremos assuntos sobre blogs, etc. Preferia só o bate papo mesmo, mas tudo bem, se rolar porradaria eu separo :D Segue abaixo alguns dos temas a serem abordados no encontro:
 
@@ -47,6 +47,6 @@ Bom, eu pensei que fosse ser só uma roda de chopp, bate papo, mas pelo que vi, 
 - O marketing e os blogs, marketing viral e estratégias de guerrilha (Inagaki)
 - Monitoração e análise da comunicação boca-a-boca na web (Alessandro)
 
-### Finalizando...
+## Finalizando...
 
 Bom, é isso... Fico por aqui e logicamente, confirmando minha presença :D Aquele abraço.

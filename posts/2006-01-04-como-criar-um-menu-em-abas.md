@@ -10,11 +10,11 @@ Falae pessoal. Aqui estou eu, mostrando mais um artigo, mas agora não no iMaste
 
 Vamos ver uma prévia, uma imagem do resultado final deste artigo, para vocês terem uma idéia e entenderem as explicações, dificuldades e métodos utilizados. Veja o resultado final.
 
-### Dificuldades
+## Dificuldades
 
 A única dificuldade, na minha visão, é a parte da borda superior do conteúdo. Porderia somente colocar uma borda em volta do conteúdo, que estaria resolvido, mas ae acaba ficando estranho, pois o menu ativo, da página atual, ficaria meio que separado do conteúdo. Veja o exemplo. E não é isso que queremos, o objetivo é que não haja divisão entre o menu da seção e o conteúdo, conforme mostrado no resultado final.
 
-### Resolução - Parte 01
+## Resolução - Parte 01
 
 Uma resolução que encontrei, foi utilizar uma lista não ordenada `<ul>` e um div #conteudo abaixo dessa lista. Até aí, simples, coisa rápida. Vejamos o código abaixo:
 

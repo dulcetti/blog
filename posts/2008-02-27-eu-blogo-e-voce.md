@@ -8,11 +8,11 @@ title: 'Eu blogo e você?'
 
 Sim, sim. Eu blogo. E você? Sim, você mesmo que está lendo isso agora e está com cara de bobo se perguntando: "É comigo que ele está falando?". Você bloga?
 
-### Calmae Dulcetti... Não to entendendo nada...
+## Calmae Dulcetti... Não to entendendo nada...
 
 Relaxa, relaxa. É apenas um post que eu quero mostrar que eu blogo e muito. Bem mais do que o ano passado me permitiu blogar. Alguns podem falar que isso é um meme, até eu acho que é um. Mas não estou indicando ninguém e talz. Mas quem quiser falar sobre isso, fique à vontade. E se me linkar então, perfeito :D
 
-### Ahhhh tah Bruno. Legal...
+## Ahhhh tah Bruno. Legal...
 
 Bem legal mesmo. De uns dias pra cá eu fui perceber a periodicidade que eu estou blogando. Logicamente que não é como eu queria, mas pelo menos aumentou bastante, estou me dedicando mais pro(s) blog(s) que escrevo.
 
@@ -20,7 +20,7 @@ Ano passado eu publicava um post por mês, quando publicava. Este ano, em quase 
 
 Para se ter um noção, ano passado inteiro eu publiquei 33 posts. Se eu seguir nesse ritmo posso terminar o ano perto dos 70, 80 posts. E eu tentarei. ;)
 
-### Caramba Dulça, mas é um número bem expressivo hein...
+## Caramba Dulça, mas é um número bem expressivo hein...
 
 Sim, verdade. Mas isso tem um motivo, e é por ele mesmo que eu estou aqui. Antigamente eu postava somente no meu Blog, mas de um tempo pra cá fui convidado para postar em alguns outros blogs e um outro projeto está caminhando e tem tudo para ficar famoso e engraçado (onde tem Dulcetti, tem risos, lembre-se).
 
@@ -83,11 +83,11 @@ Esse eu e o [Gustavo Gawry](http://www.gawry.com/) registramos no [Campus Party]
 
 O projeto ainda não está em andamento e não existe post no Blog. Estou planejando isso junto com o Guilherme e quem quiser participar dele, pode me mandar email com as idéias que podemos analisar e quem sabe fazer uma parceria. ;)
 
-### Legal hein Dulça...
+## Legal hein Dulça...
 
 Também acho. Só quero ver se terei tempo de administrar e criar posts para todos eles. Mas tentarei com muita raça e dedicação :D
 
-### Finalizando...
+## Finalizando...
 
 Bom, é isso. Resolvi criar esse post agora, para passar isso à vocês, leitores. E saber de vocês, se são blogueiros também e quais blogs escrevem, como começaram e porque começaram.
 

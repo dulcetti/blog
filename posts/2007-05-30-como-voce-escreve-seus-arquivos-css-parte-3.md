@@ -14,7 +14,7 @@ Como vimos nos artigos anteriores, na [Primeira](/como-voce-escreve-seus-arquivo
 
 Mostrei vantagens e desvantagens, indentações, múltiplas formas de implementar seus estilos e espero ter ajudado, ou pelo abrir um pouco mais a cabeça da galera, principalmente com quem trabalha com projetos grandes em sua vida profissional.
 
-### Beleza Bruno. Pára de enrolar e fala logo.
+## Beleza Bruno. Pára de enrolar e fala logo.
 
 Ok, ok. São apenas dois pontos que citarei nessa terceira parte do artigo:
 
@@ -23,7 +23,7 @@ Ok, ok. São apenas dois pontos que citarei nessa terceira parte do artigo:
 
 Bom, vamos começar a falar sobre o primeiro.
 
-### Utilização de Multi-CSS's
+## Utilização de Multi-CSS's
 
 Muitas pessoas ainda possuem dúvidas sobre a utilização, se podem ou não, no que prejudica, no que ajuda, se é que ajuda, a utilização de vários arquivos CSS no seu site.
 
@@ -112,7 +112,7 @@ Na Home eu chamei somente um CSS, o geral.css, que é chamado por todas as pági
 
 Bom, resumindo é isso. Com isso, temos uma estruturação, um controle maior dos CSS, cortamos chamadas desnecessárias de classes e ID’s.
 
-### Ordem de escrita das propriedades.
+## Ordem de escrita das propriedades.
 
 Exatamente isso que você está pensando, se é que está pensando :D. Eu penso na ordenação das propriedades nos meus CSS’s. Parece loucura, admito, o Arthur mesmo falou comigo que era coisa de maluco, perguntando se existia alguém que realmente fazia isso, e ele tomou um susto quando eu respondi que fazia isso 😀
 
@@ -128,7 +128,7 @@ Tudo depende da adaptação, em qualquer coisa, seja na vida pessoal, trabalho, 
 
 Isso varia de cada um, claro. Na minha opinião, o que mais pesou para eu implementar desta forma foi a organização. Por mais que cada um tenha seu modo, sua ordenação, em ordem alfabética eu sempre saberei onde está, aproximadamente, o atributo que eu estou procurando para modificar. Resumindo, eu achei mais fácil pra localizar atributos.
 
-### Finalizando…
+## Finalizando…
 
 Bom, finalizo aqui mais uma etapa, creio eu que seja a última delas 😀 de escrita de CSS. Provavelmente existem outros links falando sobre, acabou que nem pesquisei sobre isso direito. Qualquer coisa é só postar nos comentários.
 

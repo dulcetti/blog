@@ -10,7 +10,7 @@ title: 'Sou+Web - Webdesign com foco no cliente'
 
 Nesse sábado dia 08 de novembro de 2008, vulgo amanhã, acontecerá a terceira versão do debate tecnológico, o Sou+Web. E adivinha quem vai estar lá? Sim, eu mesmo. To em todas mané, tá pensando o que. Comigo é pa-pum;
 
-### Mas que Sou+Web é esse? Que fórmula é essa?
+## Mas que Sou+Web é esse? Que fórmula é essa?
 
 Relaxa, não é fórmula nenhuma não meu caro leitor. É uma série de eventos mensais sobre Marketing e Comunicação na Internet, promovidos pelo curso de Pós-Graduação em Gestão Estratégica de Marketing Digital, da Facha.
 
@@ -20,7 +20,7 @@ E para aqueles que são fissurados nos coffee-breakes dos eventos, terá biscoit
 
 Eu já imaginei. Coisa amplamente difícil de acontecer em eventos de tecnologia é a galera chegar cedo. Mas tentem pelo menos, ok?
 
-### Ok, tio Dulça. Mas explica o que você vai fazer lá
+## Ok, tio Dulça. Mas explica o que você vai fazer lá
 
 Bom, como você deve ter percebido, o tema será "Webdesign com foco no cliente" e eu serei um dos debatedores, mas relaxe, pois não vou bater em ninguém não; (pqp... péssima essa, eu sei).
 
@@ -40,7 +40,7 @@ Publicitário que trabalha com internet desde 1997. Em 2001, ajudou a criar a In
 
 E nós vamos debater por 20 minutos essa questão do webdesign com foco no cliente. Em seguida, a cambada começa a falar mal de nós fazer perguntas sobre nossas opiniões e dúvidas que possuam.
 
-### Como participar
+## Como participar
 
 É de graça meu nobre, fique tranquilo. Basta enviar pedido de inscrição por email (para nino.carvalho@gmail.com) até a sexta-feira, dia 7 que ele te mandam um reminder. Mande com as seguintes informações:
 
@@ -52,7 +52,7 @@ E nós vamos debater por 20 minutos essa questão do webdesign com foco no clien
 
 Err... Sim, eu sei, não deve dar mais tempo, mas qualquer coisa mandem email pra ver se rola. Foi mal, mas só tive saco tempo pra postar agora :P Mas prometo que não acontece novamente (duvido)
 
-### Finalizando
+## Finalizando
 
 É isso ae galera. Fico agradecido e feliz pelo convite da Galera da FACHA, loucos por me chamarem, mas tudo bem :D
 

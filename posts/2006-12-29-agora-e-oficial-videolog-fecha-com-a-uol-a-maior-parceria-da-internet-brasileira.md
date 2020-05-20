@@ -10,7 +10,7 @@ Tudo bem, tudo bem, um pouco de jabá não faz mal a ninguém. Posso ter exagera
 
 Bom, mas deixando de lado tudo isso, venho aqui para confirmar a grande notícia que eu estava para mostrar aqui neste Blog tem tempo, mas eu não podia falar por causa do sigilo, entre outras coisas com antigos parceiros, etc.
 
-### Hmmmm... Legal hein Bruno, mas como é que funciona essa parceria?
+## Hmmmm... Legal hein Bruno, mas como é que funciona essa parceria?
 
 É o que todos perguntam. A [UOL](http://www.uol.com.br) ficará responsável por toda infra-estrutura do [Videolog](http://videolog.uol.com.br/). Tanto Storage, transferência, servidores, entre outras coisas, eles cuidarão de tudo isso, não ficando nada para nós do Videolog.
 
@@ -20,13 +20,13 @@ E você ainda tem dúvidas disso? Com certeza é muito bom. Vindo de uma empresa
 
 Algumas vezes, temos que tomar cuidado com alguns parceiros que se dizem bons, falam que são honestos, mas na verdade não é nada disso, acabam enrolando tudo e por ae vai. Aconteceu com o Videolog com nosso antigo parceiro, cujo nome não direi, pois não vale a pena.
 
-### Legal hein Bruno. Mas a estrutura é Mega mesmo?
+## Legal hein Bruno. Mas a estrutura é Mega mesmo?
 
 Sim, totalmente mega, monstruosa. Chegou a dar medo na primeira vez que vimos. Eu, infelizmente, não consegui viajar para São Paulo para conhecer a UOL, mas o pessoal todo do Videolog falou que é monstro.
 
 Não posso mencionar valores e nem quantidade, mas é absurdamente mega o Storage de início, a quantidade de servidores e o valor de cada um. Coisa que nós não conseguiríamos nunca pagar, a não ser com uma grande parceria como essa :D.
 
-### Seria o Videolog o Youtube brasileiro?
+## Seria o Videolog o Youtube brasileiro?
 
 Por favor, sem comparações do gênero. Odeio e todos do Videolog odeiam tal comparação. Surgimos antes do Youtube e por que eles não seriam o Videolog norte-americano?
 
@@ -34,7 +34,7 @@ Certamente pela sua fama e riqueza, já que agora foram vendidos para o Google.
 
 É uma situação que teremos que aturar por um tempo, mas já deixamos claro isso, surgimos antes do Youtube, o que falta agora é o reconhecimento dos brasileiros, principalmente perderem essa mania de dar valor só no que vem de fora. Vamos olhar o que é nosso, pois tem muito valor ;).
 
-### O que seria então o Videolog, realmente, Bruno?
+## O que seria então o Videolog, realmente, Bruno?
 
 Nós sempre usamos a seguinte frase:
 
@@ -46,7 +46,7 @@ Como o nome já diz, já dá pra se ter uma idéia do nosso foco, que são os v�
 
 Hoje temos várias celebridades no Videolog, que são reconhecidas não somente no site, mas na rua mesmo. Já deram entrevista para revistas, jornais, aparecem frequentemente na TV e entram de graça em festas, entre outras coisas.
 
-### Números do Videolog:
+## Números do Videolog:
 
 Alguns dos números do Videolog (números aproximados):
 
@@ -56,7 +56,7 @@ Alguns dos números do Videolog (números aproximados):
 - 1,5 milhão de visitantes únicos por mês
 - 35 milhões de page views por mês
 
-### E o que temos de novo no Videolog Bruno?
+## E o que temos de novo no Videolog Bruno?
 
 Lançamos sexta passada a nova "cara" do Videolog, um layout totalmente diferenciado, muito mais clean, usável, bonito, agradável, simples e fácil navegação.
 
@@ -66,7 +66,7 @@ Temos muita coisa pra melhorar ainda, estamos mudando a cada dia, melhorando a e
 
 A princípio temos essas modificações, mas a partir do ano que vem (nossa, bem longe né? :P) estaremos implementando novas modificações e ferramentas, aguardem.
 
-### Legal hein Bruno. O Videolog tá virando febre e ficando mais famoso.
+## Legal hein Bruno. O Videolog tá virando febre e ficando mais famoso.
 
 Se Deus quiser sim. Já viramos notícia em vários links:
 
@@ -84,7 +84,7 @@ Se Deus quiser sim. Já viramos notícia em vários links:
 
 E se Deus quiser, em breve estaremos no Jô. (olha só hein, pensando alto :D)
 
-### E finalizando...
+## E finalizando...
 
 Bom, finalizando, é isso e com muito orgulho eu passo essa notícia adiante. Tudo bem que foi um pouco atrasada já que o novo Videolog entrou no ar semana passada, mas tudo bem, vocês entendem né? :D
 

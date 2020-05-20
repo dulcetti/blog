@@ -12,7 +12,7 @@ O assunto dessa vez é o mesmo que o tutorial anterior, que falei sobre borda in
 
 E como não poderia deixar de ser, é um efeito que a equipe aqui da Globo.com pediu pro Vinicius, só que ele veio perguntar pra mim se era possível. E como nada é impossível para Mr. Dulcetti. Lá fui eu implementar o efeito. E como não poderia deixar de ser, funcionou. E o melhor, CROOOOOOOOOOSSBROWSER!!!!! Sensacional, sensacional. :D
 
-### Mas de novo bordas em imagens Bruno?
+## Mas de novo bordas em imagens Bruno?
 
 Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito de borda interna dos sites da Globo.com](/resposta-do-desafio-como-cropar-uma-foto-com-css), e que eu creio que muitos já quiseram fazer e não conseguiram, etc.
 
@@ -20,7 +20,7 @@ Sim. De novo. Mas relaxem, é um efeito diferente do que eu fiz para [o efeito d
 
 Um efeito de hover na imagem, onde existe a troca de cor da borda do link. Sim, cor da borda do link e não da imagem. O IE infelizmente não aceita todos efeitos em elemento dentro do link no hover do próprio. Mas lógico que isso você sabia (assim espero).
 
-### Ta blz Dulcetti. Mas o tutorial é sobre esse efeito ae?
+## Ta blz Dulcetti. Mas o tutorial é sobre esse efeito ae?
 
 Quase. É o mesmo efeito, mudança de cor na borda do link e talz. Maaaaaas, a diferença é que não existe esta borda duplicada entre as fotos. Percebam que a largura é de 5px para todos os links, mas como ficam um do lado do outro, entre eles ficam o dobro, ou seja, 10px de borda.
 
@@ -36,7 +36,7 @@ Mas como nem tudo são flores né meu povo, lá foi o Dulcetti aqui resolver ess
 
 Vale ressaltar também, que a borda é colorida no hover, mas a borda preta em cima some, "invadindo" a `<li>` de cima.
 
-### Beleza Bruno. Começa logo então...
+## Beleza Bruno. Começa logo então...
 
 Ok, ok. Vamos dar início ao efeito. Vamos primeiro ao HTML:
 
@@ -98,7 +98,7 @@ Nada de muito complicado:
 
 De início temos este resultado.
 
-### Legal Bruno, mas cadê o hover?
+## Legal Bruno, mas cadê o hover?
 
 Calmae, muita calma nessa hora. Já deu pra ver o início do resultado, do nosso objetivo. Temos já a estrutura toda montada, li’s arrumadas e sem bug.
 
@@ -137,7 +137,7 @@ Vamos a explicação:
 
 Vemos o resultado do efeito finalizado agora.
 
-### Legal Bruno. Mas explica melhor...
+## Legal Bruno. Mas explica melhor...
 
 Seguinte: o link ficando com a borda vermelha de 5px, o que iria acontecer? O link, como bloco e com borda, iria acabar ficando dentro da "borda", que na verdade é o padding preto da `<ul>`, formando uma borda dupla. Sendo que uma preta e a de dentro vermelha.
 
@@ -147,7 +147,7 @@ Mas logicamente que a margem, somente, não era bastante para finalizarmos. No I
 
 Para resolvermos isso, colocamos o que? O temido position:absolute. Mas como as nossas `<li>`'s já possuem largura e altura, então não temos problema com isso, pq o tamanho ficará fixo, sem ser mexido.
 
-### Resumindo...
+## Resumindo...
 
 É isso. Um efeito simples, porém atrativo e que já recebi algumas dúvidas sobre como fazer e não vi nenhuma resposta, nenhum exemplo de como fazer isso.
 

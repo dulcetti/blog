@@ -12,7 +12,7 @@ Agora estou mostrando um novo modo de se fazer, sem utilizar imagem alguma, some
 
 Ok, vamos começar:
 
-### Primeiro Passo
+## Primeiro Passo
 
 Primeiramente eu escolhi um <a href="http://en.wikipedia.org/wiki/Doctype"><abbr title="Document Type Declaration">DOCTYPE</abbr></a>. Escolha o que vocês quiserem, mas eu utilizei o <a href="http://pt.wikipedia.org/wiki/EXtensible_Hypertext_Markup_Language"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> 1.1, mas fiquem livres pelo que gostarem mais.
 
@@ -20,7 +20,7 @@ Primeiramente eu escolhi um <a href="http://en.wikipedia.org/wiki/Doctype"><abbr
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 ```
 
-### Segundo Passo
+## Segundo Passo
 
 Eu mostrarei separadamente a criação do html e do css, pois fica mais fácil de explicar cada parte. Primeiramente, mostrarei o html, coisa que eu não preciso explicar muito, pois todos aqui já o conhecem (assim espero :D). Eu só explicarei o que estiver entre as tags `<body>` e `</body>`. Não explicarei também, as tags de fechamento, pois é desnecessário.
 
@@ -70,7 +70,7 @@ Aqui, podemos ver que é o conteúdo do site, que contém três títulos, h1, h2
 
 Acho que agora não preciso explicar mais nada do código, pois é bem básico e de fácil compreensão. O que eu não expliquei, foi como disse acima, são tags de fechamento, metas, etc...
 
-### Beleza Brunão, agora vamos estilizar isso, pq tá feio pra caramba né?
+## Beleza Brunão, agora vamos estilizar isso, pq tá feio pra caramba né?
 
 Logicamente. Esse primeiro passo, foi somente para mostrar o código <a href="http://pt.wikipedia.org/wiki/HTML"><abbr title="HyperText Markup Language">HTML</abbr></a> e só irmos jogando o <abbr title="Cascading Style Sheet">css</abbr> aos poucos, para vermos o resultado final.
 
@@ -78,7 +78,7 @@ O <abbr title="Cascading Style Sheet">css</abbr> completo, você pode verificar 
 
 Agora vamos vendo cada propriedade:
 
-### Estrutura geral do body:
+## Estrutura geral do body:
 
 ```css
 * {
@@ -104,7 +104,7 @@ Na segunda chamada, temos a tag body sendo setada. Nela nós temos 4 propriedade
 
 Percebemos que não tivemos problemas nenhum (assim espero), na declaração desse bloc. É bem básico e fácil de implementar e entender.
 
-### Estrutura das tags:
+## Estrutura das tags:
 
 ```css
 ul {
@@ -139,7 +139,7 @@ Veremos abaixo, cada linha desse bloco, com suas respectivas propriedades explic
 
 Neste segundo bloco, configuramos as tags, não importando sua hierarquia. Sempre que declaramos no <abbr title="Cascading Style Sheet">css</abbr> uma propriedade para um seletor, que esteja somente o nome da tag, que dizer que **TODAS** as tags, independentes se estão dentro de um identificador, classe, etc, **TODAS** elas, receberão aquela configuração, a não ser que mais abaixo você declare uma propriedade diferente, que fará com que o <abbr title="Cascading Style Sheet">css</abbr> descarte a anterior e mantenha a mais recente.
 
-### Identificador #geral:
+## Identificador #geral:
 
 ```css
 #geral {
@@ -157,7 +157,7 @@ Neste bloco, temos o Identificador #geral, que é o div que engloba todo o layou
 
 Neste terceiro bloco, nenhum problema, dificuldade não é? Três propriedades, de fácil entendimento. O único problema um pouco mais chato de ser entendido é o margin auto, pro pessoal que tem um conhecimento básico, pode ter dificuldade, mas tentei explicar ali, qualquer dúvida, é só falar.
 
-### Estrutura do Menu:
+## Estrutura do Menu:
 
 ```css
 #menu ul {
@@ -189,7 +189,7 @@ Neste terceiro bloco, nenhum problema, dificuldade não é? Três propriedades, 
 
 A parte mais essencial do código e mais "chatinha" de se entender. Falo isso pro pessoal que tá começando, pois creio que quem possui um conhecimento intermediário/avançado, não terá problema algum nesse bloco. Vou dividir em três blocos, um para a parte de lista e li do menu, a segunda, para os links do menu e a terceira para o estado hover do menu. Vamos lá:
 
-### Primeira Parte
+## Primeira Parte
 
 - `#menu ul { display: table; height: 1%; }:` Esta propriedade, faz com que a fique com o preenchimento como uma tabela. Precisamos disso, porque os lis vão receber um float, que faz com que seu pai, que neste caso é a , não reconheça sua altura, conteúdo. Você pode substituir isso por uma propriedade height, colocando a altura do , mas eu creio que fique melhor com o display, pois você não precisa se preocupar com altura, caso tenha que modificar futuramente, ou o usuário aumente o tamanho da fonte pelo navegador, isso seria um problema, pois nos browsers decentes, o height seria mantido, independente do seu conteúdo e da forma como está, ele cresce de acordo com o tamanho. Mas como nada é perfeito, nosso amigo i.e. está ae para atraplhar. Ele não renderiza corretamente o display table, por isso, tive que colocar uma "gambiarra para o perfeito funcionamento do mesmo, colocando um height: 1%. Mais um bug do i.e., porque se você não setar nenhum valor de altura, ele não reconhecerá o display table.
 - `#menu ul li { float: left; margin: 0 4px; }:` Como padrão, o - recebe um display block, que faz com que fique um embaixo do outro. Por isso, a utilização do float left, que faz com que o - fique grudado à esquerda. Foi setado também, uma margem para as laterais de 4 pixels, para que elas não fiquem uma grudada na outra.
@@ -197,7 +197,7 @@ A parte mais essencial do código e mais "chatinha" de se entender. Falo isso pr
 
 Simples essa parte. Nada demais, só destacaria mais mesmo é a parte do display table e a classe sem margem para a primeira - . Partiremos pra próxima.
 
-### Segunda Parte
+## Segunda Parte
 
 Lembrando que aqui eu estarei listando as propriedade dentro do seletor <em>#menu ul li a { }</em>.
 
@@ -216,7 +216,7 @@ E como a pseudo-classe hover só funciona em links, isso no i.e., lógico, não 
 
 Agora vamos para a terceira e última parte.
 
-### Terceira Parte
+## Terceira Parte
 
 Lembrando que aqui eu estarei listando as propriedade dentro do seletor `#menu ul li a.selecionado, #menu ul li a:hover { }`.
 
@@ -226,7 +226,7 @@ Lembrando que aqui eu estarei listando as propriedade dentro do seletor `#menu u
 
 A única coisa de diferente nesse exemplo, é a utilização de dois seletores dentro de um bloco de propriedades. Conseguimos isso, separando os seletores por vírgula. E mais por esses seletores, é que precisamos utilizar no link, o display block, float, etc, pois ao passar o mouse, temos mudanças no link, pois fica uma coisa mais organizada, usável, pois percebem que é um link, etc.
 
-### Identificador #conteudo:
+## Identificador #conteudo:
 
 ```css
 #conteudo {
@@ -246,7 +246,7 @@ Nenhum mistério também, apenas estilizando o conteúdo, para ficar no estilo e
 
 E finalmente, vamos para a última parte, a do rodapé.
 
-### Estrutura do Rodapé:
+## Estrutura do Rodapé:
 
 ```css
 #rodape {
@@ -267,7 +267,7 @@ Poucas coisas setadas, código bem curto, pois no rodapé não coloquei nada, al
 - `#rodape a { color: #54A4FC; }:` Definindo um azul para a cor dos link que estiverem dentro do rodapé.
 - `#rodape a:hover { text-decoration: none; }:` Retirando o sublinhado do link, quando passar o mouse em cima. Isso, logicamente, para os links do rodapé.
 
-### Finalizando...
+## Finalizando...
 
 É um menu bem simples de se fazer, implementar e modificar também. Como disse anteriomente, ele fica quadrado, mas mesmo assim, acho bonito, clean, interessante, sem problema algum.
 

@@ -12,7 +12,7 @@ E ae cambada. Tranquilidade pura? Tudo na normalidade? Estão felizes? Querem um
 
 Seguinte, venho para informa-los, fãs do Dulcetti, admiradores, odiadores, mulheres afim de mim, entre outras modalidades, que eu estarei na 6ª Semana de Design na Univercidade.
 
-### E o que seria essa semana de Design Dulça?
+## E o que seria essa semana de Design Dulça?
 
 ![Cases da 6 semana de design](/assets/images/posts/case.gif)
 
@@ -42,7 +42,7 @@ Na próxima terça-feira, dia 13 de maio às 20h
 
 Avenida Epitácio Pessoa, 1664 – Ipanema - Rio de Janeiro/RJ.
 
-### Finalizando...
+## Finalizando...
 
 Será que vai ser legal? Quer participar? Me conhecer? Aparece por lá. Vamos ver no que vai dar ;)
 

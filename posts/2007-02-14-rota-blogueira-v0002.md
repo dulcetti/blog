@@ -8,7 +8,7 @@ title: 'Rota Blogueira v.0002'
 
 Dando continuidade à categoria Rota Blogueira, estou publicando mais alguns links que achei interessante postar aqui e compartilhar com vocês.
 
-### Onde encontro logotipos prontos?
+## Onde encontro logotipos prontos?
 
 #### Autor: Mauro Amaral
 
@@ -24,7 +24,7 @@ Vale o clique. Parabéns Mauro.
 
 ---
 
-### Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD)
+## Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD)
 
 #### Autor: André Valongueiro
 
@@ -40,7 +40,7 @@ Bela sequência de Posts sobre o aumento de Produtividade via GTD. Eu já tinha 
 
 ---
 
-### Monte sua iDupla e fique (quase) bilionário
+## Monte sua iDupla e fique (quase) bilionário
 
 #### Autor: Bruno Alves Guilherme Nascimento Valadares
 
@@ -56,7 +56,7 @@ Vale a lida ;)
 
 ---
 
-### Darwin explica?
+## Darwin explica?
 
 #### Autor: Reverendo :D Ibrahim Cesar
 
@@ -72,7 +72,7 @@ Boa reverendo ;)
 
 ---
 
-### Globo Ciência passa as 6 da manha e BBB no horário nobre
+## Globo Ciência passa as 6 da manha e BBB no horário nobre
 
 #### Autor: Rafael Slonik
 
@@ -88,7 +88,7 @@ Parabéns Rafael, mandou muito.
 
 ---
 
-### Finalizando...
+## Finalizando...
 
 Finalizo mais uma vez a Rota Blogueira por aqui. Espero que os textos sejam de utilidade para todos. ;)
 

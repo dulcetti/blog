@@ -12,7 +12,7 @@ Sim, eu sei que estou em dívida com vocês aqui no blog, nem precisam avisar is
 
 Mas antes disso, estou aqui para publicar sobre mais um evento do iMasters e sobre um assunto que está, digamos, na moda hoje em dia. Os famosos e muito, nem sempre bem, utilizados CMS.
 
-### Com vocês, WordPress, Joomla e Drupal
+## Com vocês, WordPress, Joomla e Drupal
 
 ![Marcas do WP, Joomla e Drupal](/assets/images/posts/frase-logos.jpg)
 
@@ -32,7 +32,7 @@ Ele é líder do Joomla! Core e do Bug Squad, logo, pouca merda ele não é mesm
 
 Há 3 anos dentro do Drupal, a única mulher palestrante é líder do time de documentação, com isso, tem bastante conteúdo pra passar pra galera. Ela falará principalmente da nova versão, de número 7, do Drupal e seu congelamento programado pra setembro desse ano.
 
-### E não é só isso...
+## E não é só isso...
 
 Bom, legal falar sobre os palestrantes, mas estou aqui é pra falar da outra parte do evento: as Oficinas. Além das palestras normais com os modafocas dos CMS, teremos oficinas com grandes nomes nacionais, onde mostrarão boas práticas, dicas de desenvolvimento, entre outras coisas dentro dos CMS's citados.
 
@@ -42,11 +42,11 @@ E, além disso, essa parte do evento será apresentada pelo modafoca que vos fal
 
 Né não? Grande momento. Serei como um mestre de cerimônia, só que totalmente informal, na brincadeira, estimulando vocês, participantes, a interagirem com os palestrantes. Vamos ver no que vai dar :)
 
-### Quando e onde?
+## Quando e onde?
 
 Nesse sábado agora, dia 20 de junho. Começa oficialmente às 9h e vai até às 18h10 e será no hotel Novotel Jaraguá, que fica na Rua Martins Fontes, 71 - Centro - São Paulo - SP.
 
-### Sorteio de ingresso
+## Sorteio de ingresso
 
 E como eu sou um cara camarada, vou sortear uma entrada para um dos meus leitores, olha que bacanudo, não é verdade?
 

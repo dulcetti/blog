@@ -11,7 +11,7 @@ Volto logo cambada... Vejo vocês depois.
 
 E ae cambada. Estou aqui novamente, mas agora não para falar de CSS, HTML, web standardss, nem nada disso. Na verdade o que eu vou falar aqui não interessa a ninguém aqui, pelo menos eu acho né :D
 
-### Não to entendendo nada, Bruno.
+## Não to entendendo nada, Bruno.
 
 Tranquilo, relaxa. Normal isso. To aqui mais pra falar que estou de férias, graças a Deus, pela primeira vez na vida. Em todos esses longos anos de trabalho árduo, quase escravo, principalmente nos longos tempos de estagiário. Velhos tempos, mas que graças a Deus já passou :D
 
@@ -19,7 +19,7 @@ Já trabalhei com todos os modos possíveis de trabalho: PJ, estagiário, Cooper
 
 Sim, ela que você declara Imposto de Renda caso seu salário seja maior que R$1.372,82, pagando 15%. E o melhor de tudo, se for maior que R$2.743,25 você paga 27.5%. Sim, estamos no Brasil, país com poucos e baixos impostos, que não sabemos se os políticos os pagam. Eu acho que sim, muita gente diz que essa política não presta, os caras são corruptos e tudo mais. Pra mim é tudo calúnia, lenda. Todos os políticos são bonzinhos e possui seu espaço no céu, bem perto de Deus. Na verdade eu não to nem me lixando muito. Quero mais é ir pra onde tenha Open Bar. Se tiver no céu, demoro, vou pra lá, mas se só tiver no inferno, fazer o que né... A gente compra um Ar condicionado, sem problema.
 
-### Essas suas férias estão te deixando meio maluco, hein Dulcetti...
+## Essas suas férias estão te deixando meio maluco, hein Dulcetti...
 
 ![ZZzzZZzzZZzZzZz](/assets/images/posts/garfield-pronta.jpg)
 
@@ -27,7 +27,7 @@ Deixando? Meio? Aff... Já sou faz tempo, nasceu comigo... E meio não existe.. 
 
 Mas relaxem, não vim aki falar sobre política e impostos, mto pelo contrário. Mas queria deixar claro que antes de você que esta lendo essa baboseira que eu estou escrevendo, falando bem (?) dos políticos, olhasse pra própria fuça e percebesse que isso tudo é culpa sua. Assim como é culpa minha também, de todos nós. Não adianta ficar reclamando disso, pq mover, levantar essa bunda gorda e fedorenta e lutar pelo seu direito vc não faz. Espera chegar tudo como você quer ou então só mexe essa bunda para dançar o Créu.
 
-### Aeeeee, Dulça... Quero ver você como presidente...
+## Aeeeee, Dulça... Quero ver você como presidente...
 
 Só se for da Ambev... ;)
 
@@ -35,7 +35,7 @@ Bom, mas vamos lá... Depois de tanta viagem e loucura, vamos ao que eu quero.
 
 To entrando de férias agora nesse final de semana e provavelmente não aparecerei por aqui no Blog postando tutoriais ou coisas da Globo.com. Deixarei um pouco o trabalho de lado. Não estou tão workaholic como antigamente. Quero descançar, aproveitar essas férias, zuar bastante e tudo mais...
 
-### Legal, Bruno... Vai viajar?
+## Legal, Bruno... Vai viajar?
 
 ![Praia, agua de coco...](/assets/images/posts/havaianas-e-coco-pronta.jpg)
 
@@ -45,7 +45,7 @@ Eu estava querendo partir em rumo a Recife, Pernambuco, mas tenho certeza que n�
 
 Vou sem carro, a pé mesmo. Pedindo carona, pegando ônibus, subindo em caçamba de pick-up, pegando carona com caminhão de lixo, etc. O que estiver se movimentando, tá valendo. Até carroça mesmo, sem problema nenhum. E qualquer coisa eu vou andando. :D
 
-### E como vai ser, Dulcetti? Vai passar por onde?
+## E como vai ser, Dulcetti? Vai passar por onde?
 
 ![Praia, agua de coco...](/assets/images/posts/ferias-pes-pronta.jpg)
 
@@ -53,13 +53,13 @@ Então, vou passando pelo litoral, no máximo que for possível. Pelo Rio vou pa
 
 Depois estarei chegando até a Bahia, terra do nosso nobre [Manoel Netto](http://tecnocracia.com.br/), que me deu algumas dicas para onde ir, como Morro do São Paulo, Trancoso, Praia do Forte, Baia de Camamu, Ilha de Itaparica, Sauipe, etc.
 
-### Sucesso, hein Dul7... Posso ir com você?
+## Sucesso, hein Dul7... Posso ir com você?
 
 Olha, até pode, mas tem que ter disposição :D Mas relaxa, não precisa me acompanhar literalmente falando, mas caso você more nesses lugares que eu falei, ou nos estados, me indique lugares, eu encontro vc por lá. Quero tentar conhecer bastante gente que bloga, desenvolve e more pela Bahia, Espírito Santo e talz.
 
 Me indique lugares, caminhos, itinerário, macetes, faça uma doação, o que você quiser tá tranquilo ;)
 
-### Finalizando...
+## Finalizando...
 
 Bom, é isso. Gostou? Não? Que se foda, eu to de férias mesmo, se fode ae :D
 

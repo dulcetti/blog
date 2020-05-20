@@ -8,7 +8,7 @@ title: 'Como ganhar ganhar seus clientes em um ano e perdê-los em um dia.'
 
 Rio de Janeiro, dia 27 de maio de 2008. Dia agradável, tudo nos conformes, muito trabalho, a mesma rotina de sempre, tirando alguns imprevistos e furos, etc. Tudo como deveria ser... Ledo engano.
 
-### Pronto, Dulcetti pirou...
+## Pronto, Dulcetti pirou...
 
 Um bocado. Mas depois vocês vão ver o porquê disso tudo.
 
@@ -16,7 +16,7 @@ Venho falar aqui sobre o [Twitter](http://www.twitter.com). Você conhece? Não?
 
 Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
 
-### Que que houve com o Twitter? Morreu?
+## Que que houve com o Twitter? Morreu?
 
 ![Twitter Morto?](/assets/images/posts/twitter-morto.gif)
 
@@ -42,7 +42,7 @@ Outro que já existia e é até bonitinho é o [Pownce](http://pownce.com/), mas
 
 Sim, pasmem. O pré-histórico [ICQ](http://www.icq.com/) veio a tona, vários entrando novamente, alguns até entrando em mIRC. Aff... Apesar que o ICQ não tem muito a ver com microblogs, que é o conceito do twitter e afins. Mas é que ficaram falando tanto isso ontem que me chamou a atenção :D
 
-### Beleza, Dulça. Mas onde você quer chegar?
+## Beleza, Dulça. Mas onde você quer chegar?
 
 Enrolei demais, mas vamos lá. O Twitter foi ganhando espaço, usuários, fama e afins. Hoje muita gente o utiliza em palestras, eventos, narrando todos os acontecimentos e tudo mais.
 
@@ -60,6 +60,6 @@ E assim será com o Twitter se der mole. Vai fica insuportável e tudo mais. Mas
 
 Parece que quando viram que estávamos em terceiro lugar na utilização no Twitter, nego ficou revoltado e quis passar a frente, como todo brasileiro gosta. Sei lá né.
 
-### Finalizando...
+## Finalizando...
 
 Não migrei absolutamente nada. Vou ficar pelo Twitter mesmo. Não sinto tanta necessidade assim para ficar correndo atrás de alternativas para "microblogar". E na minha opinião, eu acho que tudo isso é meio um hype. Quando o Twitter voltar, todos ficarão felizes e contentes, festejando e tudo mais. E se você é um dos que correm atrás dessas alternativas e não gostou do texto, relaxe e tome uma [cerveja](http://www.papodebebado.com). Não estou criticando ninguém não, foi apenas um desabafo :P.

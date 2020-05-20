@@ -10,11 +10,11 @@ E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansa
 
 ![Banner do BlogCamp MG](/assets/images/posts/banner-blogcamp-mg.jpg)
 
-### Mas e ae Dulcetti, como que foi o evento, conta ae
+## Mas e ae Dulcetti, como que foi o evento, conta ae
 
 Já que coloquei esse título, vou começar falando sobre o [Fugita](http://www.techbits.com.br/) e a [Lu Monte](http://diadefolga.com/), que falaram que meus posts são meio [esquizofrênicos](http://pt.wikipedia.org/wiki/Esquizofrenia). Mas só porque eu falo comigo mesmo nos títulos? Cada um com a sua loucura né? Eu às vezes acho que não regulo bem e no resto do tempo eu tenho certeza disso.
 
-### Tudo bem Bruno, você é esquizofrênico, mas deixa isso de lado e começa a falar ae do evento.
+## Tudo bem Bruno, você é esquizofrênico, mas deixa isso de lado e começa a falar ae do evento.
 
 Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a [postar sobre o evento no sábado](/blogcamp-belo-horizonte-cobertura), em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
 
@@ -78,7 +78,7 @@ Como sempre, tivemos algumas revelações. A do BlogCamp MG acabou acontecendo b
 
 Não vou postar aqui não, é muita sacanagem, mas se quiserem ver, é só [entra no Flickr e ver a foto](http://www.flickr.com/photos/rafacst/2044740776/). Já que postaram lá, ele deve ter autorizado isso, mas no meu Blog é sacanagem... :D
 
-### Legal hein Bruno. Muito interessante. Quem mais falou sobre?
+## Legal hein Bruno. Muito interessante. Quem mais falou sobre?
 
 Então, tem bastante link por ae e que ainda está por vir. vou ver se vou postando. E caso você, isso, você mesmo que está lendo, blogueiro e que postou no seu blog sobre o BlogCamp MG, é só comentar que eu adiciono aqui ok? Sou à favor da linkagem, não vejo mal nenhum nisso. Segue abaixo:
 
@@ -98,11 +98,11 @@ Então, tem bastante link por ae e que ainda está por vir. vou ver se vou posta
 - [Saldo Final do BlogcampMG 2007](http://pvilla.com/saldo-final-do-blogcampmg-2007/)
 - [Blogcamp BH - Quer história? Então toma!](http://substantivolatil.com/archives/blogcamp-bh-quer-historia-entao-toma.php)
 
-### Que irado hein Bruno. Muito bom o evento...
+## Que irado hein Bruno. Muito bom o evento...
 
 Com certeza. Tirando o Hotel que fiquei hospedado, que não tinha internet, ar condicionado, tomada suficiente, travesseiro decente, o resto foi sucesso total...
 
-### Finalizando...
+## Finalizando...
 
 Queria deixar um grande abraço pra todos os participantes que conheci, foi um imenso prazer participar desse evento, conhecer pessoalmente grande blogueiros que só conhecia via net, agora tê-los no Gtalk, MSN e afins. E não somente Blogueiros, como também pessoas, cachaceiros, etc. :D
 

@@ -10,7 +10,7 @@ Estava eu, passeando pela internet, entrei no [Technorati](http://technorati.com
 
 Fui ver o que era, cheguei a pensar que fosse sobre o meme [Previsões 2007](/previsoes-e-algumas-viagens-para-o-ano-de-2007.html), pois o nome era um pouco parecido e também era um meme.
 
-### Tá bom Brunão. Não enrola e fala logo...
+## Tá bom Brunão. Não enrola e fala logo...
 
 Okay, okay. É que tanto tempo que não escrevo no Blog direito, que já estava com saudades :D
 
@@ -28,7 +28,7 @@ Brigadão pelo convite Fábio, valew pela lembrança ;)
 
 Bom, a lista seria bem longa, mas como a regra é somente cinco, então vão cinco :D
 
-### "And The Oscar goes to..."
+## "And The Oscar goes to..."
 
 Deixando a palhaçada de lado, ai vão os cinco que escolhi. Sintam-se "tagueados" :D Gostei disso Fábio :P
 

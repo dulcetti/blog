@@ -14,7 +14,7 @@ Ela já esta pronta, só falta eu modificar algumas coisas no Banco de Dados e a
 
 Falando em [Word Press](http://www.wordpress.org), atualizei ontem para o Word Press 2.0. E digo, ele é bem melhor que o 1.5, vários recursos interessantes, o [Akismet](/tchau-tchau-spammers-by-akismet.html) já vem instalado bastanto somente ativá-lo, entre outras vantagens.
 
-### Chega de conversa Bruno e vamos ao assunto?
+## Chega de conversa Bruno e vamos ao assunto?
 
 Ok, ok, não precisa ficar bravo :D
 
@@ -32,7 +32,7 @@ Caso seja feita a utilização de um deles, o site poderá ser mal renderizado n
 
 E no Blog, o pessoal da Microsoft aconselhou a utilização dos Conditional Comments ou Comentários Condicionais, que são comentários no código HTML que somente o i.e. reconhece e os outros browsers consideram como um comentário.
 
-### Ah sim... Legal... Não entendi!?
+## Ah sim... Legal... Não entendi!?
 
 Tranquilo. Com os tipos e exemplos, você entenderá perfeitamente sobre essa técnica. Primeiro vou mostrar abaixo os diferentes tipos de Conditional Comments:
 
@@ -77,7 +77,7 @@ Cole um destes exemplos no Dreamweaver por exemplo. Você verá que ele deixará
 
 Para os que não conhecem (o que eu acho muito difícil), esse é o modo de se fazer comentário dentro do HTML. Mas a Microsoft implementou essa funcionalidade em seu browser, o i.e.
 
-### Legal Bruno, mas continuo sem entender direito =/
+## Legal Bruno, mas continuo sem entender direito =/
 
 Relaxa, vamos ver agora isso no HTML para que você entenda melhor a utilização. Veja abaixo o código HTML ou então verifique o exemplo online:
 
@@ -127,7 +127,7 @@ Com isso, o ie 7 não será afetado com as propriedades setadas dentro dessa con
 
 Podemos utilizar qualquer uma das versões que eu citei anteriormente, com a versão do browser que você necessita. **Lembrando que não funciona em versões abaixo do ie 5**.
 
-### Variações na utilização
+## Variações na utilização
 
 Vocês devem estar perguntando agora pra mim "Mas Bruno, você está utilizando o CSS incorporado no html!".
 
@@ -152,11 +152,11 @@ Neste exemplo, utilizei a tag `<link>` dentro do `<head>` e dentro da condição
 
 Neste exemplo, ele faz a mesma coisa que o exemplo anterior, mas ao invés do CSS estar incorporado, estou chamando via `<link>`.
 
-### Cuidados
+## Cuidados
 
 Tenha cuidado na sequência que você coloca os comentários condicionais. Eles **SEMPRE** deverão vir **DEPOIS** da chamada para todos os browsers. Isso faz com que os comentários condicionais sobrescrevam o CSS anterior. Caso eles sejam colocados ANTES, não adiantará nada, pois a tag `<link>` fora do comentário condicional irá sobrescrever.
 
-### E finalizando...
+## E finalizando...
 
 Pra finalizar, queria dizer q os exemplos mostrados aqui são só de exemplo. Naum creio que vocês irão utilizar um site com fundo diferente para internet explorer, etc.
 
@@ -164,7 +164,7 @@ Também não pensem que vocês só podem mudar cores, bordas, etc... Podem mudar
 
 Geralmente, os comentários condicionais são utilizados para resolver bugs no i.e. como box models, problemas de margin e padding, entre outros exemplos.
 
-### Um beijo do magro
+## Um beijo do magro
 
 Bom galera, espero ter ajudado e tirado algumas dúvidas de quem de repente tenha. Espero que tenham gostado.
 

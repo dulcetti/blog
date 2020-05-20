@@ -8,11 +8,11 @@ title: 'Resumo do Google Developer Day'
 
 Vou fazer um breve resumo de como foi o evento Google Developer Day, que rolou semana passada, dia 26 de junho em São Paulo. Fui representar a galera de Webmedia, minha equipe na Globo.com.
 
-### Pensei que não fosse mais falar do evento, Dulça.
+## Pensei que não fosse mais falar do evento, Dulça.
 
 Ah, mas você sabe, eu sempre demoro mesmo para falar sobre os eventos que eu vou. Isso quando eu falo, caso que não aconteceu com o Interminas, que acabei nem postando aqui. Nem mesmo o lançamento do livro "Internet: O encontro de 2 mundos", que eu nem comentei por aqui como foi o coquetel e tudo mais. Acontece.
 
-### Para de se explicar e explica logo como foi o evento.
+## Para de se explicar e explica logo como foi o evento.
 
 ![Dulcetti tentando carregar um caixa](/assets/images/posts/2644114850_9278ac6f27.jpg)
 
@@ -20,7 +20,7 @@ Ok, ok. Bom, foi um evento legal, num local muito bom, bonito, etc. Mas pelo tam
 
 E eu pensando que fosse twittar direto sobre o evento, fiquei na mão. Mas isso não fez diferença pra galera que tem plano de dados nos celulares. E esse ainda não é o meu caso. Mas relaxa que eu vou tomar vergonha na cara ;)
 
-### Estrutura do evento
+## Estrutura do evento
 
 ![Palestrante falando sobre a Google](/assets/images/posts/2644117362_196568eb9c.jpg)
 
@@ -43,7 +43,7 @@ Destruição de máquinas e computadores. Armazenamento físico será extinto. O
 
 Bem revolucionário, mas pode ser perigoso. Tive umas boas conversas, com outras pessoas olhando com uma outra visão e entendi bem e reflito às vezes sobre esse assunto.
 
-### De manhã rolou então um monte de Cases e apresentações modafocas?
+## De manhã rolou então um monte de Cases e apresentações modafocas?
 
 É. Por ae mesmo. Já tinha dito mais acima, pela manhã rolou apresentações sobre os produtos, cases e APIs do Google e tudo mais. Uma breve apresentação do que seria falado na parte da tarde, onde teria o conteúdo mais aprofundado. Abaixo uma breve passagem do que eu peguei e que foi citado. Falaram mais coisas, mas meu sono e a sonolência do palestrante também não me deixou muito animado :P
 
@@ -88,7 +88,7 @@ Mostraram a utilização do Google Maps com o Google Earth, utilizando Flash. A 
 
 Bela citação, falando sobre o evento, que não é sobre o Google e sim sobre nós, desenvolvedores, que vamos criar produtos e aplicativos a partir das APIs apresentadas, etc.
 
-### Beleza, Bruno. Agora fala da parte da tarde, das palestras em si, tudo mais.
+## Beleza, Bruno. Agora fala da parte da tarde, das palestras em si, tudo mais.
 
 Naturalmente meu nobre. Vamos começar agora tudo isso. Será apenas uma breve passagem, nada de muito texto e talz.
 
@@ -142,7 +142,7 @@ O palestrante citou o Kairo como programa de criação das imagens, o recomendan
 
 Mostrou um recente lançamento no Google Maps, onde mostra, em algumas áreas do mapa, que contém fotos panorâmicas. E mostrou outras partes, onde possui fotos da área selecionada e com informações em texto sobre o local clicado.
 
-### Finalizando...
+## Finalizando...
 
 Evento foi legalzinho, num local espetacular. Mas repito, **EVENTO SEM INTERNET NÃO DÁ**. Mandaram muito mal nisso, por mais que o local seja caro pra ter, escolha outro, por favor.
 

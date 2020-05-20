@@ -8,7 +8,7 @@ title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvim
 
 E ae pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar sobre o Imasters Intercon, mas estou aqui ;)
 
-### Sobre o Evento
+## Sobre o Evento
 
 O Imasters Intercon é um evento que é organizado pelo portal Imasters, um dos maiores, se não for o maior da internet no Brasil.
 
@@ -22,7 +22,7 @@ Foi bom ter reencontrado figuras como o Fabio Lody que é o Colunista mais lido 
 
 Depois falarei mais sobre o pessoal que conheci, as zueras que rolaram por lá e postarei fotos do evento tambpem, aguardem ;)
 
-### O Evento em si
+## O Evento em si
 
 O evento contou com a participação de pessoas de 16 estados do Brasil. Muito legal isso, bastante gente, de quase todos os lugares do Brasil. Parabéns ae pessoal do iMasters.
 
@@ -30,7 +30,7 @@ Não vou ficar falando sobre o evento, o que é, entre outras coisas. Vou falar 
 
 Nessa primeira levada, comentarei sobre a sala de Programação e Tecnologia, que foi a que assisti no Evento. Amanhã eu falarei sobre a sala de Design e Desenvolvimento, que o [Daniel de Paola](http://www.danieldepaola.com/) participou e me enviou um pequeno conteúdo sobre cada palestra. Valew ae Paola.
 
-### Primeira Palestra - Tema: As melhores práticas de desenvolvimento - A web para quem faz web
+## Primeira Palestra - Tema: As melhores práticas de desenvolvimento - A web para quem faz web
 
 #### Palestrante: Paulino Michelazzo - Professor e Consultor
 
@@ -52,7 +52,7 @@ Boa palestra. Um pouco cansativa às vezes, mas no geral, gostei.
 
 [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Paulino_Michelazzo.zip).
 
-### Segunda Palestra - Tema: Como garantir a qualidade das aplicações no mundo competitivo de TI
+## Segunda Palestra - Tema: Como garantir a qualidade das aplicações no mundo competitivo de TI
 
 #### Palestrante: Vivian Menezes de Oliveira - Gerente de Testes e Qualidade da VIVO
 
@@ -74,7 +74,7 @@ Bela citação sobre como garantir qualidade no mercado atual, mostrando que pes
 
 [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Vivian_Menezes.zip).
 
-### Terceira Palestra - Tema: As melhores práticas em projetos de banco de dados para obter desempenho nas aplicações
+## Terceira Palestra - Tema: As melhores práticas em projetos de banco de dados para obter desempenho nas aplicações
 
 #### Palestrante: Salvio Padlipskas - Professor
 
@@ -110,19 +110,19 @@ Muito boa palestra. Deu pra captar bastante coisa, principalmente pra quem não 
 
 Gostei bastante do seu jeito um pouco humorístico de levar a palestra, brincou um pouco, divertiu o pessoal dentro do possível, não tornando a palestra tão cansativa. [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Salvio_Padlipskas.zip).
 
-### Vou ficando por aqui.
+## Vou ficando por aqui.
 
 #### aaaaaaaaaaaaaaaahhhhhhhhhhhhhh...
 
 Daqui a pouco este post vai ficar meio grande e cansativo. Depois falarei mais sobre o evento, a segunda parte do próprio, etc.
 
-### Finalizando
+## Finalizando
 
 Queria agradecer a galera do [MMUG-RJ](http://www.mmug-rj.com.br) que compareceu ao evento. O cambada, mesmo que o evento, para alguns, não tenha sido lá essas coisas, valew pela zuera né? :D
 
 Aquele abraço galera e pra quem quiser ver fotos, pegar o restante das palestras, é só [visitar o site do Intercon](http://www.imasters.com.br/intercon/2006/cobertura/). Valewwwwww
 
-### Galera que comentou sobre o Intercon 2006
+## Galera que comentou sobre o Intercon 2006
 
 Segue uma listinha de algumas pessoas que ccomentaram sobre o evento:
 

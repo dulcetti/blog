@@ -12,11 +12,11 @@ Uma boa iniciativa em que cada blogueiro deverá indicar cinco Blogs, de prefer�
 
 Interessante é a data, que foi escolhida por ser a mais parecida com a palavra "Blog". Decifrando: 3108, onde 3=B, 1=L, 0=O e 8=G. Coisa de nerd mas tudo bem... :D
 
-### O que é o BlogDay?
+## O que é o BlogDay?
 
 BlogDay foi criado na convicção de que os bloggers deverão ter um dia dedicado ao conhecimento de novos blogs, de outros países ou áreas de interesse. Nesse dia os bloggers recomendarão novos blogs aos seus visitantes.
 
-### Blogs que recomendo:
+## Blogs que recomendo:
 
 #### [Colletivo](http://colletivo.blogspot.com/)
 

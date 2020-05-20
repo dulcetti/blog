@@ -12,7 +12,7 @@ Estava conversando pelo Gtalk com o [Lucas Ferreira](http://www.lucasferreira.co
 
 Ok Lucas, não foi exatamente isso, mas foi por ae ok? :D
 
-### A Idéia
+## A Idéia
 
 Se vocês [verificarem no meu portfólio](/), viajando pelo menu, verão que cada seção que é aberta, o seu respectivo botão fica selecionado.
 
@@ -24,7 +24,7 @@ Mas se caso você tiver um site grande, que você precisa colocar includes, para
 
 Por isso estou mostrando esta técnica, para resolver esse probleminha.
 
-### As técnicas utilizadas
+## As técnicas utilizadas
 
 Você não precisa de praticamente nada. Nada de javascript, nada de linguagens dinâmicas nem nada disso. Claro que estarei utilizando includes PHP
 
@@ -36,7 +36,7 @@ CSS, somente isso... E HTML logicamente ;)
 
 Mole mole... E explicarei isso agora ;)
 
-### Mão na massa
+## Mão na massa
 
 Primeiramente eu mostrarei o código, pra em seguida explicar como que foi feito. Lembrando que não explicarei coisas básicas, como tenho feito anteriormente. Caso não saiba algum comando, temos o [W3Schools](http://www.w3schools.com/) que é uma ótima referência.
 
@@ -90,7 +90,7 @@ contém o código do menu que veremos mais a frente.
 
 Aqui está a novidade, o id dentro da tag `<body>`. Muita gente desconhece esta técnica e que é possível, é validado, etc. Ela será primordial para a montagem da técnica e a referência para o menu.
 
-### Segunda Parte - Os Includes
+## Segunda Parte - Os Includes
 
 No total temos dois includes, o head.php e o menu.php. Mostrarei os dois, mas falarei somente do segundo, pois o primeiro é apenas um head normal.
 
@@ -262,7 +262,7 @@ Na parte das classes dos li's é que fará a diferença, como citei anteriorment
 
 [Aqui nós podemos ver o resultado final desta técnica](/menu_realcado). Viaje pelos links no menu, veja que o menu realçado modifica de acordo com a seção selecionada. Perceba também, que o código é o mesmo, a não ser pela mudança do id do body ;).
 
-### Finalizando
+## Finalizando
 
 Vimos que é bem fácil fazer isso. Aposto que você pensou que fosse mais complicado não é verdade?
 

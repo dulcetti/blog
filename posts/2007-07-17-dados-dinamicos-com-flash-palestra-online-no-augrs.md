@@ -8,7 +8,7 @@ title: 'Dados dinâmicos com Flash - Palestra online no AUG/RS'
 
 Falae pessoal. Venho por esse post, divulgar a palestra online que meu camarada e xará, [Bruno Ribeiro](http://brunoribeiro.net/ 'Visitar o site do Bruno Ribeiro'), fará nessa quinta-feira. Mais detalhes abaixo:
 
-### Dados dinâmicos com Flash
+## Dados dinâmicos com Flash
 
 #### Descrição:
 
@@ -30,7 +30,7 @@ Bruno Ribeiro é desenvolvedor desde 1998 e certificado (Adobe Flash MX 2004 Dev
 
 [http://adobechats.adobe.acrobat.com/augrs/](http://adobechats.adobe.acrobat.com/augrs/ 'Visitar o link da Palestra')
 
-### Finalizando
+## Finalizando
 
 Bom, é isso. Já fui na palestra presencial que ele deu sobre o assunto e foi muito boa por sinal. Pra quem puder, vale visitar com toda certeza.
 

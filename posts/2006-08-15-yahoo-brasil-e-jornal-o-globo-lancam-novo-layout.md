@@ -8,7 +8,7 @@ title: 'Yahoo Brasil e Jornal O Globo lançam novo layout'
 
 Falae cambada. Post rápido.
 
-### Yahoo
+## Yahoo
 
 O [yahoo internacional](http://www.yahoo.com) tinha lançado a nova versão do site, com várias funcionalidades interessantes, layout bonito, líquido, etc.
 
@@ -20,7 +20,7 @@ Também vi que somente no internacional tem a opção de mudar a cor do site. Fi
 
 Bom, parabéns ae a galera do Yahoo... Vemos que todos os portais de grande e médio porte estão modificando seu layout, etc (tirando o Google)... Tanto os nacionais, quanto os internacionais...
 
-### O Globo
+## O Globo
 
 O site do jornal o globo também [lançou no final da semana passada um novo layout](http://oglobo.globo.com/).
 
@@ -44,7 +44,7 @@ Dou o exemplo do meu pai, que entra nesse caso. O coroa tem 61 anos e usa a reso
 
 Pelos grandes profissionais que acredito que a Globo.com tenha, poderiam ter feito um layout líquido que redimensiona-se de acordo com a resolução do usuário. Esse, com certeza, é o melhor jeito de se fazer isso. É um site com bastante conteúdo, portanto não teria espaços em branco. Poderiam limitar uma largura, existem métodos para isso.
 
-### Finalizando
+## Finalizando
 
 Mas no geral gostei bastante dos dois layouts. Parabéns aos profissionais envolvidos.
 

@@ -8,13 +8,13 @@ title: 'Como você escreve seus arquivos CSS?'
 
 Fala pessoal. Ressurgindo das cinzas como uma Fênix, aqui estou eu novamente, para encher vossos sacos :D e saber de vocês e mostrar como eu escrevo meus arquivos [CSS](http://pt.wikipedia.org/wiki/Cascading_Style_Sheets)'s.
 
-### Mas por que isso Bruno?
+## Mas por que isso Bruno?
 
 Simples. Antigamente eu pensava que não tinha diferença na escrita dos CSS's que eu criava, etc. E na verdade, no início é sempre assim, pouco damos valor a essas pequenas coisas, esses pequenos detalhes.
 
 Detalhes que fazem a diferença na sua grande parte. Lembrando que não estou falando da utilização das regras, como, quando e porquê usar tal propriedade CSS. Estou falando da escrita mesmo, como você cria, etc.
 
-### Ainda não entendi direito Bruno. Explica melhor essa parte da escrita do CSS
+## Ainda não entendi direito Bruno. Explica melhor essa parte da escrita do CSS
 
 Vou mostrar um exemplo de uma forma de escrever, criar um arquivo CSS:
 
@@ -155,7 +155,7 @@ Os elementos quando possuem muitas propriedades, muitas declarações, acaba est
 
 Isso é bem normal, nada tão grave ao meu ver. Mas...
 
-### Legal Bruno. Mas podem existir variações nessa forma de escrita?
+## Legal Bruno. Mas podem existir variações nessa forma de escrita?
 
 Com certeza. Vou mostrar algumas variações nessa forma de Implementar seus CSS's. Principalmente na parte de propriedades para multi-elementos.
 
@@ -211,13 +211,13 @@ Vejamos abaixo:
 
 A forma que utilizo hoje em dia. Acho mais organizada e mais fácil de se localizar.
 
-### Conclusões...
+## Conclusões...
 
 Fica claro que cada Projeto é um Projeto, cada Profissional é um Profissional. Apenas mostrei aqui alguns exemplos, minha opinião sobre e recomendações, fiquem à vontade para decidirem e discordarem. Estamos ae pra isso :D
 
 Acho que em projetos pessoais, como portfólio, sites institucionais, de pouco tráfego, não seja necessário. Assim como um profissional que não esteja numa grande empresa, participando de um Mega Projeto Web, talvez não seja prioridade fazer das formas que citei aqui. Mas acho que pelo menos já deixa o desenvolvedor preparado para Projetos grandes, com muito tráfego, ou até mesmo nos sites e sub-sites da empresa onde trabalhará mais pra frente.
 
-### Finalizando (Ufa :D)
+## Finalizando (Ufa :D)
 
 Fico por aqui, desculpem o tamanho do artigo. Eu até iria dividir em partes, mas não achei legal fazer desta forma. Da próxima vez eu planejo tudo direitinho, para deixar separado, organizado blz?
 

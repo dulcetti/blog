@@ -12,7 +12,7 @@ Falaeeeee cambada de modafoca. Finalmente é dada a largada. Depois de muita enr
 
 Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NAVE não é verdade? Só adianto que o lugar é impressionante e perfeito para a realização do BlogCamp RJ. ;)
 
-### Enrolação Futebol Clube
+## Enrolação Futebol Clube
 
 Sim, eu enrolei pra kct, mas eu juro que não foi por mal. Problemas com data, que começou a ser formado para início de julho, logo depois passado para entre o final de julho ou início de agosto. Mais tarde foi marcado para entre o final agosto e inicio de setembro. Mas no final, acabou sendo marcado para o início de outubro.
 
@@ -24,7 +24,7 @@ Se eu falar não, você acredita? Por causa das eleições no início do mês e 
 
 É, com certeza. Finalmente a data foi decidida, mas quase que ela foi remarcada, por causa de um dos evento que está planejado para o final de semana. Mas o modafoca aqui conseguiu manter a data :D
 
-### E qual a data Dulça? E onde que vai ser?
+## E qual a data Dulça? E onde que vai ser?
 
 E a data foi definida para o dia 27 de setembro. E é verdade sim, pode acreditar. Eu prometo :) Começa às 9h, quando a galera estará liberada para entrar e às 10h começam os trabalhos nas arenas.
 
@@ -52,7 +52,7 @@ Bastante coisa meu nobre. O NAVE é uma parceria do Oi Futuro com a Secretaria d
 
 Estou prevendo isso. Mas não deixarei liberado o tempo inteiro, porque senão ninguém vai querer participar das desconferências do evento, correto? Mas estou prevendo um campeonato com alguns participantes :D
 
-### Palestras, desconferências, bate-papos e tudo mais.
+## Palestras, desconferências, bate-papos e tudo mais.
 
 Estamos organizando um estilo um pouco diferente dos BlogCamps que participei. O BlogCamp RJ tratará as salas como Arenas. E teremos 3 arenas. Na verdade serão 4, mas a quarta será uma surpresa para todo no dia do evento ;)
 
@@ -146,7 +146,7 @@ Caminhando pra esquerda da praça, você passará pela Arena Business e ficará 
 
 Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar jogando do que participar do evento, oficinas e tudo mais ;) Mas não se preocupe que liberarei e farei campeonatos mais pro final do evento, pra interagir a galera. ;)
 
-### Sucesso total tio Dulça. E onde fica realmente? Como faço pra chegar?
+## Sucesso total tio Dulça. E onde fica realmente? Como faço pra chegar?
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;output=embed&amp;s=AARTsJrE3sRqryDewSAsi3pZEwL0Uzbixg"></iframe>
 
@@ -154,7 +154,7 @@ Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar 
 
 A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai no 204, como você pode ver no Mapa acima. Ou [veja o mapa melhor](https://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&z=17&iwloc=addr) ou então [veja direto com o radar](https://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&ll=-22.927014,-43.24472&spn=0.004051,0.006545&t=h&z=18&iwloc=addr), via Google Maps.
 
-### Beleza Bruno, mas eu não sei chegar.
+## Beleza Bruno, mas eu não sei chegar.
 
 Bom, você tem algumas opções de como chegar, a partir de alguns pontos que vou especificar abaixo. Não vou pegar cada bairro e ensinar, senão o post ficará do tamanho da Bíblia. Portanto, estarei especificando pontos principais, para a galera que vem de fora.
 
@@ -251,7 +251,7 @@ Existem outras alternativas, mas não vou colocar aqui não. Se vira :P
 
 Não vou colocar para quem vai de táxi né modafoca? É só pedir pro taxista te deixar na Rua Uruguai, quase na esquina com a Barão de Mesquita. Na NAVE, se ele souber o que é isso :)
 
-### Mas não vai ter nada fora o evento Dulcetti?
+## Mas não vai ter nada fora o evento Dulcetti?
 
 E você acha que o modafoca aqui iria fazer essa desfeita? Mas é claro que não meu nobre. Fique tranquilo que pensamos em tudo (ou quase).
 
@@ -289,7 +289,7 @@ E também tivemos uma idéia legal, de doarmos um computador para uma entidade c
 
 Então, quem vai decidir isso é você mesmo ;) É só [acessar o formulário que criei](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMUMr1DeuhBWcw) para a votação da "recreação" de domingo, que o vencedor será o que vamos realizar.
 
-### Beleza, Bruno, mas eu não me inscrevi.
+## Beleza, Bruno, mas eu não me inscrevi.
 
 Fique tranquilo, pois eu reabri as inscrições pro BlogCamp. É só [acessar o formulário do Google Docs que reativei](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMWCM3Id0l0jOg) e preencher os campos necessários. Caso você não tenha um blog, coloque "não tenho" no campo referente a URL do Blog ok?
 
@@ -297,13 +297,13 @@ Mas detalhe, você que só está se inscrevendo agora, não terá direito a cami
 
 Fica triste não que eu te dou um abraço. :)
 
-### Novidades e surpresas
+## Novidades e surpresas
 
 Teremos algumas novidades e surpresas, que ainda não posso falar, pois ainda não se confirmaram, mas dará tudo certo ;)
 
 Só pra deixar aquela dúvida no ar e te deixar curioso mesmo :) E não insistam, pois não falarei quanto que tá o resultado do que foi decidido para domingo :D Mas que podemos ter uma surpresa agradável, isso eu adianto :)
 
-### Curiosidades
+## Curiosidades
 
 Vou listar abaixo alguns numeros sobre os inscritos no BlogCamp RJ. Divisão por sexo, região, nomes, entre outros. Lógico que isso é até o post, pois o número aumentará:
 
@@ -356,7 +356,7 @@ No exemplo do BlogCamp RJ, 243 inscritos, ou seja, quase 95%. Isso mesmo, 95%. G
 - 060 de São Paulo
 - 164 do Rio de Janeiro
 
-### Finalizando...
+## Finalizando...
 
 Bom, fico por aqui e espero ter dado todas as informações necessárias para vocês. Mas se ainda assim você tiver dúvida (meu deus do céu), é só mandar por comentário que vou respondendo tá blz?
 

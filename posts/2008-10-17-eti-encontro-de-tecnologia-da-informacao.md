@@ -10,7 +10,7 @@ Mais uma vez o modafoca aqui vai falar sobre eventos. Tá difícil falar sobre w
 
 ![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
 
-### Relaxa, Dulça. Mas diz ae, que evento é esse ae?
+## Relaxa, Dulça. Mas diz ae, que evento é esse ae?
 
 Como vocês já viram na marca e no título, é o ETI - Encontro de Tecnologia da Informação. Um evento voltado, logicamente, para programadores e desenvolvedores web, tendo como público secundário webdesigners, analistas de sistemas, redes e infra-estrutura, gerentes de projeto, jornalistas, publicitários e outros profissionais das áreas de informática e comunicação.
 
@@ -33,7 +33,7 @@ Tem tempo ainda, vai ser mês que vem e vai rolar tanto em Sampa quanto aqui no 
 
 Não fique assim, relaxe que ano que vem vai rolar em outras cidades do Brasil, mas de início, só Rio e São Paulo mesmo ;)
 
-### Conteúdo do evento
+## Conteúdo do evento
 
 E o mais legal do evento é que você mesmo, sim nobre modafoca, você mesmo que tá na frente do monitor e lendo mais essa baboseira agora, que vai decidir quem vai palestrar.
 
@@ -59,7 +59,7 @@ Dúvida de milhares de pessoas, tanto blogueiros quanto modafocas. Falarão sobr
 
 Essa foi bem solicitada na pesquisa realizada. Muita gente ainda tem duvida, pontos a discutir sobre os padrões web.
 
-### Mas não é só issoaaamm...
+## Mas não é só issoaaamm...
 
 Além das palestras, vão rolar oficinas do lado de fora do auditório e que o assunto delas [vocês mesmo é que vão selecionar](http://www.encontrodeti.com.br/site/?p=244).
 
@@ -67,7 +67,7 @@ E além disso, teremos chats nas semanas anteriores ao evento, falando sobre o a
 
 E na outra semana teremos outro chat, que provavelmente será sobre padrões web. Relaxem que os deixarei informados ;)
 
-### Maneiro, Dulcetti. Onde que vai ser?
+## Maneiro, Dulcetti. Onde que vai ser?
 
 ![Foto do Amcham](/assets/images/posts/amcham.jpg)
 
@@ -77,7 +77,7 @@ Em Sampa vai rolar no Amcham Brasil, que fica na Rua da Paz, 1.431 – Chácara 
 
 E no Rio será no novo Centro de Convenções SulAmérica, que fica na Av. Paulo de Frontin, 1 – Cidade Nova – RJ
 
-### Finalizando
+## Finalizando
 
 Participe, veja mais informações no [blog feito pro evento](http://www.encontrodeti.com.br/site/). E vamos ver se consigo sortear um convite para um modafoca que seja meu leitor. Vou ver se vocês merecem isso :D
 

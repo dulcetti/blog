@@ -8,7 +8,7 @@ title: 'Adobe Flex 3 e Adobe AIR - Resumo do Evento de Lançamento'
 
 Hoje, logo após o viradão no Videolog para o lançamento do V3, lá foi Dulcetti para o Evento de Lançamento do Flex 3 e o Adobe AIR. Completamente cansado, praticamente virado, todo modafoca, mas vamo que vamo.
 
-### E como foi essa palestra ae Dulça?
+## E como foi essa palestra ae Dulça?
 
 O local eu já conhecia, belo prédio, espaço fodástico e tudo mais. A palestra foi com o Ben Forta, que é um modafoca sagás ae da Adobe e talz.
 
@@ -18,11 +18,11 @@ E como vocês sabem, o cara é gringo e teve tradução simultânea, mas o probl
 
 Quando eu cheguei, ele falou da diferença entre aplicativos offline e online. Citou o Google Docs e o Office da Microsoft, da diferença entre as aplicações, vantagens e desvantagens, etc, etc, etc.
 
-### Só isso Bruno?
+## Só isso Bruno?
 
 Mais ou menos. Não consegui pegar muito conteúdo da palestra do Flex. Vi alguns exemplo, bibliotecas, ele criou alguns skins no Fireworks que podem ser reaproveitados no Flex e tudo mais.
 
-### Ahhh tah... E a do Adobe AIR?
+## Ahhh tah... E a do Adobe AIR?
 
 Era a palestra que eu mais queria ir mesmo. Conhecer esse software, que pelo que me parecia, era brilhante. E é mesmo. O AIR serve para criar aplicativos para desktop, para funcionar tanto online, quanto offline. Brilhante. Qualquer coisa, pesquisem no Google ok? ;)
 
@@ -54,33 +54,33 @@ Aplicativo infantil, onde possui jogos. A cada acesso, o aplicativo baixa um jog
 
 Já sabia que você pensaria nisso e fosse perguntar. Simples, ele conecta a criança no site, onde ela viaja por ele, procurando a última peça. Muito boa essa interação e experiência para a criança.
 
-### Bem modafocas esses Cases hein Dulcetti...
+## Bem modafocas esses Cases hein Dulcetti...
 
 Também achei. Principalmente rodando, perfeitinho.
 
 Abaixo vou citar alguns pontos importantes captados por mim mesmo, óque legal hein ;)
 
-### Adobe AIR Multi Plataforma
+## Adobe AIR Multi Plataforma
 
 Issso é importantíssimo. Eu como usuário Mac, gostei de ter ouvido isso, assim como todos os ouvintes. Simplesmente todos os S.O. possuem suporte ao Aplicativo e suas API's.
 
-### Como o AIR funciona?
+## Como o AIR funciona?
 
 Ele monta um arquivo .air que recebe todo tipo de arquivo, tanto pdf, css, xml, entre outros. Você escreve códigos, como qualquer programação. Ele compila, renderiza este arquivo e compacta em um único arquivo .air. E levíssimo, isso que é o mais importante.
 
-### Exemplo de trabalho no AIR
+## Exemplo de trabalho no AIR
 
 Mostrou mexendo com Dreamweaver, um site criado e transformado em um aplicativo desktop AIR. O que eu não gostei foi que ele mostrou um código cheio de tabelas, ponto negativo :D
 
 O trabalho é basicamente javascript e tem suporte ao webkit, e gostei muito disso. Já que não precisamos nos preocupar com browsers, já que é um aplicativo offline/desktop. Tudo que é feito no AIR, funciona no Safari, que é a engine do AIR, como vocês já devem saber.
 
-### Aplicativo de Browser
+## Aplicativo de Browser
 
 Mostrou um exemplo de aplicativo, onde ele criou em pouquíssimos minutos com umas 4 ou 5 linhas, um browser bem simples, com um campo de texto, um botão GO! e uma micro-tela onde abria o site digitado no campo de texto. Bem fácil e rápido.
 
 Outro ponto forte é o suporte a arquivos de som, vídeo, entre outras mídias, sem problema algum. Fora a ótima integração com o Acrobat Reader. Ele aplica dados de dentro de um aplicativo para um PDF, em tempo real. Você adiciona e exporta o PDF, caso queira colocar outro, não precisa fechar e exportar novamente, criando outro PDF, pois eles possuem essa integração, comunicação magnífica.
 
-### Limitações
+## Limitações
 
 Abaixo vão algumas limitações citadas pelo Ben Forta:
 
@@ -91,6 +91,6 @@ Abaixo vão algumas limitações citadas pelo Ben Forta:
 
 Nem tudo é perfeito não é verdade?
 
-### Finalizando...
+## Finalizando...
 
 Bom, é por aae. To morto, cansado pra kct, ainda não dormi direito por causa da virada do V3. Então vou indo nessa blz modafoca? Depois posto mais, para vocês rirem ou aprenderem(?). Bjo na alcatra.

@@ -10,7 +10,7 @@ E ae pessoal. Estou aqui para divulgar a promoção que o [Videolog.tv](http://w
 
 Para quem não sabe, dia 18 de outubro o cantor [Robbie Wiliiams](http://www.robbiewilliams.com/ 'Visitar o site do Robbie Wiliiams') fará shows no Brasil, no Rio de Janeiro para ser mais exato. E como não podia deixar de fora, o Videolog.tv criou uma promoção para te levar para o show.
 
-### Como que eu participo?
+## Como que eu participo?
 
 Muito simples, basta seguir os passos abaixo:
 

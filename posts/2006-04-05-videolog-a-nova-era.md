@@ -14,7 +14,7 @@ Deixando os problemas de lado, vou falar de uma tecnologia, que não é tão nov
 
 Certeza de que todos aqui já ouviram falar de fotologs, flogs, etc, que seria digamos assim, um diário fotográfico de nossas vidas. Postamos uma foto, com um breve texto, geralmente sobre a foto, as pessoas comentam, etc... Isso veio primeiro com os Blogs, como este, que em primeira instância, não foram levados muito a sério, poucos acreditavam, principalmente com o surgimento dos flogs, imagens, etc... Mas que agora é mais que uma febre, chamaria de uma tendência. Hoje temos empresas, funcionários de uma empresa, falando sobre o produto desta, temos desenvolvedores, poetas, dentre outros vários tipos de "blogueiros" pela internet. O Blog sim, seria o diário, como havia dito sobre os flogs, com textos, até mesmo fotos, seria algo mais completo digamos assim.
 
-### "Mas onde vc está querendo chegar com isso em Bruno?"
+## "Mas onde vc está querendo chegar com isso em Bruno?"
 
 Ok, ok, calma, foi só uma introdução sobre uma "nova" tendência que está em constante crescimento, no mundo todo, em toda a internet. Estou falando dos Vlogs, ou Videologs. Muito interessante pensar que você pode fazer tudo aquilo que fazemos num blog e ainda poder colocar vídeos, que tem um chamativo muito maior. Convenhamos, uma imagem vale mais do que mil palavras, então quantas palavras valem um vídeo? Eu diria que incontáveis...
 
@@ -22,7 +22,7 @@ O grande pioneiro nesta área é o [Videolog.tv](http://www.videolog.tv), que fo
 
 Estou participando da produção da nova versão do [Videolog.tv](http://www.videolog.tv), fazendo a parte de interação, criação dos códigos webstandards de todas as páginas, participando em partes da criação, criando os flashes onde necessários, brincando um pouco com ajax (sou iniciante ainda :D ), sempre testando no i.e., Firefox e Opera (são os únicos que tenho acesso por enquanto).
 
-### O que é o [Videolog.tv](http://www.videolog.tv)?
+## O que é o [Videolog.tv](http://www.videolog.tv)?
 
 O Videolog.tv é a maneira mais fácil e divertida de ver, publicar e compartilhar seus vídeos na internet.
 
@@ -56,7 +56,7 @@ Linguagem usada é PHP, trabalhando bastante com javascript, [ajax](http://pt.wi
 
 Este mês de abril, será lançada a nova versão do [Videolog.tv](http://www.videolog.tv). Pretendemos lançá-lo antes da segunda quinzena, estamos trabalhando duro para isso e com certeza será satisfatório para nós e os "vloguers" do Brasil, quem sabe do mundo né. ;)
 
-### Conclusão e Finalização
+## Conclusão e Finalização
 
 Além de toda tecnologia, avanço, queria deixar aqui no blog, minha grande satisfação de estar fazendo parte desta equipe bastante capacitada e competente, na criação da nova versão do [Videolog.tv](http://www.videolog.tv), que com certeza virará referência neste novo formato de mídia, comunicação, expansão, visão, etc.
 

@@ -10,7 +10,7 @@ E ae, cambada. Estava lendo os feeds que eu assino, quando me deparei [com um po
 
 É uma campanha para fazer com que os Blogueiros disponibilizem o conteúdo de seus blogs, não em resumo, como muitos ainda fazem, mas disponibilizando o conteúdo completo.
 
-### Mas por que isso o Dulcetti?
+## Mas por que isso o Dulcetti?
 
 Estou no meu leitor de feeds, então quero ler os posts por ele, não acho muito legal obrigar o seu leitor a entrar no site para ler o conteúdo completo.
 
@@ -26,11 +26,11 @@ Gostei de uma das citações dele:
 
 Mole, [entra no post do Bruno Alves](http://www.brunoalves.eti.br/arquivo/2006/11/03/feeds-completos.html) e veja as vantagens, etc.
 
-### Beleza, então vou participar dessa campanha também!
+## Beleza, então vou participar dessa campanha também!
 
 Perfeito! [Entra no post do Arcanjo](http://www.arcanjo.org/blog/?p=70) e pegue alguns endereços de imagens da campanha, veja o que ele diz sobre, opinião, etc.
 
-### Beleza Bruno, mas quem tá participando dessa camapanha ae?
+## Beleza Bruno, mas quem tá participando dessa camapanha ae?
 
 Por enquanto essa cambada abaixo ae:
 
@@ -48,6 +48,6 @@ Por enquanto essa cambada abaixo ae:
 
 Caso comente sobre a campanha, deixe um trackback que atualizo aqui. (essa peguei da sua citação Bruno, tá liberado né? :D
 
-### Finalizando
+## Finalizando
 
 É isso ae, cambada. Aquele abraço.

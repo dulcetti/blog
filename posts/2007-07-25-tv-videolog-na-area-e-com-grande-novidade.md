@@ -10,7 +10,7 @@ title: 'T!V! - Videolog na área e com grande novidade.'
 
 E ae galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
-### Crie seus próprios canais de TV com a [T!V!](http://videolog.uol.com.br/tivi/)
+## Crie seus próprios canais de TV com a [T!V!](http://videolog.uol.com.br/tivi/)
 
 Gire em 180º as exclamações que você verá TIVI, o nome como deve ser dito ;)
 
@@ -36,11 +36,11 @@ Mas pensando nisso, a T!V! terá também uma versão paga que permitirá exibir 
 
 E logicamente, como não poderia deixar de ser, a T!V! também terá versões em embed para Blogs, Portais, etc.
 
-### Parte Comercial
+## Parte Comercial
 
 Mais pra frente, a T!V! também será usada empresas, etc, que poderão montar sua própria programação para passarem em seus aparelhos de TV. Aguardem!
 
-### E o lançamento Bruno?
+## E o lançamento Bruno?
 
 A T!V! está em fase alpha, por enquanto. Em meados de agosto, mais precisamente no meio de agosto (aproximadamente), a T!V! lançará sua versão beta.
 
@@ -56,6 +56,6 @@ Eu deixarei todos que frequentam este blog informados sobre o lançamento da fer
 
 **\[/UPDATE\]**
 
-### Por hoje é só pessoal!
+## Por hoje é só pessoal!
 
 Isso ae galera, aquele abraço.

@@ -12,7 +12,7 @@ Bom, seguindo o [post sobre o BlogCamp RJ](/blogcamp-rj-todos-os-detalhes-que-vo
 
 O modafoca aqui faz de tudo para pensar em vocês. Não sou tão ruim assim não é verdade?
 
-### Dulcetti é meu herói
+## Dulcetti é meu herói
 
 Menos por favor... Menos...
 
@@ -60,6 +60,6 @@ Seguem os temas:
 
 E para votar, utilize o [formulário que criei no Spread Sheets](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMWeufd3ITd-PQ)
 
-### Finalizando...
+## Finalizando...
 
 Qualquer dúvida, deixe nos comentários. Bjo na alcatra.

@@ -12,13 +12,13 @@ Aqui estou eu novamente. Mas só que desta vez não falarei de webstandards, css
 
 Na hora de digitar seus textos, vc geralmente precisa selecionar alguma parte dele, deletar uma letra ou palavra, precisa ir ao fim do documento, início, etc. Existem alguns atalhos legais, alguns conhecidos e outros não, que mostrarei aqui para vocês:
 
-### Ir até o final do documento
+## Ir até o final do documento
 
 #### Atalho: Ctrl+End
 
 Vamos supor que você tenha um documento com 1000 linhas e você está na linha 20, mexendo em uma parte. De repente, vc precisa mexer na linha 995 ou 1000. alguns softwares possuem um recurso para ir até a linha que você quer, isso é ótimo. No meu caso, prefiro sempre não perder o foco no documento, tentar clicar o menos possível no mouse e em menus. Com isso, eu uso este atalho. ;)
 
-### Ir até o início do documento
+## Ir até o início do documento
 
 #### Atalho: Ctrl+Home
 
@@ -28,13 +28,13 @@ Vamos supor que você tenha um documento com 1000 linhas e você está na linha 
 
 Para fazer estes dois atalhos em linhas, é só apertar somente o End ou o Home. ;)
 
-### Selecionar a partir de uma parte até o final do documento
+## Selecionar a partir de uma parte até o final do documento
 
 #### Ctrl+Shift+End
 
 Com este atalho vc pode selecionar, estando em qualquer parte do documento, até o seu final. Ex: você está na linha 200 e precisa selecionar desta linha, até a linha 1000, que é a última. Basta executar este atalho.
 
-### Selecionar a partir de uma parte até o início do documento
+## Selecionar a partir de uma parte até o início do documento
 
 #### Ctrl+Shift+Home
 
@@ -44,7 +44,7 @@ O inverso do anterior. Seleciona de uma parte, até o início do documento. Ex: 
 
 Para fazer estes dois atalhos em linhas, é só vc não apertar o Ctrl, somente o Shift+End para selecionar do ponto ao final da linha e Shift+Home para selecionar do ponto ao início da linha.
 
-### Pular palavras
+## Pular palavras
 
 #### Ctrl+Seta(← esquerda ou direita →)
 
@@ -52,7 +52,7 @@ Esse atalho, serve para você não ter que ficar pressionando a tecla de seta e 
 
 Eu acho esse um dos mais úteis.
 
-### Selecionar e tirar seleção de palavra em palavra
+## Selecionar e tirar seleção de palavra em palavra
 
 #### Ctrl+Shift+Seta(← esquerda ou direita →)
 
@@ -60,7 +60,7 @@ Este é parecido com o anterior, mas além dele pular a palavra, ele vai selecio
 
 Usaremo o mesmo exemplo, mas com uma mensagem verdadeiro: Bruno Dulcetti lindo. Você estando antes da palavra "Bruno" e apertando o atalho mais a seta pra direita →, o cursor do teclado vai até o início da palavra "Dulcetti" deixando a palavra "Bruno" selecionada. Caso a tecla direita → seja apertada novamente, o cursos irá para o início da palavra "lindo" deixando a sequência "Bruno Dulcetti " selecionada. O mesmo acontece no inverso. Caso a sequência "Bruno Dulcetti " esteja selecionada, ao apertar o atalho mais a seta pra esquerda ←, o cursor do teclado irá para o final da palavra "Bruno", tirando a seleção da palavra "Dulcetti".
 
-### Deletando de palavra em palavra
+## Deletando de palavra em palavra
 
 #### Ctrl+Del
 
