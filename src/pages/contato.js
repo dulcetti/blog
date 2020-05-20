@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -9,7 +9,9 @@ export default function ContactPage() {
     <Layout>
       <SEO title="Contato" />
       <h1>Contato</h1>
-      <Link to="/">Go back to the homepage</Link>
+      <AniLink cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+        Go back to the homepage
+      </AniLink>
     </Layout>
   );
 }
