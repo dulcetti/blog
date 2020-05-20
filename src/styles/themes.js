@@ -45,6 +45,7 @@ export const themes = {
     },
     general: {
       bg: _colors.grayLight,
+      bgTransition: _colors.grayLight,
       borders: _colors.grayMedium,
       boxShadows: _colors.grayMedium,
       color: _colors.grayDark,
