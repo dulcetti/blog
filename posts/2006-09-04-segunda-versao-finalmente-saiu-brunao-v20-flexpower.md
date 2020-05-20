@@ -12,7 +12,7 @@ Ok galera, podem zuar... :P
 
 Tah bom, tah bom, parem de sacanear ow... Finalmente saiu essa bagaça de segunda versão. :D Tudo bem, tudo bem, pode não ser revolucionária, aquela coisa estrondosa, caramba, e talz... Mas é a segunda versão do meu Blog e Portfólio.
 
-[Prestes a completar um ano de existência](/primeiro-passo.html 'Ver meu Primeiro Post no Blog'), consegui, finalmente, mudar o layout desse blog/portfólio.
+[Prestes a completar um ano de existência](/primeiro-passo), consegui, finalmente, mudar o layout desse blog/portfólio.
 
 ## Parte Visual
 
@@ -64,7 +64,7 @@ Essa categoria eu postarei sites que podem servir de inspiração para todos. A 
 
 ### Categoria Videolog
 
-Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em destaques no [Videolog.tv](http://www.videolog.tv), no qual [já falei sobre no meu Blog](/videolog-a-nova-era.html).
+Esta categoria eu utilizarei, na sua grande maioria, para postar vídeos em destaques no [Videolog.tv](http://www.videolog.tv), no qual [já falei sobre no meu Blog](/videolog-a-nova-era).
 
 Postarei também novidades que rolarem dentro do Portal. ;)
 

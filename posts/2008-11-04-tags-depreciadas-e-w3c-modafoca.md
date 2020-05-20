@@ -44,7 +44,7 @@ Deixe-me usar se eu quiser. Tem casos onde é importante e imprescindível a uti
 
 ## Finalizando
 
-Ok, foda-se. Se no [post anterior vocês não me xingaram](/menus-navegacoes-em-listas-realmente-e-necessario.html), nesse vocês vão.
+Ok, foda-se. Se no [post anterior vocês não me xingaram](/menus-navegacoes-em-listas-realmente-e-necessario), nesse vocês vão.
 
 Mas só foi mais um artigo pra mexer um pouco, encucá-los e saber a opinião de vocês. Entendo a atitude da W3C, mas pra mim também tem que ter bom senso da galera de implementação e de design, para não criar algo não muito usável e de difícil entendimento.
 

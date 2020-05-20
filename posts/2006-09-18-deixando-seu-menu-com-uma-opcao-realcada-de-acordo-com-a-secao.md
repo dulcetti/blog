@@ -45,25 +45,37 @@ Primeiramente eu mostrarei o código, pra em seguida explicar como que foi feito
 Vou mostrar abaixo, o código HTML criado para este exemplo:
 
 ```html
-<?php include 'head.php'; ?>
-<body id="bodyPrimeira">
-<div id="geral">
-<?php include 'menu.php'; ?>
-<div id="conteudo">
-<h1>Título H1</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed id ligula. Nunc dapibus, purus quis commodo suscipit, felis risus ultricies pede, ut aliquet lacus mi at nibh. Sed condimentum. Aliquam in sem. Curabitur ornare, mi eu auctor laoreet.</p>
-<h2>Título H2</h2>
-<p>Etiam laoreet pulvinar sem. Sed massa enim, vulputate eget, feugiat blandit, sollicitudin in, mauris. Fusce vestibulum. Nullam elementum. Etiam erat est, interdum vel, ornare ultricies.</p>
-<h3>Título H3</h3>
-<p>Quisque convallis fringilla tortor. Duis tortor diam, placerat semper, fermentum sed, commodo id, magna. Nulla auctor hendrerit ante.</p>
-</div>
-<div id="rodape">Copyright & &copy; 2006 - <a href="/">BrunoDulcetti.com</a></div>
-</div>
-</body>
+<html>
+  <?php include 'head.php'; ?>
+  <body id="bodyPrimeira">
+    <?php include 'menu.php'; ?>
+    <div id="geral">
+      <div id="conteudo">
+        <h1>Título H1</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed id ligula. Nunc dapibus,
+          purus quis commodo suscipit, felis risus ultricies pede, ut aliquet lacus mi at nibh. Sed
+          condimentum. Aliquam in sem. Curabitur ornare, mi eu auctor laoreet.
+        </p>
+        <h2>Título H2</h2>
+        <p>
+          Etiam laoreet pulvinar sem. Sed massa enim, vulputate eget, feugiat blandit, sollicitudin
+          in, mauris. Fusce vestibulum. Nullam elementum. Etiam erat est, interdum vel, ornare
+          ultricies.
+        </p>
+        <h3>Título H3</h3>
+        <p>
+          Quisque convallis fringilla tortor. Duis tortor diam, placerat semper, fermentum sed,
+          commodo id, magna. Nulla auctor hendrerit ante.
+        </p>
+      </div>
+      <div id="rodape">Copyright & &copy; 2006 - <a href="/">BrunoDulcetti.com</a></div>
+    </div>
+  </body>
 </html>
 ```
 
-Não reparem mas utilizei um código parecido com o artigo [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens.html). Utilizarei o mesmo código, tanto do CSS quanto do HTML.
+Não reparem mas utilizei um código parecido com o artigo [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens). Utilizarei o mesmo código, tanto do CSS quanto do HTML.
 
 #### Vamos entender as partes que interessam?
 

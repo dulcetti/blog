@@ -3,18 +3,17 @@ import { graphql } from 'gatsby';
 
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';
-import Profile from '../../components/profile';
 import PostsList from '../../components/posts-list';
 import Pagination from '../../components/pagination';
 
 const BlogList = (props) => {
   const postList = props.data.allMarkdownRemark.edges;
   const { currentPage, numPages } = props.pageContext;
+  const { description, title } = props.data.site.siteMetadata;
 
   return (
     <Layout>
-      <SEO title="Home" />
-      <Profile />
+      <SEO description={description} title={title} />
 
       <PostsList posts={postList} />
       <Pagination totalPages={numPages} currentPage={currentPage} />
@@ -43,6 +42,12 @@ export const query = graphql`
           }
           timeToRead
         }
+      }
+    }
+    site {
+      siteMetadata {
+        description
+        title
       }
     }
   }

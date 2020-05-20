@@ -8,7 +8,7 @@ title: 'iMasters Intercon 2006 aí vou eu.'
 
 E ae pessoal.
 
-Conforme [comentei um tempim atrás](/lancado-oficialmente-o-imasters-intercon-2006.html), esse ano terá o [Imasters Intercon 2006](http://www.imasters.com.br/intercon/2006/), um evento organizado pelo portal [iMasters](http://www.imasters.com.br).
+Conforme [comentei um tempim atrás](/lancado-oficialmente-o-imasters-intercon-2006), esse ano terá o [Imasters Intercon 2006](http://www.imasters.com.br/intercon/2006/), um evento organizado pelo portal [iMasters](http://www.imasters.com.br).
 
 Assistirei as palestras da parte de Programação e Tecnologia e espero que as palestras sejam de ótima qualidade.
 
@@ -20,7 +20,7 @@ Encontrarei uma galera manera, que ainda não conheço pessoalmente, como o [Cir
 
 Tentarei colocar um post durante o evento, que será atualizado depois de cada palestra, tipo um streaming "blogal", com textos sobre o evento, encontros, etc.
 
-Não prometo, mas juro que tentarei :D Mas relaxem, que no mínimo colocarei um post, dps do evento, segunda por ae, contando como foi cada palestra, [assim como fiz ano passado](/retrospectiva-imasters-intercon.html).
+Não prometo, mas juro que tentarei :D Mas relaxem, que no mínimo colocarei um post, dps do evento, segunda por ae, contando como foi cada palestra, [assim como fiz ano passado](/retrospectiva-imasters-intercon).
 
 ## Finalizando
 

@@ -3,9 +3,10 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
-import Icons from '../icons/index';
+import { themes } from '../../styles/themes';
+import SocialMedias from '../social-medias';
 
-export default function Sidebar({ siteTitle }) {
+export default function Sidebar() {
   const [isOpen, setOpen] = useState(false);
   const location = typeof window !== 'undefined' && window.location.pathname;
   const { logo, avatar } = useStaticQuery(
@@ -35,12 +36,17 @@ export default function Sidebar({ siteTitle }) {
 
   return (
     <S.Sidebar>
-      <S.LogoLink cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+      <S.LogoLink
+        swipe
+        direction="left"
+        bg={themes.palette.general.bgTransition}
+        duration={0.6}
+        to="/">
         <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
-          <S.Title>{siteTitle}</S.Title>
+          <S.Title>Bruno Dulcetti</S.Title>
         ) : (
-          <S.InternalTitle>{siteTitle}</S.InternalTitle>
+          <S.InternalTitle>Bruno Dulcetti</S.InternalTitle>
         )}
       </S.LogoLink>
 
@@ -50,53 +56,39 @@ export default function Sidebar({ siteTitle }) {
           <S.Name>Bruno Dulcetti</S.Name>
           <S.List>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/">
                 Home
               </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/sobre">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/sobre">
                 Quem é?
               </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/contato">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/contato">
                 Contato
               </S.LinkMenu>
             </S.Item>
           </S.List>
         </S.Menu>
 
-        <S.SocialMedias>
-          <S.Media>
-            <a href="https://github.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="github" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a
-              href="https://www.linkedin.com/in/dulcetti/"
-              target="_blank"
-              rel="noopener noreferrer">
-              <Icons name="linkedin" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://twitter.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="twitter" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://instagram.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="instagram" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://facebook.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="facebook" />
-            </a>
-          </S.Media>
-        </S.SocialMedias>
+        <SocialMedias />
       </S.Navigation>
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>

@@ -46,7 +46,7 @@ Exatamente por isso, o [Videolog.tv](http://www.videolog.tv) está no ar. Para q
 
 ### Tecnologia
 
-A nova versão do [Videolog.tv](http://www.videolog.tv), ficará toda dinâmica, [ajax](http://pt.wikipedia.org/wiki/AJAX_%28Web%29), [web 2.0](/web2-web-3-etc.html) caso alguns prefiram assim :D. Assim a requisição ao Banco de Dados será muito menor, sendo menor também o tráfego, sendo bom para os servidores e os clientes. ;)
+A nova versão do [Videolog.tv](http://www.videolog.tv), ficará toda dinâmica, [ajax](http://pt.wikipedia.org/wiki/AJAX_%28Web%29), [web 2.0](/web2-web-3-etc) caso alguns prefiram assim :D. Assim a requisição ao Banco de Dados será muito menor, sendo menor também o tráfego, sendo bom para os servidores e os clientes. ;)
 
 O layout está totalmente modificado, diferenciado, mais clean, bonito, leve, agradável. Como se trata de um portal, é muito difícil manter um código totalmente limpo, mas estou tentando fazer isso ao máximo. Ao final, farei uma reciclagem do CSS, porque ele está um pouco grande.
 

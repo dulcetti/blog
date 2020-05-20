@@ -36,7 +36,7 @@ Tivemos algumas ausências como a do [Cardoso](http://www.contraditorium.com/), 
 
 Acho que acima de tudo, fora o papo sobre blogs, monetização, tecnologia, valeu o conhecimento pessoal, a socialização entre nós, a cerveja tomada logo após o evento, as merdas faladas, as zoações, os erros, conselhos, dicas, etc.
 
-Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o [Leonardo Pessoa](http://www.leonardopessoa.com/) que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um [formulário em PHP](/formulario-em-php.html). Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
+Um exemplo disso foi no sábado, início de BlogCamp, quando estávamos fora da sala, uma galera com notebook e eu com meu Macbook Pro aberto, no meu blog, postando a cobertura do evento, quando o [Leonardo Pessoa](http://www.leonardopessoa.com/) que estava do meu lado olhou e perguntou "Cara, é você que é o Dulcetti?", respondi que sim e logo veio ele falando novamente "Pow, manero cara. Aprendi a criar formulários com você!". Falou sobre um post que escrevi sobre como criar um [formulário em PHP](/formulario-em-php). Achei aquilo muito foda, percebi que fui útil e meu blog também, dito pessoalmente por alguém. Isso vale muito.
 
 Fora quando a Mirian Bottan e o Thiago Mobilon chegaram pra mim no bar, no sábado e falaram a mesma coisa: "Calmae! Eu to conversando com você o BlogCamp MG inteiro, estamos no mesmo Hotel, tomando cerveja e eu não sabia que você que é o Bruno Dulcetti?". E ainda complementaram: "Imaginava você totalmente diferente, um cara mó Nerd, etc.". Aeeeee, não tenho cara de Nerd. Ok, só um pouco, por causa dos óculos, etc, mas nem tanto :D.
 
@@ -89,7 +89,7 @@ Então, tem bastante link por ae e que ainda está por vir. vou ver se vou posta
 - [BlogcampMG - via ustream.tv](http://www.ladybugbrazil.com/2007/11/17/blogcampmg-via-ustreamtv/)
 - [BlogCamp MG remoto](http://meta.blog.br/blogcamp-mg-remoto/)
 - [BlogCamp MG](http://www.leonardopessoa.com/2007/11/blogcamp-mg-2/)
-- [BlogCamp MG | Belo Horizonte - Cobertura](/blogcamp-belo-horizonte-cobertura.html)
+- [BlogCamp MG | Belo Horizonte - Cobertura](/blogcamp-belo-horizonte-cobertura)
 - [Meu primeiro relato sobre BlogCamps!](http://tecnoblog.net/archives/meu-primeiro-relato-sobre-blogcamps.php)
 - [BlogCampMG, eu fui!](http://blog.licio.eti.br/2007/11/18/blogcampmg-eu-fui/)
 - [Blogcamp MG, as peças raras da desconferencia](http://www.trankera.org/blog/2007/11/19/blogcamp-mg-as-pecas-raras-da-desconferencia/)
