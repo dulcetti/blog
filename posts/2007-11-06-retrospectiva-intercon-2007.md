@@ -8,13 +8,13 @@ title: 'Retrospectiva Intercon 2007'
 
 Depois de ter demorado mais de uma semana para postagem (pra variar), aqui estou eu falando sobre o evento, que na minha concepção foi muito bom. Me surpreendeu positivamente com a estrutura e modelos de palestras, etc.
 
-### E o conteúdo do Evento Bruno?
+## E o conteúdo do Evento Bruno?
 
 Muito bomo conteúdo, com desconferências, POD Casts, participação de blogueiros, Luli como entrevistador em todas as palestras e constante participação do público no final das palestras.
 
 Além disso, os coffee-breaks foram muito bons. Simples, mas bons. As pizzas estavam sensacionais :D. Sobre os stands, meu preferido foi o do [Camiseteria](http://www.camiseteria.com.br), no formato de camista, dando camisas de brindes, bottons, etc.
 
-### Conheceu alguém lá Bruno?
+## Conheceu alguém lá Bruno?
 
 Com certeza. A melhor coisa desses eventos são os contatos, poder conhecer pessoas que você só conhece via Internet, blogs, portais, etc.
 
@@ -22,19 +22,19 @@ O Intercon foi especial pra conhecer boa galera da Blogosfera: [Helder Santana](
 
 Agradecimento ao [Helder Santana](http://blog.eucrio.com/) que me passou a cola dos nomes. Ainda não sei se foram todos, qq coisa, se estiver faltando alguém, é só falar.
 
-### Novidades
+## Novidades
 
 Uma novidade e curiosidade foram colocarem Internet wi-fi no evento. Até aí tudo bem, Internet de graça nunca faz mal a ninguém né? :D
 
 O engraçado foi a febre da “twittagem”. Durante todo o evento, várias pessoas do público ficavam postando no seu twitter sobre o evento. Uma febre bizarra. Eu ainda continuo achando meio inútil essa paradinha, mas [tive que criar o meu né](http://twitter.com/dulcetti), para experimentar e ver como isso funciona, se é legal mesmo. Mas isso eu deixo para um outro post :D
 
-### Mas e as palestras Bruno? Como foram?
+## Mas e as palestras Bruno? Como foram?
 
 Boas. Assisti poucas, só pude ir no sábado e não assisti todas, perdi a do Itaú, que me disseram que foi muito boa, mas fazer o que né.
 
 Vou comentar sobre cada palestra que assisti e alguns pontos extras aqui:
 
-#### Painel: Visão crítica da nova internet e como ela influencia no Brasil. Gravação do BrainCast com Fábio Seixas, Cris Dias, Mauro Amaral e Carlos Merigo
+### Painel: Visão crítica da nova internet e como ela influencia no Brasil. Gravação do BrainCast com Fábio Seixas, Cris Dias, Mauro Amaral e Carlos Merigo
 
 Início hilário com o Luli passando pro Seixas, fazendo uma sátira do filme Tropa de Elite com os participantes da palestra, se é que pode se chamar de palestra né.
 
@@ -52,7 +52,7 @@ Comentaram bastante sobre cases de sucesso de utilização de adwords, subestima
 
 Na quarta parte comentaram sobre o facebook e sua venda para a Microsoft de 1,6% por U\$240.000,00 e tiveram algumas perguntas se valia mesmo a pena comprar um produto desse e quanto tempo que esse “sucesso” duraria.
 
-#### Negócios 2.0 - Marcello Povoa, Dir. de Marketing da MPP Solutions e José Luiz Martins, Dir. de Tecnologia da MPP Solutions
+### Negócios 2.0 - Marcello Povoa, Dir. de Marketing da MPP Solutions e José Luiz Martins, Dir. de Tecnologia da MPP Solutions
 
 Uma daquelas palestras com apresentação de cases, portfólio, etc. Acho que não sou eu somente que acho isso massante. Muito texto, muita fala, muito PowerPoint e pouca interação com o público. Isso às vezes me dá sono.
 
@@ -60,25 +60,25 @@ Falaram o que é web 2.0 para um público que já sabe de cor e salteado o que �
 
 Os trabalhos apresentados foram de alta qualidade, com certeza, mas acho que faltou um diferencial na apresentação e acredito que os dois palestrantes poderiam ter interagido mais entre si, para falar sobre os trabalhos. Ficou uma coisa muito dividida, o que eu não acho muito legal.
 
-#### Convergência de mídias e o novo consumidor - Sergio Mugnaini, Diretor de Criação da Almap BBDO
+### Convergência de mídias e o novo consumidor - Sergio Mugnaini, Diretor de Criação da Almap BBDO
 
 Mais uma apresentação de cases e portfólios. Achei bem melhor que a anteior, no modo como os cases foram apresentados, etc. Também fica mais fácil, porque peças publicitárias chamam mais atenção e não dão sono :D
 
 Belíssimos trabalhos e idéias apresentadas, conhecidas por muitas pessoas, tanto na Internet quanto na TV. Comentou sobre as tecnologias utilizadas, pessoas envolvidas, equipe, planejamento, entre outras coisas, tornando a palestra interessante.
 
-#### Resumindo...
+### Resumindo...
 
 Das três palestras, a que mais gostei foi a primeira, da gravação do BrainCast. Foi a que mais interagiu com o público, palestrada por Blogueiros que conhecem do assunto, que sabem falar.
 
 E também não posso deixar de falar do grande destaque do evento que foi o Luli, que mais uma vez deu um show no palco. Não foi nem necessário ter uma palestra só dele, acho que não foi necessário, já que ele participou de todas e com louvor. Hilário, dinâmico, inteligente, com boas perguntas, presença no palco, improviso, etc. O Luli é sempre um show à parte, seja lá qual for o evento.
 
-### Pós-Evento
+## Pós-Evento
 
 Como não poderia deixar de ser, ocorreu uma “bebedeira” pós-evento. O twitter serviu pra isso também, além do “bate-papo” nas palestras, serviu para marcarmos uns chopps pra depois do evento.
 
 Partiu a galera Blogueira quase toda, boa parte dela, só fera, só a máfia blogueira :D Ficamos umas 2h e pouco bebendo, batendo papo, eu pelo menos tentava, pq eu tava totalmente sem voz, sem conseguir falar, tentando me comunicar na linguagem dos sinais :D e nego tudo me zoando... Tem problema não, tem volta :D . O maneiro é que depois o [Luli](http://dwd3.blogspot.com) apareceu por lá também, na nossa bebedeira e virou o centro das atenções, contando histórias, falando do evento, etc.
 
-### Quem mais falou sobre o Intercon Bruno?
+## Quem mais falou sobre o Intercon Bruno?
 
 Segue ae abaixo uma listagem da galera que falou sobre o evento. A lista é grande e eu não ligo de ficar linkando geral não, apesar de nem sempre isso ocorrer em alguns blogs:
 
@@ -116,7 +116,7 @@ Segue ae abaixo uma listagem da galera que falou sobre o evento. A lista é gran
 - [Imasters Intercon 2007](http://alexandreformagio.com.br/postagem.asp?cod=15)
 - [Eu crio Blog » Intercon 2007 - 2º Dia](http://blog.eucrio.com/2007/10/27/intercon-2007-2%c2%ba-dia/)
 
-### Finalizando...
+## Finalizando...
 
 Finalizando, digo que o Intercon desse ano foi muito superior ao do ano passado. O do ano passado, algumas palestras deixaram a desejar, mas gostei um bocado do evento, tirando o almoço :P .
 

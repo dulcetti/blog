@@ -8,23 +8,23 @@ title: 'BlogCamp RJ - Oficinas e novidades'
 
 Bom, seguindo o [post sobre o BlogCamp RJ](/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber), venho aqui avisar que estarei publicando durante a semana, uma série de posts sobre o que rolará no evento e dicas de onde se hospedar, se alimentar, entre outras informações.
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/uploads/marca-blogcamp-rj.jpg)
 
 O modafoca aqui faz de tudo para pensar em vocês. Não sou tão ruim assim não é verdade?
 
-### Dulcetti é meu herói
+## Dulcetti é meu herói
 
 Menos por favor... Menos...
 
 Mas então, vou começar falando sobre as oficinas, que acabei não falando no post sobre o BlogCamp RJ.
 
-#### Mas que oficinas Dulça?
+### Mas que oficinas Dulça?
 
 Quando a galera se cadastrou pro evento, eu perguntava se ela se disponibilizaria para fazer uma oficina e que tema teria essa oficina.
 
 Teremos uma sala de aula somente para as oficinas, onde os interessados vão para aprender, discutir, opinar, sobre o tema escolhido e falado pelo modafoca.
 
-#### Que legal tio Dulcetti. E o que teremos?
+### Que legal tio Dulcetti. E o que teremos?
 
 Bom, como foram muitos temas sugeridos, tive que filtrar. Mas mesmo com o filtro, ainda temos mais que a capacidade que teremos disposta.
 
@@ -32,7 +32,7 @@ Fiz um cronograma de horário, com ajuda da minha nobre [joaninha](http://www.la
 
 No total eu separei 14 temas para serem votados.
 
-#### Votação é? Mais uma?
+### Votação é? Mais uma?
 
 Sim, mais uma votação. Você que vai escolher quem vai falar. Por enquanto, as seis primeiras oficinas serão as escolhidas, mas caso eu consiga mais uma sala, as outras seis seguidas também terão suas chances.
 
@@ -60,6 +60,6 @@ Seguem os temas:
 
 E para votar, utilize o [formulário que criei no Spread Sheets](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMWeufd3ITd-PQ)
 
-### Finalizando...
+## Finalizando...
 
 Qualquer dúvida, deixe nos comentários. Bjo na alcatra.

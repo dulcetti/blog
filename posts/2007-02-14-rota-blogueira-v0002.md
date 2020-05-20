@@ -8,9 +8,9 @@ title: 'Rota Blogueira v.0002'
 
 Dando continuidade à categoria Rota Blogueira, estou publicando mais alguns links que achei interessante postar aqui e compartilhar com vocês.
 
-### Onde encontro logotipos prontos?
+## Onde encontro logotipos prontos?
 
-#### Autor: Mauro Amaral
+### Autor: Mauro Amaral
 
 Ótimo post do Mauro sobre [ID Visual](http://pt.wikipedia.org/wiki/Identidade_visual) e sua desvalorização quanto a aquisição de uma.
 
@@ -18,21 +18,21 @@ Cita algumas boas Bibliografias, fala bem sobre a visão do designer, mostra exe
 
 Vale o clique. Parabéns Mauro.
 
-#### Link:
+### Link:
 
 [http://www.carreirasolo.org/archives/onde_encontro_logoti.html](http://www.carreirasolo.org/archives/onde_encontro_logoti.html)
 
 ---
 
-### Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD)
+## Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD)
 
-#### Autor: André Valongueiro
+### Autor: André Valongueiro
 
 Mal assinei o Feeds do André e já achei um Post para colocar na Rota Blogueira. Garoto bom esse hein :D.
 
 Bela sequência de Posts sobre o aumento de Produtividade via GTD. Eu já tinha ouvido falar sobre isso, mas nunca tinha lido, buscado algo sobre e achei bem legal a abordagem e como é, realmente, importante seguir esta metodologia.
 
-#### Links:
+### Links:
 
 - [Um depoimento sobre os ganhos de produtividade que alcancei com o Getting Things Done(GTD), de David Allen - Parte 1](http://www.valongueiro.blog.br/index.php/um-depoimento-sobre-os-ganhos-de-produtividade-que-alcancei-com-o-getting-things-donegtd-de-david-allen-parte-1/)
 - [Meu depoimento sobre os ganhos de produtividade alcançados com o Getting Things Done(GTD) - Parte 2: Sobre listas de contextos](http://www.valongueiro.blog.br/index.php/getting-things-dones-gtd-listas-de-contextos/)
@@ -40,9 +40,9 @@ Bela sequência de Posts sobre o aumento de Produtividade via GTD. Eu já tinha 
 
 ---
 
-### Monte sua iDupla e fique (quase) bilionário
+## Monte sua iDupla e fique (quase) bilionário
 
-#### Autor: Bruno Alves Guilherme Nascimento Valadares
+### Autor: Bruno Alves Guilherme Nascimento Valadares
 
 Texto bem interessante do Bruno Guilhermefalando sobre formação de duplas, que antigamente era coisa de Nerd. Nomeando como "iDuplas" essa ação (Gostei do nome xará :D).
 
@@ -50,15 +50,15 @@ Falando "como a banda toca" nas iDuplas com relação a divisão dos lucros, ent
 
 Vale a lida ;)
 
-#### Link:
+### Link:
 
 [Monte sua iDupla e fique (quase) bilionário](http://www.brpoint.net/arquivo/sites/monte-sua-idupla-e-fique-quase-bilionario.html)
 
 ---
 
-### Darwin explica?
+## Darwin explica?
 
-#### Autor: Reverendo :D Ibrahim Cesar
+### Autor: Reverendo :D Ibrahim Cesar
 
 Post bem no estilo do reverendo sobre o Dia de Darwin. Belas citações, pontos interessantes abordados e que algumas pessoas não gostam e se revoltam, mas que eu gosto bastante.
 
@@ -66,15 +66,15 @@ O post possui 3 questões que, supostamente, os darwinistas não conseguem respo
 
 Boa reverendo ;)
 
-#### Links:
+### Links:
 
 [Darwin explica?](http://1001gatos.org/darwin-explica/)
 
 ---
 
-### Globo Ciência passa as 6 da manha e BBB no horário nobre
+## Globo Ciência passa as 6 da manha e BBB no horário nobre
 
-#### Autor: Rafael Slonik
+### Autor: Rafael Slonik
 
 Belo texto mostrando que a TV (Globo no exemplo) também possui programas decentes e de conteúdo rico (culturalmente e de informação). Mostrando que esses programas são mostrados em horários praticamente impossíveis pra assistir (pelo menos pra mim :P), como o Globo Ciência que passa às 6, 7 da manhã, entre outros exemplos.
 
@@ -82,13 +82,13 @@ Bela citação quando fala que isso é culpa dos telespectadores e não da TV. A
 
 Parabéns Rafael, mandou muito.
 
-#### Link:
+### Link:
 
 [Globo Ciência passa as 6 da manha e BBB no horário nobre](http://novo-mundo.org/log/2007/02/11/globo-ciencia-passa-as-6-da-manha-e-bbb-no-horario-nobre/)
 
 ---
 
-### Finalizando...
+## Finalizando...
 
 Finalizo mais uma vez a Rota Blogueira por aqui. Espero que os textos sejam de utilidade para todos. ;)
 

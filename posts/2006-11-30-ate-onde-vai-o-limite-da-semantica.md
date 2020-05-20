@@ -8,45 +8,45 @@ title: 'Até onde vai o limite da Semântica?'
 
 E ae pessoal. Tempo que não posto sobre web standards, css e afins, que são os temas principais desse Blog. Muitos trabalhos, pouco tempo, meio "sem saco" para escrever (blogueiros são humanos também sabiam?) :P
 
-### Tá blz Bruno, mas isso todos dizem. Vá direto ao ponto...
+## Tá blz Bruno, mas isso todos dizem. Vá direto ao ponto...
 
 Ok, ok... Não estou aqui para falar de trabalho, dar desculpas sobre minha falta de tempo e "saco" sobre postagens no blog, etc. Estou aqui para falar de um assunto que tenho certeza que já passou na cabeça de praticamente todos os desenvolvedores web, que trabalham com webstandards.
 
-### Semântica... A velha e temida semântica...
+## Semântica... A velha e temida semântica...
 
 Não falarei sobre semântica web, citarei alguns exemplos para vocês entenderem e depois os casos reais para que vocês entendam porque estou escrevendo este post ok?
 
-#### Beleza então Bruno cite os exemplos.
+### Beleza então Bruno cite os exemplos.
 
 Todos sabemos que as tags `<hn>` são as tags de título (onde **n** é o número que varia de 1 a 6), sabemos também que a tag `<a>` é para links, `<p>` serve para parágrafos, etc, etc, etc.
 
 Sabemos que temos tags que são display block e display inline correto? Não sabemos? Okay, explicarei um bocado sobre:
 
-#### Display Block
+### Display Block
 
 Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes e depois dele próprio. Seria como se tivesse um `<br />` antes e depois da tag. Podem conter tanto elementos inlines quanto blocks dentro dele.
 
-##### Alguns Exemplos:
+#### Alguns Exemplos:
 
 - `<p>`
 - `<h1>`
 - `<div>`
 
-#### Display Inline
+### Display Inline
 
 Ao contrário do block, os elementos inlines não quebram linha. Podem conter outros elementos inlines dentro dele próprio, mas não é permitida a inserção de elementos do tipo block dentro deles.
 
-##### Alguns Exemplos:
+#### Alguns Exemplos:
 
 - `<a>`
 - `<strong>`
 - `<em>`
 
-### Resumindo...
+## Resumindo...
 
 Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar elementos inlines e blocks:
 
-#### Modo correto
+### Modo correto
 
 ```html
 <p>
@@ -54,7 +54,7 @@ Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar 
 </p>
 ```
 
-##### Resultado
+#### Resultado
 
 Aqui vem o [meu link com _Itálico_](#)
 
@@ -64,7 +64,7 @@ Neste exemplo podemos ver que temos o parágrafo, que é block, e dentro dele te
 
 Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo certinho.
 
-#### Modo incorreto
+### Modo incorreto
 
 ```html
 <a href="#">
@@ -73,21 +73,21 @@ Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo ce
 </a>
 ```
 
-##### Resultado
+#### Resultado
 
 Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei uma página só pra esse exemplo](/artigos/limite_semantica/exemplo_errado.html).
 
-### Agora iremos ao ponto chave desse post.
+## Agora iremos ao ponto chave desse post.
 
 Vimos que esse segundo exemplo está errado, pois o link, que é um elemento inline, contém elementos blocks (h1 e p). Percebam que MESMO declarando no css o display: block pra link, ele, por padrão na W3C, é inline, portanto é descartado o CSS, ou seja, não é validado pela W3C.
 
-#### Beleza Bruno, mas o que podemos fazer?
+### Beleza Bruno, mas o que podemos fazer?
 
 Temos uma opção, que seria englobar o h1 e o p dentro de uma div e coloca um link dentro do h1 e outro, com o mesmo href, dentro do p. [Veremos neste exemplo](/artigos/limite_semantica/exemplo_certo_separado.html).
 
 Agora sim, ele ficou validado pela W3C, porém, podemos ver dois pontos, o primeiro é que o link não ficou englobado totalmente na div, somente quando passa em cima do texto e a o segundo ponto é que temos que colocar o link duas vezes, com o mesmo endereço e isso pode aumentar de acordo com os elementos dentro dessa div.
 
-#### Verdade Bruno... Mas não tem nenhuma opção de conseguirmos validando na W3C?
+### Verdade Bruno... Mas não tem nenhuma opção de conseguirmos validando na W3C?
 
 Até temos uma opção, [que criei aqui agora](/artigos/limite_semantica/exemplo_certo_gambiarra.html), mas seria bem do tipo [POG](http://desciclo.pedia.ws/wiki/POG).
 
@@ -138,11 +138,11 @@ O link recebe um display block, com isso, vira um bloco. Mas lembram que ele est
 
 Não se assustem com os 1000px para a largura e a altura do link, pois como a div está com overflow hidden, o link só aparecerá dentro do tamanho disposto na div ;). Na verdade um 100% na altura e largura já funciona, mas no ie 6 não funcionou, aconteceu algum bug, ficando só pela metade, vai entender né... ;)
 
-##### Legal Bruno, mas o título e o parágrafo desceriam...
+#### Legal Bruno, mas o título e o parágrafo desceriam...
 
 Sim, mas como temos o position absolute, isso não acontece mais. Ele fica grudado na div e o conteúdo que vem depois dele, fica aparecendo também, o link fica por cima deles.
 
-##### Só isso? Mas tem mais código lá ué!
+#### Só isso? Mas tem mais código lá ué!
 
 Sim, eu sei. Na verdade, nosso problema teria sido resolvido, mas não podemos esquecer, temos que nos preocupar com o ie. Somente com aquele código, no ie 6 fica ruim, não funcionando totalmente, com o link somente em algumas partes da div.
 
@@ -160,19 +160,19 @@ Nesse caso, alpha modifica a opacidade do elemento, que nesse caso é o nosso li
 
 Mas só resolvemos o problema do ie, conseguimos deixar o link transparente no ie, falta no Firefox também. Mas precisamos só de mais uma propriedade, a opacity, que recebendo 0 (zero), fica totalmente transparente.
 
-##### Ufa. Que saco hein Bruno
+#### Ufa. Que saco hein Bruno
 
 Nem me fale isso. É um saco isso tudo, mas conseguimos chegar no [resultado final](/artigos/limite_semantica/exemplo_certo_gambiarra.html).
 
 Lembrando que, esse macete não funciona no Opera. Não tenho Opera aqui instalado, por isso não posso confirmar, mas tenho quase certeza que não funciona, ou seja, não é muito legal utilizá-lo :D.
 
-### Voltaaaaaaaaaando ao foco do Post...
+## Voltaaaaaaaaaando ao foco do Post...
 
 Acabei escrevendo até um pequeno tutorial, mas tudo bem né :D. Acabei saindo do foco do assunto do post.
 
 Mas voltando ao assunto dele, chegamos no ponto crucial. Vimos aqui que temos soluções para esse probleminha mostrado por mim aqui, mas vimos que é meio chato fazer e não muito funcional, pois como eu disse, não é certo de funcionar no Opera.
 
-#### Vale a pena focar a semântica SEMPRE? Ou melhor, vale a pena focar a Validação na W3C?
+### Vale a pena focar a semântica SEMPRE? Ou melhor, vale a pena focar a Validação na W3C?
 
 Esse é o ponto principal do Post. Em relação a semântica, temos dois lados:
 
@@ -187,7 +187,7 @@ Na segunda, temos o link englobando tudo e um strong sendo o título e um span s
 
 Já vi posts sobre isso, como o do [Henrique do Revolução etc](http://www.revolucao.etc.br/archives/validacao-e-semantica/), tem outro do [Tableless](http://www.tableless.com.br/) chamado [Validar é importante?!](http://www.tableless.com.br/validar-e-importante), etc.
 
-#### Eu acho importante validar na W3C Bruno. Por que você não acha?
+### Eu acho importante validar na W3C Bruno. Por que você não acha?
 
 Não ponha palavras na minha boca (ou seria letras nas minhas teclas?), eu só estou dizendo que existem casos e casos. Você pode muito bem ter um site que ao invés de usar h2, utiliza um `<p class="titulo">`, existe o caso de você esquecer de fechar uma tag, etc, etc, etc.
 
@@ -199,11 +199,11 @@ Eu acho que, neste caso, possa dar uma "esquecida" na W3C e colocarmos o link, n
 
 Mas, isso varia de pessoas e pessoas e eu estou aqui para saber a opinião de cada um que lê este blog, para ver se eu estou viajando, se só eu que penso assim, ou tem desenvolvedores que pensam assim, mas nem sempre agem assim por causa dos seus trabalhos ;).
 
-### Resumindo
+## Resumindo
 
 Na verdade, o que eu acho é que a W3C deveria criar uma nova tag, chamada `<ablock>`, que seria um link também, mas como um bloco, com isso, não precisaríamos nos preocupar com isso não é verdade? Ou melhor, fazer com que consultasse o CSS e visse "se o `<a>` é um bloco, então valido, senão não valido", o que seria melhor ainda, pois não seria necessário a espera de novas versões dos browsers, que por parte do FF, Opera seria tranquilo, mas o ie... aff...
 
-### Finalizando...
+## Finalizando...
 
 E você? O que acha disso? Acha certo "pular a cerca" da validação da W3C nesse caso? Ou você faz parte do grupo "Validação acima de tudo"?
 

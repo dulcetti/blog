@@ -8,11 +8,11 @@ title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvim
 
 E ae pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar sobre o Imasters Intercon, mas estou aqui ;)
 
-### Sobre o Evento
+## Sobre o Evento
 
 O Imasters Intercon é um evento que é organizado pelo portal Imasters, um dos maiores, se não for o maior da internet no Brasil.
 
-#### Onde que rolou?
+### Onde que rolou?
 
 O evento aconteceu na cidade de São Paulo, no Hotel Jaraguá.
 
@@ -22,7 +22,7 @@ Foi bom ter reencontrado figuras como o Fabio Lody que é o Colunista mais lido 
 
 Depois falarei mais sobre o pessoal que conheci, as zueras que rolaram por lá e postarei fotos do evento tambpem, aguardem ;)
 
-### O Evento em si
+## O Evento em si
 
 O evento contou com a participação de pessoas de 16 estados do Brasil. Muito legal isso, bastante gente, de quase todos os lugares do Brasil. Parabéns ae pessoal do iMasters.
 
@@ -30,9 +30,9 @@ Não vou ficar falando sobre o evento, o que é, entre outras coisas. Vou falar 
 
 Nessa primeira levada, comentarei sobre a sala de Programação e Tecnologia, que foi a que assisti no Evento. Amanhã eu falarei sobre a sala de Design e Desenvolvimento, que o [Daniel de Paola](http://www.danieldepaola.com/) participou e me enviou um pequeno conteúdo sobre cada palestra. Valew ae Paola.
 
-### Primeira Palestra - Tema: As melhores práticas de desenvolvimento - A web para quem faz web
+## Primeira Palestra - Tema: As melhores práticas de desenvolvimento - A web para quem faz web
 
-#### Palestrante: Paulino Michelazzo - Professor e Consultor
+### Palestrante: Paulino Michelazzo - Professor e Consultor
 
 A palestra, no início, foi um pouco massante, porém engraçada, levada de uma maneira diferenciada e que quebrava um pouco o cansaço normal de palestras muito faladas. Gostei da citação de alguns termos e exemplos de erros equivocados de alguns desenvolvedores, etc.
 
@@ -46,15 +46,15 @@ Gostei de seus comentários sobre Layouts líquidos, mas o achei um pouco xiita 
 
 Muito engraçado na citação, dizendo que a maioria dos designer com quem ele já trabalhou, fumavam maconha sempre que iam trabalhar, para poder criar mais, viajar mais para criar coisas mais marcantes, falando que sempre fazem isso, etc... Exagerou um pouco, mas foi engraçado o modo como foi dito :D
 
-##### Resumindo
+#### Resumindo
 
 Boa palestra. Um pouco cansativa às vezes, mas no geral, gostei.
 
 [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Paulino_Michelazzo.zip).
 
-### Segunda Palestra - Tema: Como garantir a qualidade das aplicações no mundo competitivo de TI
+## Segunda Palestra - Tema: Como garantir a qualidade das aplicações no mundo competitivo de TI
 
-#### Palestrante: Vivian Menezes de Oliveira - Gerente de Testes e Qualidade da VIVO
+### Palestrante: Vivian Menezes de Oliveira - Gerente de Testes e Qualidade da VIVO
 
 Muito segura e firme em suas palavras. Ótima palestrante, soube passar muito bem o conteúdo de sua palestra para o público, mostrando um pouco sobre a importância e resultados quando um projeot possui uma equipe e uma metodologia de Teste.
 
@@ -68,15 +68,15 @@ Mostrou um pequeno gráfico, inicial, sobre como é feita a Metodologia de Teste
 
 Bela citação sobre como garantir qualidade no mercado atual, mostrando que pessoas devem se interagir, qualquer que seja o local, independente de certificações, etc.
 
-##### Resumindo
+#### Resumindo
 
 Ótima palestra. Somente um pouco massante em alguns momentos. E também aposto que poucas pessoas sabiam do que ela estava falando, pois metodologias, casos de testes, geralmente, são implementados em grandes projetos.
 
 [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Vivian_Menezes.zip).
 
-### Terceira Palestra - Tema: As melhores práticas em projetos de banco de dados para obter desempenho nas aplicações
+## Terceira Palestra - Tema: As melhores práticas em projetos de banco de dados para obter desempenho nas aplicações
 
-#### Palestrante: Salvio Padlipskas - Professor
+### Palestrante: Salvio Padlipskas - Professor
 
 Citou parte de documentação do software, sua importância e, geralmente, sua falta de implementação em projetos.
 
@@ -92,37 +92,37 @@ Mandou bem também também quando falou sobre a parte de consultas mal elaborada
 SELECT * FROM tabela01, tabela02 WHERE...
 ```
 
-##### Dados históricos vs. transacionais
+#### Dados históricos vs. transacionais
 
 Ele explicou um bocado sobre esta técnica, que inclui sinônimos em Banco de Dados, que eu desconhecia, que não necessita de uma linha de código sequer.
 
 Bela abordagem sobre temas para não dar futuros gargalos utilizando tabelas resumo, abolindo funções como SUM, entre outras coisas.
 
-##### Bola Fora
+#### Bola Fora
 
 Tive que contrariar uma afirmação dita por ele: "Três segundos é três segundos"
 
 Preciso explicar o porquê da minha contradição? Creio que não. ;) Relaxa, sou meio chato nisso... uahuahuhauhuaua...
 
-##### Resumindo
+#### Resumindo
 
 Muito boa palestra. Deu pra captar bastante coisa, principalmente pra quem não manja muito de Banco de Dados (é meu caso :D).
 
 Gostei bastante do seu jeito um pouco humorístico de levar a palestra, brincou um pouco, divertiu o pessoal dentro do possível, não tornando a palestra tão cansativa. [Baixe o conteúdo da palestra agora](http://www.imasters.com.br/intercon/2006/cobertura/arquivos_palestras/Salvio_Padlipskas.zip).
 
-### Vou ficando por aqui.
+## Vou ficando por aqui.
 
-#### aaaaaaaaaaaaaaaahhhhhhhhhhhhhh...
+### aaaaaaaaaaaaaaaahhhhhhhhhhhhhh...
 
 Daqui a pouco este post vai ficar meio grande e cansativo. Depois falarei mais sobre o evento, a segunda parte do próprio, etc.
 
-### Finalizando
+## Finalizando
 
 Queria agradecer a galera do [MMUG-RJ](http://www.mmug-rj.com.br) que compareceu ao evento. O cambada, mesmo que o evento, para alguns, não tenha sido lá essas coisas, valew pela zuera né? :D
 
 Aquele abraço galera e pra quem quiser ver fotos, pegar o restante das palestras, é só [visitar o site do Intercon](http://www.imasters.com.br/intercon/2006/cobertura/). Valewwwwww
 
-### Galera que comentou sobre o Intercon 2006
+## Galera que comentou sobre o Intercon 2006
 
 Segue uma listinha de algumas pessoas que ccomentaram sobre o evento:
 

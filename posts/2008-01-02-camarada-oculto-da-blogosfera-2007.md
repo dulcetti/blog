@@ -10,13 +10,13 @@ Sim, estamos em 2008 e o Amigo Oculto é de 2007. Um pequeno atraso, mas o meu x
 
 Mas eu sei que vocês vão me perdoar, eu fui um cara bonzinho no ano que se passou e tudo mais certo?
 
-### Blz Bruno, mas diz logo quem você tirou então pq tah todo mundo esperando.
+## Blz Bruno, mas diz logo quem você tirou então pq tah todo mundo esperando.
 
 Antes disso, falarei do [camarada que me tirou](http://www.visaopanoramica.com/2007/12/20/amigo-secreto-da-blogosfera/), que foi o Arthurius Maximus Risorius Magnifiuns (Foi mal a brincadeira, não resisti :D), do blog [Visão Panorâmica](http://www.visaopanoramica.com/).
 
 Ele disse que eu sou um cara pra cima e completamente louco. Pq será? Aff... Brigadão meu nobre, valew pelos elogios, pelo post. Grande abraço pra tuh meu nobre.
 
-### Voltando aos finalmentes...
+## Voltando aos finalmentes...
 
 E como aconteceu no [camarada oculto do ano passado](/amigo-secreto-oculto-da-blogosfera), tirei uma pessoa que eu não conheço, pelo menos por enquanto.
 
@@ -28,7 +28,7 @@ Fora também o post do Mano Menezes assumindo o Corinthians e suas regalias, sal
 
 Não consegui ver, saber muito da pessoa, mas pelo jeito de escrever e falando com ironia, sendo engraçado, já basta pra mim, acho isso essencial para não ficar um texto chato e cansativo.
 
-### Patadas Finais e considerações...
+## Patadas Finais e considerações...
 
 Sobre o design, não gostei muito, meio simples demais, mas tah valendo.
 
@@ -36,7 +36,7 @@ Sobre o Amigo Secreto desse ano, achei um pouco desorganizado, preferi o que rol
 
 Fora que eu preferi como foi o do ano passado, que o amigo só era informado gradativamente, de acordo com o sorteio e não como foi feito esse ano, que geral saiu postando. Mas tah valendo a experiência :P
 
-### E quem participou dessa Dulcetti?
+## E quem participou dessa Dulcetti?
 
 Um total de 33 nomes. Segue abaixo a listagem da galera, com seus respectivos posts e amigos. Sempre rola essa camaradagem do Dulcetti né? Vocês adoram :P
 
@@ -74,7 +74,7 @@ Um total de 33 nomes. Segue abaixo a listagem da galera, com seus respectivos po
 32. Newton Wagner : [http://www.owshit.com.br](http://www.owshit.com.br)
 33. Fagner Souza : [http://www.cavanhascavanhas.com](http://www.cavanhascavanhas.com)
 
-### Finalizando...
+## Finalizando...
 
 Queria deixar akele abraço pra galera toda que conheci esse ano, meus leitores, meus não leitores, meus amigos, meus inimigos (acho que nem tenho isso :P), à todos mesmo.
 

@@ -14,7 +14,7 @@ Com CSS ou sem CSS, conseguimos entender o q q tem nesse site, o que não aconte
 
 Isso vai durar até amanhã, 12:00, depois volta o design ao normal... Quer encarar? Faça o mesmo.
 
-#### Quem já fez:
+### Quem já fez:
 
 - [Rodrigo Muniz](http://rodrigomuniz.com/blog/css-naked-day/)
 - [Ivo Gomes](http://www.ivogomes.com/blog/css-naked-day/)

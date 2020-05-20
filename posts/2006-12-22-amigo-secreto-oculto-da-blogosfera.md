@@ -8,7 +8,7 @@ title: 'Amigo Secreto (Oculto?) da Blogosfera...'
 
 Falae pessoal... Bom, o título é um pouco diferente, porque estou acostumado com amigo oculto ao invés de secreto como o Yahoo, entre outros sites e cidades chamam. :D
 
-### Convenhamos Bruno, isso não vem ao caso né...
+## Convenhamos Bruno, isso não vem ao caso né...
 
 Okay, okay, não precisa ficar bravo :P
 
@@ -18,7 +18,7 @@ Dentro da Blogosfera, criamos um Amigo Secreto com alguns dos integrantes da lis
 
 Esse Amigo Secreto possui 26 integrantes, pelo menos é o que parece nos números dentro do grupo confirmado :D. Depois vou postar o link de todos os que já postaram e conforme o pessoal for postando, vou colocar um trackback para cada post do Amigo Secreto. Quem quiser fazer o mesmo, fiquem à vontade ;)
 
-### Falou demais Bruno. Fala logo quem é ae.
+## Falou demais Bruno. Fala logo quem é ae.
 
 Bom, meu Amigo Secreto é o **Thiago Montini**, com o seu blog [Impermanentes.com.br](http://www.impermanentes.com.br 'Visitar o Impermanentes.com.br'). Confesso que de primeira pensei comigo "Caramba, não o conheço não, e agora?". Alguns dos Blogueiros postaram isso também, é até meio engraçado, ficamos meio sem graça, mas como o [Janio](http://sarmento.org/janio/amigo-secreto-da-blogosfera/ 'Visitar o Blog do Janio') disse, pode ser enriquecedor ou decepcionante. Mas na verdade acho sempre enriquecedor, por mais que você se decepcione com algum blog ou pessoa, pelo menos você descobriu isso não é verdade? Isso enriquece... ;)
 
@@ -28,7 +28,7 @@ Além do Thiago, [outros Blogueiros postam no Impermanentes](http://impermanente
 
 Parabéns ao Thiago e ao [Impermanentes.com.br](http://www.impermanentes.com.br) ;)
 
-### Finalizando
+## Finalizando
 
 Queria parabenizar a galera da Blogosfera, que é uma lista bem movimentada e rica, cheia de informações, comentários enriquecedores, etc. Fico impressionado a cada dia. Não sou tão ativo na lista, não sou pro-blogger e meu Blog tem um tema mais específico pra Web Standards, só às vezes que comento sobre outras coisas...
 
@@ -38,7 +38,7 @@ E logicamente, queria agradecer o post do **Felipe Marinho** do [Blog de Cú é 
 
 Tá na vez agora do Thiago... Vai lá maluuuuco... Aquele abraço...
 
-### Listagem da Galera que já saiu:
+## Listagem da Galera que já saiu:
 
 1. [Rafael Slonik](http://novo-mundo.org/log/2006/12/13/amigo-secreto-o-gerente/)
 2. [O Gerente](http://ogerente.com/congestionado/2006/12/14/amigo-secreto-rev-ibrahim-cesar/)

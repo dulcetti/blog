@@ -8,17 +8,17 @@ title: 'Portal Globo.com lança sua nova home'
 
 É com grande prazer que venho informar à vocês, que está no ar a [Nova Home da Globo.com](http://www.globo.com/).
 
-![Imagem da Nova Home da Globo.com](/assets/images/posts/0_11431586_00.jpg)
+![Imagem da Nova Home da Globo.com](/uploads/0_11431586_00.jpg)
 
 Totalmente mais leve, pensando no usuário, sem imagens desnecessárias. Agora grande parte, as mais importantes, são feitas com texto.
 
-### Mais espaço.
+## Mais espaço.
 
 Agora a home está com o espaço relativo à resolução 1024x768px, tendo mais espaço para o conteúdo, espaço para a "informação respirar".
 
 Tudo isso foi pesquisado, com testes de usabilidade com usuários, entrevistas, entre outras coisas. Eu pude acompanhar alguns testes de usabilidade, é uma experiência bem interessante. Sempre que puder veja um, vale a pena.
 
-### Novidades
+## Novidades
 
 Fora que o plantão de notícias ganha mais destaque na home, fora o espaço para as promoções, etc. O usuário também terá acesso direto à algumas rádios online da Globo, horóscopo, cotações do dólar, programação da TV Globo, entre outras coisas.
 
@@ -26,7 +26,7 @@ Presente também, a nuvem de tags, com as palavras mais buscadas no Portal, com 
 
 Ganham destaque também outras ferramentas e aplicativos, como blogs de colunistas, o fotolog 8P e o Globo Vídeo Chat, além do ranking dos programas mais acessados no site Baixatudo.
 
-### Arquitetura e Organização Visual
+## Arquitetura e Organização Visual
 
 A organização das informações continuam em evidência, com as informações de notícias em vermelho, entretenimento em laranja e esportes em verde, ficando claro e fácil o entendimento e identificação de cada tipo de informação.
 
@@ -36,13 +36,13 @@ Agora está mais fácil de identificar o que é link e o que é texto. Praticame
 
 Um destaque também para a barra superior, o famoso Topo :D. Houve uma mudança bem radical nessa área do site, que é uma das principais, pois é onde o usuário põe o olho de primeira. Em cada área específica do site, a opção ficará realçada, com uma cor mais clara e com uma altura maior, mostrando ao usuário em qual seção, onde ele está.
 
-### Acessibilidade
+## Acessibilidade
 
 Boa parte do projeto foi pensado na acessilibidade. Testamos tudo sem suporte à imagens, sem CSS habilitado, javascript desabilitado, etc. Tudo para que o site fique mais acessível, não só para pessoas com deficiência, mais para dispositivos móveis também.
 
 Em breve, haverá melhorias na parte do CSS de impressão, que ainda não está 100%.
 
-### Participação
+## Participação
 
 Implementei boa parte do HTML, somente a página de Todos os sites e alguns boxes da home que acabei não participando por ter torcido o tornozelo e ficando uma semana fora do trabalho, com isso, outro rapaz, meu camarada Kenji, acabou pegando essa parte.
 
@@ -52,7 +52,7 @@ Foi criado um documento de Boas Práticas de Implementação, tanto de CSS, HTML
 
 Fiquei bem feliz quando soube que seria o responsável na implementação e estruturação da Nova Home.
 
-### Finalizando
+## Finalizando
 
 Alguns não gostaram de cara, está mais "pobre" visualmente falando, mas não acho tanta coisa. Hoje em dia o design não é tão levado em conta. Hoje, a informação, o conteúdo, estruturação, estão em alta, fora a leveza, rapidez no carregamento, entre outras coisas.
 

@@ -16,7 +16,7 @@ Muitos falam do erro da Globo.com usar Media Player ao invés de utilizar o Flas
 
 Por ser Meda Player, não é possível embedar os Vídeos da Globo.com, atualmente, [como o Michel citou](http://www.viuisso.com.br/2007/11/12/globocom-videos-andou-pra-frente/), mas creio que futuramente isso será resolvido.
 
-### Finalizando..
+## Finalizando..
 
 Bom, é isso... Comentem, opinem, falem bem, falem mal. Estou aqui para ler :D.
 

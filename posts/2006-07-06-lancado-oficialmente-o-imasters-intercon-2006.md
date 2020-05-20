@@ -10,11 +10,11 @@ Falae pessoal.
 
 Ontem recebi a notícia através de um dos responsáveis pelo [iMasters](http://www.imasters.com.br/), que está oficialmente lançado o [iMasters Intercon 2006](http://www.imasters.com.br/intercon/2006/).
 
-#### O Evento
+### O Evento
 
 O Intercon é um evento de tecnologia web, que este ano terá 2 salões, como ano passado, mas abordará uma gama maior de temas: "Criação e Desenvolvimento" e "Programação e Tecnologia". Terá 12 palestrantes, 6 para cada salão.
 
-#### Diferenciais
+### Diferenciais
 
 Uma novidade, é a do curso de Flash que será dado no Próprio evento. Veja um pouco sobre o curso:
 
@@ -26,11 +26,11 @@ Uma mudança, que na minha opinião não achei tão legal, foi que agora você f
 
 Um outro diferencial, é q agora temos almoço incluído no preço. Acho isso ótimo, pois no ano passado tivemos que caçar um lugar para comer e como não conheço São Paulo, fica meio difícil :D.
 
-#### Local
+### Local
 
 O local será o mesmo do Intercon do ano passado, o [Hotel Jaraguá Convention Center](http://www.accorhotels.com.br/guiahoteis/novotel/hotel_main.asp?cd_hotel=271), que po sinal é muito belo, moderno, gostei bastante.
 
-#### Palestrantes
+### Palestrantes
 
 O evento contará com os seguintes palestrantes:
 

@@ -8,7 +8,7 @@ title: 'BlogCamp MG | Belo Horizonte - Cobertura'
 
 Falae galera. Acabei não postando sobre o BlogCamp nessa semana. Esta versão do evento está sendo em BH, Minas Gerais, no prédio da Oi Futuro. Belo espaço, wi-fi liberada, coffee break interessate, muito bom, nota 10.
 
-### Mas e as Palestras Bruno?
+## Mas e as Palestras Bruno?
 
 Agora está começando uma desconferência sobre Blog Hits. Tipo um Brainstorm de idéias de monetização para Blogs.
 

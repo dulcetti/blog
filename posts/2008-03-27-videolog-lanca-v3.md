@@ -8,24 +8,24 @@ title: 'Videolog lança v3'
 
 Sim, agora é oficial. O Videolog, maior, melhor, o mais fodástico e modafoca de todos os portais de vídeos, lança sua mais nova versão. A terceira, vulgo v3 ;)
 
-### Uau, Dulça. Legal isso hein...
+## Uau, Dulça. Legal isso hein...
 
 Bem legal mesmo. É tão bom ver todo o esforço todo depositado num projeto desses, tão grande, tão foda, em prática, realmente pronto, visualizado, sólido. Mesmo que ainda em fase de testes, não estando 100%, ainda sim é muito bom.
 
-#### A ação utilizada para essa atualizada.
+### A ação utilizada para essa atualizada.
 
 Bom, como vocês já sabem, uma atualização, reestruturação, etc, etc, demora um pouco, principalmente no caso de um portal como o Videolog, tamanho e tudo mais.
 
 Sabemos também que ficar com um site, portal sem acesso, bloqueado, em manutenção e tudo mais, é uma porcaria, mas é inevitável. Mas nós pensamos em algo diferente, para a galera não ficar vendo somente uma tela com um "Aguarde" modafocas como vocês devem estar acostumados.
 
-![Screen da tela provisoria do Videolog V3](/assets/images/posts/tela-videolog-v3.jpg)
+![Screen da tela provisoria do Videolog V3](/uploads/tela-videolog-v3.jpg)
 Bem legal o desenho da tela, não é, modafoca?
 
 Sim, temos a tela com um aguarde, mas de uma forma bem criativa e original, como se fosse um wireframe, rascunho e tudo mais. E eu tive uma grande sacada na hora que recebi a tela. Os botões superiores, do menu mesmo, não tinham funcionalidade nenhuma. Só que o Dulça aqui resolveu colocar ações para eles. Ao clicar, o usuário recebia um alerta pra ele ter calma, que já estava ficando pronto ;) Foi ou não foi uma boa idéia?
 
 Mas não foi somente isso que pensamos para agradar nossos usuários...
 
-##### Fizeram o quê, Bruno?
+#### Fizeram o quê, Bruno?
 
 Enquanto estávamos "trabalhando" por aqui, passamos por streaming ao vivo o "andar da carruagem" por aqui no escritório. Com a presença de Yoda, Daniel, eu, Cagalho e Vinicius, aprontamos algumas poucas e boas como cantar Pearl Jam junto com as músicas. E não foi somente Pearl Jam. Cantamos Creed, SilverChair e até Fábio Jr.
 
@@ -33,19 +33,19 @@ Utilizamos uns chapéus típicos Dulcetti de ser, bem loucos. O meu verde que le
 
 Fizemos palhaçadas até dizer chega, berramos, conversamos, mandamos alôs para alguns blogueiros, etc.
 
-##### E deu certo, Dulça?
+#### E deu certo, Dulça?
 
 Se deu certo? Mas claro que deu. Bastou postar no twitter, que um monte de gente começou a entrar, todo mundo postando no twitter, chamando a galera, alguns com webcam e tudo mais.
 
 E não rolou somente o streaming, mas também um chat com todo mundo que entrasse no nosso streaming. Chegamos a receber 96 pessoas simultâneas, um número impressionante, ficando um bom tempo na capa do site de streaming que usamos.
 
-#### Quem maneiro, hein Brunão. Legal é que o pessoal vê que existem pessoas normais por aí.
+### Quem maneiro, hein Brunão. Legal é que o pessoal vê que existem pessoas normais por aí.
 
 Não exagere por favor. Não somos tão normais assim, principalmente Dulcetti aqui :P Mas pelo menos a galera vê que o Videolog e feito não só pela gente, mas por vocês também. Enquanto aprontávamos os detalhes, a galera toda aprontava também a bagunça. E isso foi legal e essencial, para nos motivar a fazer melhor ainda o trabalho. Cada gota de detalhe e qualidade, devemos a vocês, usuários do [Videolog](http://www.videolog.tv).
 
-### Você já experimentou o Videolog?
+## Você já experimentou o Videolog?
 
-![Marca do Videolog](/assets/images/posts/marca.gif)
+![Marca do Videolog](/uploads/marca.gif)
 
 Sim, você mesmo. Vai me dizer que nunca ouviu falar do Videolog? Tá falando sério? Ta mexendo com internet desde quando? Faça me o favor né.
 
@@ -63,10 +63,10 @@ Até aí blz pura, sucesso total, sem problema algum. Mas o que me revolta é fa
 
 Nenhum sistema é perfeito e sempre estaremos aprimorando-o e será com a sua ajuda, crítica, opinião, sugestão, elogios e tudo mais.
 
-### Que isso, hein Dulça... Praticamente um desabafo :P
+## Que isso, hein Dulça... Praticamente um desabafo :P
 
 Mas é mesmo, um pouco de desabafo. O que vejo de blogueiro postando no YouTube e afins, não é sacanagem não. Mas, mudaremos isso, principalmente com o lançamento do Videolog V3. E contamos com vocês.
 
-### Finalizando...
+## Finalizando...
 
 É isso pessoal. Aquele abraço e espero que gostem da nova versão do Videolog. Em breve postarei novidades sobre o portal e farei um mega tutorial de como ele foi estruturado, montado, planejado e tudo mais ok?

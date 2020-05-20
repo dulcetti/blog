@@ -14,7 +14,7 @@ Como vimos nos artigos anteriores, na [Primeira](/como-voce-escreve-seus-arquivo
 
 Mostrei vantagens e desvantagens, indentações, múltiplas formas de implementar seus estilos e espero ter ajudado, ou pelo abrir um pouco mais a cabeça da galera, principalmente com quem trabalha com projetos grandes em sua vida profissional.
 
-### Beleza Bruno. Pára de enrolar e fala logo.
+## Beleza Bruno. Pára de enrolar e fala logo.
 
 Ok, ok. São apenas dois pontos que citarei nessa terceira parte do artigo:
 
@@ -23,11 +23,11 @@ Ok, ok. São apenas dois pontos que citarei nessa terceira parte do artigo:
 
 Bom, vamos começar a falar sobre o primeiro.
 
-### Utilização de Multi-CSS's
+## Utilização de Multi-CSS's
 
 Muitas pessoas ainda possuem dúvidas sobre a utilização, se podem ou não, no que prejudica, no que ajuda, se é que ajuda, a utilização de vários arquivos CSS no seu site.
 
-#### Posso utilizar vários CSS's?
+### Posso utilizar vários CSS's?
 
 Não só pode como deve utilizar. Acho essencial a utilização de múltiplos arquivos CSS's, dependendo da estruturação das páginas. Mas logicamente que existem limites para isso. Não é recomendável a utilização de 30 arquivos CSS's pequenos, por exemplo, onde se poderia utilizar somente um ou dois. O tempo de renderização aumenta por ter vários arquivos.
 
@@ -35,11 +35,11 @@ Você pode estar pensando "Caramba! Trinta arquivos? Esse Bruno tá maluco?". Co
 
 Acaba passando na mão de várias pessoas, a página possui vários elementos globais, que utilizam CSS's externos, entre outras coisas mais.
 
-#### Entendi, Bruno. Mas como faço então?
+### Entendi, Bruno. Mas como faço então?
 
 Eu fazia de um modo, que hoje eu acho errado, que era chamar um CSS somente e dentro dele eu chamava os outros:
 
-##### No HTML:
+#### No HTML:
 
 ```html
 <style type="text/css">
@@ -47,7 +47,7 @@ Eu fazia de um modo, que hoje eu acho errado, que era chamar um CSS somente e de
 </style>
 ```
 
-##### No CSS:
+#### No CSS:
 
 ```css
 @import url(estilo2.css);
@@ -55,7 +55,7 @@ Eu fazia de um modo, que hoje eu acho errado, que era chamar um CSS somente e de
 @import url(estilo4.css);
 ```
 
-#### Ok, Bruno. E o que há de errado com esse CSS?
+### Ok, Bruno. E o que há de errado com esse CSS?
 
 Errado? Nada. Mas concorda comigo que cada vez que eu chamo o arquivo estilo.css, ele chama todos os outros arquivos CSS’s?
 
@@ -65,7 +65,7 @@ A mesma coisa acontece se eu colocar todo o conteúdo dentro de um CSS somente. 
 
 Tudo bem que temos cache, mas queremos evitar esses problemas de peso, otimizar, certo? Então vamos fazer um trabalho decente 😀
 
-#### Sucesso. Mostra ae o modo correto de implementar essa parte do CSS
+### Sucesso. Mostra ae o modo correto de implementar essa parte do CSS
 
 Lembrando que não estou falando que tal modo é certo ou errado, somente o que eu faço e mostro aqui pra vocês opinarem, comentarem, discutirem, etc.
 
@@ -75,13 +75,13 @@ Com isso, temos dois arquivos, sendo que na home eu não chamarei o arquivo inte
 
 Caso seja necessário, eu posso criar alguns outros CSS’s, para títulos, formulários (recomendado), elementos globais (apesar de eu usar no geral.css, mas vai de cada um.), entre outros mais.
 
-#### Boa, Bruno. E agora é só chamar os arquivos CSS’s necessários no HTML certo?
+### Boa, Bruno. E agora é só chamar os arquivos CSS’s necessários no HTML certo?
 
 Exatamente. Não vou mais precisar escrever no CSS o import, para chamar os outros arquivos. Segue abaixo:
 
 Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.css, internas.css e formularios.css.
 
-##### Home
+#### Home
 
 ```html
 <style type="text/css">
@@ -89,7 +89,7 @@ Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.
 </style>
 ```
 
-##### Quem
+#### Quem
 
 ```html
 <style type="text/css">
@@ -98,7 +98,7 @@ Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.
 </style>
 ```
 
-##### Contato
+#### Contato
 
 ```html
 <style type="text/css">
@@ -112,11 +112,11 @@ Na Home eu chamei somente um CSS, o geral.css, que é chamado por todas as pági
 
 Bom, resumindo é isso. Com isso, temos uma estruturação, um controle maior dos CSS, cortamos chamadas desnecessárias de classes e ID’s.
 
-### Ordem de escrita das propriedades.
+## Ordem de escrita das propriedades.
 
 Exatamente isso que você está pensando, se é que está pensando :D. Eu penso na ordenação das propriedades nos meus CSS’s. Parece loucura, admito, o Arthur mesmo falou comigo que era coisa de maluco, perguntando se existia alguém que realmente fazia isso, e ele tomou um susto quando eu respondi que fazia isso 😀
 
-#### Tá Bruno, mas como assim? Como você ordena seus CSS’s?
+### Tá Bruno, mas como assim? Como você ordena seus CSS’s?
 
 Exatamente como você está imaginando agora, em ordem alfabética mesmo. Meio difícil de aceitar no início, concordo, eu fui um pouco assim, mas sem ser xiita.
 
@@ -124,11 +124,11 @@ Tudo depende da adaptação, em qualquer coisa, seja na vida pessoal, trabalho, 
 
 É bem chato no início, mas depois que pega o ritmo, costume, vai rápido.
 
-#### Entendi, Bruno. Mas qual a vantagem de deixar em ordem alfabética os CSS’s?
+### Entendi, Bruno. Mas qual a vantagem de deixar em ordem alfabética os CSS’s?
 
 Isso varia de cada um, claro. Na minha opinião, o que mais pesou para eu implementar desta forma foi a organização. Por mais que cada um tenha seu modo, sua ordenação, em ordem alfabética eu sempre saberei onde está, aproximadamente, o atributo que eu estou procurando para modificar. Resumindo, eu achei mais fácil pra localizar atributos.
 
-### Finalizando…
+## Finalizando…
 
 Bom, finalizo aqui mais uma etapa, creio eu que seja a última delas 😀 de escrita de CSS. Provavelmente existem outros links falando sobre, acabou que nem pesquisei sobre isso direito. Qualquer coisa é só postar nos comentários.
 

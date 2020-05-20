@@ -22,7 +22,7 @@ O modo Strict só funciona com um Doctype correto no código, senão já cai dir
 
 "Como? Box Models? Xiiii" Não sabe o que é Box Model também? Bom, box model é uma "técnica", digamos assim, para boxes em css com divs, etc. Um Div é um box por exemplo. E a construção de um box depende bastante do modo de interpretação. Citarei abaixo os 2 exemplos:
 
-### Quirks Mode:
+## Quirks Mode:
 
 ```css
 #boxUm {
@@ -37,7 +37,7 @@ No modo quirks, o tamanho do box não é influenciado, ou seja, o box ficará co
 
 Mas isso somente quando não tem o Doctype (exceto o Mozilla), ou o internet explorer v.5 ou o 6 com a adição do prolog XML. Agora veremos no modo Strict.
 
-### Strict Mode:
+## Strict Mode:
 
 ```css
 #boxUm {

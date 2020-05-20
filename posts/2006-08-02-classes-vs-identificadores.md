@@ -16,11 +16,11 @@ O assunto englobado é a utilização de classes e identificadores no <abbr titl
 
 Vamos ver a simbologia das classes e identificadores, tanto no <abbr title="HyperText Markup Language">HTML</abbr> quanto no <abbr title="Cascading Style Sheets">CSS</abbr>:
 
-### Classes
+## Classes
 
 No <abbr title="HyperText Markup Language">HTML</abbr> elas são referenciadas pelo atributo class e no <abbr title="Cascading Style Sheets">CSS</abbr> pelo . (ponto). Vamos ao exemplo:
 
-#### <abbr title="Cascading Style Sheets">CSS</abbr>
+### <abbr title="Cascading Style Sheets">CSS</abbr>
 
 ```css
 .centro {
@@ -28,7 +28,7 @@ No <abbr title="HyperText Markup Language">HTML</abbr> elas são referenciadas p
 }
 ```
 
-#### <abbr title="HyperText Markup Language">HTML</abbr>
+### <abbr title="HyperText Markup Language">HTML</abbr>
 
 ```html
 <p class="centro">Texto doparágrafo</p>
@@ -40,11 +40,11 @@ No <abbr title="HyperText Markup Language">HTML</abbr>, chamamos a classe centro
 
 Fácil de identificar não é verdade?
 
-### Identificadores
+## Identificadores
 
 Os identificadores são os famosos IDs. No <abbr title="HyperText Markup Language">HTML</abbr>, eles são chamados pelo atributo id e dentro do <abbr title="Cascading Style Sheets">CSS</abbr>, criamos um identificador com o símbolo # (tralha ou jogo da velha :D). Vamos ao exemplo:
 
-#### <abbr title="Cascading Style Sheets">CSS</abbr>
+### <abbr title="Cascading Style Sheets">CSS</abbr>
 
 ```css
 #menu {
@@ -53,7 +53,7 @@ Os identificadores são os famosos IDs. No <abbr title="HyperText Markup Languag
 }
 ```
 
-#### <abbr title="HyperText Markup Language">HTML</abbr>
+### <abbr title="HyperText Markup Language">HTML</abbr>
 
 ```html
 <div id="menu">Aqui virá o Menu do site</div>
@@ -69,7 +69,7 @@ Igualmente fácil de identificar não é verdade?
 
 A diferença entre classes e identificadores é basicamente uma. Identificadores são **ÚNICOS**, ou seja, só podem ser usados somente uma vez em uma página <abbr title="HyperText Markup Language">HTML</abbr>. Já as classes podem ser utilizadas multiplas vezes no mesmo documento.
 
-### Exemplo:
+## Exemplo:
 
 ```html
 <div id="conteudo">
@@ -92,7 +92,7 @@ E as classes eu utilizo, logicamente, em elementos que não necessitam ser únic
 
 Pra finalizar, só pra reforçar o cuidado em utilizar identificadores em múltiplos elementos no <abbr title="HyperText Markup Language">HTML</abbr> e setar no <abbr title="Cascading Style Sheets">CSS</abbr> o mesmo nome do identificador. Caso isso seja feito, ele descarta da abertura anterior e sobrescreve com o nova postagem, mantendo o que não foi modificado. Isso tanto para classes quanto para identificadores.
 
-### Exemplo:
+## Exemplo:
 
 ```css
 #menu {

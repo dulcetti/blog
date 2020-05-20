@@ -8,7 +8,7 @@ title: 'Yahoo Brasil e Jornal O Globo lançam novo layout'
 
 Falae cambada. Post rápido.
 
-### Yahoo
+## Yahoo
 
 O [yahoo internacional](http://www.yahoo.com) tinha lançado a nova versão do site, com várias funcionalidades interessantes, layout bonito, líquido, etc.
 
@@ -20,7 +20,7 @@ Também vi que somente no internacional tem a opção de mudar a cor do site. Fi
 
 Bom, parabéns ae a galera do Yahoo... Vemos que todos os portais de grande e médio porte estão modificando seu layout, etc (tirando o Google)... Tanto os nacionais, quanto os internacionais...
 
-### O Globo
+## O Globo
 
 O site do jornal o globo também [lançou no final da semana passada um novo layout](http://oglobo.globo.com/).
 
@@ -28,11 +28,11 @@ Deu pra perceber que eles agoram estão preocupados com a interação do cliente
 
 Por ser um site de jornal, o conteúdo fica muito extenso, e com isso, acaba ficando um pouco confuso às vezes, meio bagunçado principalmente quando se cresce o tamanho das fontes, mas gostei do novo layout. Segue o padrão dos novos portais da Globo.com. Sóachei que na barra de menus superior, a que fica abaixo da logomarca, poderia ser feita com textos.
 
-#### Diferencial ou Problema?
+### Diferencial ou Problema?
 
 O grande diferencial foi a utilização da resolução para monitores com resolução mínima de 1024x768. Já expressei minha opinião sobre o assunto. Acho um pouco precipitado já entrar para tal layout. Jah foi discutido no [Tableless](http://www.tableless.com.br) sobre tal assunto, pois eles utilizam uma resolução mínima para monitores com 1024x768. Naum acho legal, mas pode ser um pouco válido, pois se trata de um blog frequentado por desenvolvedores, etc, que geralmente utilizam uma resolução igual ou superior.
 
-#### Poréeeeeeem
+### Poréeeeeeem
 
 Como diz o título, tudo tem seu preço. No [Tableless](http://www.tableless.com.br), algumas pessoas reclamaram por não visualizarem o site totalmente, tendo que rolar a barra horizontal. Naum acho isso legal, parece que força o usuário a comprar um monitor que aceite tal resolução.
 
@@ -40,11 +40,11 @@ Assim como o site do [OGlobo.com](http://oglobo.globo.com/). E eu ainda acho mai
 
 Dou o exemplo do meu pai, que entra nesse caso. O coroa tem 61 anos e usa a resolução de 800x600, mesmo que tenha a de 1024x768. E aí? Como que fica isso? Meu pai terá que aumentar a resolução? Forçar ainda mais a vista? Terá que rolar a barra horizontal? (aff...)
 
-#### Mas qual seria a solução Bruno?
+### Mas qual seria a solução Bruno?
 
 Pelos grandes profissionais que acredito que a Globo.com tenha, poderiam ter feito um layout líquido que redimensiona-se de acordo com a resolução do usuário. Esse, com certeza, é o melhor jeito de se fazer isso. É um site com bastante conteúdo, portanto não teria espaços em branco. Poderiam limitar uma largura, existem métodos para isso.
 
-### Finalizando
+## Finalizando
 
 Mas no geral gostei bastante dos dois layouts. Parabéns aos profissionais envolvidos.
 

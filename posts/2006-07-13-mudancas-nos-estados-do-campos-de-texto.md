@@ -67,38 +67,39 @@ Ex:
 
 No caso citado, o valor do FOR é igual a "nome" e dentro do input, o valor do IDéigual a "nome", portanto o label se refere a este campo de texto.
 
-### Mas pra que que isso serve Bruno?
+## Mas pra que que isso serve Bruno?
 
 É bom pra arquitetura do site, identificação mais clara dos elementos. Um curiosidade também, que alguns não conhecem,éque ao clicar no label, o elemento com o mesmo valor de id que o valor do for, ficará selecionado, ou seja, comoéum campo de texto, esse campo ganhará foco. É só testar.
 
-### E o input? Tem uns códigos ali que nunca vi.
+## E o input? Tem uns códigos ali que nunca vi.
 
 Ok, ok, vamos lá. Segue abaixo a listagem dos atributos que utilizei no input, para melhor compreensão:
 
-- #### type="text"
+### type="text"
 
 Tipo do input. Nem preciso explicar não é? Textéigual a campo de texto.
 
-- #### name="nome"
+### name="nome"
 
 Nada de novidade. O name serve como nome do campo e funciona para o método utilizado no formulário e as linguagens server-side, para o envio dos dados.
 
-- #### id="nome"
+### id="nome"
 
 O id serve para "linkar" o campo ao label referente à ele
 
-- #### class="textbox"
+### class="textbox"
 
 Classe textbox que iremos declarar no css, para estilizar o campo.
 
-- #### onfocus="textOn(this.id)"
+### onfocus="textOn(this.id)"
 
 O onfocus serve para vc definir uma ação, evento quando o foco estiver no elemento em que foi setado. No nosso caso, esse atributo chama a função textOn, que está declarada no js que irei comentar mais abaixo e passa como parâmetro, o próprio id.
 
-- #### onblur="textNormal(this.id)"
-  Mesma função do onfocus, mas só que ao invés de ser para quando estiver com o foco, serve para quando perder o foco, ou seja, o usuário não estiver digitando texto dentro do campo. E neste atributo, passamos a função textNormal e passamos o próprio id como parâmetro.
+### onblur="textNormal(this.id)"
 
-### <abbr title="HyperText Markup Language">HTML</abbr> Finalizado
+Mesma função do onfocus, mas só que ao invés de ser para quando estiver com o foco, serve para quando perder o foco, ou seja, o usuário não estiver digitando texto dentro do campo. E neste atributo, passamos a função textNormal e passamos o próprio id como parâmetro.
+
+## <abbr title="HyperText Markup Language">HTML</abbr> Finalizado
 
 Nada de surreal no <abbr title="HyperText Markup Language">HTML</abbr> certo? Coisas básicas e simples que utilizei, tirando os atributos onblur e onfocus, que na verdade, também não tem nada demais.
 
@@ -177,7 +178,7 @@ Essa classe é a classe no estado normal do campo de texto, quando ele não est�
 - #### .textboxOn
   Vcs podem perceber que ele foi setado, juntamente, com a classe textbox, porque ela recebe praticamente todas as propriedades da classe textbox. E para não ficar repetindo tudo novamente, declaro somente o queénecessário, que nesse caso foi a cor da borda que ficou laranja e a cor de fundo que ficou um cinza mais claro.
 
-### <abbr title="Cascading Style Sheets">CSS</abbr> Finalizado
+## <abbr title="Cascading Style Sheets">CSS</abbr> Finalizado
 
 Podemos perceber que não utilizamos nada de muito especial correto? Declaramos mais tags do que classes. As únicas classes foram para os estados de "on" e "off" do campo de texto.
 
@@ -199,11 +200,11 @@ Vamos pro javascript agora. Não estou usando nada demais também, nada avançad
 
 Neste exemplo temos duas funções: textOn e textNormal. Vimos as chamadas dessas funções no html, dentro dos inputs correto? Agora iremos ver o que elas fazem:
 
-#### textOn(txt) e textNormal(txt)
+### textOn(txt) e textNormal(txt)
 
 Como podem perceber, essas funções enviam como parâmetro, o txt. Para quem não sabe, uma função passa os parâmetros que estão dentro dos parênteses. Ele pode ficar vazio também, mas ae você teria que setar dentro do javascript o elemento que sofreria a mudança.
 
-#### `document.getElementById(txt).className='textboxOn'`;
+### `document.getElementById(txt).className='textboxOn'`;
 
 Nessa linha, eu pego do html o ID passado no parâmetro txt. Isso varia de acordo com a chamada da função. No nosso formulário, temos duas chamadas nessa função, dentro do onfocus nos inputs. Vamos vê-los novamente?
 
@@ -217,7 +218,7 @@ Setamos o ID como "email" e dentro da chamada, setamos o ID dele próprio. O thi
 
 Vamos pegar o primeiro caso, o "nome". Irei mostrar abaixo o código javascript e o próprio "traduzido":
 
-##### Normal
+#### Normal
 
 ```javascript
 function textOn(**txt**) {
@@ -225,7 +226,7 @@ function textOn(**txt**) {
 }
 ```
 
-##### "Tradução"
+#### "Tradução"
 
 ```javascript
 function textOn(nome) {
@@ -235,7 +236,7 @@ function textOn(nome) {
 
 Prestaram atenção na parte em negrito? É bem fácil essa passagem de parâmetro, nada complexo, tudo bastante fácil.
 
-### Boa Bruno... E esse .className?
+## Boa Bruno... E esse .className?
 
 Essaéa parte mais fácil. O nome já diz tudo. Entre as aspas duplas, vc seta o nome da classe que vc quer que o elemento obtenha no evento.
 

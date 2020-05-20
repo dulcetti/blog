@@ -10,11 +10,11 @@ title: 'IE reconhecendo corretamente o CSS 2.1 e com vários bugs corrigidos'
 
 Foi publicada uma Biblioteca JavaScript que resolve vários problemas, bugs, que o deixavam totalmente louco e descabelado porque o IE não aceitava.
 
-### Como assim Bruno?
+## Como assim Bruno?
 
 Quem nunca passou algum problema com o IE, nenhum bug ou defeito no CSS taque a primeira pedra. Creio eu que todos já passaram por isso. Tanto por seletores, problemas com background com PNG, etc. (Esse então, aff.)
 
-### Meu Deus Dulcetti. É uma benção isso tudo!
+## Meu Deus Dulcetti. É uma benção isso tudo!
 
 Bom, eu espero que sim, mas não fique tão empolgado, não se esqueça que é o IE e tudo pode acontecer. Mas pelas [explicações dadas](http://dean.edwards.name/IE7/) pelos sujeitos que desenvolveram essa Biblioteca, o IE 5, 6 e 7 ficariam como o IE 8, com todas as funcionalidades resolvidas:
 
@@ -49,12 +49,12 @@ Bom, eu espero que sim, mas não fique tão empolgado, não se esqueça que é o
 <script src="http://ie7-js.googlecode.com/svn/version/xx.x/IE8.js" type="text/javascript"></script>
 <!\[endif\]-->
 
-### Sucesso Total Dulcetti!
+## Sucesso Total Dulcetti!
 
 Hey rapaz, isso quem fala sou eu! Mas tudo bem, eu deixo vc falar tb :P
 
 Bom, creio que você não vai querer matar todos os desenvolvedores do IE agora. Pelo menos por enquanto né.
 
-### Finalizando...
+## Finalizando...
 
 É isso. Caso você ache algum problema, por favor, não venha perguntar a mim, me mandar email. Vá reclamar com quem fez ok? Muito obrigado, volte sempre.
