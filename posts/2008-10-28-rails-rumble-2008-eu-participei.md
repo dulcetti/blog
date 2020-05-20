@@ -16,7 +16,7 @@ Um bocado sim. Mas esse é o objetivo. E a linguagem que todos tem que utilizar,
 
 E parece meio impossível você criar uma aplicação em apenas 48h, mas isso é possível sim, mas com um planejamento bem estruturado e uma ótima equipe e dedicada. Pelo menos nesse segundo ponto nosso time conseguiu cumprir :)
 
-### Quem participou com você Dulcetti?
+### Quem participou com você, Dulcetti?
 
 ![Grupo trabalhando no projeto](/assets/images/posts/galera-rails-rumble.jpg) Galera fingindo que estava trabalhando
 
@@ -29,7 +29,7 @@ Bom, a nossa equipe foi a January River, em homenagem a nossa cidade maravilhosa
 
 Parece meio que uma gang, dois Brunos e dois Pellegrinos, mas foi mais ou menos isso mesmo :)
 
-### E o projeto tio Dulça?
+### E o projeto tio, Dulça?
 
 ![Thumb do projeto Pic My Diet](/assets/images/posts/thumb-picmydiet.jpg)
 
@@ -37,11 +37,11 @@ Entramos no embalo da Dieta Flash, que chegou a ser transmitida pelo [Fantástic
 
 Meio bizarro, eu sei, mas fazer o que. Dizem que funciona mesmo.
 
-#### Estranho mesmo Bruno
+#### Estranho mesmo, Bruno
 
 E aproveitamos essa idéia, que venho do modafoca Bruno Carvalho e criamos uma aplicação que não precisava mais depender do flickr. Você sobe sua foto e publica como se fosse um post de blog mesmo, ou como se fosse o flickr.
 
-#### Legal hein Dulça
+#### Legal hein, Dulça
 
 Bastante, mas infelizmente não deu pra implementar nem 30%, 40% do que planejamos. E tudo isso por culpa da organização e planejamento, que é extremamente importante para qualquer tipo de projeto. O que põe mais ainda na minha cabeça que o [Scrum](http://pt.wikipedia.org/wiki/Scrum) é um modelo perfeito para tal. Por mais que não seja por post-it, mas de qualquer forma temos que ter histórias escritas, elaboradas e um cronograma por elementos e não blocos macros.
 

@@ -6,8 +6,6 @@ featuredImage: ''
 title: 'BlogCamp PR - O Melhor de Todos'
 ---
 
-![Marca do BlogCamp PR](http://www.webalive.com.br/images/logo_blogpr.jpg)
-
 Falae pessoal. Chegando aqui para comentar sobre mais um BlogCamp que rolou, em Curitiba/Paraná. Por coincidência, meu último post foi sobre outro BlogCamp, o de Belo Horizonte.
 
 ### Pra variar escrevendo pouco né Dulcetti
@@ -76,7 +74,7 @@ Juntei-me a um grupo que estavam falando sobre não lembro o que. Tava lá a bel
 
 ##### E começa o BlogCamp PR...
 
-Depois dos papos, a galera foi pra dentro do salão principal. Manoel Netto falou um bocado sobre o evento, o que rolaria, etc, e na seqüência veio o Cabianca, organizador do BlogCamp falar um bocado.
+Depois dos papos, a galera foi pra dentro do salão principal. Manoel Netto falou um bocado sobre o evento, o que rolaria, etc, e na sequência veio o Cabianca, organizador do BlogCamp falar um bocado.
 
 Depois rolou a idéia de cada um se apresentar com o microfone, pra galera conhecer geral que tinha chegado. Foi uma idéia legal, se não fosse a demora de alguns. E como tinha muita gente, tornou-se meio chato essa etapa.
 
@@ -90,11 +88,13 @@ Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo p
 
 #### Segundo Dia (Parte 3 – Os ícones do BlogCamp se destacam) – Depois do almoço, as fotos, vídeos, etc
 
-[![Dulcetti Fazendo um Flag](http://farm3.static.flickr.com/2316/2083375606_fc123d90e4.jpg?v=0)](http://www.flickr.com/photos/ziggynunes/2083375606/) Dul7 fazendo Flag
+![Dulcetti Fazendo um Flag](/assets/images/posts/2083375606_bbd22ffb4f_o.jpg)
+Dul7 fazendo Flag
 
 Depois do almoço rolaram algumas fotos. Algumas toscas como essa acima em que eu estou fazendo um flag, técnica de segurar em postes e ficar estilo uma bandeira auhuaauuhauau. Mas também fotos normais, com a galera toda, como as fotos abaixo:
 
-[![Galera Toda do BlogCamp PR](http://farm3.static.flickr.com/2119/2078029325_aeb938c3f9.jpg?v=0)](http://www.flickr.com/photos/rafacst/2078029325/) A Macacada reunida :D
+![Galera Toda do BlogCamp PR](/assets/images/posts/2078029325_aeb938c3f9_b.jpg)
+A Macacada reunida :D
 
 ##### Surge o Primeiro Ícone
 
@@ -102,7 +102,8 @@ Um grande ícone do evento foi aparecendo. Mackeenzy, diretor do Videolog, piroc
 
 Logicamente que eu não perdi essa oportunidade e coloquei a plaqueta do Ziggy, do "Sim, Viral." No rego dele. Vejam essa cena traumatizante abaixo:
 
-[![Mackeenzy](http://farm3.static.flickr.com/2042/2082592563_e8d70f26b1.jpg?v=0)](http://www.flickr.com/photos/ziggynunes/2082592563/) Mackeenzy fazendo Pose.
+![Mackeenzy](/assets/images/posts/2082592563_e8d70f26b1.jpg)
+Mackeenzy fazendo Pose.
 
 Várias fotos maneiras, legais, etc. [Vocês podem ver outras fotos no flickr](http://www.flickr.com/search/?q=blogcamppr&w=all&s=int).
 
@@ -110,20 +111,13 @@ Várias fotos maneiras, legais, etc. [Vocês podem ver outras fotos no flickr](h
 
 Depois das fotos, uma galera foi pra dentro dos auditórios, etc. No principal, o Ziggy começou a imitar o Silvio Santos. Começava a surgir outro ícone no evento, o Ziggy Santos. Várias gargalhadas rolando na platéia. A imitação não chegava ser tãooo perfeita assim, mas a improvisação, as idéias, as sacadas dele, eram sensacionais. Fora quando todos ficavam em silêncio e lá vinha ele com seu famoso _"cri cri cri"_. Sensacional. Eu ria cada vez mais com isso.
 
-<script type="text/javascript">
-<!--
-	var flashVideolog = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=285170&amp;v=06/15/285170&amp;v_hd=&amp;relacionados=S&amp;default=S&amp;cor_fundo=000000&amp;swf=1&amp;width=515&amp;height=416", "videolog0004", "515", "416");
-	flashVideolog.write();
--->
-</script>
-
 Depois do Ziggy Santos, foram escolhidos três temas iniciais nas três salas:
 
 - Podcast sobre Direitos Autorais
 - Tráfego
 - Editoração, Posts Patrocinados
 
-Fiquei no início na primeira, mas logo depois fui pra segunda. Mas acabou que não agüentei ficar em nenhuma, tava de saco cheio já dos temas. Meu Blog não se encaixa muito nos temas abordados, mas teve conteúdo pra caramba a ser discutido.
+Fiquei no início na primeira, mas logo depois fui pra segunda. Mas acabou que não aguentei ficar em nenhuma, tava de saco cheio já dos temas. Meu Blog não se encaixa muito nos temas abordados, mas teve conteúdo pra caramba a ser discutido.
 
 ##### E o terceiro e último ícone
 
@@ -131,7 +125,8 @@ Lá fui eu lá pra fora. Com isso, começava a aparecer o terceiro ícone do Blo
 
 Comecei como o mulek piranha, dançarino de funk, fazendo a batida em que todos identificavam como o "Hino do Dul7". Não vou ficar colocando onomatopéias no Blog, pq vai ficar ridículo. Só ouvindo mesmo. (Tuntchatcha tchukuntchukuntcha... ok, não resisti :P)
 
-[![Eu e as Meninas da Playboy](http://farm3.static.flickr.com/2181/2084080066_a43c108c9d.jpg?v=0)](http://www.flickr.com/photos/digitaldrops/2084080066/) Sim. Pasmem. Esse é o Dulcetti saltando uma moita.
+![Eu e as Meninas da Playboy](/assets/images/posts/2084080066_985082d7f7_o.jpg)
+Sim. Pasmem. Esse é o Dulcetti saltando uma moita.
 
 Nego ria a cada mexida no ombro que eu fazia, dançando no estilo aleijadinho, ou minhas caras de putão que eu fazia. Fora as fotos que eu tirava fazendo careta, ou zuando as meninas do Axe.
 
@@ -140,15 +135,6 @@ Mas o momento top desse ícone que vos fala, foi quando eu resolvi pular a maldi
 O Jonas até que tentou no início, mas ele acabou desistindo na última hora, coisa que Bruno Dulcetti não faz nunca :D Alguns, como o Mackeenzy ficaram desesperados, pedindo pra que eu pulasse somente depois que eu finalizasse a terceira versão do Videolog.
 
 Mas a grande maioria queria mais me ver pulando e me fudendo depois da moita mesmo. Mas esqueceram que o Dulcetti é um ninja, quase um JEDI como diria o Melo.
-
-Veja o vídeo com o salto abaixo:
-
-<script type="text/javascript">
-<!--
-	var flashVideolog2 = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=285238&amp;v=13/19/285238&amp;v_hd=&amp;relacionados=S&amp;default=S&amp;cor_fundo=000000&amp;swf=1&amp;width=515&amp;height=416", "videolog0005", "515", "416");
-	flashVideolog2.write();
--->
-</script>
 
 Como diria o Nick Ellis, depois desse salto, eu posso ir para as olimpíadas ano que vem :D Mas depois dessas performances, o ícone Dul7 ainda viria a se tornar mais engraçado ainda.
 
@@ -176,13 +162,6 @@ Uma das tarefas que poderia parecer impossível foi feita. Mesmo com as três su
 
 O cara começou a imitar novamente o Silvio Santos, como comentei lá em cima. Foi sensacional, pois dessa vez teve participação do Mackeenzy imitando o Roque, Marlene Matos e Tim Maia. Era o momento de furor da galera. Nessa hora que os ícones chamaram mais ainda a atenção.
 
-<script type="text/javascript">
-<!--
-	var flashVideolog3 = new Flash("http://www.vimeo.com/moogaloop.swf?clip_id=415849&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=", "videolog0005", "515", "416");
-	flashVideolog3.write();
--->
-</script>
-
 ##### Os Coolnex Cards marcam presença...
 
 E logicamente teve a entrega dos [CoolNex Cards](http://www.digitaldrops.com.br/drops/2007/10/os_coolnex_cards_da_blogosfera_1.html), como não poderia deixar de citar. Aumentei ainda mais a minha coleção, pegando de todos que receberam. E pra quem não conhece, pode [saber mais clicando aqui](http://www.digitaldrops.com.br/drops/2007/10/os_coolnex_cards_da_blogosfera_1.html). E Nick, eu quero os meus em breve hein :D
@@ -190,13 +169,6 @@ E logicamente teve a entrega dos [CoolNex Cards](http://www.digitaldrops.com.br/
 E claro, foi o Ziggy Santos que foi chamando um por um.
 
 #### Segundo Dia (Parte 5 – O Retorno do JEDI) – O Retorno da Galera ao Hotel, incluindo o JEDI Dul7
-
-<script type="text/javascript">
-<!--
-	var flashVideolog4 = new Flash("http://videolog.uol.com.br/ajax/codigoPlayer.php?id_video=140173&v=52/3a/140173&v_hd=&relacionados=S&default=S&cor_fundo=000000&swf=1&width=515&height=416", "videolog0007", "515", "416");
-	flashVideolog4.write();
--->
-</script>
 
 Posso destacar as minhas imitações do Gil Brother, o famoso Away de Petrópolis, terrinha que eu já morei. Nego morria de rir dentro da Van, no retorno ao Hotel. E pior que eu gravei as falas de vários episódios. Sou fã dele. Essa foi pra você Manoel Netto. :D
 
@@ -208,17 +180,16 @@ Retornamos ao Hotel, cada um pro seu quarto. Estava pra começar a mais foda dos
 
 #### Segundo Dia (Parte 6 – Os Embalos de Sábado a Noite) – A Galera em rumo da cachaça e da Balada pra dançar
 
-[![Geral no Bar](http://farm3.static.flickr.com/2352/2083693179_bc3f3c0814.jpg?v=0)](http://www.flickr.com/photos/microestudio/2083693179/) Galera Animaaaaada. Alguns até demais. Bêbado. Aff.
-
 E lá fomos nós. Rumo ao bar do Alemão. Bem estiloso, pra quem é do Rio, lembra a Lapa, pra quem é de Minas, lembra um pouco Ouro Preto, bem legal. E como não podia deixar de ser, tinha umas pessoas estranhas, uns emos, Grunges, mas isso existe em tudo qnt é lugar mesmo.
 
-E toma-lhe cerveja, chopp, cachaça e vamo que vamo. Algumas pessoas já estava ficando meio bêbadas, nego não bebe direito, dá nisso. Qnd surge um anjo, não foi o [Rafael Arcanjo](http://arcanjo.org), foi o Bruno Travolta Dulcetti mesmo. Dei um refrigerante nego ficou tranqüilo e continuaram sem problema nenhum. No dia seguinte me agradeceram por isso. :D
+E toma-lhe cerveja, chopp, cachaça e vamo que vamo. Algumas pessoas já estava ficando meio bêbadas, nego não bebe direito, dá nisso. Qnd surge um anjo, não foi o [Rafael Arcanjo](http://arcanjo.org), foi o Bruno Travolta Dulcetti mesmo. Dei um refrigerante nego ficou tranquilo e continuaram sem problema nenhum. No dia seguinte me agradeceram por isso. :D
 
 Algumas pessoas passando um pouco mal, algumas alegres, outras querendo dançar (eu? Dani? Mirian?), outras querendo beber até cair, etc. Tem de tudo na Blogosfera. Só sei que esse bar foi sucesso, aproximou ainda mais a galera, como não poderia deixar de ser. Mas como saímos cedo, a conta até saiu barata. O pessoal tah me decepcionando :P
 
 #### Segundo/Terceiro Dia (Parte 7 – Os Caçadores da Balada Perdida) – Do you wanna dance?
 
-[![Eu e as Meninas da Playboy](http://farm3.static.flickr.com/2039/2082592965_5055878915.jpg?v=0)](http://www.flickr.com/photos/ziggynunes/2082592965/) Todas querendo o Dulcetti e querendo dançar. :D
+![Eu e as Meninas da Playboy](/assets/images/posts/2082592965_2dd98e5010_o.jpg)
+Todas querendo o Dulcetti e querendo dançar. :D
 
 Esse título foi em homenagem ao Duke Nukem 3D. Saudades. :P
 
@@ -251,8 +222,6 @@ Até que chegou uma das horas mais toscas e engraçadas. Quando eu disse:
 E o pessoal disse que sim. E lá foi o Dulcetti contar a piada. _"Um centavo, cinco centavo, UM REAL"_. Essa vai ficar pra quem assistiu a performance estilo Ari Toledo do Dulcetti aqui. Auhuauhauua
 
 Depois, partiu todo mundo pros quartos e dormimos. Infelizmente. :P Vide foto abaixo:
-
-[![Geral no elevador](http://farm3.static.flickr.com/2129/2083426253_3f724318ce.jpg?v=0)](http://flickr.com/photos/21476480@N03/2083426253/) Geral no elevador do Hotel indo dormir
 
 #### Terceiro Dia (O Retorno do Rei) – A pior coisa a se fazer depois do BlogCamp: O Retorno pra casa.
 

@@ -6,11 +6,7 @@ featuredImage: ''
 title: 'Deixe seus Feeds completos. Uma campanha Rafael Arcanjo.'
 ---
 
-![Feeds Completo](http://img169.imageshack.us/img169/5161/feedcompleto468x602xr1.jpg)
-
-E ae cambada.
-
-Estava lendo os feeds que eu assino, quando me deparei [com um post do Bruno Alves com o título "Feeds Completos"](http://www.brunoalves.eti.br/arquivo/2006/11/03/feeds-completos.html). Me interessei pelo título e começei a ler o conteúdo e gostei bastante dessa "propaganda" iniciada pelo [Rafael Arcanjo](http://www.arcanjo.org/), no post ["Disponibilize seu Feed COMPLETO!"](http://www.arcanjo.org/blog/?p=70).
+E ae, cambada. Estava lendo os feeds que eu assino, quando me deparei [com um post do Bruno Alves com o título "Feeds Completos"](http://www.brunoalves.eti.br/arquivo/2006/11/03/feeds-completos.html). Me interessei pelo título e começei a ler o conteúdo e gostei bastante dessa "propaganda" iniciada pelo [Rafael Arcanjo](http://www.arcanjo.org/), no post ["Disponibilize seu Feed COMPLETO!"](http://www.arcanjo.org/blog/?p=70).
 
 É uma campanha para fazer com que os Blogueiros disponibilizem o conteúdo de seus blogs, não em resumo, como muitos ainda fazem, mas disponibilizando o conteúdo completo.
 
@@ -38,7 +34,7 @@ Perfeito! [Entra no post do Arcanjo](http://www.arcanjo.org/blog/?p=70) e pegue 
 
 Por enquanto essa cambada abaixo ae:
 
-- [Bruno Dulcetti. Sou Eu!](/deixe-seus-feeds-completos-uma-campanha-rafael-arcanjo.html) \_o/
+- [Bruno Dulcetti. Sou Eu!](/deixe-seus-feeds-completos-uma-campanha-rafael-arcanjo) \_o/
 - [Rafael Arquanjo](http://www.arcanjo.org/blog/?p=70)
 - [Bruno Alves](http://www.brunoalves.eti.br/)
 - [Blog Ajuda](http://www.blogajuda.com.br/2006/11/03/ofereca-seu-feed-completo/)
@@ -54,4 +50,4 @@ Caso comente sobre a campanha, deixe um trackback que atualizo aqui. (essa pegue
 
 ### Finalizando
 
-É isso ae cambada. Aquele abraço.
+É isso ae, cambada. Aquele abraço.

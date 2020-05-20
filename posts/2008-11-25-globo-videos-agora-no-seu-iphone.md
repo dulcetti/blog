@@ -14,7 +14,7 @@ Essa notícia já era pra eu ter publicado tem bastante tempo, mas vocês me con
 
 Exatamente. É com orgulho que digo isso e que foi bem gratificante participar desse projeto e principalmente com a grande equipe Webmedia, que é a responsável pela parte de vídeos dentro da Globo.com. E finalmente lançamos a versão para iPhone(m.video.globo.com).
 
-### Então você não fez sozinho grande modafoca?
+### Então você não fez sozinho, grande modafoca?
 
 ![Galera da Webmedia](/assets/images/posts/galera-webmedia.jpg) Infelizmente esses filhos da mãe não me esperaram para tirar foto comigo, mas tá valendo :)
 
@@ -34,11 +34,11 @@ E eu também pude abusar do CSS 3, Webkit, transições javascript, que é algo 
 
 Todos H264, qualidade excepcional, assim como a equipe Webmedia da Globo.com. Bem acima da qualidade oferecida pelo Youtube e também porque o iPhone não suporta Flash, swf, por isso não poderíamos utilizar vídeos FLV que são utilizados no Globo Vídeos. Com isso, criamos um profile só para o iPhone, que atendesse plenamente o que solicitaram.
 
-### Ficou legal o layout hein Dulça
+### Ficou legal o layout hein, Dulça
 
 Graças ao modafoca Cainã Nunes, o layout ficou excepcional. O resultado ficou fora daquele padrão de aplicativos iPhone, que na minha opinião não tem graça nenhuma. Ficou bem leve, clean e de fácil usabilidade.
 
-### Algum problema no desenvolvimento Bruno?
+### Algum problema no desenvolvimento, Bruno?
 
 ![Print da Tela do Globo Vídeos no iPhone](/assets/images/posts/gvideos-iphone.png)
 

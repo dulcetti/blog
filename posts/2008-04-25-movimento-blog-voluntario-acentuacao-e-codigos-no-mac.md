@@ -6,8 +6,6 @@ featuredImage: ''
 title: 'Movimento Blog Voluntário. Acentuação e Códigos no Mac.'
 ---
 
-[![Blog Voluntário](http://www.blogvoluntario.org.br/img/ban/Selo-120-x-120.jpg)](http://www.blogvoluntario.org.br)
-
 E ae pessoal, tranquilidade? Um pouco sumido, muito trabalho, muitos blogs, mas sempre apareço.
 
 Venho aqui não para postar tutoriais complexos (?) sobre webstandards, css, xhtml, nem nada disso. Vou postar um tutorial sim, mas em um formato diferente, numa ação especial e muito interessante sobre um assunto que atinge nosso país: Analfabetismo Digital.
@@ -48,15 +46,13 @@ Falarei sobre algo que é meio chato, principalmente para os iniciantes em Mac. 
 
 Existem blogs muito bons com dicas e notícias sobre Mac como o [MacMagazine](http://macmagazine.com.br/blog/) e o [Apple Mania](http://applemania.info/). Se você é iniciante, deu um pulo por lá.
 
-### Legal Dulça. Você comprou um Mac?
+### Legal, Dulça. Você comprou um Mac?
 
 Sim, comprei. Não é qualquer Mac, é um MacBook Pro e quem conhece, sabe a máquina que é. Abandonei meu PC e fico com o Mac como Desktop e Notebook. :D
 
 E tive problemas com os caracteres no Mac, porque o teclado não é português, não possui cedilha, acentuação e tudo mais. Soube de alguns programas que mudam o código, etc. Mas eu preferi me acostumar com o jeito Mac de ser.
 
-### E como é esse jeito Dulcetti? Ensina a acentuar então.
-
-![Teclado Mac](http://images.apple.com/br/keyboard/images/wired_keyboard20070813.gif)
+### E como é esse jeito, Dulcetti? Ensina a acentuar então.
 
 Agora mesmo. O início é chato, mas logo logo você grava tudo e começa até a confundir quando está no PC (sim, já aconteceu comigo).
 

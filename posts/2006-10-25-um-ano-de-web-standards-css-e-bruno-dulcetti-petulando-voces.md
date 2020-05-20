@@ -12,7 +12,7 @@ Na verdade esse post já tah velho, porque eu deveria ter postado dia 17 de outu
 
 ### É com imenso prazer que...
 
-Agradeço à todos que participam, participaram, xingam, agradecem, criticam, elogiam (poucos, mas alguns :P), freqüentam, assinam o feeds, etc, etc, etc e etc...
+Agradeço à todos que participam, participaram, xingam, agradecem, criticam, elogiam (poucos, mas alguns :P), frequentam, assinam o feeds, etc, etc, etc e etc...
 
 Muito obrigado pelos que visitam desde o início deste Blog, que já passou por dois layouts apenas, diferente de tantos blogs de ótima qualidade (a pow, temos que levar em conta os empregos que tenho, a falta de tempo e PRINCIPALMENTE a preguiça :D) que já passaram por vários.
 
@@ -24,7 +24,7 @@ Fiz grandes amigos por aqui, tudo bem que virtualmente. Mas fiz também alguns p
 
 Conheci pessoas ilustres, no modo ONLINE, como: [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), [Henrique C. Pereira](http://revolucao.etc.br), [Bruno Torres](http://brunotorres.net), [Bruno Alves](http://brunoalves.eti.br), [Giovanni](http://www.bitfrito.com/), [Lucas Ferreira](http://lucasferreira.com), [Walmar Andrade](http://fatorw.com), [Ciro Feitosa](http://cirofeitosa.com.br), entre muuuuuuuuuitos outros. ([Micox](http://elmicox.blogspot.com/), não sei teu nome o porra... uahuahuauhuauha)
 
-Uns comentam, freqüentam meu Blog, outros assinam meu feeds, outros linkam ou já linkaram meu Blog, entre outras coisas mais por ae... Pelo menos já ouviram falar meu nome ou já me responderam no MSN ou Gtalk :D
+Uns comentam, frequentam meu Blog, outros assinam meu feeds, outros linkam ou já linkaram meu Blog, entre outras coisas mais por ae... Pelo menos já ouviram falar meu nome ou já me responderam no MSN ou Gtalk :D
 
 #### Pessoalmente
 
@@ -38,7 +38,7 @@ De lá pra cá, com este post, foram 90 posts postados nesse bendito Blog. Até 
 
 Alguns artigos, algumas dicas, algumas comédias, homenagens, entre outras coisas.
 
-### Freqüentadores
+### Frequentadores
 
 Nesse um ano, gostei do crescimento do número de assinantes do meu feeds, apesar de ser pouco ainda (ou não né), principalmente nesses últimos 2 meses e pouco. Agora entre 120 e 130. Não liguem, pois esse contador do Feedburner é meio maluco, já percebi isso. Num dia caiu pra 60 e no dia seguinte voltou pra 126, por ae vai...
 

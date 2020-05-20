@@ -1,12 +1,10 @@
 ---
-category: "Shots"
-date: "2006-12-30"
-description: ""
-featuredImage: ""
-title: "Feliz 2000Dul7 para todos :D"
+category: 'Shots'
+date: '2006-12-30'
+description: ''
+featuredImage: ''
+title: 'Feliz 2000Dul7 para todos :D'
 ---
-
-![Reveillon 2007](http://www.naluh.com/archives/reveillon.jpg)
 
 E ae pessoal... Um post só pra desejar muita felicidade, paz, saúde, muito sucesso para todos. Desejar toda aquela baboseira de bom que desejamos no final de ano e talz. :D
 

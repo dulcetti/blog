@@ -6,17 +6,15 @@ featuredImage: ''
 title: 'Resumo do Google Developer Day'
 ---
 
-![Marca do google Developer Day](http://code.google.com/events/developerday/2008/images/logo.gif)
-
 Vou fazer um breve resumo de como foi o evento Google Developer Day, que rolou semana passada, dia 26 de junho em São Paulo. Fui representar a galera de Webmedia, minha equipe na Globo.com.
 
-### Pensei que não fosse mais falar do evento Dulça.
+### Pensei que não fosse mais falar do evento, Dulça.
 
 Ah, mas você sabe, eu sempre demoro mesmo para falar sobre os eventos que eu vou. Isso quando eu falo, caso que não aconteceu com o Interminas, que acabei nem postando aqui. Nem mesmo o lançamento do livro "Internet: O encontro de 2 mundos", que eu nem comentei por aqui como foi o coquetel e tudo mais. Acontece.
 
 ### Para de se explicar e explica logo como foi o evento.
 
-[![Dulcetti tentando carregar um caixa](http://farm4.static.flickr.com/3255/2644114850_9278ac6f27.jpg?v=0)](http://flickr.com/photos/dulcetti/2644114850/)
+![Dulcetti tentando carregar um caixa](/assets/images/posts/2644114850_9278ac6f27.jpg)
 
 Ok, ok. Bom, foi um evento legal, num local muito bom, bonito, etc. Mas pelo tamanho da Google, esperava mais do evento. Por exemplo, o evento não tinha wi-fi. Isso não existe, pecaram demais, por mais que seja caro. Arrumem um outro local que possua wi-fi, pelo amor de Deus. Mandaram muito mal nesse esse aspecto.
 
@@ -24,7 +22,7 @@ E eu pensando que fosse twittar direto sobre o evento, fiquei na mão. Mas isso 
 
 ### Estrutura do evento
 
-[![Palestrante falando sobre a Google](http://farm4.static.flickr.com/3017/2644117362_196568eb9c.jpg?v=0)](http://flickr.com/photos/dulcetti/2644117362/)
+![Palestrante falando sobre a Google](/assets/images/posts/2644117362_196568eb9c.jpg)
 
 Pela manhã rolou uma palestra, falando sobre a Google, histórias, etc. Isso numa sala gigantesca, que à tarde se transformaria em quatro. Gostei desse esquema de divisão das salas.
 
@@ -35,7 +33,7 @@ O início foi aquela baboseira de sempre: fala da empresa, como começou, mostra
 3. O Youtube tem audiência 3x maior que a série de maior audiência no Brasil, Heroes.
 4. O Google ficava com seus servidores em uma garagem nos EUA. Hoje o dono dessa garagem esta empregado no Google e eles são eternamente gratos por esse espaço cedido em 1997.
 
-#### Usuário é quem manda tá ligado?
+#### Usuário é quem manda, tá ligado?
 
 Gostei quando um dos caboclos disseram que o usuário define o que vive e o que morre na web hoje em dia. O exemplo citado foi a existência do [Google Earth](http://earth.google.com/intl/pt/) e [Google Mars](http://www.google.com/mars/). O segundo não é utilizado praticamente e poucas pessoas se lembram ou sabem da existência dele hoje.
 
@@ -51,7 +49,7 @@ Bem revolucionário, mas pode ser perigoso. Tive umas boas conversas, com outras
 
 #### Google App Engine
 
-[![Slide App Engine](http://farm4.static.flickr.com/3256/2644119542_fb2abe8423.jpg?v=0)](http://flickr.com/photos/dulcetti/2644119542/)
+![Slide App Engine](/assets/images/posts/2644119542_fb2abe8423.jpg)
 
 Pontos citados na palestra:
 
@@ -90,7 +88,7 @@ Mostraram a utilização do Google Maps com o Google Earth, utilizando Flash. A 
 
 Bela citação, falando sobre o evento, que não é sobre o Google e sim sobre nós, desenvolvedores, que vamos criar produtos e aplicativos a partir das APIs apresentadas, etc.
 
-### Beleza Bruno. Agora fala da parte da tarde, das palestras em si, tudo mais.
+### Beleza, Bruno. Agora fala da parte da tarde, das palestras em si, tudo mais.
 
 Naturalmente meu nobre. Vamos começar agora tudo isso. Será apenas uma breve passagem, nada de muito texto e talz.
 
@@ -104,7 +102,7 @@ Um caso é o Google Reader, que ele baixa os posts de um feed para sua máquina,
 
 #### Palestra sobre Open Social & Orkut
 
-[![Slide do Open Social](http://farm4.static.flickr.com/3071/2644122034_8eb9cda08d.jpg?v=0)](http://flickr.com/photos/dulcetti/2644122034/)
+![Slide do Open Social](/assets/images/posts/2644122034_8eb9cda08d.jpg)
 
 Curiosidades sobre o Open Social
 
@@ -150,7 +148,7 @@ Evento foi legalzinho, num local espetacular. Mas repito, **EVENTO SEM INTERNET 
 
 Apresentação de Cases, exemplos de utilização, isso o pessoal está cansado de ver em eventos. Está faltando algum diferencial em eventos do ramo. Chega de repetição.
 
-[![Dulcetti e Rafael no Tortula](http://farm4.static.flickr.com/3026/2644112348_bfd1fbf7f2.jpg?v=0)](http://flickr.com/photos/dulcetti/2644112348/)
+![Dulcetti e Rafael no Tortula](/assets/images/posts/2644112348_bfd1fbf7f2.jpg)
 
 Mas deu pra conhecer pessoas, aumentar o networking, aprender também, por que não. Apesar dessas minhas reclamações, deu pra conhecer mais afundo o Google, ver um pouco mais sobre seus produtos, etc.
 

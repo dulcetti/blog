@@ -6,11 +6,9 @@ featuredImage: ''
 title: 'BlogCamp RJ: Todos os detalhes que você precisa saber'
 ---
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
-
 Falaeeeee cambada de modafoca. Finalmente é dada a largada. Depois de muita enrolação, esconde, fala, desfala, entre outros, aká estou eu, o modafoca mór de todos, para falar sobre esse evento, tão modafoca quanto quem vos fala.
 
-[http://videolog.uol.com.br/video.php?id=368153](http://videolog.uol.com.br/video.php?id=368153)
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NAVE não é verdade? Só adianto que o lugar é impressionante e perfeito para a realização do BlogCamp RJ. ;)
 
@@ -68,13 +66,17 @@ A arena base, inicial, onde tudo vai começar. Claro, que estou falando da parte
 
 Nela será feita a apresentação do evento, às 10h. Eu mesmo que falarei na apresentação, sim, o modafoca que vos fala aqui. hehehehe. Depois, apresentarei essa estrutura do evento, ou seja, tudo que você está lendo aqui, ouvirá lá, por isso, feche esse browser e vá ler um livro que nos encontramos por lá.
 
-... .. .
+...
+..
+.
 
 Não foi embora ainda? Tá, ok. Falarei então né, fazer o quê. Depois a turma irá se dividir nas arenas propostas. Mas resumindo, essa principal falará de assuntos gerais e terá um projetor, para quem quiser mostrar. Os moderadores comandarão assuntos relacionados a blogosfera, que a galera vai sugerir na hora mesmo, como deve ser uma desconferência.
 
-**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[UPDATE\]**
+Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.
+**\[/UPDATE\]**
 
 ##### Moderador
 
@@ -86,9 +88,11 @@ O moderador dessa sala será o Beto Largman e o Nick Ellis. Grandes e renomados 
 
 A arena Business será na sala mais melhor de boa de todas. Linda, bem modafoca, sofás, mesas, computadores, etc. Como o nome da arena, já deu pra perceber pra que que serve essa arena, certo?
 
-**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[UPDATE\]**
+Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.
+**\[/UPDATE\]**
 
 Blogueiros, entre outros, discutirão assuntos relacionados a Business, modelos de negócios, cuidando corretamente de um blog, procedimentos, Notas Fiscais, Direitos Autorais, Creative Commons, entre outros assuntos interessantíssimos.
 
@@ -108,9 +112,11 @@ Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quan
 
 Essa arena será a única dentro de uma sala de aula do NAVE. Mas fique tranquilo, pois a sala é alto nível, possui alguns computadores, mas por questões de segurança, não deixaremos livres para o pessoal usar. Foi mal galera, mas nem tudo é perfeito né ;) E eu escolhi a sala de "Programação de Games", pra entrar no clima não é verdade?
 
-**\[update\]** \_Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
+**\[UPDATE\]**
+Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em cada Arena. Peço desculpas à todos por isso, pois o BlogCamp tem o modelo de desconferência, ou seja, nada pré-definido.
 
-Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.\_ **\[/update\]**
+Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.
+**\[/UPDATE\]**
 
 ![Foto de dentro da arena Tech](/assets/images/posts/foto-arena-tech-interna.jpg)
 
@@ -279,11 +285,11 @@ O churrasco por sua vez, seria num local a definir ainda, num clube onde vamos v
 
 E também tivemos uma idéia legal, de doarmos um computador para uma entidade carente que esteja precisando e escolheríamos.
 
-##### Legal Bruno. E o que foi decidido?
+##### Legal, Bruno. E o que foi decidido?
 
 Então, quem vai decidir isso é você mesmo ;) É só [acessar o formulário que criei](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMUMr1DeuhBWcw) para a votação da "recreação" de domingo, que o vencedor será o que vamos realizar.
 
-### Beleza Bruno, mas eu não me inscrevi.
+### Beleza, Bruno, mas eu não me inscrevi.
 
 Fique tranquilo, pois eu reabri as inscrições pro BlogCamp. É só [acessar o formulário do Google Docs que reativei](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMWCM3Id0l0jOg) e preencher os campos necessários. Caso você não tenha um blog, coloque "não tenho" no campo referente a URL do Blog ok?
 

@@ -6,13 +6,13 @@ featuredImage: ''
 title: 'G1, o Portal de Notícias da Globo.com lança novo layout'
 ---
 
-![Print da nova home do G1](http://g1.globo.com/Noticias/capa/foto/0,,11707095,00.jpg)
+![Print da nova home do G1](/assets/images/posts/0_11707095_00.jpg)
 
 E ae pessoal. Venho aqui para informar que o [novo layout do G1](http://www.g1.com.br/), o portal de notícias da [Globo.com](http://www.globo.com/), foi lançado neste domingo, por volta das 7h da manhã. Um pouco atrasado esse meu aviso, eu sei, mas fazer o q né... :D Esse fds fiquei fora do Rio, bebendo um pouco com os amigos, me divertindo. Trabalhar fulltime não faz muito bem :D
 
 ### Implementação e Padrões
 
-Seguindo o novo padrão de layout e arquitetura já informado aqui no meu blog, no [lançamento da nova home da globo.com](/portal-globocom-lanca-sua-nova-home.html).
+Seguindo o novo padrão de layout e arquitetura já informado aqui no meu blog, no [lançamento da nova home da globo.com](/portal-globocom-lanca-sua-nova-home).
 
 Não participei diretamente da implementação do G1, este trabalho ficou mais focado no Fabrício e Wagner, camaradas aqui da Globo. Da minha parte foi aproveitado o grid, que será padrão para todos os produtos da globo e elementos globais.
 

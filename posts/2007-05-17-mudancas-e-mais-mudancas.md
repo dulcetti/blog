@@ -6,13 +6,13 @@ featuredImage: ''
 title: 'Mudanças e mais mudanças...'
 ---
 
-E ae pessoal, tranqüilidade?
+E ae pessoal, tranquilidade?
 
 Por aqui tudo bem, mtos freelas, por isso o sumiço aqui no Blog. Acontece, fazer o que... Vida de garoto de programação tem sempre disso :D
 
 ### Hmmm... Nova ID Visual é Bruno?
 
-[![Minha nova Marca](http://farm1.static.flickr.com/190/502146114_b617a5b3f9_o.gif)](http://www.flickr.com/photos/57613252@N00/502146114/ 'Photo Sharing')
+![Minha nova Marca](/assets/images/posts/502146114_b617a5b3f9_o.gif)
 
 Exatamente. Pra quem ainda não percebeu, estou com uma "nova cara" no Portfólio e Blog.
 

@@ -6,11 +6,11 @@ featuredImage: ''
 title: 'Chat sobre padrões W3C - ETI'
 ---
 
-![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
-
 Daqui a pouco vai começar um chat modafoca de padrões W3C. A galera que tá organizando o ETI me chamou para mediar tal chat. Okay, eles são loucos, mas fazer o que né?
 
-### Maneiro Dulça. Quando vai ser?
+![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
+
+### Maneiro, Dulça. Quando vai ser?
 
 Bom, se eu falei daqui a pouco, é porque é hoje mesmo. Daqui a pouco MESMO. Ou seja, dia 30 de outubro (vulgo hoje), às 16h (vulgo FUDEU! É praticamente agora).
 

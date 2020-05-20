@@ -1,5 +1,5 @@
 ---
-category: 'Webstandards'
+category: 'Portfólio'
 date: '2008-03-11'
 description: ''
 featuredImage: ''
@@ -8,18 +8,18 @@ title: 'Ego lança nova versão seguindo os novos Padrões Globo.com'
 
 É pessoal. Mais um site do Portal [Globo.com](http://www.globo.com/) lança sua nova versão, totalmente leve, seguindo os novos padrões de implementação criados ano passado. Dessa vez foi o [Portal Ego](http://ego.globo.com/) que lançou seu novo layout. Agora os sites que estão nos novos padrões são os seguintes:
 
-1. [Home Globo.com](/portal-globocom-lanca-sua-nova-home.html)
-2. [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout.html)
-3. [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom.html)
-4. [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom.html)
+1. [Home Globo.com](/portal-globocom-lanca-sua-nova-home)
+2. [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout)
+3. [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom)
+4. [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom)
 
 Agora só falta o [Globo Esporte.com](http://globoesporte.globo.com/) lançar sua "nova cara" para o público. Isso, logicamente, nos sites com maior visibilidade na Globo.com. Ainda faltam outros diversos. E fica óbvio o motivo pelo Globo Esporte ser o mais demorado: o tamanho. É um site bem grande, com variações absurdas, muitas páginas, etc.
 
-### Legal Dulça. Ficou bem diferente do antigo né?
+### Legal, Dulça. Ficou bem diferente do antigo né?
 
 Sem dúvida. E isso será sempre a primeira coisa que vão pensar. É uma mudança muito grande e de possível demora pra acostumar com o novo padrão, principalmente pro Ego, que antes tinha um site todo colorido, bela identidade, etc.
 
-### Verdade Bruno. O que você achou desse novo layout?
+### Verdade, Bruno. O que você achou desse novo layout?
 
 Como está seguindo os padrões, achei muito bom, mas temos que frisar esse novo padrão, que tudo está mais organizado, mais limpo, mais leve, mais usável, etc.
 
@@ -27,9 +27,9 @@ Mas se eu for comparar com o layout antigo, prefiro muito mais o antigo. Era mai
 
 Mas como disse antes, seguindo os novos padrões, acho que chegaram num resultado muito bom.
 
-### E você Dulcetti? Fez algo ae?
+### E você, Dulcetti? Fez algo ae?
 
-Bom, praticamente toda a parte client-side HTML e CSS. Fiz em conjunto com o Rodrigo, vulgo sapão, mas ele entrou de férias logo em seguida e pegou poucas páginas, com isso, acabei pegando o projeto quase todo sozinho.
+Bom, praticamente toda a parte client-side HTML e CSS. Fiz em conjunto com o Rodrigo, vulgo Sapão, mas ele entrou de férias logo em seguida e pegou poucas páginas, com isso, acabei pegando o projeto quase todo sozinho.
 
 Eu destaco a implementação dos novos destaques do site, que antigamente eram feitos com os textos exportados nas fotos e agora eles ficam por cima da foto, com texto puro mesmo, facilitando aos profissionais que sobem as notícias e destaques.
 
