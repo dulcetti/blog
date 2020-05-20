@@ -1,8 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Icons from '../icons';
 import * as S from './styles';
+import { themes } from '../../styles/themes';
+import Icons from '../icons';
 
 export default function Pagination({ currentPage, totalPages }) {
   const previousPage = currentPage === 2 ? '/' : `/page/${currentPage - 1}`;
@@ -19,7 +20,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg="#F7F6F1"
+              bg={themes.palette.general.bgTransition}
               duration={0.6}
               to="/"
               className="first">
@@ -31,7 +32,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg="#F7F6F1"
+              bg={themes.palette.general.bgTransition}
               duration={0.6}
               to={previousPage}
               className="previous">
@@ -47,7 +48,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg="#F7F6F1"
+              bg={themes.palette.general.bgTransition}
               duration={0.6}
               to={nextPage}
               className="next">
@@ -59,7 +60,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg="#F7F6F1"
+              bg={themes.palette.general.bgTransition}
               duration={0.6}
               to={`/page/${totalPages}`}
               className="last">

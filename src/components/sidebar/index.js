@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
+import { themes } from '../../styles/themes';
 import Icons from '../icons/index';
 
 export default function Sidebar({ siteTitle }) {
@@ -35,7 +36,12 @@ export default function Sidebar({ siteTitle }) {
 
   return (
     <S.Sidebar>
-      <S.LogoLink cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+      <S.LogoLink
+        swipe
+        direction="left"
+        bg={themes.palette.general.bgTransition}
+        duration={0.6}
+        to="/">
         <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
@@ -50,17 +56,32 @@ export default function Sidebar({ siteTitle }) {
           <S.Name>Bruno Dulcetti</S.Name>
           <S.List>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/">
                 Home
               </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/sobre">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/sobre">
                 Quem é?
               </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/contato">
+              <S.LinkMenu
+                swipe
+                direction="left"
+                bg={themes.palette.general.bgTransition}
+                duration={0.6}
+                to="/contato">
                 Contato
               </S.LinkMenu>
             </S.Item>

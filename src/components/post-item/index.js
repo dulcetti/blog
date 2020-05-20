@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
+import { themes } from '../../styles/themes';
 import { getCategoryBg } from '../../utils/categories';
 
 export default function PostItem({ post, slug, time }) {
@@ -22,7 +23,12 @@ export default function PostItem({ post, slug, time }) {
   return (
     <>
       <S.Post>
-        <S.LinkPost cover direction="left" bg="#F7F6F1" duration={0.6} to={slug}>
+        <S.LinkPost
+          cover
+          direction="left"
+          bg={themes.palette.general.bgTransition}
+          duration={0.6}
+          to={slug}>
           {image && <Img fluid={image.childImageSharp.fluid} />}
           <S.Content className="infos-post">
             <S.TitlePost>{post.title}</S.TitlePost>
