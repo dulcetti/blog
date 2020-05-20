@@ -102,7 +102,7 @@ O moderador dessa será o Mackeenzy, que comandará a galera com sua irreverênc
 
 As novidades dessa sala é que possuem computadores para quem não trouxer notebooks e também tem um "cala discussão"
 
-###### Mas que parada é essa Dulcetti?
+##### Mas que parada é essa Dulcetti?
 
 Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quando tiver alguma discussão sem fim, onde não se chega num denominador comum, ou algum certo :). Legal né?
 

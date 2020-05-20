@@ -80,7 +80,7 @@ Depois rolou a idéia de cada um se apresentar com o microfone, pra galera conhe
 
 O engraçado foi o "Bingo" rolando cada vez que a galera falava uma palavra-chave conhecida por alguns. Como não sou monetizador, nem tão ativo da lista, acabei boiando nisso.
 
-###### "Bom dia galera, eu sou o Gustavo e eu não fumo maconha"
+##### "Bom dia galera, eu sou o Gustavo e eu não fumo maconha"
 
 Exatamente. Um sujeito de dread, estilo rastafari, gente fina pra kct, chamado [Gustavo](http://gustafari.com.br/) levanta e se apresenta assim. Foi risada pra tudo quanto é lado por alguns minutos. Tinha que ter um momento manero nessa apresentação né? Muito comédia esse cara. Depois bati um papo com ele, gente fina pra caramba.
 

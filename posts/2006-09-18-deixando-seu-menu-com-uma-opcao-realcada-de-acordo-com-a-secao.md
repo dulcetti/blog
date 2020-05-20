@@ -246,7 +246,7 @@ Se vocês perceberem, as propriedades são as mesmas do hover do link. Preferi c
 
 Vou pegar agora uma delas pra explicar melhor, porque as outras são exatamente a mesma coisa, só modificando os nomes.
 
-###### #bodyPrincipal #menu ul li a.mnuPrincipal
+##### #bodyPrincipal #menu ul li a.mnuPrincipal
 
 Vamos listar por partes:
 
