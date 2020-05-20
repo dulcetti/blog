@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
+import { TransitionPortal } from 'gatsby-plugin-transition-link';
 
 import { GlobalStyle } from '../../styles/reset';
 import { Fonts } from '../../styles/fonts';
@@ -24,7 +25,9 @@ export default function Layout({ children }) {
       <GlobalStyle />
       <Fonts />
       <S.LayoutMain>{children}</S.LayoutMain>
-      <Sidebar siteTitle={data.site.siteMetadata.title} />
+      <TransitionPortal level="top">
+        <Sidebar siteTitle={data.site.siteMetadata.title} />
+      </TransitionPortal>
     </S.LayoutWrapper>
   );
 }
