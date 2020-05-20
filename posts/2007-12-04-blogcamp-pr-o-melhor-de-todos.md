@@ -30,7 +30,7 @@ Alguns motivos me forçaram a ir de avião. O primeiro e principal foi que de ô
 
 A segunda, que para alguns poderia ser o melhor motivo, mas que pra mim ia virar a maior raiva do evento, foi a promoção da Gol "Cinquentinha, cinquentão". Comprei a passagem de volta por R\$50, olha que blz. Uma grana sucesso para viajar de avião com muito conforto (mentindo de novo). Maldita promoção.
 
-##### Tensão a caminho do Aeroporto Galeão
+#### Tensão a caminho do Aeroporto Galeão
 
 Sai da Globo.com na hora certinha, peguei o ônibus especial da gol para o Galeão. Fiz o check-in inteligente, via web, tudo certo. Porém, como o grande amor da vida da Mirian Bottan, o maldito Murphy, tinha que acontecer alguma merda não é?
 
@@ -38,11 +38,11 @@ O Ariel já estava em Curitiba, pegou o avião de 17h e se deu bem. Porém o Mac
 
 Mas pelo amor de Deus. A identidade, CPF, etc, estava tudo com ele e na compra da passagem, estava tudo no nome dele, certinho. Pq não conferir o documento com o número da passagem. Mas não, esse sistema de merda e falho da Gol não deixou que o Mack viajasse.
 
-##### Mas ele não foi então Bruno?
+#### Mas ele não foi então Bruno?
 
 Esqueceram que o Mackeenzy é dono do [Videolog](http://www.videolog.tv)? O cara é milionário gente :D ele comprou a passagem de novo, por um preço absurdo. Mas foi, isso que importa.
 
-##### Chegada a Curitiba – Parada pra comer e depois zuera.
+#### Chegada a Curitiba – Parada pra comer e depois zuera.
 
 Bom, lá fomos nós até o Hotel. Pegamos o Ariel e partimos pra algum lugar pra comer. Fomos para um chamado Kharina, cujo significado é o nome da filha gostosa e gata do dono. Pra variar né? Mulher gata e gostosa em Curitiba, Sul, etc.
 
@@ -72,7 +72,7 @@ Como sempre rolava as desconferências, pessoal se conhecendo, conversando sobre
 
 Juntei-me a um grupo que estavam falando sobre não lembro o que. Tava lá a bela Dani Koetz. Acho que esse era um dos motivos para a galera estar lá né, não sei. Durante o papo, descobri que ela é diabética como eu. Achei manero e o papo rolou por vários minutos, falei que dançava e dae foi mais um atrativo pro papo. Simpática a moça de cabelos castanhos com luzes quase lora :D
 
-##### E começa o BlogCamp PR...
+#### E começa o BlogCamp PR...
 
 Depois dos papos, a galera foi pra dentro do salão principal. Manoel Netto falou um bocado sobre o evento, o que rolaria, etc, e na sequência veio o Cabianca, organizador do BlogCamp falar um bocado.
 
@@ -96,7 +96,7 @@ Depois do almoço rolaram algumas fotos. Algumas toscas como essa acima em que e
 ![Galera Toda do BlogCamp PR](/assets/images/posts/2078029325_aeb938c3f9_b.jpg)
 A Macacada reunida :D
 
-##### Surge o Primeiro Ícone
+#### Surge o Primeiro Ícone
 
 Um grande ícone do evento foi aparecendo. Mackeenzy, diretor do Videolog, piroca da cabeça totalmente, começou a tirar algumas fotos muito toscas. Eu o conheço faz tempo e sei que ele sempre está com seu cofre (ou seria caixa forte?) a mostra. Ele agaixou e não deu outra, lá estava o famoso e nojento cofre.
 
@@ -107,7 +107,7 @@ Mackeenzy fazendo Pose.
 
 Várias fotos maneiras, legais, etc. [Vocês podem ver outras fotos no flickr](http://www.flickr.com/search/?q=blogcamppr&w=all&s=int).
 
-##### E o segundo ícone aparece no BlogCamp
+#### E o segundo ícone aparece no BlogCamp
 
 Depois das fotos, uma galera foi pra dentro dos auditórios, etc. No principal, o Ziggy começou a imitar o Silvio Santos. Começava a surgir outro ícone no evento, o Ziggy Santos. Várias gargalhadas rolando na platéia. A imitação não chegava ser tãooo perfeita assim, mas a improvisação, as idéias, as sacadas dele, eram sensacionais. Fora quando todos ficavam em silêncio e lá vinha ele com seu famoso _"cri cri cri"_. Sensacional. Eu ria cada vez mais com isso.
 
@@ -119,7 +119,7 @@ Depois do Ziggy Santos, foram escolhidos três temas iniciais nas três salas:
 
 Fiquei no início na primeira, mas logo depois fui pra segunda. Mas acabou que não aguentei ficar em nenhuma, tava de saco cheio já dos temas. Meu Blog não se encaixa muito nos temas abordados, mas teve conteúdo pra caramba a ser discutido.
 
-##### E o terceiro e último ícone
+#### E o terceiro e último ícone
 
 Lá fui eu lá pra fora. Com isso, começava a aparecer o terceiro ícone do BlogCamp. Isso mesmo, Bruno Dulcetti, que vos fala aqui nesse momento.
 
@@ -144,25 +144,25 @@ Depois das palhaçadas, minhas peripércias aeróbicas, e tudo mais, chegava a h
 
 Mirian Bottan, Dani Koetz e Marina Santa Helena. Lindas, como não devia deixar de ser, cada uma no seu estilo.
 
-##### » Mirian Bottan
+#### » Mirian Bottan
 
 Estilo bonequinha, diríamos, a ninfeta do trio (foi mal Mirian, tive que zoar :D). Lindos olhos azuis, magrinha, mto linda. Na minha opinião a mais linda.
 
-##### » Dani Koetz
+#### » Dani Koetz
 
 A mulherona da parada. Corpão, linda, jeito de mulheraça mesmo. Na minha opinião, a com o corpo mais bonito, resumindo, a mais gostosa auhahuahuahuhua. Com todo respeito, lógico, e ela sabe disso.
 
-##### » Marina Santa Helena
+#### » Marina Santa Helena
 
 Na minha opinião a mais estilosa. Das três, é a que leva mais jeito de modelo. Magrinha, linda, belo sorriso e sai mto bem nas fotos.
 
-##### E o nosso Ziggy Santos
+#### E o nosso Ziggy Santos
 
 Uma das tarefas que poderia parecer impossível foi feita. Mesmo com as três sucessos no palco, um caboclo com o nome de Rafael Ziggy, vulgo Ziggy Santos, chamou mais atenção do que elas após o Making of.
 
 O cara começou a imitar novamente o Silvio Santos, como comentei lá em cima. Foi sensacional, pois dessa vez teve participação do Mackeenzy imitando o Roque, Marlene Matos e Tim Maia. Era o momento de furor da galera. Nessa hora que os ícones chamaram mais ainda a atenção.
 
-##### Os Coolnex Cards marcam presença...
+#### Os Coolnex Cards marcam presença...
 
 E logicamente teve a entrega dos [CoolNex Cards](http://www.digitaldrops.com.br/drops/2007/10/os_coolnex_cards_da_blogosfera_1.html), como não poderia deixar de citar. Aumentei ainda mais a minha coleção, pegando de todos que receberam. E pra quem não conhece, pode [saber mais clicando aqui](http://www.digitaldrops.com.br/drops/2007/10/os_coolnex_cards_da_blogosfera_1.html). E Nick, eu quero os meus em breve hein :D
 
@@ -205,7 +205,7 @@ Mas lá fomos nós, e mais uma vez com a cara na porta. Fechado.
 
 E lá fomos nós, meio desolados, para o Hotel. Eu estava puto da vida, pq lá estava eu, na terra onde corre o mel e o pólen, passando no encontro desse mundo, no sul do País, onde estão as mulheres mais lindas e simpáticas, vide Dani Koetz, eu estava desperdiçando meu tempo indo dormir.
 
-##### Não! Nunca! Jamais!
+#### Não! Nunca! Jamais!
 
 Nunca que eu ficaria dormindo. Eu ia pegar meu avião às 10h e não queria que meu dia terminasse assim. Então continuamos bebendo na portaria do prédio mesmo.
 

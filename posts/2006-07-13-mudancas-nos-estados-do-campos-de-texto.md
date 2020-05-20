@@ -218,7 +218,7 @@ Setamos o ID como "email" e dentro da chamada, setamos o ID dele próprio. O thi
 
 Vamos pegar o primeiro caso, o "nome". Irei mostrar abaixo o código javascript e o próprio "traduzido":
 
-##### Normal
+#### Normal
 
 ```javascript
 function textOn(**txt**) {
@@ -226,7 +226,7 @@ function textOn(**txt**) {
 }
 ```
 
-##### "Tradução"
+#### "Tradução"
 
 ```javascript
 function textOn(nome) {

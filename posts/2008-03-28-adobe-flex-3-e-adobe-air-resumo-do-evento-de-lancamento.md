@@ -50,7 +50,7 @@ Você pode adicionar notes nas roupas adquiridas, colocá-las no carrinho, para 
 
 Aplicativo infantil, onde possui jogos. A cada acesso, o aplicativo baixa um jogo diferente. O mais interessante é que no jogo de quebra cabeças, a criança pode montar todo o quebra cabeça, mas sempre resta uma peça.
 
-##### Mas como que ele monta tudo então Dulça?
+#### Mas como que ele monta tudo então Dulça?
 
 Já sabia que você pensaria nisso e fosse perguntar. Simples, ele conecta a criança no site, onde ela viaja por ele, procurando a última peça. Muito boa essa interação e experiência para a criança.
 

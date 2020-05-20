@@ -39,7 +39,7 @@ Acaba passando na mão de várias pessoas, a página possui vários elementos gl
 
 Eu fazia de um modo, que hoje eu acho errado, que era chamar um CSS somente e dentro dele eu chamava os outros:
 
-##### No HTML:
+#### No HTML:
 
 ```html
 <style type="text/css">
@@ -47,7 +47,7 @@ Eu fazia de um modo, que hoje eu acho errado, que era chamar um CSS somente e de
 </style>
 ```
 
-##### No CSS:
+#### No CSS:
 
 ```css
 @import url(estilo2.css);
@@ -81,7 +81,7 @@ Exatamente. Não vou mais precisar escrever no CSS o import, para chamar os outr
 
 Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.css, internas.css e formularios.css.
 
-##### Home
+#### Home
 
 ```html
 <style type="text/css">
@@ -89,7 +89,7 @@ Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.
 </style>
 ```
 
-##### Quem
+#### Quem
 
 ```html
 <style type="text/css">
@@ -98,7 +98,7 @@ Possuo três páginas: Home, Quem e Contato; e possuo três arquivos CSS: geral.
 </style>
 ```
 
-##### Contato
+#### Contato
 
 ```html
 <style type="text/css">

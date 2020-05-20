@@ -65,7 +65,7 @@ Vou mostrar abaixo, o código HTML criado para este exemplo:
 
 Não reparem mas utilizei um código parecido com o artigo [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens.html). Utilizarei o mesmo código, tanto do CSS quanto do HTML.
 
-##### Vamos entender as partes que interessam?
+#### Vamos entender as partes que interessam?
 
 Vamos sim:
 
@@ -222,7 +222,7 @@ h3 {
 }
 ```
 
-##### Explique agora Bruno
+#### Explique agora Bruno
 
 Bom, explicarei aqui, somente o que não expliquei no artigo do menu sem abas. Se quiser mais explicação de cada parte desse código css, veja o post [Menu em Abas sem utilizar imagens](/menu-em-abas-sem-utilizar-imagens). Lembrando que estou utilizando a mesma estrutura do css e praticamente a mesma no html ;).
 

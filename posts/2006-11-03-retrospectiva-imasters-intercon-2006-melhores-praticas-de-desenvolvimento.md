@@ -46,7 +46,7 @@ Gostei de seus comentários sobre Layouts líquidos, mas o achei um pouco xiita 
 
 Muito engraçado na citação, dizendo que a maioria dos designer com quem ele já trabalhou, fumavam maconha sempre que iam trabalhar, para poder criar mais, viajar mais para criar coisas mais marcantes, falando que sempre fazem isso, etc... Exagerou um pouco, mas foi engraçado o modo como foi dito :D
 
-##### Resumindo
+#### Resumindo
 
 Boa palestra. Um pouco cansativa às vezes, mas no geral, gostei.
 
@@ -68,7 +68,7 @@ Mostrou um pequeno gráfico, inicial, sobre como é feita a Metodologia de Teste
 
 Bela citação sobre como garantir qualidade no mercado atual, mostrando que pessoas devem se interagir, qualquer que seja o local, independente de certificações, etc.
 
-##### Resumindo
+#### Resumindo
 
 Ótima palestra. Somente um pouco massante em alguns momentos. E também aposto que poucas pessoas sabiam do que ela estava falando, pois metodologias, casos de testes, geralmente, são implementados em grandes projetos.
 
@@ -92,19 +92,19 @@ Mandou bem também também quando falou sobre a parte de consultas mal elaborada
 SELECT * FROM tabela01, tabela02 WHERE...
 ```
 
-##### Dados históricos vs. transacionais
+#### Dados históricos vs. transacionais
 
 Ele explicou um bocado sobre esta técnica, que inclui sinônimos em Banco de Dados, que eu desconhecia, que não necessita de uma linha de código sequer.
 
 Bela abordagem sobre temas para não dar futuros gargalos utilizando tabelas resumo, abolindo funções como SUM, entre outras coisas.
 
-##### Bola Fora
+#### Bola Fora
 
 Tive que contrariar uma afirmação dita por ele: "Três segundos é três segundos"
 
 Preciso explicar o porquê da minha contradição? Creio que não. ;) Relaxa, sou meio chato nisso... uahuahuhauhuaua...
 
-##### Resumindo
+#### Resumindo
 
 Muito boa palestra. Deu pra captar bastante coisa, principalmente pra quem não manja muito de Banco de Dados (é meu caso :D).
 

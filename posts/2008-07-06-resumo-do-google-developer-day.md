@@ -78,7 +78,7 @@ Pontos citados na palestra:
 - 20.000 de desenvolvedores utilizando o Open Social
 - 50Mi de aplicações instaladas
 
-##### Google Friends Connect
+#### Google Friends Connect
 
 Trazer amigos de todas as plataformas do Open Social para os aplicativos criados a partir do próprio Open Social.
 
@@ -118,7 +118,7 @@ Gostei da referência feita ao Open Social, o chamando de Gadget++. Gostei de sa
 
 O palestrante citou também 3 serviços que o Open Social possui: People & Friends (Acessam informações programadas dos amigos), Activities (Verifica o que seus amigos estão fazendo e compartilha o que você está fazendo.) e um tal de Persistences que não lembro direito o que é :P.
 
-##### Orkut com Open Social
+#### Orkut com Open Social
 
 Como não poderia deixar de ser, falaram sobre o Orkut. Ele utiliza o software Open Source Shindig, utilizando os serviços de Dados e de gadgets.
 

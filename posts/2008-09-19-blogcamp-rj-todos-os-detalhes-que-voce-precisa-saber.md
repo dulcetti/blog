@@ -40,13 +40,13 @@ Relaxa, fica tranquilo. O local não poderia ser melhor por inúmeros motivos. V
 
 E não pense você, que só porque a escola é estadual, que o local é precário, ruim. MUITO pelo contrário. Creio que muitos de vocês já devem ter ouvido falar, principalmente pelo Descolagem, evento organizado pelo nosso ilustre modafoca [Beto Largman](http://oglobo.globo.com/blogs/largman/), que está comigo na organização do BlogCamp.
 
-##### E o que tem de especial nessa escola?
+#### E o que tem de especial nessa escola?
 
 ![Foto da Recepção do NAVE](/assets/images/posts/foto-recepcao-nave.jpg)
 
 Bastante coisa meu nobre. O NAVE é uma parceria do Oi Futuro com a Secretaria de Estado de Educação do Rio e não com o Governo Federal do Estado, que possui salas de aulas para diversas atividades, como criação de Games, Produção de Áudio e Vídeo, entre outras diversas coisas como vídeo games, espaços para um bate-papo, lounges, entre outros diversos apetrechos sensacionais.
 
-##### Quer dizer então que teremos videogames?
+#### Quer dizer então que teremos videogames?
 
 ![Foto de um rapaz jogando videogame](/assets/images/posts/foto-maluco-videogame.jpg)
 
@@ -78,7 +78,7 @@ Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em c
 Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.
 **\[/UPDATE\]**
 
-##### Moderador
+#### Moderador
 
 O moderador dessa sala será o Beto Largman e o Nick Ellis. Grandes e renomados modafocas da blogosfera brasileira.
 
@@ -96,7 +96,7 @@ Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas p
 
 Blogueiros, entre outros, discutirão assuntos relacionados a Business, modelos de negócios, cuidando corretamente de um blog, procedimentos, Notas Fiscais, Direitos Autorais, Creative Commons, entre outros assuntos interessantíssimos.
 
-##### Moderador
+#### Moderador
 
 O moderador dessa será o Mackeenzy, que comandará a galera com sua irreverência, mas deixar virar zona. Assim espero :)
 
@@ -122,7 +122,7 @@ Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas p
 
 Pela primeira vez, que eu me lembre, teremos uma área específica para a galera tech, ou seja, a galera que, além de blogar, escrever, falar merda, programa, mexe por dentro do WordPress, cria Plugins, mexe com HTML, CSS, JS, PHP, jQuery, entre outras tecnologias e ferramentas relacionadas a blogs.
 
-##### Moderador
+#### Moderador
 
 Bom, o moderador será... Rá, eu mermo, esse modafoca pró++ mór de todos, azucrinando vocês, tocando o terror e deixando tudo virar uma zona tremenda. Ok, ok, mentira, mas a sala ficará legal, eu prometo ;)
 
@@ -136,7 +136,7 @@ Logicamente que não teremos somente as arenas. Teremos também espaços para ba
 
 E essa praça não é uma pracinha comum não, tem vários micros, tevês, até video-games. Com um belo visual e arquitetura, como não poderia deixar de ser. Vai ser nessa sala que ficará o Buffet, pra galera beber e comer.
 
-##### Corredor da Praça
+#### Corredor da Praça
 
 ![Foto do Corredor](/assets/images/posts/corredor-nave.jpg)
 
@@ -162,7 +162,7 @@ Bom, você tem algumas opções de como chegar, a partir de alguns pontos que vo
 
 Creio que será um dos principais pontos que a galera vai partir. Claro que nem todos virão direto no sábado, mas para aqueles que optarem por essa opção é só seguir a dica:
 
-##### Para quem vai de ônibus
+#### Para quem vai de ônibus
 
 1. Vá para a parte de desembarque
 2. Siga até o Terminal de Ônibus
@@ -178,7 +178,7 @@ Creio que será um dos principais pontos que a galera vai partir. Claro que nem 
 
 Essa viagem dura +ou- uns 20, 25 minutos.
 
-##### Para quem vai de carro
+#### Para quem vai de carro
 
 <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=R.+Cordeiro+da+Gra%C3%A7a&amp;daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=FSKSov4dzLBs_Q%3B%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=1&amp;sz=16&amp;via=1&amp;sll=-22.904028,-43.207297&amp;sspn=0.016208,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.9064,-43.218305&amp;spn=0.016208,0.026178&amp;output=embed&amp;s=AARTsJrQ79Oku0MsFPqAHvkAjs-3pS1A9Q"></iframe>
 
@@ -211,7 +211,7 @@ Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês]
 
 O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal. É bem tranquilo chegar de lá. Quem for de carro, pode seguir o [mapa que tracei para vocês](https://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&ll=-22.904552,-43.168834&spn=0.008104,0.013089&t=h&z=17).
 
-##### Para quem vai de ônibus
+#### Para quem vai de ônibus
 
 1. Saindo aeroporto, você vai seguir em sentido a Av. Gen. Justo
 
@@ -231,7 +231,7 @@ Essa viagem dura +ou- uns 40 minutos.
 
 A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Quem for de carro, pode seguir o [mapa que tracei para vocês](https://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&z=16).
 
-##### Para quem vai de ônibus
+#### Para quem vai de ônibus
 
 1. Não precisa sair do aeroporto, porque senão você vai andarilhar que nem o Forest Gump e vai cair no chão antes de ter percorrido 20% do caminho
 2. Dentro do aeroporto mesmo (ok, fora, porque o ônibus não entra no terminal dã), você tem vários ônibus, logo atrás dos pontos de táxis.
@@ -285,7 +285,7 @@ O churrasco por sua vez, seria num local a definir ainda, num clube onde vamos v
 
 E também tivemos uma idéia legal, de doarmos um computador para uma entidade carente que esteja precisando e escolheríamos.
 
-##### Legal, Bruno. E o que foi decidido?
+#### Legal, Bruno. E o que foi decidido?
 
 Então, quem vai decidir isso é você mesmo ;) É só [acessar o formulário que criei](http://spreadsheets.google.com/viewform?key=pDWe-CoGbSMUMr1DeuhBWcw) para a votação da "recreação" de domingo, que o vencedor será o que vamos realizar.
 
@@ -335,7 +335,7 @@ Separei também os inscritos por localidade, tanto regiões, quanto estados. E c
 
 No exemplo do BlogCamp RJ, 243 inscritos, ou seja, quase 95%. Isso mesmo, 95%. Galera do Brasil, vamos comparecer mais ao BlogCamps ;)
 
-##### Regiões
+#### Regiões
 
 - 001 Norte
 - 002 Nordeste
@@ -343,7 +343,7 @@ No exemplo do BlogCamp RJ, 243 inscritos, ou seja, quase 95%. Isso mesmo, 95%. G
 - 008 Sul
 - 243 Sudeste
 
-##### Estados
+#### Estados
 
 - 001 do Amazonas
 - 001 da Bahia

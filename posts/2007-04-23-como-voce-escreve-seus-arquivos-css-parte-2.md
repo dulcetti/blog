@@ -115,19 +115,19 @@ div#minhaDiv a.verMais {
 
 Agora uma breve explicação sobre cada linha:
 
-##### `› div#minhaDiv`
+#### `› div#minhaDiv`
 
 A div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-##### `› div#minhaDiv span.minhaClasse`
+#### `› div#minhaDiv span.minhaClasse`
 
 O span que receber a classe **minhaClasse** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-##### `› div#minhaDiv a.verMais`
+#### `› div#minhaDiv a.verMais`
 
 O link que receber a classe **verMais** e for "filho" da div que tiver o identificador **#minhaDiv**, receberá todas as propriedades setadas.
 
-##### » Pontos Fortes e Fracos
+#### » Pontos Fortes e Fracos
 
 A utilização desta forma limita as propriedades a somente estas tags e pronto. Caso no HTML seja modificada alguma estrutura, o funcionamento pode ser danificado, por exemplo, de span, vire div, estas propriedades não funcionarão mais.
 

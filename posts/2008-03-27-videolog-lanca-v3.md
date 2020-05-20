@@ -25,7 +25,7 @@ Sim, temos a tela com um aguarde, mas de uma forma bem criativa e original, como
 
 Mas não foi somente isso que pensamos para agradar nossos usuários...
 
-##### Fizeram o quê, Bruno?
+#### Fizeram o quê, Bruno?
 
 Enquanto estávamos "trabalhando" por aqui, passamos por streaming ao vivo o "andar da carruagem" por aqui no escritório. Com a presença de Yoda, Daniel, eu, Cagalho e Vinicius, aprontamos algumas poucas e boas como cantar Pearl Jam junto com as músicas. E não foi somente Pearl Jam. Cantamos Creed, SilverChair e até Fábio Jr.
 
@@ -33,7 +33,7 @@ Utilizamos uns chapéus típicos Dulcetti de ser, bem loucos. O meu verde que le
 
 Fizemos palhaçadas até dizer chega, berramos, conversamos, mandamos alôs para alguns blogueiros, etc.
 
-##### E deu certo, Dulça?
+#### E deu certo, Dulça?
 
 Se deu certo? Mas claro que deu. Bastou postar no twitter, que um monte de gente começou a entrar, todo mundo postando no twitter, chamando a galera, alguns com webcam e tudo mais.
 

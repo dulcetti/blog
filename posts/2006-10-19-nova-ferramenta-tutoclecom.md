@@ -28,7 +28,7 @@ Feito isso, clique em **Post it** que o artigo será enviado para o sistema do T
 
 É isso ae. O TutuCle tem um recurso bem legal, que pode fazer com que seu tráfego aumente. Vale principalmente para Blogs, portais de conteúdo e tutoriais, etc.
 
-##### Mas como funciona isso, Brunão?
+#### Mas como funciona isso, Brunão?
 
 [Acessando a página de tráfego](http://tutocle.com/post/get-traffic) no TutoCle, você pode pegar o código de quatro botões diferentes, criados pelo site.
 

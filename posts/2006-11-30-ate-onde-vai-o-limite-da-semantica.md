@@ -26,7 +26,7 @@ Sabemos que temos tags que são display block e display inline correto? Não sab
 
 Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes e depois dele próprio. Seria como se tivesse um `<br />` antes e depois da tag. Podem conter tanto elementos inlines quanto blocks dentro dele.
 
-##### Alguns Exemplos:
+#### Alguns Exemplos:
 
 - `<p>`
 - `<h1>`
@@ -36,7 +36,7 @@ Traduzindo, são blocos. Os elementos blocks adicionam uma quebra de linha antes
 
 Ao contrário do block, os elementos inlines não quebram linha. Podem conter outros elementos inlines dentro dele próprio, mas não é permitida a inserção de elementos do tipo block dentro deles.
 
-##### Alguns Exemplos:
+#### Alguns Exemplos:
 
 - `<a>`
 - `<strong>`
@@ -54,7 +54,7 @@ Veremos alguns exemplos da forma correta e da forma não-correta de se utilizar 
 </p>
 ```
 
-##### Resultado
+#### Resultado
 
 Aqui vem o [meu link com _Itálico_](#)
 
@@ -73,7 +73,7 @@ Resumindo, temos inline dentro de inline, que estão dentro de um bloco, tudo ce
 </a>
 ```
 
-##### Resultado
+#### Resultado
 
 Como o resultado irá invalidar o código, podendo deixar uma bagunça, [criei uma página só pra esse exemplo](/artigos/limite_semantica/exemplo_errado.html).
 
@@ -138,11 +138,11 @@ O link recebe um display block, com isso, vira um bloco. Mas lembram que ele est
 
 Não se assustem com os 1000px para a largura e a altura do link, pois como a div está com overflow hidden, o link só aparecerá dentro do tamanho disposto na div ;). Na verdade um 100% na altura e largura já funciona, mas no ie 6 não funcionou, aconteceu algum bug, ficando só pela metade, vai entender né... ;)
 
-##### Legal Bruno, mas o título e o parágrafo desceriam...
+#### Legal Bruno, mas o título e o parágrafo desceriam...
 
 Sim, mas como temos o position absolute, isso não acontece mais. Ele fica grudado na div e o conteúdo que vem depois dele, fica aparecendo também, o link fica por cima deles.
 
-##### Só isso? Mas tem mais código lá ué!
+#### Só isso? Mas tem mais código lá ué!
 
 Sim, eu sei. Na verdade, nosso problema teria sido resolvido, mas não podemos esquecer, temos que nos preocupar com o ie. Somente com aquele código, no ie 6 fica ruim, não funcionando totalmente, com o link somente em algumas partes da div.
 
@@ -160,7 +160,7 @@ Nesse caso, alpha modifica a opacidade do elemento, que nesse caso é o nosso li
 
 Mas só resolvemos o problema do ie, conseguimos deixar o link transparente no ie, falta no Firefox também. Mas precisamos só de mais uma propriedade, a opacity, que recebendo 0 (zero), fica totalmente transparente.
 
-##### Ufa. Que saco hein Bruno
+#### Ufa. Que saco hein Bruno
 
 Nem me fale isso. É um saco isso tudo, mas conseguimos chegar no [resultado final](/artigos/limite_semantica/exemplo_certo_gambiarra.html).
 

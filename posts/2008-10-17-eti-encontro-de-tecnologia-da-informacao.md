@@ -29,7 +29,7 @@ Sim, eles são loucos em me chamar, mas tudo bem, agora já era :) [Veja como fo
 
 Tem tempo ainda, vai ser mês que vem e vai rolar tanto em Sampa quanto aqui no Rio, dias 27 e 29 de novembro respectivamente.
 
-##### Poxa... E aqui na minha cidade não vai ter então?
+#### Poxa... E aqui na minha cidade não vai ter então?
 
 Não fique assim, relaxe que ano que vem vai rolar em outras cidades do Brasil, mas de início, só Rio e São Paulo mesmo ;)
 
@@ -43,19 +43,19 @@ Tá bom, não chega a ser assim, mas alguns nomes são sugeridos por vocês e o 
 
 Uns meses atrás a [Arteccom](http://www.arteccom.com.br/) fez uma pesquisa, levantando assuntos que seriam interessantes para abordar no evento e tudo mais. Isso ajudou bastante na montagem da grade de assuntos. O evento terá palestras sobre quatro assuntos:
 
-##### Linguagens de programação
+#### Linguagens de programação
 
 Aquelas coisas sobre certificações, se realmente é legal ou se não é realmente necessário, tipos diferentes de linguagem, entre outras coisas.
 
-##### CMS livres
+#### CMS livres
 
 Assunto em alta hoje em dia, vai ser falado sobre Joomla, WordPress e Drupal, CMS gratuitos, com código livre. Essa vai ser uma área sagás.
 
-##### Métricas na web
+#### Métricas na web
 
 Dúvida de milhares de pessoas, tanto blogueiros quanto modafocas. Falarão sobre analytics e as métricas de acesso, dentre outros assuntos que tenham relação.
 
-##### Padrões W3C
+#### Padrões W3C
 
 Essa foi bem solicitada na pesquisa realizada. Muita gente ainda tem duvida, pontos a discutir sobre os padrões web.
 

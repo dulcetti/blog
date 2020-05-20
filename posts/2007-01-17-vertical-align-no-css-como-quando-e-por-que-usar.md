@@ -71,11 +71,11 @@ Como sempre, temos restrições nesse exemplo. Na verdade temos em tudo não é 
 
 Vamos às explicações:
 
-##### Altura variável dentro do bloco.
+#### Altura variável dentro do bloco.
 
 Se tivermos um site dinâmico, onde a altura do elemento pode variar, teremos problemas, pois se o line-height for diferente do height, o texto não ficará centralizado.
 
-##### Mais de uma linha dentro do bloco.
+#### Mais de uma linha dentro do bloco.
 
 Bem grave esse problema, pois se tivermos mais de uma linha, a distância entre essas linhas ficará absurda, pois será sempre o valor do line-height, portanto, se tivermos três linhas de texto, por exemplo, teremos, no exemplo acima citado, uma altura de três vezes o line-height, pois temos três linhas e 200px de line-height, com isso, 3x200px.
 
@@ -115,13 +115,13 @@ Mostrarei alguns exemplos de como e quando usar o vertical-align.
 
 Veremos no código abaixo, como fazer para alinhar uma imagem e um texto centralizado verticalmente:
 
-##### Código HTML:
+#### Código HTML:
 
 ```html
 <div id="box"><img src="macaco.jpg" alt="imagem" /> Meu texto bem aqui.</div>
 ```
 
-##### Código CSS:
+#### Código CSS:
 
 ```css
 #box {
@@ -146,13 +146,13 @@ Tudo bem que neste exemplo eles acabaram ficando, mas porque eu retirei a propri
 
 Veremos no código abaixo, como fazer para alinhar um input de texto e um texto centralizado verticalmente:
 
-##### Código HTML:
+#### Código HTML:
 
 ```html
 <div id="box">Nome: <input type="text" name="txtNome" id="txtNome" /></div>
 ```
 
-##### Código CSS:
+#### Código CSS:
 
 ```css
 #box {
@@ -182,13 +182,13 @@ Qual dos dois está correto, não sei ao certo, mas como o Firefox está mais av
 
 Somente uma segunda solução que funciona em todos.
 
-##### Código HTML:
+#### Código HTML:
 
 ```html
 <div id="box"><span>Nome:</span><input type="text" name="txtNome" id="txtNome" /></div>
 ```
 
-##### Código CSS:
+#### Código CSS:
 
 ```css
 #box {
@@ -218,7 +218,7 @@ Com esse exemplo, deduzo que o Firefox está correto na renderização do exempl
 
 A versão mais correta e semântica para este exemplo:
 
-##### Código HTML:
+#### Código HTML:
 
 ```html
 <div id="box">
@@ -226,7 +226,7 @@ A versão mais correta e semântica para este exemplo:
 </div>
 ```
 
-##### Código CSS:
+#### Código CSS:
 
 ```css
 #box {

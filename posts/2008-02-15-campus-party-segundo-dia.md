@@ -26,15 +26,15 @@ Sucesso total. Conheci outras pessoas, como o Horácio do [Acesso Digital](http:
 
 É isso mesmo que você leu. Uma linda mulher do Portal Limão, me chamou para conversar, para mostrar a idéia de um curta metragem que eles (Limão) estavam afim de criar. Algo com o tema "Amor 2.0", na leva da web 2.0 e talz. Uma história meio engraçada, bem curta, com poucas falas.
 
-##### E você aceitou Dulça?
+#### E você aceitou Dulça?
 
 Ah... Aceitei... Não vi problema nenhum em fazer, etc. E vamobora que vamo né.
 
-##### Mas como que ela te escolheu?
+#### Mas como que ela te escolheu?
 
 Bom, como nos Blogcamps da vida, acabei virando meio que um ícone. Andei com diferentes chapéus, gravata presa na testa, entre outras peripércias da vida. Dae, a moça veio até mim, falando que adorou minha simpatia, achou engraçado o meu estilo "zoador" e se eu aceitaria ser o "ator principal" do curta. Eu, pra variar, aceitei logicamente. Mais um evento em que eu apareço e as pessoas riem de mim, gostam das minhas palhaçadas, piruetas, etc. Normal isso né, Dulcetti, fazer o que.
 
-##### E quando que sai o vídeo?
+#### E quando que sai o vídeo?
 
 Talvez hoje ou amanhã. Ele virão na feira até domingo e eu ficarei sabendo, talvez ganhe um DVD com a produção entre outras coisas. Pelo menos eles pagaram o almoço né. Fora a mulher que veio falar comigo e pediu pra eu fazer o filme. Se não for a mais linda, é uma das mais, nossa senhora, Sucesso Total.
 

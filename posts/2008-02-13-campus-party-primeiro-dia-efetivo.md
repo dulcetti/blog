@@ -34,7 +34,7 @@ De resto, a galera blogando direto e postando no twitter, logicamente.
 
 Ah, vale lembrar também o conhecimento do blogueiro Henrique Costa Pereira, do Blog [Revolução etc](http://www.revolucao.etc.br), onde tiramos fotos, zoamos um bocado e batemos um papo rápido. Gente boa o rapaz, diferente do que eu até tinha pensado que ele fosse. Amanhã e outros dias iremos bater um papo legal sobre a área de atuação, já que o meu blog foi lançado praticamente na mesma época que o dele. A única diferença é que ele tem só mais d 10x mais de assinantes no feedburner... uahuauhuahuahuua... Mas tah valendo, sem problemas. Eu chego lá :D
 
-##### Os Barcamps da vida...
+#### Os Barcamps da vida...
 
 Teve Barcamp também. Mas eu não tenho muito saco de participar mais disso não. Os assuntos são muito repetitivos, sempre monetização, posts patrocinados, entre outras coisas já abordadas nos Blogcamps da vida. Mas talvez tenha sido proveitoso para o pessoal que monetiza o seu blog né.
 

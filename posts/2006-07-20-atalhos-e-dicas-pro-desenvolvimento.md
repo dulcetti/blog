@@ -24,7 +24,7 @@ Vamos supor que você tenha um documento com 1000 linhas e você está na linha 
 
 É exatamente o contrário do anterior. Estou na linha 1000 e quero ir pra primeira por exemplo. É simples, ao invés de ficar arrastando mouse na barra de rolagem, etc, é só executar o atalho.
 
-##### » Obs:
+#### » Obs:
 
 Para fazer estes dois atalhos em linhas, é só apertar somente o End ou o Home. ;)
 
@@ -40,7 +40,7 @@ Com este atalho vc pode selecionar, estando em qualquer parte do documento, até
 
 O inverso do anterior. Seleciona de uma parte, até o início do documento. Ex: você está na linha 200 e precisa selecionar desta linha, até a primeira linha. Basta executar este atalho.
 
-##### » Obs:
+#### » Obs:
 
 Para fazer estes dois atalhos em linhas, é só vc não apertar o Ctrl, somente o Shift+End para selecionar do ponto ao final da linha e Shift+Home para selecionar do ponto ao início da linha.
 
@@ -68,7 +68,7 @@ Essa foi a última desse sequência que descobri. Achei excelente a utilização
 
 ### UPDATE
 
-##### » Obs:
+#### » Obs:
 
 Para deletar de trás pra frente, ou seja, o inverso so atalho Ctrl+Del, aperte **Ctrl+BackSpace**. Assim ele apaga a palavra que está antes do cursor do teclado. Essa descobri hoje. :D
 

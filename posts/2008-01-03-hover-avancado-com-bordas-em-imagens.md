@@ -114,7 +114,7 @@ O mais correto era colocar a borda na imagem, como eu tinha dito, mas como citei
 
 Mas isso não é problema para Mr. Dulcetti.
 
-##### Dulcetti... Ta bom, anda logo com isso...
+#### Dulcetti... Ta bom, anda logo com isso...
 
 Ok. Empolguei-me. Desculpe. Então vamos ao restante do CSS. Pasmem, são apenas mais duas linhas de código:
 

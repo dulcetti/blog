@@ -60,21 +60,21 @@ Eu mesmo achava horríveis os códigos CSS's que ficavam tudo em uma linha só, 
 
 Antes de responder essa pergunta, vou explicar porquê mudei minha forma de implementar meus CSS's.
 
-##### › Razão 01 - Tamanho do Site
+#### › Razão 01 - Tamanho do Site
 
 Geralmente não pegamos sites gigantes pra fazer, implementar, etc. Pegamos sites pessoais, institucionais, com poucas visitações por mês, etc. Isso ajuda no vício de criar CSS's mais bonitinhos, arrumados e organizados.
 
 Mas quando pegamos um projeto grande, algo em torno de milhões de visitas, percebemos a necessidade de melhorias no acesso, leveza do site, entre outras coisas essenciais num Portal.
 
-##### › Razão 02 - Visitação ao Site
+#### › Razão 02 - Visitação ao Site
 
 Parece que não, mas um CSS com 1kb a menos pode fazer a diferença. Imaginem um Portal como a Globo.com, com milhões de acessos diários. Agora multipliquem esse 1kb a menos com os milhões de acesso ao site. Chegamos num número absurdo de economia de banda, etc.
 
-##### › Razão 03 - Quantidade de linhas dos CSS's
+#### › Razão 03 - Quantidade de linhas dos CSS's
 
 Diminui absurdamente a quantidade de linhas no CSS. Muitas linhas num CSS não são coisas muito agradáveis, fica difícil de buscar elementos, futuras modificações, etc.
 
-##### › Razão 04 - Tamanho total dos CSS's?
+#### › Razão 04 - Tamanho total dos CSS's?
 
 Sim. Pode ser. Por que não?
 
@@ -94,7 +94,7 @@ Mostrarei o exemplo anterior utilizando a forma como estou escrevendo os meus CS
 
 Bem menos linhas concordam? Menos espaços em branco, tabs, etc.
 
-##### › Desvantagens
+#### › Desvantagens
 
 Como nada é perfeito, temos desvantagens também, mas isso geralmente ocorre no início. É uma questão de adaptação. Meus primeiros três, cinco dias aqui na Globo.com foi chato, difícil e contra minha vontade acostumar com isso. Mas depois, pensando em um dos motivos que citei anteriormente, da parte de milhões de acessos, isso diminui absurdamente a quantidade de banda transferida, etc.
 
@@ -107,11 +107,11 @@ Vou citar alguns pontos chatos nessa utilização:
 
 Por enquanto eu vejo esses pontos fracos, mas caso vocês vejam outros, eu vou analisar e posto aqui também, sem problemas. Vou comentar um pouco mais sobre cada um:
 
-##### › Desorganização no primeiro contato
+#### › Desorganização no primeiro contato
 
 Com certeza, quem ainda não escreve seus CSS's desta forma, se assusta. No primeiro contato fica meio bagunça, difícil de enxergar, se localizar, concordo. Mas eu juro, com a prática e costume, fica tudo normal :D É como comer comida japonesa com hashi. No início é um desastre, mas depois se acostuma, pega a prática. (eu odeio comida japonesa, foi só mesmo para exemplificar :D)
 
-##### › Um pouco difícil de se encontrar/organizar no início
+#### › Um pouco difícil de se encontrar/organizar no início
 
 Quando temos várias linhas, com as propriedades, ficamos meio perdidos no início, enrolados, pois são muitos caracteres, códigos, o que acaba confundindo, isso é fato.
 
@@ -143,13 +143,13 @@ Mas percebam que de cara não é tão fácil perceber isso. Pensamos um pouco, n
 
 Percebam que nas duas linhas o **#conteudo** está um logo abaixo do outro, o que já afirma serem "filhas" do mesmo bloco quando batemos o olho. O mesmo vale para o prefixo **#lateral**.
 
-##### › Falta de hierarquia, tabulação
+#### › Falta de hierarquia, tabulação
 
 Como já vimos, a tabulação é perdida, com isso, sua hierarquia de propriedades de um elemento. Não estou falando da hierarquia de múltiplos elementos e sim hierarquia de elementos › propriedades, quais propriedades são de quais elementos, etc.
 
 Os elementos são escritos colados na esquerda, enquanto as propriedades são escritas com uma TAB a mais no código, referenciando que essa propriedade é filha do elemento logo acima.
 
-##### › Linhas extensas
+#### › Linhas extensas
 
 Os elementos quando possuem muitas propriedades, muitas declarações, acaba estendendo a linha demais, ficando meio difícil de acompanhar e invadindo o final da tela, não ficando totalmente visível em alguns casos, sendo obrigado a rolar a barra horizontal para verificar tudo.
 
