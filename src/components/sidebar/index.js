@@ -35,7 +35,7 @@ export default function Sidebar({ siteTitle }) {
 
   return (
     <S.Sidebar>
-      <S.LogoLink to="/">
+      <S.LogoLink cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
         <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
           <S.Title>{siteTitle}</S.Title>
@@ -50,13 +50,19 @@ export default function Sidebar({ siteTitle }) {
           <S.Name>Bruno Dulcetti</S.Name>
           <S.List>
             <S.Item>
-              <S.LinkMenu to="/">Home</S.LinkMenu>
+              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/">
+                Home
+              </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu to="/sobre">Quem é?</S.LinkMenu>
+              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/sobre">
+                Quem é?
+              </S.LinkMenu>
             </S.Item>
             <S.Item>
-              <S.LinkMenu to="/contato">Contato</S.LinkMenu>
+              <S.LinkMenu cover direction="left" bg="#F7F6F1" duration={0.6} to="/contato">
+                Contato
+              </S.LinkMenu>
             </S.Item>
           </S.List>
         </S.Menu>

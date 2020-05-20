@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Retrospectiva BlogCamp MG'
 ---
 
-![Banner do BlogCamp MG](/assets/images/posts/banner-blogcamp-mg.jpg)
-
 E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
+
+![Banner do BlogCamp MG](/assets/images/posts/banner-blogcamp-mg.jpg)
 
 ### Mas e ae Dulcetti, como que foi o evento, conta ae
 
@@ -16,11 +16,11 @@ Já que coloquei esse título, vou começar falando sobre o [Fugita](http://www.
 
 ### Tudo bem Bruno, você é esquizofrênico, mas deixa isso de lado e começa a falar ae do evento.
 
-Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a [postar sobre o evento no sábado](/blogcamp-belo-horizonte-cobertura.html), em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
+Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em geral e alguns pontos citados. Depois listarei alguns participantes e posts sobre o evento. Lembrando que cheguei a [postar sobre o evento no sábado](/blogcamp-belo-horizonte-cobertura), em tempo real, não tão real assim. Ficou uma merda, mas postei mesmo assim.
 
 #### O famoso Networking
 
-[![Galera toda do BlogCamp MG reunida](http://farm3.static.flickr.com/2171/2043831762_3334b935ba.jpg?v=0)](http://flickr.com/photos/maysa/2043831762/)
+![Galera toda do BlogCamp MG reunida](/assets/images/posts/2043831762_3334b935ba.jpg)
 
 Na minha opinião, e [não somente na minha](http://www.techbits.com.br/2007/03/27/barcamp-o-verdadeiro-social-networking/), esse é o maior motivo e incentivo para ir num evento desses.
 
@@ -54,7 +54,7 @@ O palco não foi utilizado tantas vezes. Muitas vezes tínhamos alguns pequenos 
 
 Achei impressionante e muito bem bolado. Acho que essa informalidade ajuda nisso. Pra terem uma idéia, eu estava de bermuda, regata e chinelo havaiana como mostra a foto abaixo, que foi inclusive quando eu ganhei o brinde com os CoolNex Cards. Na verdade nessa eu to até descalço, fato que até o Pedro comentou e achou sensacional.
 
-[![Eu com cara de bobo e descalço](http://farm3.static.flickr.com/2313/2040907195_b3ad3d142c.jpg?v=0)](http://flickr.com/photos/suicider/2040907195/)
+![Eu com cara de bobo e descalço](/assets/images/posts/2040907195_b3ad3d142c.jpg)
 
 O outro destaque desse formato foi a possibilidade de outros blogueiros participarem via Skype e UStream.tv, ouvindo o que o pessoal falava pelo microfone (regra que quase nunca era seguida pelo Guilherme do Papo de Homem :D) e vendo também por quem filmava por lá.
 
@@ -66,14 +66,7 @@ O "Falar Sobre" do Guilherme foi legal, com alguns slides, mas não eram chatos 
 
 Mas o grande destaque, a grande espera, o grande momento do BlogCamp MG, era o Ian Black falar sobre o polêmico assunto "Blog pra comer Mulher".
 
-Foi uma comédia. Ian com sua irreverência, simpatia e cômica palestra, falou muito bem, deu alguns exemplos, fez todo mundo rir, etc, etc. Assista ao vídeo na integra logo abaixo:
-
-<script type="text/javascript">
-<!--
-	var flashVideolog = new Flash("http://www.videolog.tv/swf/player_externo.swf?prefix=videos&amp;v=b1/b2/281700&amp;id_video=281700&&amp;'", "videolog0003", "515", "416");
-	flashVideolog.write();
--->
-</script>
+Foi uma comédia. Ian com sua irreverência, simpatia e cômica palestra, falou muito bem, deu alguns exemplos, fez todo mundo rir, etc, etc.
 
 #### E como não poderia deixar de ser, o Twitter...
 

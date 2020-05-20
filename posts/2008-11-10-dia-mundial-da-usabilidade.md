@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Dia Mundial da Usabilidade'
 ---
 
-![Marca do WUD 2008](/assets/images/posts/marca-wud.gif)
-
 Uma embalagem que não abre direito ou um produto difícil de usar. Quem já não passou por um problema desses? Com o objetivo de despertar a atenção das empresas e dos consumidores para essas questões foi criado o Dia Mundial da Usabilidade. Este ano o tema do evento, que é realizado em várias cidades do planeta no mesmo dia 13 de novembro, é "Transportes". O Rio de Janeiro mais uma vez comemora a data com uma noite repleta de palestras sobre o assunto com especialistas de design e usabilidade.
+
+![Marca do WUD 2008](/assets/images/posts/marca-wud.gif)
 
 O evento, que tem como finalidade a valorização da facilidade de uso de produtos e serviços no cotidiano, traz apresentações de casos de sucesso de projetos aeronáutico, ferroviário e soluções de transporte para o trânsito saturado das cidades.
 
@@ -16,7 +16,7 @@ Na primeira edição, em 2005, o Dia Mundial da Usabilidade contou com a partici
 
 > "As palestras tem como público-alvo o consumidor, que muitas vezes se sente frustrado diante da dificuldade de usar produtos e serviços que adquire. E se estendem também a empresários e profissionais das áreas de comunicação, informática, design e qualidade, responsáveis na produção destes produtos e serviços."
 
-### Manero hein Dulça
+### Manero hein, Dulça
 
 Bom, desculpem o formato meio que "sério demais" que não tem muito meu estilo. Mas estava sem saco tempo para criar um post sobre o evento e achei que esse trecho se encaixa bem pelo que o evento vai mostrar.
 
@@ -28,7 +28,7 @@ E o local será o Teatro da Cidade, na Univer Cidade, campus Ipanema (que fica e
 
 #### Inscrições e mais informações sobre o evento
 
-[![Banner do WUD 2008](/assets/images/posts/banner-wud2008.jpg)](http://www.ilearn.com.br/wud/)
+![Banner do WUD 2008](/assets/images/posts/banner-wud2008.jpg)
 
 [Se inscreva pelo site mesmo](http://www.ilearn.com.br/wud/), coisa rápida. Pode ser clicando no banner acima ;) . E veja mais informações no [site do evento](http://wudrj.com.br).
 

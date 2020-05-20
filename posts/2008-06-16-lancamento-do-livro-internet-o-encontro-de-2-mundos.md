@@ -6,11 +6,9 @@ featuredImage: ''
 title: 'Lançamento do Livro "Internet: O encontro de 2 mundos"'
 ---
 
-![Capa do Livro O Encontro de 2 mundos](http://www.tishop.com.br/imagens/produtos/895/capa_grande.jpg)
-
 Já é o terceiro post seguido sobre o livro, mas esse eu não poderia deixar de postar.
 
-Depois de eu [apresentar o livro](/livro-o-encontro-de-dois-mundos.html) e [sortear uma unidade](/sorteio-do-livro-internet-o-encontro-de-2-mundos.html), agora vou falar sobre o Coquetel de lançamento do livro, que já rolou em São Paulo e vai rolar agora aqui no Rio.
+Depois de eu [apresentar o livro](/livro-o-encontro-de-dois-mundos) e [sortear uma unidade](/sorteio-do-livro-internet-o-encontro-de-2-mundos), agora vou falar sobre o Coquetel de lançamento do livro, que já rolou em São Paulo e vai rolar agora aqui no Rio.
 
 ### Legal hein Dulça. Não poderia deixar de ser.
 

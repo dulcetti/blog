@@ -1,12 +1,12 @@
 ---
-category: "Shots"
-date: "2007-05-04"
-description: ""
-featuredImage: ""
-title: "Spams, Hackers, Invasões e Pedido de Desculpas"
+category: 'Shots'
+date: '2007-05-04'
+description: ''
+featuredImage: ''
+title: 'Spams, Hackers, Invasões e Pedido de Desculpas'
 ---
 
-E ae pessoal, tranqüilidade?
+E ae pessoal, tranquilidade?
 
 Bom, venho com este post rápido para informar que meu site foi hackeado e colocaram alguns arquivos maliciosos no meu servidor.
 
@@ -16,7 +16,7 @@ Recebi também vários e-mails com pessoas falando que não tinham conseguido ab
 
 Mas também recebi outros avisando, pessoas falando que tinham certeza que aquilo não estava sendo feito por mim, etc. Agradeço a todos que mandaram e-mails avisando tal fato.
 
-### Mas e agora Bruno? Tá tudo tranqüilo?
+### Mas e agora Bruno? Tá tudo tranquilo?
 
 Aparentemente sim. Entre em contato com a empresa que faz o hosting do meu site e eles agiram e no mesmo dia estava tudo resolvido.
 

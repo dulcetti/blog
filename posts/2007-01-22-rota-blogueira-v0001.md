@@ -30,7 +30,7 @@ Vale a lida.
 
 #### Autor: Alex
 
-Uma seqüência de 4 posts sobre o famoso e discutido "Leia Mais" dentro dos blogs. Cita muitos exemplos, discussões e comentários sobre tal recurso.
+Uma sequência de 4 posts sobre o famoso e discutido "Leia Mais" dentro dos blogs. Cita muitos exemplos, discussões e comentários sobre tal recurso.
 
 Comenta sobre o xiismo das pessoas sobre o assunto e sempre lembra que ele está falando que o foco do assunto e blog e não sites de notícias, etc.
 

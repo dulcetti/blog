@@ -175,7 +175,7 @@ Agora sim hein :D Graças a Deus, o IE aceita o atributo margin na pseudo-classe
 
 ### Conclusões
 
-Bom, é uma solução simples, tranqüila, mas que nem sempre vem a cabeça facilmente, rápido. Testei no IE 6, IE 7, Firefox, Opera, Firefox Mac, Safari e todos funcionaram perfeitamente, sem nenhuma diferença.
+Bom, é uma solução simples, tranquila, mas que nem sempre vem a cabeça facilmente, rápido. Testei no IE 6, IE 7, Firefox, Opera, Firefox Mac, Safari e todos funcionaram perfeitamente, sem nenhuma diferença.
 
 Algumas coisas precisam de alguns detalhes pra funcionar, por exemplo, o display: block no link, na imagem também pra ficar correto, se fosse usar o clip, lembrar do position: absolute, lembrar do overflow: hidden, etc, etc, etc.
 

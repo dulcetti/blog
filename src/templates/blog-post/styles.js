@@ -129,6 +129,10 @@ export const PostContent = styled.section`
     line-height: min(66px, 13vw);
   }
 
+  strong {
+    font-weight: bold;
+  }
+
   .gatsby-resp-image-background-image {
     z-index: 2;
     opacity: 1 !important;

@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'BlogCamp RJ - Oficinas e novidades'
 ---
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
+Bom, seguindo o [post sobre o BlogCamp RJ](/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber), venho aqui avisar que estarei publicando durante a semana, uma série de posts sobre o que rolará no evento e dicas de onde se hospedar, se alimentar, entre outras informações.
 
-Bom, seguindo o [post sobre o BlogCamp RJ](/blogcamp-rj-todos-os-detalhes-que-voce-precisa-saber.html), venho aqui avisar que estarei publicando durante a semana, uma série de posts sobre o que rolará no evento e dicas de onde se hospedar, se alimentar, entre outras informações.
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 O modafoca aqui faz de tudo para pensar em vocês. Não sou tão ruim assim não é verdade?
 

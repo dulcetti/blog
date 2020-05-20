@@ -64,6 +64,6 @@ Bom, lembra que eu disse que talvez isso aqui poderia virar um [meme](http://pt.
 
 ### Enfim...
 
-Fico por aqui. Espero que pelo menos a galera goste do tema e pensem um pouco sobre o assunto e vocês que freqüentam meu blog critiquem, dêem sugestões, etc, sobre isso.
+Fico por aqui. Espero que pelo menos a galera goste do tema e pensem um pouco sobre o assunto e vocês que frequentam meu blog critiquem, dêem sugestões, etc, sobre isso.
 
 Aquele abraço.

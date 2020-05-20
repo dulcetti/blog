@@ -12,9 +12,7 @@ Venho neste post rápido, só para divulgar mais um brilhante trabalho executado
 
 ### Qual é a novidade Dulça?
 
-![Capa do Livro O Encontro de 2 mundos](http://www.tishop.com.br/imagens/produtos/895/capa_grande.jpg)
-
-É o lançamento do livro "O Encontro de 2 Mundos". Lembram do [Intercon de 2007](/retrospectiva-intercon-2007.html)? Sim, ele levou este nome como tema principal, abordando este encontro dos dois extremos da tecnologia, algo como o ser e o existir.
+É o lançamento do livro "O Encontro de 2 Mundos". Lembram do [Intercon de 2007](/retrospectiva-intercon-2007)? Sim, ele levou este nome como tema principal, abordando este encontro dos dois extremos da tecnologia, algo como o ser e o existir.
 
 O livro não fala nada sobre como desenvolver, se PHP é pior ou melhor que outra linguagem, que framework usar, isso e aquilo. São crônicas criadas por 44 blogueiros, profissionais de tecnologia, professores e tudo mais, totalizando 56 crônicas cativantes e provocantes sobre o mundo tecnológico atual.
 
@@ -40,7 +38,7 @@ E como eu não posso esquecer, terá um [Coquetel de Lançamento do livro](http:
 
 Mas como não poderia deixar de ser, em breve teremos um coquetel no Rio e em Vitória. Aguarde!
 
-Visite o [Hotsite de lançamento do livro](http://imasters.uol.com.br/livro/) e veja quem participou e o nome dos artigos. E se você já quiser comprar o livro, ele tá custando bem pouco, [somente R\$40 no TI-Shop](http://www.tishop.com.br/detalhe_produto.php?produto=895)
+Visite o [Hotsite de lançamento do livro](http://imasters.uol.com.br/livro/) e veja quem participou e o nome dos artigos. E se você já quiser comprar o livro, ele tá custando bem pouco, [somente R\$40 no TI-Shop](https://www.tishop.com.br/detalhe_produto.php?produto=895)
 
 ### Finalizando...
 

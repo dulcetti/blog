@@ -6,11 +6,9 @@ featuredImage: ''
 title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 
-[![Print com uma prévia da T!V!](/assets/images/posts/tivi01.jpg)](http://videolog.uol.com.br/tivi/)
+![Print com uma prévia da T!V!](/assets/images/posts/tivi01.jpg)
 
-E ae galera, tudo tranqüilo?
-
-Venho hoje falando do [Videolog](http://videolog.uol.com.br 'Visite o site do Videolog.tv'). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
+E ae galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
 ### Crie seus próprios canais de TV com a [T!V!](http://videolog.uol.com.br/tivi/)
 
@@ -48,7 +46,7 @@ A T!V! está em fase alpha, por enquanto. Em meados de agosto, mais precisamente
 
 Por enquanto, somente usuários convidados podem testar a T!V!. [Cadastre-se para testá-la](http://videolog.uol.com.br/tivi/). Você só precisar informar o nome e seu e-mail.
 
-Eu deixarei todos que freqüentam este blog informados sobre o lançamento da ferramenta. Aguardem! :D
+Eu deixarei todos que frequentam este blog informados sobre o lançamento da ferramenta. Aguardem! :D
 
 **\[UPDATE\]** Mais algumas informações que acabei não colocando:
 

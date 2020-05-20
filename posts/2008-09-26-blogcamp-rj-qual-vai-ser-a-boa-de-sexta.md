@@ -6,13 +6,13 @@ featuredImage: ''
 title: 'BlogCamp RJ - Qual vai ser a boa de sexta?'
 ---
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
-
 Como vocês já sabem, os BlogCamps não são feitos somente de tecnologia, informação, blogueiros falando de posts, etc. Rola sempre umas cervejas, uma falação de merda absurda, entre outras coisas.
+
+![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
 
 E por isso que esse modafoca que vos fala aqui, está mandando este post. O BlogCamp começa amanhã, mas as festas começam hoje mesmo ;)
 
-### Show de bola Dulça. E o que vai rolar?
+### Show de bola, Dulça. E o que vai rolar?
 
 Vai rolar um social no Mofo da Lapa. O Mofo é um bar que também é Boate, mas é mais bar que boate. Ele fica localizado na Lapa, na Rua Mem de Sá, 94.
 

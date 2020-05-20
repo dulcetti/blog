@@ -6,9 +6,7 @@ featuredImage: ''
 title: 'Nova Ferramenta: TutoCle.com'
 ---
 
-[![Logo TutoCle](http://tutocle.com/img/logo.gif)](http://tutocle.com/ 'Visitar o site do TutoCle')
-
-E ae pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/ 'Visitar o site da TutoCle').
+E ae pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/).
 
 ### Legal, legal. Mas o que seria o TutoCle.com?
 
@@ -30,18 +28,11 @@ Feito isso, clique em **Post it** que o artigo será enviado para o sistema do T
 
 É isso ae. O TutuCle tem um recurso bem legal, que pode fazer com que seu tráfego aumente. Vale principalmente para Blogs, portais de conteúdo e tutoriais, etc.
 
-##### Mas como funciona isso Brunão?
+##### Mas como funciona isso, Brunão?
 
 [Acessando a página de tráfego](http://tutocle.com/post/get-traffic) no TutoCle, você pode pegar o código de quatro botões diferentes, criados pelo site.
 
 Você pode ou baixar para o seu servidor ou então (o mais recomendado), pegar o código disponibilizado na página.
-
-Segue abaixo os modelos dos botões:
-
-- ![Post to TutoCle.com](http://tutocle.com/tools/btnToBlogs.gif)
-- ![Post to TutoCle.com](http://tutocle.com/tools/btnToBlogs2.gif)
-- ![Post to TutoCle.com](http://tutocle.com/tools/btnToBlogs3.gif)
-- ![Post to TutoCle.com](http://tutocle.com/tools/btnToBlogs4.gif)
 
 Com o código que o site disponibiliza, você posta no seu Blog, que você ou seus usuários podem postar no TutoCle durante a leitura, o que trará mais tráfego para o seu site/blog. E o melhor, tudo gratuitamente.
 

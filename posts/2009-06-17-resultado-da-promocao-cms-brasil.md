@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Resultado da promoção CMS Brasil'
 ---
 
-[![Marca CMS Brasil](/assets/images/posts/logo-cms.gif 'Marca CMS Brasil')](http://www.cmsbrasil2009.com/)
+![Marca CMS Brasil](/assets/images/posts/logo-cms.gif)
 
 Segunda feira eu postei aqui uma promoção sorteando um ingresso para o CMS Brasil, organizado pelo iMasters. Agora posto aqui o vencedor da promoção:
 

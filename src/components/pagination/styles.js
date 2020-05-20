@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Link } from 'gatsby';
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import media from 'styled-media-query';
 
 import { themes } from '../../styles/themes';
@@ -31,7 +31,7 @@ export const PaginationWrap = styled.nav`
   }
 `;
 
-export const ActionLinks = styled(Link)`
+export const ActionLinks = styled(AniLink)`
   border-right: 1px solid #cec2ac;
   border-left: 1px solid #f3f0ed;
   color: #5a5038;

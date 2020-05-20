@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Vertical-align no CSS. Como, quando e por que usar'
 ---
 
-E ae galera. Estou aqui de volta, novamente, depois de uma sumida (pra variar não é verdade? :P). Mas eu juro que tentarei voltar com mais freqüência, postar mais colírios, vídeos do Videolog, etc.
+E ae galera. Estou aqui de volta, novamente, depois de uma sumida (pra variar não é verdade? :P). Mas eu juro que tentarei voltar com mais frequência, postar mais colírios, vídeos do Videolog, etc.
 
 ### Que bom Bruno. Mas algo em especial ou só veio pra falar que está sumido?
 
@@ -172,7 +172,7 @@ Veremos no código abaixo, como fazer para alinhar um input de texto e um texto 
 
 Podemos ver o resultado desse exemplo aqui.
 
-Sim, eu sei. Eu utilizei um hack para o internet explorer 6 ou anterior. Mas fiquem tranqüilos, é só pra exemplo. Mostrarei abaixo uma solução correta para isso ;).
+Sim, eu sei. Eu utilizei um hack para o internet explorer 6 ou anterior. Mas fiquem tranquilos, é só pra exemplo. Mostrarei abaixo uma solução correta para isso ;).
 
 O Firefox já posiciona verticalmente, sem precisar do vertical-align, mas o ie não. E colocando esta propriedade com o valor middle, o ie alinha no centro, mas o Firefox deixa o texto um pouco mais para cima.
 

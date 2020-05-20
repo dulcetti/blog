@@ -22,7 +22,7 @@ Se não for a melhor, uma das melhores abordagens sobre o conceito web 2.0 tão 
 
 ### [hCard](http://www.microformats.org/wiki/hcard)
 
-Muito aqui já devem conhecer o hCard, que é uma seqüência de dados divididos por tags HTML e possuem informações sobre um autor de qualquer conteúdo. Eu já fiz o meu e está oculto. Ele é bem simples, webstandards e utilizam microformats.
+Muito aqui já devem conhecer o hCard, que é uma sequência de dados divididos por tags HTML e possuem informações sobre um autor de qualquer conteúdo. Eu já fiz o meu e está oculto. Ele é bem simples, webstandards e utilizam microformats.
 
 ### [Sexo, a interação original](http://www.usabilidoido.com.br/sexo_a_interacao_original.html)
 

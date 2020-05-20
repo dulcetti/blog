@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 
-![Dul7 Simpsonizado](/assets/images/posts/dul7_simpsons_melhor.jpg)
-
 E ae cambada. Um post bem rápido, só pra descontrair mesmo.
+
+![Dul7 Simpsonizado](/assets/images/posts/dul7_simpsons_melhor.jpg)
 
 O Carlos Carvalho do [IFTK](http://www.iftk.com.br/wordpress 'Visitar o Blog do Carlos Carvalho') teve uma idéia de postar uma lista com fotos dos blogueiros da Blogosfera simpsonizados. A idéia, na verdade, foi do Melo do blog [Verdade Absoluta](http://verdadeabsoluta.net/), mas não postou no blog dele pois disse que é preguiçoso pacas (não és o único meu nobre :D ).
 
@@ -42,7 +42,7 @@ Listagem da galera simpsonizada (sic) no Post do Carlos:
 - Felipe Freire ([Lugar da Música](http://lugardamusica.blogspot.com/))
 - Fabio Centenaro ([Centenaro](http://centenaro.org/))
 - Lucas ([Seleção: Youtube!](http://youtubeforever.blogspot.com/))
-- Nathalia Grün ([On the TV show](http://onthetvshow.org/))
+- Nathalia Grun ([On the TV show](http://onthetvshow.org/))
 - Lucia Freitas ([Desabafo de mãe](http://www.desabafodemae.com.br/))
 - Daniel Rizzo ([Físico maluco](http://www.fisicomaluco.com/))
 - Gisele Ramos ([Blog na TV](http://www.blognatv.com/))

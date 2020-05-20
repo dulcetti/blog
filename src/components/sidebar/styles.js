@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
 import Img from 'gatsby-image';
-import { Link } from 'gatsby';
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
+
 import { themes } from '../../styles/themes';
 
 export const Sidebar = styled.aside`
@@ -32,7 +33,7 @@ export const Sidebar = styled.aside`
   `}
 `;
 
-export const LogoLink = styled(Link)`
+export const LogoLink = styled(AniLink)`
   display: block;
   position: relative;
 
@@ -139,7 +140,7 @@ export const Item = styled.li`
   }
 `;
 
-export const LinkMenu = styled(Link)`
+export const LinkMenu = styled(AniLink)`
   color: ${themes.palette.sidebar.links};
   display: block;
   font-family: ${themes.fonts.others};

@@ -16,13 +16,25 @@ export default function Pagination({ currentPage, totalPages }) {
         className={`${isFirstPage ? 'first-page' : ''} ${isLastPage ? 'last-page' : ''}`}>
         {currentPage > 1 && (
           <>
-            <S.ActionLinks to="/" className="first">
+            <S.ActionLinks
+              cover
+              direction="left"
+              bg="#F7F6F1"
+              duration={0.6}
+              to="/"
+              className="first">
               <S.Icon>
                 <Icons name="arrow-double" />
               </S.Icon>{' '}
               <S.Text>Primeira página</S.Text>
             </S.ActionLinks>
-            <S.ActionLinks to={previousPage} className="previous">
+            <S.ActionLinks
+              cover
+              direction="left"
+              bg="#F7F6F1"
+              duration={0.6}
+              to={previousPage}
+              className="previous">
               <S.Icon>
                 <Icons name="arrow-single" />
               </S.Icon>{' '}
@@ -32,13 +44,25 @@ export default function Pagination({ currentPage, totalPages }) {
         )}
         {currentPage < totalPages && (
           <>
-            <S.ActionLinks to={nextPage} className="next">
+            <S.ActionLinks
+              cover
+              direction="left"
+              bg="#F7F6F1"
+              duration={0.6}
+              to={nextPage}
+              className="next">
               <S.Text>Próxima página</S.Text>{' '}
               <S.Icon>
                 <Icons name="arrow-single" />
               </S.Icon>
             </S.ActionLinks>
-            <S.ActionLinks to={`/page/${totalPages}`} className="last">
+            <S.ActionLinks
+              cover
+              direction="left"
+              bg="#F7F6F1"
+              duration={0.6}
+              to={`/page/${totalPages}`}
+              className="last">
               <S.Text>Última página</S.Text>{' '}
               <S.Icon>
                 <Icons name="arrow-double" />

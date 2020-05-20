@@ -12,8 +12,6 @@ Rio de Janeiro, dia 27 de maio de 2008. Dia agradável, tudo nos conformes, muit
 
 Um bocado. Mas depois vocês vão ver o porquê disso tudo.
 
-![Marca do Twitter](http://static.twitter.com/images/twitter.png)
-
 Venho falar aqui sobre o [Twitter](http://www.twitter.com). Você conhece? Não? Bom, não vou ficar aqui explicando sobre ele e tudo mais. Existem vários e vários textos explicando sua (in)utilidade, como usar, dicas e tudo mais.
 
 Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
@@ -32,23 +30,19 @@ Bastaram essas duas coisinhas ficarem o dia inteiro sem funcionar, que um monte 
 
 #### Voodoo é pra Jaiku!
 
-![Marca do Jaiku](http://www.jaiku.com/images/logo-big.gif)
-
 O [Jaiku](http://jaiku.com/) (sim, esse nome mesmo) foi um deles. Achei o nome completamente tosco, mas fazer o que né.
 
 #### Ponche. Ou seria Pounce?
-
-![Marca do Pownce](http://pownce.com/img/logo.gif)
 
 Outro que já existia e é até bonitinho é o [Pownce](http://pownce.com/), mas ainda não caiu na graça dos twitteiros.
 
 #### ICQ
 
-![Marca do ICQ](http://levangelista.files.wordpress.com/2007/04/20060922-icq.jpg)
+![Marca do ICQ](/assets/images/posts/20060922-icq.jpg)
 
 Sim, pasmem. O pré-histórico [ICQ](http://www.icq.com/) veio a tona, vários entrando novamente, alguns até entrando em mIRC. Aff... Apesar que o ICQ não tem muito a ver com microblogs, que é o conceito do twitter e afins. Mas é que ficaram falando tanto isso ontem que me chamou a atenção :D
 
-### Beleza Dulça. Mas onde você quer chegar?
+### Beleza, Dulça. Mas onde você quer chegar?
 
 Enrolei demais, mas vamos lá. O Twitter foi ganhando espaço, usuários, fama e afins. Hoje muita gente o utiliza em palestras, eventos, narrando todos os acontecimentos e tudo mais.
 
