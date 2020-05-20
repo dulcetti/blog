@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Globo Esporte lança sua nova versão'
 ---
 
-![Globo Esporte.com](/assets/images/posts/globoesporte.gif)
+![Globo Esporte.com](/uploads/globoesporte.gif)
 
 O mais esperado de todos, o mais acessado e o mais querido. Não, não é o flamengo, mas é outro que todos amam.
 

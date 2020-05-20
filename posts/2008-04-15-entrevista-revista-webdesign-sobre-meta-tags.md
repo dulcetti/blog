@@ -22,13 +22,13 @@ Foram três páginas falando sobre meta tags. Meu artigo está entre os cinco pr
 
 Abaixo eu coloquei uma prévia. Postei no meu Flickr. Já dá pra ler alguma coisa, mas comprem a Revista, pois também tem uma matéria bem interessante falando com o camarada [Marco Gomes](http://marcogomes.com/), falando sobre a [boo-box](http://boo-box.com/site/br/).
 
-![Primeira Página da Entrevista](/assets/images/posts/2415518861_3b83b15a14.jpg)
+![Primeira Página da Entrevista](/uploads/2415518861_3b83b15a14.jpg)
 Primeira Página.
 
-![Segunda Página da Entrevista](/assets/images/posts/2416338980_4904e5aeea.jpg)
+![Segunda Página da Entrevista](/uploads/2416338980_4904e5aeea.jpg)
 Segunda Página.
 
-![Terceira Página da Entrevista](/assets/images/posts/2416338896_1c5c5e244e.jpg)
+![Terceira Página da Entrevista](/uploads/2416338896_1c5c5e244e.jpg)
 Terceira Página.
 
 ## Finalizando...

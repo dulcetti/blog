@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Primeiras e merecidas Férias. Até a próxima.'
 ---
 
-![To indo de férias, fui](/assets/images/posts/ferias.jpg)
+![To indo de férias, fui](/uploads/ferias.jpg)
 Volto logo cambada... Vejo vocês depois.
 
 E ae cambada. Estou aqui novamente, mas agora não para falar de CSS, HTML, web standardss, nem nada disso. Na verdade o que eu vou falar aqui não interessa a ninguém aqui, pelo menos eu acho né :D
@@ -21,7 +21,7 @@ Sim, ela que você declara Imposto de Renda caso seu salário seja maior que R$1
 
 ## Essas suas férias estão te deixando meio maluco, hein Dulcetti...
 
-![ZZzzZZzzZZzZzZz](/assets/images/posts/garfield-pronta.jpg)
+![ZZzzZZzzZZzZzZz](/uploads/garfield-pronta.jpg)
 
 Deixando? Meio? Aff... Já sou faz tempo, nasceu comigo... E meio não existe.. Ou você é ou não é, não exista nada disso de meio.
 
@@ -37,7 +37,7 @@ To entrando de férias agora nesse final de semana e provavelmente não aparecer
 
 ## Legal, Bruno... Vai viajar?
 
-![Praia, agua de coco...](/assets/images/posts/havaianas-e-coco-pronta.jpg)
+![Praia, agua de coco...](/uploads/havaianas-e-coco-pronta.jpg)
 
 Exatamente por isso que estou aqui. Semana que vem pegarei uma mochila, colocarei algumas roupas, acessórios e partirei em rumo ao nordeste, no mochilão. Seria algo como MochiNerd. Pqp... Inventei isso agora, mas tá valendo.
 
@@ -47,7 +47,7 @@ Vou sem carro, a pé mesmo. Pedindo carona, pegando ônibus, subindo em caçamba
 
 ## E como vai ser, Dulcetti? Vai passar por onde?
 
-![Praia, agua de coco...](/assets/images/posts/ferias-pes-pronta.jpg)
+![Praia, agua de coco...](/uploads/ferias-pes-pronta.jpg)
 
 Então, vou passando pelo litoral, no máximo que for possível. Pelo Rio vou passando por Cabo Frio, Búzios, Campos, etc. Ainda farei um roteiro mais detalhado. Depois chegarei até o Espírito Santo. Vou passar por Vila Velha, Vitória e outros lugares que vocês me indicarem.
 
@@ -67,6 +67,6 @@ Caso esteja no caminho que eu for passar, me avise por aqui no blog mesmo que eu
 
 É isso, aquele abraço e vejo vocês por ae... Tirarei uns [dias de folga](http://diadefolga.com/) :D
 
-![To indo de férias, fui](/assets/images/posts/ferias-pes-com-areia_pronta.jpg)
+![To indo de férias, fui](/uploads/ferias-pes-com-areia_pronta.jpg)
 
 Vou curtir as praianas... Trabalhem ae...

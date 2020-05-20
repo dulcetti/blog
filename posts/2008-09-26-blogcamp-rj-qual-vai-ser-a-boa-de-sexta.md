@@ -8,7 +8,7 @@ title: 'BlogCamp RJ - Qual vai ser a boa de sexta?'
 
 Como vocês já sabem, os BlogCamps não são feitos somente de tecnologia, informação, blogueiros falando de posts, etc. Rola sempre umas cervejas, uma falação de merda absurda, entre outras coisas.
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/uploads/marca-blogcamp-rj.jpg)
 
 E por isso que esse modafoca que vos fala aqui, está mandando este post. O BlogCamp começa amanhã, mas as festas começam hoje mesmo ;)
 

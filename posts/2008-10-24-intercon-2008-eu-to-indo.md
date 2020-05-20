@@ -8,7 +8,7 @@ title: 'Intercon 2008 - Eu tô indo'
 
 Estou indo para o meu quarto [Intercon](http://imasters.uol.com.br/intercon/2008/) seguido e com o quarto penteado diferente. Ok que foda-se o penteado, mas pelo menos é o quarto evento seguido e espero que siga a qualidade do evento do ano passado, onde conheci pessoas fantásticas, entre profissionais da minha área, blogueiros, entre outros modafocas.
 
-![Marca do Intercon 2008](/assets/images/posts/marca-intercon.png)
+![Marca do Intercon 2008](/uploads/marca-intercon.png)
 
 ## Valew então modafoca
 

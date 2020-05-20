@@ -34,9 +34,9 @@ Espero que tenham gostado da entrevista. Queria agradecer a atenção e disponib
 
 Venho aqui também postar algumas fotos do evento iMasters Intercon 2005. algumas fotos com a galera que foi do rio, junto comigo. Espero que gostem das fotos, é só clicar para vê-las maiores. Seguem abaixo:
 
-![Galera do Rio no InterCon 2005](/assets/images/posts/galeraIntercon01.jpg)
+![Galera do Rio no InterCon 2005](/uploads/galeraIntercon01.jpg)
 
-![Galera do Rio no InterCon 2005](/assets/images/posts/galeraIntercon02.jpg)
+![Galera do Rio no InterCon 2005](/uploads/galeraIntercon02.jpg)
 
 Na primeira eu to com cara de marrento... :D Na segunda eu to dando uma "folderzada" no Fabiano... hehehehehe... Grande pessoal, muito bom conhecer a galera toda. Depois colocarei mais fotos.
 

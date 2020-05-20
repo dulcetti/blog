@@ -8,7 +8,7 @@ title: 'ETI - Encontro de Tecnologia da Informação'
 
 Mais uma vez o modafoca aqui vai falar sobre eventos. Tá difícil falar sobre webstandards e os assuntos que esse blog deveria falar, mas to sem tempo e saco de ficar escrevendo tutoriais e ficar escrevendo o que todo mundo escreve.
 
-![Marca do ETI](/assets/images/posts/logo-eti-maior.jpg)
+![Marca do ETI](/uploads/logo-eti-maior.jpg)
 
 ## Relaxa, Dulça. Mas diz ae, que evento é esse ae?
 
@@ -16,11 +16,11 @@ Como vocês já viram na marca e no título, é o ETI - Encontro de Tecnologia d
 
 ### Café da manhã
 
-![Galera no café da manhã](/assets/images/posts/2905532160_3931196455.jpg)
+![Galera no café da manhã](/uploads/2905532160_3931196455.jpg)
 
 O legal foi que eles convidaram um monte de modafoca pra coordenar o evento. Pessoas referência em tecnologia, relacionados às áreas temas do evento. E o modafoca que vos fala foi um dos convidados.
 
-![Galera no café da manhã](/assets/images/posts/2904695475_f6c91463bb.jpg)
+![Galera no café da manhã](/uploads/2904695475_f6c91463bb.jpg)
 Dulcetti atrasado, aproveitando pra tirar foto com a galera
 
 Sim, eles são loucos em me chamar, mas tudo bem, agora já era :) [Veja como foi o café da manhã](http://www.encontrodeti.com.br/site/?p=208). Percebam que eu não estou na foto da galera, mas foi porque não pude comparecer no horário marcado. Eu falei que eles são loucos, mas como disse, agora já era :) Mas lógico, tive que tirar uma com a galera que ainda estava lá :P
@@ -69,11 +69,11 @@ E na outra semana teremos outro chat, que provavelmente será sobre padrões web
 
 ## Maneiro, Dulcetti. Onde que vai ser?
 
-![Foto do Amcham](/assets/images/posts/amcham.jpg)
+![Foto do Amcham](/uploads/amcham.jpg)
 
 Em Sampa vai rolar no Amcham Brasil, que fica na Rua da Paz, 1.431 – Chácara Santo Antônio – São Paulo – SP
 
-![Foto do Centro de Convenções SulAmérica](/assets/images/posts/sulamerica.jpg)
+![Foto do Centro de Convenções SulAmérica](/uploads/sulamerica.jpg)
 
 E no Rio será no novo Centro de Convenções SulAmérica, que fica na Av. Paulo de Frontin, 1 – Cidade Nova – RJ
 

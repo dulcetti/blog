@@ -8,7 +8,7 @@ title: 'Campus Party Terceiro Dia e Nerds On Beer'
 
 Com a bebedeira de quarta, toda a zueira que rolou, bate papo, até PODCast, acabei desabando, já que eu ainda não tinha dormido praticamente no [Campus Party](http://www.campus-party.com.br/). Dormi no stand da [Telefônica](http://www.telefonica.com.br/), onde ficam os massagistas, etc. Lah é bom pq tem vários pufs e almofadas, com isso, mais confortável do que dormir no chão dentro de uma barraca.
 
-![Foto da Arena vazia](/assets/images/posts/2264594187_1197f574eb_m.jpg)
+![Foto da Arena vazia](/uploads/2264594187_1197f574eb_m.jpg)
 
 Depois disso, acordei bem cedo, tipo umas 6h, 7h e o local estava bem vazio. Acho que ninguém aguentou ficar dois dias seguidos ligado, também pudera.
 
@@ -20,7 +20,7 @@ Não, não. A galera foi acordando enquanto chegava a hora do almoço, etc. Algu
 
 O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idéia bacana, onde eles criaram uma camisa para cada dia de evento do Campus Party com uma pergunta em cada um delas. Com isso, eles paravam alguns blogueiros e pediam para se identificarem, sua atuação e comentar sobre a pergunta, se concorda ou não e por que. Segue abaixo os temas dos debates de cada dia:
 
-![Foto das camisas](/assets/images/posts/2265393200_caf43f46aa_m.jpg)
+![Foto das camisas](/uploads/2265393200_caf43f46aa_m.jpg)
 
 1. O que você espera do Campus Party?
 2. Pra que serve um nerd?
@@ -41,21 +41,21 @@ Destaco também a chegada da [Raquel Camargo](http://www.raquelcamargo.com/), qu
 
 ## E como que é a estrutura Dulcetti?
 
-![Foto da Arena vazia](/assets/images/posts/2265390546_ff6803d2ed_m.jpg)
+![Foto da Arena vazia](/uploads/2265390546_ff6803d2ed_m.jpg)
 
 Eh interessante. O primeiro andar é a parte gratuita, com todos os stands e mulheres espetaculares. Cada stand melhor que o outro, destacando os da CCE, da Intel, o caminhão da da Red Bull, o stand da LocaJogos, mas na verdade não tanto o stand, mas a morena do stand que é espetacular e muito simpática. Destaque também para o jogo de Kung Fu, o Kick Ass Kung Fu, onde as pessoas entram no jogo e os movimentos corporais deles se transformam em golpes dentro do jogo. Os inimigos são celebridades como o Bush, entre outros....
 
-![Foto das camisas](/assets/images/posts/2262864338_f1d27b446e_m.jpg)
+![Foto das camisas](/uploads/2262864338_f1d27b446e_m.jpg)
 
 Destaco também um jogo dentro de uma esfera parecida com akelas rodas da morte, onde motos ficam andando e dando cambalhotas, entre outras peripécias. A pessoa entra dentro do globo e os movimentos são livres, cada vez que ela anda, o globo vai girando e girando e a pessoa vai atirando, matando os inimigos. Bem interessante.
 
-![Foto da Arena vazia](/assets/images/posts/2264601997_0420361c38_m.jpg)
+![Foto da Arena vazia](/uploads/2264601997_0420361c38_m.jpg)
 
 Um stand que mandou bem foi o da TAM, que colocou um Wii dentro e deixou livre pra galera jogar. Fora que estavam com uma promoção maluca, pra criar um site pra TAM, não o site inteiro, mas alguma promoção, hotsite ou algo semelhante e o vencedor ganharia uma viagem pra algum lugar do Brasil, pago pela TAM, hospedados em algum dos hotéis conveniados com a TAM. Acho que é mais ou menos isso, por ae. :D
 
 ## Debates e mais debates... Não poderiam faltar né Dulça?
 
-![Foto da Arena vazia](/assets/images/posts/2267111407_3d8fae95bf_m.jpg)
+![Foto da Arena vazia](/uploads/2267111407_3d8fae95bf_m.jpg)
 
 Com certeza que não. É uma obrigação praticamente. Principalmente com essa guerra entre as mídias e os blogueiros, coisa que às vezes irrita, tanto pelos blogueiros que algumas vezes não tem razão, estão errados, com argumentos, mas na sua imensa maioria, a mídia falando merda dos Blogs e dos seus respectivos blogueiros.
 
@@ -67,7 +67,7 @@ Aconteceu nessa mesma quinta, o evento nerd mais famoso (pelo menos entre os ner
 
 ### Hmmmm... Legal Dulça... Mas o que tem demais nesse NOB?
 
-![Foto das camisas](/assets/images/posts/2268113126_83ab6d379c_m.jpg)
+![Foto das camisas](/uploads/2268113126_83ab6d379c_m.jpg)
 
 Além da bebedeira, bate papo, papos nerds e engraçados, tinha uma novidade. A [Daniele Suzuki](http://www.danielesuzuki.com.br/) (sim, sim, aquela japinha gatíssima) junto com a equipe do programa [Tribos](http://tribos.globolog.com.br/), da Multishow, vieram ao mesmo bar gravar o programa conosco.
 

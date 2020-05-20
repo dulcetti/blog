@@ -8,7 +8,7 @@ title: 'Retrospectiva BlogCamp MG'
 
 E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
 
-![Banner do BlogCamp MG](/assets/images/posts/banner-blogcamp-mg.jpg)
+![Banner do BlogCamp MG](/uploads/banner-blogcamp-mg.jpg)
 
 ## Mas e ae Dulcetti, como que foi o evento, conta ae
 
@@ -20,7 +20,7 @@ Ok, ok, pode deixar comigo. Vou falar sobre alguns pontos sobre o evento em gera
 
 ### O famoso Networking
 
-![Galera toda do BlogCamp MG reunida](/assets/images/posts/2043831762_3334b935ba.jpg)
+![Galera toda do BlogCamp MG reunida](/uploads/2043831762_3334b935ba.jpg)
 
 Na minha opinião, e [não somente na minha](http://www.techbits.com.br/2007/03/27/barcamp-o-verdadeiro-social-networking/), esse é o maior motivo e incentivo para ir num evento desses.
 
@@ -54,7 +54,7 @@ O palco não foi utilizado tantas vezes. Muitas vezes tínhamos alguns pequenos 
 
 Achei impressionante e muito bem bolado. Acho que essa informalidade ajuda nisso. Pra terem uma idéia, eu estava de bermuda, regata e chinelo havaiana como mostra a foto abaixo, que foi inclusive quando eu ganhei o brinde com os CoolNex Cards. Na verdade nessa eu to até descalço, fato que até o Pedro comentou e achou sensacional.
 
-![Eu com cara de bobo e descalço](/assets/images/posts/2040907195_b3ad3d142c.jpg)
+![Eu com cara de bobo e descalço](/uploads/2040907195_b3ad3d142c.jpg)
 
 O outro destaque desse formato foi a possibilidade de outros blogueiros participarem via Skype e UStream.tv, ouvindo o que o pessoal falava pelo microfone (regra que quase nunca era seguida pelo Guilherme do Papo de Homem :D) e vendo também por quem filmava por lá.
 

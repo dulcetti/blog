@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Morte ao IE6 - Internet Explorer 6'
 ---
 
-![Morte ao IE6](/assets/images/posts/2644891323_c3ffc663a5_o.png)
+![Morte ao IE6](/uploads/2644891323_c3ffc663a5_o.png)
 
 Quem aqui nunca teve problemas com bugs no IE6 que atire a primeira pedra.
 

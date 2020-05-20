@@ -14,7 +14,7 @@ Ah, mas você sabe, eu sempre demoro mesmo para falar sobre os eventos que eu vo
 
 ## Para de se explicar e explica logo como foi o evento.
 
-![Dulcetti tentando carregar um caixa](/assets/images/posts/2644114850_9278ac6f27.jpg)
+![Dulcetti tentando carregar um caixa](/uploads/2644114850_9278ac6f27.jpg)
 
 Ok, ok. Bom, foi um evento legal, num local muito bom, bonito, etc. Mas pelo tamanho da Google, esperava mais do evento. Por exemplo, o evento não tinha wi-fi. Isso não existe, pecaram demais, por mais que seja caro. Arrumem um outro local que possua wi-fi, pelo amor de Deus. Mandaram muito mal nesse esse aspecto.
 
@@ -22,7 +22,7 @@ E eu pensando que fosse twittar direto sobre o evento, fiquei na mão. Mas isso 
 
 ## Estrutura do evento
 
-![Palestrante falando sobre a Google](/assets/images/posts/2644117362_196568eb9c.jpg)
+![Palestrante falando sobre a Google](/uploads/2644117362_196568eb9c.jpg)
 
 Pela manhã rolou uma palestra, falando sobre a Google, histórias, etc. Isso numa sala gigantesca, que à tarde se transformaria em quatro. Gostei desse esquema de divisão das salas.
 
@@ -49,7 +49,7 @@ Bem revolucionário, mas pode ser perigoso. Tive umas boas conversas, com outras
 
 ### Google App Engine
 
-![Slide App Engine](/assets/images/posts/2644119542_fb2abe8423.jpg)
+![Slide App Engine](/uploads/2644119542_fb2abe8423.jpg)
 
 Pontos citados na palestra:
 
@@ -102,7 +102,7 @@ Um caso é o Google Reader, que ele baixa os posts de um feed para sua máquina,
 
 ### Palestra sobre Open Social & Orkut
 
-![Slide do Open Social](/assets/images/posts/2644122034_8eb9cda08d.jpg)
+![Slide do Open Social](/uploads/2644122034_8eb9cda08d.jpg)
 
 Curiosidades sobre o Open Social
 
@@ -148,7 +148,7 @@ Evento foi legalzinho, num local espetacular. Mas repito, **EVENTO SEM INTERNET 
 
 Apresentação de Cases, exemplos de utilização, isso o pessoal está cansado de ver em eventos. Está faltando algum diferencial em eventos do ramo. Chega de repetição.
 
-![Dulcetti e Rafael no Tortula](/assets/images/posts/2644112348_bfd1fbf7f2.jpg)
+![Dulcetti e Rafael no Tortula](/uploads/2644112348_bfd1fbf7f2.jpg)
 
 Mas deu pra conhecer pessoas, aumentar o networking, aprender também, por que não. Apesar dessas minhas reclamações, deu pra conhecer mais afundo o Google, ver um pouco mais sobre seus produtos, etc.
 

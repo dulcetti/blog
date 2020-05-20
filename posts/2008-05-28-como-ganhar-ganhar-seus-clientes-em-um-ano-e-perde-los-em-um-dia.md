@@ -18,7 +18,7 @@ Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
 
 ## Que que houve com o Twitter? Morreu?
 
-![Twitter Morto?](/assets/images/posts/twitter-morto.gif)
+![Twitter Morto?](/uploads/twitter-morto.gif)
 
 Nem tanto, mas está bem ferido, não diria em coma, mas em estado de emergência. Blá, blá e blá. Nada disso!
 
@@ -38,7 +38,7 @@ Outro que já existia e é até bonitinho é o [Pownce](http://pownce.com/), mas
 
 ### ICQ
 
-![Marca do ICQ](/assets/images/posts/20060922-icq.jpg)
+![Marca do ICQ](/uploads/20060922-icq.jpg)
 
 Sim, pasmem. O pré-histórico [ICQ](http://www.icq.com/) veio a tona, vários entrando novamente, alguns até entrando em mIRC. Aff... Apesar que o ICQ não tem muito a ver com microblogs, que é o conceito do twitter e afins. Mas é que ficaram falando tanto isso ontem que me chamou a atenção :D
 

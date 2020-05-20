@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'BlogCamp ES: Com cerveja o mais comédia'
 ---
 
-![Marca do BlogCamp ES](/assets/images/posts/blogcampes.jpg)
+![Marca do BlogCamp ES](/uploads/blogcampes.jpg)
 
 Bom, o BlogCampES foi uma merda, odiei, principalmente as pessoas, a Emily é feia demais, assim como a Rebeca, o Ivo também é bem tosco, assim como a noite toda nos bares e no Happy Hour que rolou na noite de sábado. E eu não dancei nada, não estava bebendo, nem fazendo nada demais.
 
@@ -20,7 +20,7 @@ Chegamos por volta das 8h e pouca de sexta feira e já partimos pro hotel. O hot
 
 ## E o evento, Dulcetti?
 
-![Praia de Vitória](/assets/images/posts/praia-pronta.jpg) Bela praia não é verdade?
+![Praia de Vitória](/uploads/praia-pronta.jpg) Bela praia não é verdade?
 
 Relaxa ae modafoca. Era sexta ainda e o evento estava programado para começar no sábado. Calma... Eu sei, tinha coisa na sexta, mas falarei mais a frente, fique calmo.
 
@@ -38,7 +38,7 @@ E lá estávamos, Bar Abertura, bem perto do Hotel. Cheguei com minha peruca est
 
 ### E pensaram mesmo, Brunão?
 
-![Dulcetti com Peruca Black Power](/assets/images/posts/eu-com-o-copo-na-boca.jpg) Que isso Dulcetti? Tá com sede mesmo hein.
+![Dulcetti com Peruca Black Power](/uploads/eu-com-o-copo-na-boca.jpg) Que isso Dulcetti? Tá com sede mesmo hein.
 
 Naturalmente meu nobre. Mas também, com essa cara "afro-iraniano" (sic), dessa cor quase angolana, aquele cabelo até combinava comigo. Pra quem lembra, já tive cabelo nesse estilo. Mas a diferença é que ele era bom, por incrível que pareça :D
 
@@ -52,7 +52,7 @@ Fora quando eu comecei a contar piadas. Contei poucas, tudo bem, mas pelo menos 
 
 ## Beberam muito então né, Dulcetti?
 
-![Valor da conta do bar](/assets/images/posts/conta.jpg) Até que vocês beberam bem hein.
+![Valor da conta do bar](/uploads/conta.jpg) Até que vocês beberam bem hein.
 
 Um bocado. A conta ainda conseguiu ficar abaixo do BarCamp RJ, que deu 700 e cacetada, enquanto que no BlogCamp do ES deu um pouco mais de R\$625, como vocês podem ver na imagem acima.
 
@@ -72,13 +72,13 @@ E depois disso, partimos pro Hotel. By viação canela mesmo, já que em Vix, tu
 
 Acordei relativamente cedo, levando em consideração a bebedeira do dia anterior, consegui acordar cedo. Umas 8h40, por ae. Sendo que o BlogCamp ES começaria às 9h, mas sem problemas, em nenhum dos BlogCamps eu cheguei no horário, aliás, quase ninguém :D
 
-![Placa com a indicação do local](/assets/images/posts/siga-por-aki.jpg)
+![Placa com a indicação do local](/uploads/siga-por-aki.jpg)
 
 Parti com a galera do Videolog rumo a UFES, local do evento. O engraçado é que a universidade é do lado de um mangue, bem estranho. Mas o interessante é que por lei, não se pode pegar os caranguejos de lá, pelo menos isso.
 
 A universidade é bem grande, foi meio chato pra achar o CT9, mas graças aos sinais colocados pela galera, conseguimos identificar onde que era o prédio do BlogCamp ES. Sim, prédio. Eles conseguiram reservar o CT9 só pro BlogCamp e eu achei isso sensacional.
 
-![Entrada do BlogCamp ES com o tapete do iMasters](/assets/images/posts/tapete-imasters.jpg)
+![Entrada do BlogCamp ES com o tapete do iMasters](/uploads/tapete-imasters.jpg)
 Tapete de Entrada pro BlogCamp ES.
 
 E também teve o apoio do [iMasters](http://www.imasters.com.br), que distribuiu uma porrada de revistas, que eu estava querendo ler tem bastante tempo :D, e ainda colocaram um tapete com a marca deles, achei isso fodástico. Foi representado pelo André Metzen, velho conhecido meu, de tantos Intercons que já participei :D Só senti falta do Tiago Baeta, que falou que iria comparecer, mas furou. Coisa feia hein Baeta.
@@ -107,7 +107,7 @@ Armandinho foi a frente, começou a falar sobre o evento, aquele blá, blá, bl�
 
 ### E surge a lenda... Cujo nome é Mackeenzy
 
-![Mackeenzy falando sobre o Videolog](/assets/images/posts/mackeenzy-falando-sobre-o-videolog.jpg)
+![Mackeenzy falando sobre o Videolog](/uploads/mackeenzy-falando-sobre-o-videolog.jpg)
 Mackeenzy falando com o pessoal sobre o Videolog.
 
 Sim, meu grande irmão Mackeenzy foi a frente falar sobre o Videolog e deu um show. Não vi ninguém falar que ele não é um showman com o microfone na mão e na frente da galera, principalmente pra falar bem do nosso filho, o Videolog.
@@ -116,7 +116,7 @@ Fez a galera rir, se interessar ainda mais pelo Videolog, foi extrovertido, simp
 
 ### Quando ninguém esperava, surge meu novo ídolo...
 
-![Ivo trazendo a cerveja](/assets/images/posts/ivo-levando-cerva.jpg)
+![Ivo trazendo a cerveja](/uploads/ivo-levando-cerva.jpg)
 Surge o salvador da pátria, Ivo, com a cerveja.
 
 Sim, sim, meu ídolo. Nome dele é Ivo e vocês o conhecem com toda certeza, pelo menos seu blog, o Treta. E vocês agora estão se perguntando: "Mas por que ele virou seu ídolo Dulcetti?". Simplesmente por ele pegar o dinheiro do Adsense dele e comprar cinco caixas de cerveja e trazer ao BlogCamp. Uma grande idéia, que se eu soubesse que ele fosse fazer isso, teria ajudado e comprado mais caixas :D
@@ -131,7 +131,7 @@ E logo depois disso, partimos pro almoço.
 
 ## O retorno ao BlogCamp ES
 
-![Galera do Lado de fora do auditório da UFES](/assets/images/posts/galera-no-gramado.jpg)
+![Galera do Lado de fora do auditório da UFES](/uploads/galera-no-gramado.jpg)
 Galera desconferindo, papeando do lado de fora do auditório da UFES
 
 Quando eu voltei, vi boa parte da galera fora do campus, no gramado, interagindo, conversando sobre vários assuntos, etc. Achei até interessante, gramado, me fez lembrar um pouco da hora que fiquei no gramado do BlogCamp em Curitiba. E quando entrei no CT, percebi o porquê da galera estar fora dele: um calor meio bizarro estava rolando naquele momento.
@@ -154,14 +154,14 @@ Amanhã? E o Happy Hour? Boooooooa Zeromeia.
 
 O grande Happy Hour. Nossos queridos Armandinho e Matheus conseguiram com a galera do ótimo espaço Spetacollo, um HH com tudo liberado pros blogueiros. Exatamente, isso que você leu, TUDO liberado. Vários aperitivos, frios, cerveja e tudo mais.
 
-![Galera fazendo chão chão chão](/assets/images/posts/galera-no-chao-chao.jpg)
+![Galera fazendo chão chão chão](/uploads/galera-no-chao-chao.jpg)
 Galera perdendo a linha dançando funk no chão.
 
 Contando com a presença do nosso grande DJ Raphael Mendes, do Bobagento levando a galera até o chão com as músicas, principalmente os funks neuróticos. Dou destaque a música daquela menina pastora alucinada, entre outras montagem criadas pelo DJ. Minha bola fora pra ele foi ele não ter o créu pra tocar pra galera, perdeu alguns pontos comigo nessa hora, mas sem problemas, fizemos o chão, chão, chão da mesma forma, com outras músicas.
 
 ### Dulcetti Piadista...
 
-![Dulcetti contando piada pra galera](/assets/images/posts/dulcetti-contando-piada.jpg)
+![Dulcetti contando piada pra galera](/uploads/dulcetti-contando-piada.jpg)
 Bruno contando piada pro pessoal.
 
 Exatamente. Comecei a contar piadas no início do HH. Começou primeiro com o Juliano e o Yoda como ouvintes, mas esse número foi crescendo aos poucos. quando eu vi, já tinha umas 4, 5 pessoas, por ae, ouvindo minhas piadas. Sendo que eu tive que recomeçar algumas vezes, pra geral ouvir direito e talz. Nesse momento eu contei mais piadas que no dia anterior, mas os destaques foram as mesmas piadas e também a do Fiat 147. :P
@@ -229,7 +229,7 @@ Gostaram do lance do Higuita né? Sou sinistro pra caramba. Isso porque não fil
 
 ## Final do BlogCamp ES
 
-![Foto quase oficial do BlogCamp ES](/assets/images/posts/2355303036_11cabe4ae0.jpg)
+![Foto quase oficial do BlogCamp ES](/uploads/2355303036_11cabe4ae0.jpg)
 Primeira foto oficial do BlogCamp ES.
 
 Bom, depois do jogo, rolaram alguns bate papos e tudo mais, mas só que poucos blogueiros restavam em comparação ao dia anterior. Com isso, a primeira foto oficial acabou ficando meio incompleta, mas fazer o que, não foram, agora já era ;)
@@ -239,14 +239,14 @@ Agora sim a foto oficial do BlogCamp ES. Mas ainda sim, faltando pessoas.
 
 Aháaaaa... Mas mesmo assim conseguimos reunir mais blogueiros, uns foram aparecendo bem depois do início do evento. Com isso, a segunda foto ficou mais completa, mas ainda faltando vários blogueiros. E logicamente que eu tive que fazer palhaçada e no Ivo.
 
-![Modafoca, o meu Cachorrinho](/assets/images/posts/eu-lu-modafoca.jpg)
+![Modafoca, o meu Cachorrinho](/uploads/eu-lu-modafoca.jpg)
 Modafoca, o meu Cachorrinho.
 
 Vale ressaltar também a minha doidera de pegar a peruca e fingir que era o meu cachorro poodle, o Modafoca. Sim, fiquei sacaneando todo mundo com ele, a Lu Monte riu pra caramba com ele. É só ver a foto.
 
 ## Legal hein Dulça, gostei.
 
-![Dulcetti agarrando a caixa do RSS](/assets/images/posts/dulcetti-rss.jpg)
+![Dulcetti agarrando a caixa do RSS](/uploads/dulcetti-rss.jpg)
 Dulcetti agarrando a caixa do RSS.
 
 É, eu também gostei e muito. E depois ainda fomos beber no bar Abertura, pra fechar com chave de ouro. Fiquei batendo papo com boa parte da galera, mudando de lugar pra atender a todos os blogueiros.

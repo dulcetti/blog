@@ -35,13 +35,13 @@ Eu destaco a implementação dos novos destaques do site, que antigamente eram f
 
 ### Novos Destaques do Ego
 
-![Exemplo do Destaque do Ego](/assets/images/posts/destaque-ego.jpg) Exemplo do Destaque do Ego
+![Exemplo do Destaque do Ego](/uploads/destaque-ego.jpg) Exemplo do Destaque do Ego
 
 A implementação desse destaque foi bem chata, principalmente para deixar igual em todos os browsers, incluindo os do Mac. Mas foi rápido, com todos os detalhes que foi chato. Mas mesmo assim, ainda não ficou 100%, porque alguém deve ter metido a mão enquanto eu estava de férias, ferrando tudo. Fazer o que né.
 
 ### Nova Galeria de Fotos do Ego
 
-![Exemplo da Galeria de Fotos do Ego](/assets/images/posts/galeria-fotos-ego.jpg) Exemplo da Galeria de Fotos do Ego
+![Exemplo da Galeria de Fotos do Ego](/uploads/galeria-fotos-ego.jpg) Exemplo da Galeria de Fotos do Ego
 
 Essa galeria, de início foi meio chata, pelo detalhes, efeitos, entre outras coisas. Mas também foi rápida. Agora ela será a Galeria padrão, deixando de lado aquela atual em flash que eu não acho muito agradável.
 

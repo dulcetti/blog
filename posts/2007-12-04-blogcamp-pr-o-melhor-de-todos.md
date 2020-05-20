@@ -88,12 +88,12 @@ Depois desse episódio, rolaram algumas discussões, etc. Nada muito produtivo p
 
 ### Segundo Dia (Parte 3 – Os ícones do BlogCamp se destacam) – Depois do almoço, as fotos, vídeos, etc
 
-![Dulcetti Fazendo um Flag](/assets/images/posts/2083375606_bbd22ffb4f_o.jpg)
+![Dulcetti Fazendo um Flag](/uploads/2083375606_bbd22ffb4f_o.jpg)
 Dul7 fazendo Flag
 
 Depois do almoço rolaram algumas fotos. Algumas toscas como essa acima em que eu estou fazendo um flag, técnica de segurar em postes e ficar estilo uma bandeira auhuaauuhauau. Mas também fotos normais, com a galera toda, como as fotos abaixo:
 
-![Galera Toda do BlogCamp PR](/assets/images/posts/2078029325_aeb938c3f9_b.jpg)
+![Galera Toda do BlogCamp PR](/uploads/2078029325_aeb938c3f9_b.jpg)
 A Macacada reunida :D
 
 #### Surge o Primeiro Ícone
@@ -102,7 +102,7 @@ Um grande ícone do evento foi aparecendo. Mackeenzy, diretor do Videolog, piroc
 
 Logicamente que eu não perdi essa oportunidade e coloquei a plaqueta do Ziggy, do "Sim, Viral." No rego dele. Vejam essa cena traumatizante abaixo:
 
-![Mackeenzy](/assets/images/posts/2082592563_e8d70f26b1.jpg)
+![Mackeenzy](/uploads/2082592563_e8d70f26b1.jpg)
 Mackeenzy fazendo Pose.
 
 Várias fotos maneiras, legais, etc. [Vocês podem ver outras fotos no flickr](http://www.flickr.com/search/?q=blogcamppr&w=all&s=int).
@@ -125,7 +125,7 @@ Lá fui eu lá pra fora. Com isso, começava a aparecer o terceiro ícone do Blo
 
 Comecei como o mulek piranha, dançarino de funk, fazendo a batida em que todos identificavam como o "Hino do Dul7". Não vou ficar colocando onomatopéias no Blog, pq vai ficar ridículo. Só ouvindo mesmo. (Tuntchatcha tchukuntchukuntcha... ok, não resisti :P)
 
-![Eu e as Meninas da Playboy](/assets/images/posts/2084080066_985082d7f7_o.jpg)
+![Eu e as Meninas da Playboy](/uploads/2084080066_985082d7f7_o.jpg)
 Sim. Pasmem. Esse é o Dulcetti saltando uma moita.
 
 Nego ria a cada mexida no ombro que eu fazia, dançando no estilo aleijadinho, ou minhas caras de putão que eu fazia. Fora as fotos que eu tirava fazendo careta, ou zuando as meninas do Axe.
@@ -188,7 +188,7 @@ Algumas pessoas passando um pouco mal, algumas alegres, outras querendo dançar 
 
 ### Segundo/Terceiro Dia (Parte 7 – Os Caçadores da Balada Perdida) – Do you wanna dance?
 
-![Eu e as Meninas da Playboy](/assets/images/posts/2082592965_2dd98e5010_o.jpg)
+![Eu e as Meninas da Playboy](/uploads/2082592965_2dd98e5010_o.jpg)
 Todas querendo o Dulcetti e querendo dançar. :D
 
 Esse título foi em homenagem ao Duke Nukem 3D. Saudades. :P

@@ -8,13 +8,13 @@ title: '6ª Semana de Design'
 
 E ae cambada. Tranquilidade pura? Tudo na normalidade? Estão felizes? Querem um abraço?
 
-![6 semana de design](/assets/images/posts/semana-design.jpg)
+![6 semana de design](/uploads/semana-design.jpg)
 
 Seguinte, venho para informa-los, fãs do Dulcetti, admiradores, odiadores, mulheres afim de mim, entre outras modalidades, que eu estarei na 6ª Semana de Design na Univercidade.
 
 ## E o que seria essa semana de Design Dulça?
 
-![Cases da 6 semana de design](/assets/images/posts/case.gif)
+![Cases da 6 semana de design](/uploads/case.gif)
 
 Um evento modafoca ae, que falará sobre Design (óbvio) de todos os tipos: Moda, Branding, Automóveis, Prototipagem, Ilustração e outros mais.
 

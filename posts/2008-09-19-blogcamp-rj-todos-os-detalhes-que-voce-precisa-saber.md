@@ -8,7 +8,7 @@ title: 'BlogCamp RJ: Todos os detalhes que você precisa saber'
 
 Falaeeeee cambada de modafoca. Finalmente é dada a largada. Depois de muita enrolação, esconde, fala, desfala, entre outros, aká estou eu, o modafoca mór de todos, para falar sobre esse evento, tão modafoca quanto quem vos fala.
 
-![Marca do BlogCamp RJ](/assets/images/posts/marca-blogcamp-rj.jpg)
+![Marca do BlogCamp RJ](/uploads/marca-blogcamp-rj.jpg)
 
 Depois dessa passada toda no vídeo, deu pra ter uma bela noção do que é o NAVE não é verdade? Só adianto que o lugar é impressionante e perfeito para a realização do BlogCamp RJ. ;)
 
@@ -34,7 +34,7 @@ E o final do evento será às 18h, na Arena Principal, com os agradecimentos e t
 
 ### Tá, mas e o local o modafoca?
 
-![Foto da Entrada do NAVE](/assets/images/posts/foto-nave.jpg)
+![Foto da Entrada do NAVE](/uploads/foto-nave.jpg)
 
 Relaxa, fica tranquilo. O local não poderia ser melhor por inúmeros motivos. Vai ser na NAVE (Núcleo AVançado de Educação).
 
@@ -42,13 +42,13 @@ E não pense você, que só porque a escola é estadual, que o local é precári
 
 #### E o que tem de especial nessa escola?
 
-![Foto da Recepção do NAVE](/assets/images/posts/foto-recepcao-nave.jpg)
+![Foto da Recepção do NAVE](/uploads/foto-recepcao-nave.jpg)
 
 Bastante coisa meu nobre. O NAVE é uma parceria do Oi Futuro com a Secretaria de Estado de Educação do Rio e não com o Governo Federal do Estado, que possui salas de aulas para diversas atividades, como criação de Games, Produção de Áudio e Vídeo, entre outras diversas coisas como vídeo games, espaços para um bate-papo, lounges, entre outros diversos apetrechos sensacionais.
 
 #### Quer dizer então que teremos videogames?
 
-![Foto de um rapaz jogando videogame](/assets/images/posts/foto-maluco-videogame.jpg)
+![Foto de um rapaz jogando videogame](/uploads/foto-maluco-videogame.jpg)
 
 Estou prevendo isso. Mas não deixarei liberado o tempo inteiro, porque senão ninguém vai querer participar das desconferências do evento, correto? Mas estou prevendo um campeonato com alguns participantes :D
 
@@ -60,7 +60,7 @@ Dividiremos em 3 arenas, lembrando que a quarta é surpresa, portanto, fique qui
 
 ### Arena Principal
 
-![Foto da Arena Principal](/assets/images/posts/foto-arena-principal.jpg)
+![Foto da Arena Principal](/uploads/foto-arena-principal.jpg)
 
 A arena base, inicial, onde tudo vai começar. Claro, que estou falando da parte das desconferências, etc, porque tudo começará em outro local, que falarei mais abaixo.
 
@@ -84,7 +84,7 @@ O moderador dessa sala será o Beto Largman e o Nick Ellis. Grandes e renomados 
 
 ### Arena Business
 
-![Foto da Arena Business](/assets/images/posts/foto-arena-business.jpg)
+![Foto da Arena Business](/uploads/foto-arena-business.jpg)
 
 A arena Business será na sala mais melhor de boa de todas. Linda, bem modafoca, sofás, mesas, computadores, etc. Como o nome da arena, já deu pra perceber pra que que serve essa arena, certo?
 
@@ -108,7 +108,7 @@ Nada mais, nada menos que um PlayStation 3, que servirá para um desempate, quan
 
 ### Área Tech
 
-![Foto de fora da arena Tech](/assets/images/posts/foto-arena-tech-externa.jpg)
+![Foto de fora da arena Tech](/uploads/foto-arena-tech-externa.jpg)
 
 Essa arena será a única dentro de uma sala de aula do NAVE. Mas fique tranquilo, pois a sala é alto nível, possui alguns computadores, mas por questões de segurança, não deixaremos livres para o pessoal usar. Foi mal galera, mas nem tudo é perfeito né ;) E eu escolhi a sala de "Programação de Games", pra entrar no clima não é verdade?
 
@@ -118,7 +118,7 @@ Bom, acabei cometendo um erro em colocar alguns temas do que vai ser falado em c
 Eu só quis colocar a sugestões dos inscritos sobre o que falar e as oficinas propostas. Portanto, você que sugeriu alguma oficina, prepare algo e sugira o assunto na Arena específica.
 **\[/UPDATE\]**
 
-![Foto de dentro da arena Tech](/assets/images/posts/foto-arena-tech-interna.jpg)
+![Foto de dentro da arena Tech](/uploads/foto-arena-tech-interna.jpg)
 
 Pela primeira vez, que eu me lembre, teremos uma área específica para a galera tech, ou seja, a galera que, além de blogar, escrever, falar merda, programa, mexe por dentro do WordPress, cria Plugins, mexe com HTML, CSS, JS, PHP, jQuery, entre outras tecnologias e ferramentas relacionadas a blogs.
 
@@ -128,21 +128,21 @@ Bom, o moderador será... Rá, eu mermo, esse modafoca pró++ mór de todos, azu
 
 ### Praça do NAVE
 
-![Foto da Praça do NAVE](/assets/images/posts/praca-nave.jpg)
+![Foto da Praça do NAVE](/uploads/praca-nave.jpg)
 
 Logicamente que não teremos somente as arenas. Teremos também espaços para bate papos, networking, comes e bebes (oba).
 
-![Foto da Praça do NAVE](/assets/images/posts/praca-nave2.jpg)
+![Foto da Praça do NAVE](/uploads/praca-nave2.jpg)
 
 E essa praça não é uma pracinha comum não, tem vários micros, tevês, até video-games. Com um belo visual e arquitetura, como não poderia deixar de ser. Vai ser nessa sala que ficará o Buffet, pra galera beber e comer.
 
 #### Corredor da Praça
 
-![Foto do Corredor](/assets/images/posts/corredor-nave.jpg)
+![Foto do Corredor](/uploads/corredor-nave.jpg)
 
 Caminhando pra esquerda da praça, você passará pela Arena Business e ficará em frente à entrada da Arena Principal. E lá você terá vários videogames como Wii, Playstations da vida.
 
-![Foto de um rapaz jogando Video Game](/assets/images/posts/foto-maluco-videogame.jpg)
+![Foto de um rapaz jogando Video Game](/uploads/foto-maluco-videogame.jpg)
 
 Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar jogando do que participar do evento, oficinas e tudo mais ;) Mas não se preocupe que liberarei e farei campeonatos mais pro final do evento, pra interagir a galera. ;)
 
@@ -167,7 +167,7 @@ Creio que será um dos principais pontos que a galera vai partir. Claro que nem 
 1. Vá para a parte de desembarque
 2. Siga até o Terminal de Ônibus
 
-![Foto do ônibus 606](/assets/images/posts/onibus-606.jpg)
+![Foto do ônibus 606](/uploads/onibus-606.jpg)
 
 4. Pegue o ônibus 606, é um verdinho tomate modafoca
 5. Desça no último ponto da Barão de Mesquita
@@ -215,7 +215,7 @@ O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal.
 
 1. Saindo aeroporto, você vai seguir em sentido a Av. Gen. Justo
 
-![Foto do ônibus 413](/assets/images/posts/onibus-413.jpg)
+![Foto do ônibus 413](/uploads/onibus-413.jpg)
 
 2. Lá tem um ponto de ônibus e pegue o ônibus 413 sentido Muda
 3. Ele entra na Rua Uruguai, no sentido correto do NAVE
@@ -236,7 +236,7 @@ A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Q
 1. Não precisa sair do aeroporto, porque senão você vai andarilhar que nem o Forest Gump e vai cair no chão antes de ter percorrido 20% do caminho
 2. Dentro do aeroporto mesmo (ok, fora, porque o ônibus não entra no terminal dã), você tem vários ônibus, logo atrás dos pontos de táxis.
 
-![Foto do ônibus 634](/assets/images/posts/onibus-634.jpg)
+![Foto do ônibus 634](/uploads/onibus-634.jpg)
 
 3. Pegue o ônibus 634 Freguesia/Saens Pena especial, pois não são todos que vão pelo Galeão.
 4. Desça na Praça Saens Pena e não no Ponto Final.
@@ -267,7 +267,7 @@ O bacana será, talvez, a possibilidade de podermos fazer o setlist, pedindo mú
 
 Sábado, após o BlogCamp, iremos para algum bar pela região, provavelmente pelo Praça Vanhargem, que possui vários bares e botecos legais. Não vou escolher um certo, vamos pra lá e a galera escolhe, vocês que estão mandando :)
 
-![Marca da Six Private](/assets/images/posts/marca-six-private.jpg)
+![Marca da Six Private](/uploads/marca-six-private.jpg)
 
 E depois, pra quem curte, iremos para a Boate Six, na Lapa. Fechamos um preço de R$35 para homens e R$10 para mulheres, entrando até 00h. Após isso, homens pagam R$40 e mulheres pagam R$15. Nada de acréscimos exorbitantes certo? ;)
 

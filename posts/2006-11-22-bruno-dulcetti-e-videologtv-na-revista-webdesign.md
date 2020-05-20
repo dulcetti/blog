@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'Bruno Dulcetti e Videolog.tv na Revista Webdesign.'
 ---
 
-![Thumb Matéria Revista Webdesign](/assets/images/posts/303512813_49ce343445_o.jpg)
+![Thumb Matéria Revista Webdesign](/uploads/303512813_49ce343445_o.jpg)
 
 E ae pessoal, tudo tranquilo? Por aqui tudo ótimo, melhor é quase impossível :D Brincadeira ;)
 

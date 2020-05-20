@@ -8,7 +8,7 @@ title: 'Dia Mundial da Usabilidade'
 
 Uma embalagem que não abre direito ou um produto difícil de usar. Quem já não passou por um problema desses? Com o objetivo de despertar a atenção das empresas e dos consumidores para essas questões foi criado o Dia Mundial da Usabilidade. Este ano o tema do evento, que é realizado em várias cidades do planeta no mesmo dia 13 de novembro, é "Transportes". O Rio de Janeiro mais uma vez comemora a data com uma noite repleta de palestras sobre o assunto com especialistas de design e usabilidade.
 
-![Marca do WUD 2008](/assets/images/posts/marca-wud.gif)
+![Marca do WUD 2008](/uploads/marca-wud.gif)
 
 O evento, que tem como finalidade a valorização da facilidade de uso de produtos e serviços no cotidiano, traz apresentações de casos de sucesso de projetos aeronáutico, ferroviário e soluções de transporte para o trânsito saturado das cidades.
 
@@ -28,7 +28,7 @@ E o local será o Teatro da Cidade, na Univer Cidade, campus Ipanema (que fica e
 
 ### Inscrições e mais informações sobre o evento
 
-![Banner do WUD 2008](/assets/images/posts/banner-wud2008.jpg)
+![Banner do WUD 2008](/uploads/banner-wud2008.jpg)
 
 [Se inscreva pelo site mesmo](http://www.ilearn.com.br/wud/), coisa rápida. Pode ser clicando no banner acima ;) . E veja mais informações no [site do evento](http://wudrj.com.br).
 
@@ -36,7 +36,7 @@ E o local será o Teatro da Cidade, na Univer Cidade, campus Ipanema (que fica e
 
 O responsável mor é o grande modafoca e meu camarada, Robson Santos, D.Sc. ESPM-Rio, Univer Cidade.
 
-E a programação do evento você pode conferir abaixo ou então vendo no [eflyer do evento](/assets/images/posts/eflyer-wudrj.jpg):
+E a programação do evento você pode conferir abaixo ou então vendo no [eflyer do evento](/uploads/eflyer-wudrj.jpg):
 
 ### 17h30 - Boas vindas e Abertura - Robson Santos, D.Sc.
 

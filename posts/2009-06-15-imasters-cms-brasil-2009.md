@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'iMasters CMS Brasil 2009'
 ---
 
-![Marca CMS Brasil](/assets/images/posts/logo-cms.gif)
+![Marca CMS Brasil](/uploads/logo-cms.gif)
 
 Sim, eu sei que estou em dívida com vocês aqui no blog, nem precisam avisar isso. Semana que vem sai um post explicando isso tudo, aguarde.
 
@@ -14,7 +14,7 @@ Mas antes disso, estou aqui para publicar sobre mais um evento do iMasters e sob
 
 ## Com vocês, WordPress, Joomla e Drupal
 
-![Marcas do WP, Joomla e Drupal](/assets/images/posts/frase-logos.jpg)
+![Marcas do WP, Joomla e Drupal](/uploads/frase-logos.jpg)
 
 O [iMasters](http://www.imasters.com.br/) está organizando o [CMS Brasil](http://www.cmsbrasil2009.com/), evento que falará sobre as principais ferramentas do gênero: WordPress, Joomla e Drupal.
 

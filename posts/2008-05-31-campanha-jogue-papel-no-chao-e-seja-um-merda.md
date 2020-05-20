@@ -26,21 +26,21 @@ Mas tudo bem, desfoquei totalmente do post :D
 
 ## Participe da campanha...
 
-![Papel no Chao](/assets/images/posts/lixo-chao.gif)
+![Papel no Chao](/uploads/lixo-chao.gif)
 
-![Mundo reclamando do Lixo](/assets/images/posts/meio-ambiente.jpg)
+![Mundo reclamando do Lixo](/uploads/meio-ambiente.jpg)
 
 Faça como os meninos das duas imagens e jogue lixo no chão, no planeta inteiro. Participe e seja **UM MERDA**. Isso mesmo, seja **UM MERDA PRÓ ++**. Conte para seus amigos, sua família, mostre a campanha para eles. Mas por favor, não se esqueça do **SEJA UM MERDA**, é essencial eles saberem disso, aliás, todos saberem disso. Você não vai jogar papel no chão somente, você jogará e será considerado **UM MERDA** de primeira linha ;)
 
 ### "E não é só isso..."
 
-![Papel no Chao](/assets/images/posts/lixo.jpg)
+![Papel no Chao](/uploads/lixo.jpg)
 
 E melhor, não somente jogue papel no chão, pois tem que ser com estilo e atitude. Jogue no chão sim, mas ganhe muitos bônus quando a late de lixo estiver na frente, ao lado, menos de 5mts longe de você. Você, com certeza, será reconhecido mais do que qualquer outro, já que o lugar devido estava na sua frente, mas você fez questão de ser um merda e jogar no chão mesmo.
 
 E fique tranquilo, [pois até o presidente já jogou lixo no chão](http://www.observatoriodaimprensa.com.br/artigos.asp?cod=307FDS005), então não se acanhe e junte-se a ele, ficando do mesmo nível.
 
-![Papel no Chao](/assets/images/posts/papel-no-chao.jpg)
+![Papel no Chao](/uploads/papel-no-chao.jpg)
 "Que legal, eu sou uma merda. Passo rindo por um monte de papel no chão e ainda jogo também."
 
 Você será reconhecido por todos em sua volta que você é um merda e isso não é para qualquer um, graças a Deus.

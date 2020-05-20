@@ -8,7 +8,7 @@ title: 'Portal Globo.com lança sua nova home'
 
 É com grande prazer que venho informar à vocês, que está no ar a [Nova Home da Globo.com](http://www.globo.com/).
 
-![Imagem da Nova Home da Globo.com](/assets/images/posts/0_11431586_00.jpg)
+![Imagem da Nova Home da Globo.com](/uploads/0_11431586_00.jpg)
 
 Totalmente mais leve, pensando no usuário, sem imagens desnecessárias. Agora grande parte, as mais importantes, são feitas com texto.
 
