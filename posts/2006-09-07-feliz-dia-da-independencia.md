@@ -6,10 +6,10 @@ featuredImage: ''
 title: 'Feliz Dia da Independência'
 ---
 
-![Dia da Inpendência do Brasil](/uploads/brazil06.gif)
-
 Interessante... Estive passando no net, quando entre no [Google](http://www.google.com.br/), qnd me deparei com a estilização da logomarca Identidade Visual deles...
 
-Manero, gostei...
+![Dia da Inpendência do Brasil](/uploads/brazil06.gif)
+
+Maneiro, gostei...
 
 Apenas isso... Aquele abraço...

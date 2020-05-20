@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Previsões (e algumas viagens?) para o ano de 2007'
 ---
 
-![Mãe Dinah](/uploads/maedinah.jpg)
-
 Meu camarada [Fábio Seixas](http://blog.fabioseixas.com.br/) deu início a uma [saga de previsões, sugestões, seja lá o que for para o ano de 2007](http://blog.fabioseixas.com.br/archives/2006/12/2007.html). Alguns outros blogueiros fizeram o mesmo e está na minha vez de fazer isso também. No final do post eu faço um trackback para todos e espero que eles e todos q postem sobre façam o mesmo :D
+
+![Mãe Dinah](/uploads/maedinah.jpg)
 
 - Mengão Campeão da Libertadores e Mundial :D
 - Que a Google lance o SOogle, seu Sistema Operacional e devaste o Windows dos computadores de usuários domésticos;

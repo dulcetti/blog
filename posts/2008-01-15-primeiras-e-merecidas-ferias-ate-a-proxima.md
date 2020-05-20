@@ -6,10 +6,10 @@ featuredImage: ''
 title: 'Primeiras e merecidas Férias. Até a próxima.'
 ---
 
+E ae cambada. Estou aqui novamente, mas agora não para falar de CSS, HTML, web standardss, nem nada disso. Na verdade o que eu vou falar aqui não interessa a ninguém aqui, pelo menos eu acho né :D
+
 ![To indo de férias, fui](/uploads/ferias.jpg)
 Volto logo cambada... Vejo vocês depois.
-
-E ae cambada. Estou aqui novamente, mas agora não para falar de CSS, HTML, web standardss, nem nada disso. Na verdade o que eu vou falar aqui não interessa a ninguém aqui, pelo menos eu acho né :D
 
 ## Não to entendendo nada, Bruno.
 

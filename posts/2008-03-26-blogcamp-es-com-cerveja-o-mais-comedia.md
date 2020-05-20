@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'BlogCamp ES: Com cerveja o mais comédia'
 ---
 
-![Marca do BlogCamp ES](/uploads/blogcampes.jpg)
-
 Bom, o BlogCampES foi uma merda, odiei, principalmente as pessoas, a Emily é feia demais, assim como a Rebeca, o Ivo também é bem tosco, assim como a noite toda nos bares e no Happy Hour que rolou na noite de sábado. E eu não dancei nada, não estava bebendo, nem fazendo nada demais.
+
+![Marca do BlogCamp ES](/uploads/blogcampes.jpg)
 
 Então, já que você leu até aqui este post, se você me conhece, pelo menos a minha fama, percebeu pelo último parágrafo que eu estou de sacanagem não é verdade? Dulcetti sem beber, dançar, odiando as pessoas, isso não é nem um pouco normal e fora da realidade e que tudo que falei acima foi o contrário do que realmente eu acho. Mas é que seria repetitivo falar que o [BlogCamp ES](http://blogcampes.wordpress.com/) foi irado, divertido, com conteúdo e todo aquele blá, blá de sempre. Só quis causar uma discórdia no início, pra que o Armandinho, o Ivo e o resto dos Blogueiros capixabas quisessem me matar.
 
@@ -20,7 +20,8 @@ Chegamos por volta das 8h e pouca de sexta feira e já partimos pro hotel. O hot
 
 ## E o evento, Dulcetti?
 
-![Praia de Vitória](/uploads/praia-pronta.jpg) Bela praia não é verdade?
+![Praia de Vitória](/uploads/praia-pronta.jpg)
+Bela praia não é verdade?
 
 Relaxa ae modafoca. Era sexta ainda e o evento estava programado para começar no sábado. Calma... Eu sei, tinha coisa na sexta, mas falarei mais a frente, fique calmo.
 
@@ -38,7 +39,8 @@ E lá estávamos, Bar Abertura, bem perto do Hotel. Cheguei com minha peruca est
 
 ### E pensaram mesmo, Brunão?
 
-![Dulcetti com Peruca Black Power](/uploads/eu-com-o-copo-na-boca.jpg) Que isso Dulcetti? Tá com sede mesmo hein.
+![Dulcetti com Peruca Black Power](/uploads/eu-com-o-copo-na-boca.jpg)
+Que isso Dulcetti? Tá com sede mesmo hein.
 
 Naturalmente meu nobre. Mas também, com essa cara "afro-iraniano" (sic), dessa cor quase angolana, aquele cabelo até combinava comigo. Pra quem lembra, já tive cabelo nesse estilo. Mas a diferença é que ele era bom, por incrível que pareça :D
 
@@ -52,7 +54,8 @@ Fora quando eu comecei a contar piadas. Contei poucas, tudo bem, mas pelo menos 
 
 ## Beberam muito então né, Dulcetti?
 
-![Valor da conta do bar](/uploads/conta.jpg) Até que vocês beberam bem hein.
+![Valor da conta do bar](/uploads/conta.jpg)
+Até que vocês beberam bem hein.
 
 Um bocado. A conta ainda conseguiu ficar abaixo do BarCamp RJ, que deu 700 e cacetada, enquanto que no BlogCamp do ES deu um pouco mais de R\$625, como vocês podem ver na imagem acima.
 

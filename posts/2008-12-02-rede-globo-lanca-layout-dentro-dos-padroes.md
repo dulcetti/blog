@@ -6,9 +6,9 @@ featuredImage: ''
 title: 'Rede Globo lança layout dentro dos Padrões'
 ---
 
-![Marca Rede Globo](/uploads/marca-redeglobo.jpg)
-
 Foi lançado neste exato momento o [novo layout do portal da Rede Globo](http://redeglobo.globo.com/). Dentro dos novos padrões [Globo.com](http://www.globo.com), depois do lançamento da [home da Globo.com](/portal-globocom-lanca-sua-nova-home), [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout), [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom), [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom), [Globo Esportes](/globo-esporte-lanca-sua-nova-versao).
+
+![Marca Rede Globo](/uploads/marca-redeglobo.jpg)
 
 ## Ficou legal hein Dulça
 

@@ -16,7 +16,7 @@ Na primeira edição, em 2005, o Dia Mundial da Usabilidade contou com a partici
 
 > "As palestras tem como público-alvo o consumidor, que muitas vezes se sente frustrado diante da dificuldade de usar produtos e serviços que adquire. E se estendem também a empresários e profissionais das áreas de comunicação, informática, design e qualidade, responsáveis na produção destes produtos e serviços."
 
-## Manero hein, Dulça
+## Maneiro hein, Dulça
 
 Bom, desculpem o formato meio que "sério demais" que não tem muito meu estilo. Mas estava sem saco tempo para criar um post sobre o evento e achei que esse trecho se encaixa bem pelo que o evento vai mostrar.
 
