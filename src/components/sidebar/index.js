@@ -4,9 +4,9 @@ import Img from 'gatsby-image';
 
 import * as S from './styles';
 import { themes } from '../../styles/themes';
-import Icons from '../icons/index';
+import SocialMedias from '../social-medias';
 
-export default function Sidebar({ siteTitle }) {
+export default function Sidebar() {
   const [isOpen, setOpen] = useState(false);
   const location = typeof window !== 'undefined' && window.location.pathname;
   const { logo, avatar } = useStaticQuery(
@@ -44,9 +44,9 @@ export default function Sidebar({ siteTitle }) {
         to="/">
         <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' ? (
-          <S.Title>{siteTitle}</S.Title>
+          <S.Title>Bruno Dulcetti</S.Title>
         ) : (
-          <S.InternalTitle>{siteTitle}</S.InternalTitle>
+          <S.InternalTitle>Bruno Dulcetti</S.InternalTitle>
         )}
       </S.LogoLink>
 
@@ -88,36 +88,7 @@ export default function Sidebar({ siteTitle }) {
           </S.List>
         </S.Menu>
 
-        <S.SocialMedias>
-          <S.Media>
-            <a href="https://github.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="github" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a
-              href="https://www.linkedin.com/in/dulcetti/"
-              target="_blank"
-              rel="noopener noreferrer">
-              <Icons name="linkedin" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://twitter.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="twitter" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://instagram.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="instagram" />
-            </a>
-          </S.Media>
-          <S.Media>
-            <a href="https://facebook.com/dulcetti" target="_blank" rel="noopener noreferrer">
-              <Icons name="facebook" />
-            </a>
-          </S.Media>
-        </S.SocialMedias>
+        <SocialMedias />
       </S.Navigation>
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
