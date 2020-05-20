@@ -148,11 +148,11 @@ Não deixarei full-time pra galera, porque senão boa galera vai preferir ficar 
 
 ### Sucesso total tio Dulça. E onde fica realmente? Como faço pra chegar?
 
-<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;output=embed&amp;s=AARTsJrE3sRqryDewSAsi3pZEwL0Uzbixg"></iframe>
+<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;sll=-14.179186,-50.449219&amp;sspn=66.110037,107.226563&amp;ie=UTF8&amp;t=h&amp;z=14&amp;iwloc=addr&amp;ll=-22.917528,-43.240557&amp;output=embed&amp;s=AARTsJrE3sRqryDewSAsi3pZEwL0Uzbixg"></iframe>
 
-[Exibir mapa ampliado](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&t=h&z=14&iwloc=addr&ll=-22.917528,-43.240557&source=embed)
+[Exibir mapa ampliado](https://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&t=h&z=14&iwloc=addr&ll=-22.917528,-43.240557&source=embed)
 
-A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai no 204, como você pode ver no Mapa acima. Ou [veja o mapa melhor](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&z=17&iwloc=addr) ou então [veja direto com o radar](http://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&ll=-22.927014,-43.24472&spn=0.004051,0.006545&t=h&z=18&iwloc=addr), via Google Maps.
+A NAVE fica na Tijuca, coração do Rio de Janeiro, na Rua Uruguai no 204, como você pode ver no Mapa acima. Ou [veja o mapa melhor](https://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&z=17&iwloc=addr) ou então [veja direto com o radar](https://maps.google.com.br/maps?f=q&hl=pt-BR&geocode=&q=Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&sll=-14.179186,-50.449219&sspn=66.110037,107.226563&ie=UTF8&ll=-22.927014,-43.24472&spn=0.004051,0.006545&t=h&z=18&iwloc=addr), via Google Maps.
 
 ### Beleza Bruno, mas eu não sei chegar.
 
@@ -180,11 +180,11 @@ Essa viagem dura +ou- uns 20, 25 minutos.
 
 ##### Para quem vai de carro
 
-<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=R.+Cordeiro+da+Gra%C3%A7a&amp;daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=FSKSov4dzLBs_Q%3B%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=1&amp;sz=16&amp;via=1&amp;sll=-22.904028,-43.207297&amp;sspn=0.016208,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.9064,-43.218305&amp;spn=0.016208,0.026178&amp;output=embed&amp;s=AARTsJrQ79Oku0MsFPqAHvkAjs-3pS1A9Q"></iframe>
+<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=R.+Cordeiro+da+Gra%C3%A7a&amp;daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=FSKSov4dzLBs_Q%3B%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=1&amp;sz=16&amp;via=1&amp;sll=-22.904028,-43.207297&amp;sspn=0.016208,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.9064,-43.218305&amp;spn=0.016208,0.026178&amp;output=embed&amp;s=AARTsJrQ79Oku0MsFPqAHvkAjs-3pS1A9Q"></iframe>
 
-[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&t=h&ll=-22.9064,-43.218305&spn=0.016208,0.026178&source=embed)
+[Exibir mapa ampliado](https://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&t=h&ll=-22.9064,-43.218305&spn=0.016208,0.026178&source=embed)
 
-Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&ll=-22.9064,-43.218305&spn=0.016208,0.026178&t=h&z=16). Ou então seguir o guia abaixo:
+Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês](https://maps.google.com.br/maps?f=d&saddr=R.+Cordeiro+da+Gra%C3%A7a&daddr=-22.910452,-43.212769+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=FSKSov4dzLBs_Q%3B%3B&mra=dme&mrcr=0&mrsp=1&sz=16&via=1&sll=-22.904028,-43.207297&sspn=0.016208,0.026178&ie=UTF8&ll=-22.9064,-43.218305&spn=0.016208,0.026178&t=h&z=16). Ou então seguir o guia abaixo:
 
 1. Siga a R. Gen. Luiz Mendes de Morais até você subir o viaduto Eng. Paulo de Sousa Reis
 2. Continue no viaduto, sem entrar em nenhuma rua ou curva
@@ -205,11 +205,11 @@ Vocês podem seguir o caminho que tem no [Google Maps que eu tracei para vocês]
 
 #### Aeroporto Santos Dumont
 
-<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=-22.906212,-43.168309&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;sll=-22.904305,-43.172107&amp;sspn=0.008104,0.013089&amp;ie=UTF8&amp;t=h&amp;ll=-22.904552,-43.168834&amp;spn=0.008104,0.013089&amp;output=embed&amp;s=AARTsJr6pv0yVSJbg9cGi42UhatrKVQIgQ"></iframe>
+<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=-22.906212,-43.168309&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;sll=-22.904305,-43.172107&amp;sspn=0.008104,0.013089&amp;ie=UTF8&amp;t=h&amp;ll=-22.904552,-43.168834&amp;spn=0.008104,0.013089&amp;output=embed&amp;s=AARTsJr6pv0yVSJbg9cGi42UhatrKVQIgQ"></iframe>
 
-[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&t=h&ll=-22.904552,-43.168834&spn=0.008104,0.013089&source=embed)
+[Exibir mapa ampliado](https://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&t=h&ll=-22.904552,-43.168834&spn=0.008104,0.013089&source=embed)
 
-O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal. É bem tranquilo chegar de lá. Quem for de carro, pode seguir o [mapa que tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&ll=-22.904552,-43.168834&spn=0.008104,0.013089&t=h&z=17).
+O aeroporto que faz ponte aérea com SP e, agora com a reforma, ficou bem legal. É bem tranquilo chegar de lá. Quem for de carro, pode seguir o [mapa que tracei para vocês](https://maps.google.com.br/maps?f=d&saddr=-22.906212,-43.168309&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=17&via=1&sll=-22.904305,-43.172107&sspn=0.008104,0.013089&ie=UTF8&ll=-22.904552,-43.168834&spn=0.008104,0.013089&t=h&z=17).
 
 ##### Para quem vai de ônibus
 
@@ -225,11 +225,11 @@ Essa viagem dura +ou- uns 40 minutos.
 
 #### Aeroporto Galeão
 
-<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;output=embed&amp;s=AARTsJrvuGjqh1RrG32ilZbzEsQAdMdDhg"></iframe>
+<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=d&amp;saddr=-22.811552,-43.25165&amp;daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&amp;hl=pt-BR&amp;geocode=%3BFZ5pov4dUaBs_Q%3B&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=16&amp;via=1&amp;sll=-22.813055,-43.250599&amp;sspn=0.016219,0.026178&amp;ie=UTF8&amp;t=h&amp;ll=-22.813055,-43.250599&amp;spn=0.016219,0.026178&amp;output=embed&amp;s=AARTsJrvuGjqh1RrG32ilZbzEsQAdMdDhg"></iframe>
 
-[Exibir mapa ampliado](http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&ll=-22.813055,-43.250599&spn=0.016219,0.026178&source=embed)
+[Exibir mapa ampliado](https://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&ll=-22.813055,-43.250599&spn=0.016219,0.026178&source=embed)
 
-A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Quem for de carro, pode seguir o [mapa que tracei para vocês](http://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&z=16).
+A segunda opção de aeroporto e geralmente a mais barata. E é internacional. Quem for de carro, pode seguir o [mapa que tracei para vocês](https://maps.google.com.br/maps?f=d&saddr=-22.811552,-43.25165&daddr=R.+Elp%C3%ADdio+Boamorte+to:Rua+Uruguai,+204,+Tijuca,+Rio+de+Janeiro&hl=pt-BR&geocode=%3BFZ5pov4dUaBs_Q%3B&mra=dme&mrcr=0&mrsp=0&sz=16&via=1&sll=-22.813055,-43.250599&sspn=0.016219,0.026178&ie=UTF8&t=h&z=16).
 
 ##### Para quem vai de ônibus
 
