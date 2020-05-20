@@ -6,11 +6,9 @@ featuredImage: ''
 title: 'Globo.com lança nova versão de layout'
 ---
 
-![Marca Globo.com](/uploads/marca-globo.gif)
+Depois de mais de um ano, a [Globo.com](http://www.globo.com) lança um novo layout na sua home, [assim como a Rede Globo](/rede-globo-lanca-layout-dentro-dos-padroes). Pouca coisa mudou, principalmente se formos comparar com a versão anterior e a outra. O bafafá foi bem grande, alguns comentários, a grande maioria contra o novo layout, mas que a usabilidade e acessibilidade estavam sucesso.
 
-Depois de mais de um ano, a [Globo.com](http://www.globo.com) lança um novo layout na sua home, [assim como a Rede Globo](/rede-globo-lanca-layout-dentro-dos-padroes.html). Pouca coisa mudou, principalmente se formos comparar com a versão anterior e a outra. O bafafá foi bem grande, alguns comentários, a grande maioria contra o novo layout, mas que a usabilidade e acessibilidade estavam sucesso.
-
-## Concordo Dulcetti. A usabilidade tá legal, mas concordo que não mudou tanto.
+## Concordo, Dulcetti. A usabilidade tá legal, mas concordo que não mudou tanto.
 
 E também não tem como mudar muito, revolucionar toda hora, colocar um fundo preto ou algo do gênero. A grande parte da mudança se percebe na barra.
 

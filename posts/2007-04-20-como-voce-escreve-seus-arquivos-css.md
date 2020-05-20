@@ -8,43 +8,45 @@ title: 'Como você escreve seus arquivos CSS?'
 
 Fala pessoal. Ressurgindo das cinzas como uma Fênix, aqui estou eu novamente, para encher vossos sacos :D e saber de vocês e mostrar como eu escrevo meus arquivos [CSS](http://pt.wikipedia.org/wiki/Cascading_Style_Sheets)'s.
 
-## Mas por que isso Bruno?
+## Mas por que isso, Bruno?
 
 Simples. Antigamente eu pensava que não tinha diferença na escrita dos CSS's que eu criava, etc. E na verdade, no início é sempre assim, pouco damos valor a essas pequenas coisas, esses pequenos detalhes.
 
 Detalhes que fazem a diferença na sua grande parte. Lembrando que não estou falando da utilização das regras, como, quando e porquê usar tal propriedade CSS. Estou falando da escrita mesmo, como você cria, etc.
 
-## Ainda não entendi direito Bruno. Explica melhor essa parte da escrita do CSS
+## Ainda não entendi direito, Bruno. Explica melhor essa parte da escrita do CSS
 
 Vou mostrar um exemplo de uma forma de escrever, criar um arquivo CSS:
 
+```css
 .minhaClasse {
-background-color: #CCC;
-border: 1px solid #FC3;
-color: #FFF;
-height: 300px;
-width: 200px;
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
 }
 
 .minhaClasse2 {
-background-color: #CCC;
-border: 1px solid #FC3;
-color: #FFF;
-height: 300px;
-width: 200px;
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
 }
 
 .minhaClasse3 {
-background-color: #CCC;
-border: 1px solid #FC3;
-color: #FFF;
-height: 300px;
-width: 200px;
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
 }
+```
 
 Peço que não levem em conta que todas as classes estão com as mesmas propriedades. Coloquei mais para não ter que ficar criando, etc. Estou com preguiça e no trabalho, não esqueçam disso :D
 
-### Legal Bruno. E?
+### Legal, Bruno. E?
 
 Perceberam que esta é uma declaração simples de um CSS correto? Imaginem um CSS com 300 linhas de código, parecido com esses que passei agora. Bastante coisa, certo? O arquivo terá muitos ID's, Classes, declarações para tags, etc.
 
@@ -56,7 +58,7 @@ Muitas vezes também por organização no código, entre outros motivos. Creio q
 
 Eu mesmo achava horríveis os códigos CSS's que ficavam tudo em uma linha só, sem espaços, completamente difíceis de serem enxergados, etc. Tinha meio que um preconceito, uma certa dificuldade de aceitar tal forma de criar.
 
-### Verdade Bruno. Mas como você faz seus CSS's agora?
+### Verdade, Bruno. Mas como você faz seus CSS's agora?
 
 Antes de responder essa pergunta, vou explicar porquê mudei minha forma de implementar meus CSS's.
 
@@ -88,9 +90,29 @@ Sem esquecer que ainda farei umas otimizações, para não haver chamadas desnec
 
 Mostrarei o exemplo anterior utilizando a forma como estou escrevendo os meus CSS's:
 
-.minhaClasse {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
-.minhaClasse2 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
-.minhaClasse3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+```css
+.minhaClasse {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+.minhaClasse2 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+.minhaClasse3 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 Bem menos linhas concordam? Menos espaços em branco, tabs, etc.
 
@@ -117,29 +139,53 @@ Quando temos várias linhas, com as propriedades, ficamos meio perdidos no iníc
 
 Em contrapartida, quando temos um css como o mostrado no primeiro exemplo, temos uma organização por blocos com várias linhas e não por linhas com várias propriedades, com isso, não achamos os blocos tão facilmente:
 
+```css
 #conteudo .box {
-background-color: #CCC;
-border: 2px solid #000;
-color: #333;
-width: 200px;
+  background-color: #ccc;
+  border: 2px solid #000;
+  color: #333;
+  width: 200px;
 }
 
 #conteudo .boxTal {
-background-color: #000;
-border: 1px solid #666;
-color: #FFF;
-width: 200px;
+  background-color: #000;
+  border: 1px solid #666;
+  color: #fff;
+  width: 200px;
 }
+```
 
 Percebemos que as duas classes estão contidas, somente, no ID conteúdo. Correto? O prefixo **#conteudo** afirma isso (isso é básico e espero que todos saibam disso).
 
 Mas percebam que de cara não é tão fácil perceber isso. Pensamos um pouco, nem que sejam alguns milésimos de segundos a mais (ok, ok... dei uma de Steve Krug agora :D). Mas é a pura verdade. Do segundo modo, temos uma melhora visual da hierarquia das linhas, elementos e propriedades:
 
-#conteudo .box {background-color:#CCC;border:2px solid #000;color:#333;width:200px;}
-#conteudo .boxTal {background-color:#000;border:1px solid #666;color:#FFF;width:200px;}
+```css
+#conteudo .box {
+  background-color: #ccc;
+  border: 2px solid #000;
+  color: #333;
+  width: 200px;
+}
+#conteudo .boxTal {
+  background-color: #000;
+  border: 1px solid #666;
+  color: #fff;
+  width: 200px;
+}
 
-#lateral .box {background-color:#CCC;border:2px solid #000;color:#333;width:200px;}
-#lateral .boxTal {background-color:#000;border:1px solid #666;color:#FFF;width:200px;}
+#lateral .box {
+  background-color: #ccc;
+  border: 2px solid #000;
+  color: #333;
+  width: 200px;
+}
+#lateral .boxTal {
+  background-color: #000;
+  border: 1px solid #666;
+  color: #fff;
+  width: 200px;
+}
+```
 
 Percebam que nas duas linhas o **#conteudo** está um logo abaixo do outro, o que já afirma serem "filhas" do mesmo bloco quando batemos o olho. O mesmo vale para o prefixo **#lateral**.
 
@@ -155,7 +201,7 @@ Os elementos quando possuem muitas propriedades, muitas declarações, acaba est
 
 Isso é bem normal, nada tão grave ao meu ver. Mas...
 
-## Legal Bruno. Mas podem existir variações nessa forma de escrita?
+## Legal, Bruno. Mas podem existir variações nessa forma de escrita?
 
 Com certeza. Vou mostrar algumas variações nessa forma de Implementar seus CSS's. Principalmente na parte de propriedades para multi-elementos.
 
@@ -171,9 +217,17 @@ Vou listar abaixo algumas variedades, mas fiquem à vontade de sugerirem algumas
 
 Vejamos abaixo:
 
-.minhaClasse { background-color:#CCC; border:1px solid #FC3; color:#FFF; height:300px; width:200px; }
+```css
+.minhaClasse {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
-Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](/atalhos-e-dicas-pro-desenvolvimento.html), não considerando caracteres especiais, desta forma ajuda e muito.
+Algumas pessoas fazem desta forma, principalmente para facilitar na identificação das propriedades, separação. Mas tem um ponto importante também, que é abrir o arquivo no Notepad, e como ele é péssimo nos [atalhos dos desenvolvedores](/atalhos-e-dicas-pro-desenvolvimento), não considerando caracteres especiais, desta forma ajuda e muito.
 
 ### Com espaços somente depois das propriedades no CSS
 
@@ -187,7 +241,15 @@ O mesmo que o anterior, mas sem espaços após a { de início e } de final das d
 
 Vejamos abaixo:
 
-.minhaClasse {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+```css
+.minhaClasse {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 A forma que eu utilizo. É um pouco mais complicada de entender, mas é a mais econômica de todas. E como não abro, geralmente, pelo Notepad os CSS's, não tenho problemas com ele.
 
@@ -195,7 +257,17 @@ A forma que eu utilizo. É um pouco mais complicada de entender, mas é a mais e
 
 Vejamos abaixo:
 
-.minhaClasse, .minhaClasse2, .minhaClasse3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+```css
+.minhaClasse,
+.minhaClasse2,
+.minhaClasse3 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 Caindo agora pra parte de declarações para múltiplos elementos, temos este, que é o utilizado geralmente. Já utilizei bastante, principalmente quando temos poucas propriedades na declaração, mas quando é ao contrário, temos o problema da linha ficar muito comprida, o que eu não acho legal.
 
@@ -205,9 +277,17 @@ Fora que, às vezes, pode parecer que os múltiplos elementos é um só.
 
 Vejamos abaixo:
 
+```css
 .minhaClasse,
 .minhaClasse2,
-.minhaClasse3 {background-color:#CCC;border:1px solid #FC3;color:#FFF;height:300px;width:200px;}
+.minhaClasse3 {
+  background-color: #ccc;
+  border: 1px solid #fc3;
+  color: #fff;
+  height: 300px;
+  width: 200px;
+}
+```
 
 A forma que utilizo hoje em dia. Acho mais organizada e mais fácil de se localizar.
 

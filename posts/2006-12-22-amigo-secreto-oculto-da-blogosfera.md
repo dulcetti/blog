@@ -60,7 +60,7 @@ Tá na vez agora do Thiago... Vai lá maluuuuco... Aquele abraço...
 18. [Sérgio F. Lima](http://sergioflima.pro.br/blog/blogs/index.php?blog=1&title=amigo_secreto_brgizmo&more=1&c=1&tb=1&pb=1)
 19. [Juan Almeida](http://brgizmo.freehostia.com/blog/amigo-secreto-blogosfera/)
 20. [Felipe Marinho](http://decuro.blogspot.com/)
-21. [Bruno Dulcetti. Eu :D](/amigo-secreto-oculto-da-blogosfera.html)
+21. [Bruno Dulcetti. Eu :D](/amigo-secreto-oculto-da-blogosfera)
 22. [Thiago Montini](http://impermanentes.com.br/2006/12/22/amigo-secreto-da-blogosfera-2/)
 23. [Hilder Santos](http://www.pimentacomdende.com/2006/12/26/para-meu-amigo-nada-secreto/) **Update!**
 24. [Douglas Corrêa](http://www.gravateiros.com.br/2006/12/23/amigo-secreto-da-blogosfera/) **Update!**

@@ -18,7 +18,7 @@ Creio que sim. E o legal é que você pode ir nos dois quando quiser. Quer dar u
 
 ## Quando e onde?
 
-Acontecerá no próximo sábado, dia 28 de março, no Centro de Convenções Sulamérica RJ. Será no mesmo local onde aconteceu o [Primeiro Encontro de TI](/eti-encontro-de-tecnologia-da-informacao.html)
+Acontecerá no próximo sábado, dia 28 de março, no Centro de Convenções Sulamérica RJ. Será no mesmo local onde aconteceu o [Primeiro Encontro de TI](/eti-encontro-de-tecnologia-da-informacao)
 
 ## E a Arteccom faz 10 anos
 

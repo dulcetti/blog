@@ -6,7 +6,7 @@ featuredImage: ''
 title: 'BlogCamp RJ: Onde ficar'
 ---
 
-Seguindo a [sequência de posts](/blogcamp-rj-oficinas-e-novidades.html) para ajudar os modafocas que não sabem nada do Rio de Janeiro, Tijuca, venho aqui dar algumas dicas de hospedagem na cidade maravilhosa.
+Seguindo a [sequência de posts](/blogcamp-rj-oficinas-e-novidades) para ajudar os modafocas que não sabem nada do Rio de Janeiro, Tijuca, venho aqui dar algumas dicas de hospedagem na cidade maravilhosa.
 
 ![Marca do BlogCamp RJ](/uploads/marca-blogcamp-rj.jpg)
 

@@ -12,7 +12,7 @@ Bom, antes de eu comentar sobre o assunto, adianto para vocês que semana que ve
 
 Ela já esta pronta, só falta eu modificar algumas coisas no Banco de Dados e adicionar o tema aqui no [Word Press](http://www.wordpress.org).
 
-Falando em [Word Press](http://www.wordpress.org), atualizei ontem para o Word Press 2.0. E digo, ele é bem melhor que o 1.5, vários recursos interessantes, o [Akismet](/tchau-tchau-spammers-by-akismet.html) já vem instalado bastanto somente ativá-lo, entre outras vantagens.
+Falando em [Word Press](http://www.wordpress.org), atualizei ontem para o Word Press 2.0. E digo, ele é bem melhor que o 1.5, vários recursos interessantes, o [Akismet](/tchau-tchau-spammers-by-akismet) já vem instalado bastanto somente ativá-lo, entre outras vantagens.
 
 ## Chega de conversa Bruno e vamos ao assunto?
 

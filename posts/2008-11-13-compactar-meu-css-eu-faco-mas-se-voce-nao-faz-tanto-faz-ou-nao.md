@@ -29,7 +29,7 @@ Para esta forma:
 
 ### Feio isso hein
 
-Sim, sim. Concordo, mas eu [comentei aqui no blog um tempo atrás](/como-voce-escreve-seus-arquivos-css.html) sobre essa forma de implementação de CSS, seus motivos, entre outros, mas repito novamente.
+Sim, sim. Concordo, mas eu [comentei aqui no blog um tempo atrás](/como-voce-escreve-seus-arquivos-css) sobre essa forma de implementação de CSS, seus motivos, entre outros, mas repito novamente.
 
 ## Motivos
 

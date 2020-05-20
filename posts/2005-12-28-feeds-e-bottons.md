@@ -17,6 +17,6 @@ Falando dos bottoms, coloquei outros também, destaque para os bottoms dos produ
 
 Demorei, mas me afiliei aos desenvolvedores Firefox e coloquei um banner pra galera atualizar o browser. Mais o que na hora :D. E coloquei também o selo [CC](http://creativecommons.org/licenses/by-nc-sa/2.0/br/), agora disponibilizo meu conteudo, mas quem quiser ver as condições, por favor, dê uma olhada no link. Quem não conhece, pode ver no site da [Creative Commons a licença](http://www.creativecommons.org/ 'Ver a licença da Creative Commons') e o [conteúdo](http://www.commoncontent.org/ 'Ver o conteúdo da Creative Commons').
 
-Coloquei também fixa, a imagem do [Frappr](http://www.frappr.com) do Blog, quem quiser participar é só clicar na imagem. Quem quiser saber mais, [veja meu outro post sobre ele](/frappr-mapeamento-de-visitantes.html).
+Coloquei também fixa, a imagem do [Frappr](http://www.frappr.com) do Blog, quem quiser participar é só clicar na imagem. Quem quiser saber mais, [veja meu outro post sobre ele](/frappr-mapeamento-de-visitantes).
 
 Bom, é isso, fico por aqui, aquele abraço à todos.
