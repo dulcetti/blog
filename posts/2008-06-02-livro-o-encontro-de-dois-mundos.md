@@ -38,7 +38,7 @@ E como eu não posso esquecer, terá um [Coquetel de Lançamento do livro](http:
 
 Mas como não poderia deixar de ser, em breve teremos um coquetel no Rio e em Vitória. Aguarde!
 
-Visite o [Hotsite de lançamento do livro](http://imasters.uol.com.br/livro/) e veja quem participou e o nome dos artigos. E se você já quiser comprar o livro, ele tá custando bem pouco, [somente R\$40 no TI-Shop](http://www.tishop.com.br/detalhe_produto.php?produto=895)
+Visite o [Hotsite de lançamento do livro](http://imasters.uol.com.br/livro/) e veja quem participou e o nome dos artigos. E se você já quiser comprar o livro, ele tá custando bem pouco, [somente R\$40 no TI-Shop](https://www.tishop.com.br/detalhe_produto.php?produto=895)
 
 ### Finalizando...
 

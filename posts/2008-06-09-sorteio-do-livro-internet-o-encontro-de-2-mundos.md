@@ -1,12 +1,10 @@
 ---
-category: "Publicações"
-date: "2008-06-09"
-description: ""
-featuredImage: ""
-title: "Sorteio do Livro \"Internet: O encontro de 2 mundos\""
+category: 'Publicações'
+date: '2008-06-09'
+description: ''
+featuredImage: ''
+title: 'Sorteio do Livro "Internet: O encontro de 2 mundos"'
 ---
-
-![Capa do Livro O Encontro de 2 mundos](http://www.tishop.com.br/imagens/produtos/895/capa_grande.jpg)
 
 Hoje, segunda-feira, dia 09 de junho de 2008, fiz o sorteio do Livro: "Internet: O encontro de 2 mundos", como havia prometido.
 
