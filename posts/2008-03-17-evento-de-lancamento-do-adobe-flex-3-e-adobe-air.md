@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2008-03-17"
-description: ""
-featuredImage: ""
-title: "Evento de Lançamento do Adobe Flex 3 e Adobe AIR"
+category: 'Eventos'
+date: '2008-03-17'
+description: ''
+featuredImage: ''
+title: 'Evento de Lançamento do Adobe Flex 3 e Adobe AIR'
 ---
 
 A Adobe Systems Brasil tem o prazer de convidá-lo para o lançamento do Adobe Flex 3 e Adobe AIR: as soluções da Adobe para desenvolvimento de Aplicações Ricas para Internet (RIA). Aprenda a criar e desenvolver aplicações ricas e dinâmicas compatíveis com diversos sistemas operacionais, aprimorando a experiência dos usuários e modificando a forma com que as pessoas interagem com a Web.

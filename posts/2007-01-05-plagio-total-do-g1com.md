@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2007-01-05"
-description: ""
-featuredImage: ""
-title: "PLÁGIO TOTAL DO G1!"
+category: 'Tecnologia'
+date: '2007-01-05'
+description: ''
+featuredImage: ''
+title: 'PLÁGIO TOTAL DO G1!'
 ---
 
 Perae. Estou sumido e tudo, mas depois dessa que eu recebi por email, foi brincadeira. Me mandaram por email [um site](http://www.anoticiadigital.com.br/) que foi a cópia, um clone do site do [G1 da Globo.com](http://www.g1.com.br).

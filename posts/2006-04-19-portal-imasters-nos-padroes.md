@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2006-04-19"
-description: ""
-featuredImage: ""
-title: "Portal iMasters nos padrões"
+category: 'Webstandards'
+date: '2006-04-19'
+description: ''
+featuredImage: ''
+title: 'Portal iMasters nos padrões'
 ---
 
 E ae pessoal, tudo tranquilo?

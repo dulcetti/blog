@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-01-25"
-description: ""
-featuredImage: ""
-title: "Google News"
+category: 'Tecnologia'
+date: '2006-01-25'
+description: ''
+featuredImage: ''
+title: 'Google News'
 ---
 
 É... Agora é oficial, nada mais de beta version... O [Google](http://www.google.com.br/) lançou oficialmente seu mais novo empreendimento, o [Google News](http://news.google.com/). O site, agrega notícias de vários sites instantâneamente, está disponível em 22 regiões e em 10 idiomas.

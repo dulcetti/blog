@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-01-27"
-description: ""
-featuredImage: ""
-title: "Firefox Turbinado"
+category: 'Tecnologia'
+date: '2006-01-27'
+description: ''
+featuredImage: ''
+title: 'Firefox Turbinado'
 ---
 
 Vi agora uma coisa no [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196) muito interessante. Ele tem umas chaves que podem melhorar seu desempenho. É só digitar na barra de endereços do firefox o endereço: "about:config", sem as aspas lógico, que ele abrirá a lista com as chaves.

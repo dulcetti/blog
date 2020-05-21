@@ -1,9 +1,9 @@
 ---
-category: "Portfólio"
-date: "2006-05-10"
-description: ""
-featuredImage: ""
-title: "Blog Colletivo"
+category: 'Portfólio'
+date: '2006-05-10'
+description: ''
+featuredImage: ''
+title: 'Blog Colletivo'
 ---
 
 E ae pessoal. Hoje venho falar aqui de um Blog recente, o [Colletivo](http://colletivo.blogspot.com/). Um Blog de pensamentos, entre outras coisas em que participam dele, Bruno Dulcetti (Eu), Bruno Ribeiro (Coordenador do [MMUG-RJ](http://www.mmug-rj.com.br)) e o A. Soles (um rapaz que eu nem conheço, mas participa lah :D).

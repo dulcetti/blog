@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-04-13"
-description: ""
-featuredImage: ""
-title: "Google Lança Google Calendar"
+category: 'Tecnologia'
+date: '2006-04-13'
+description: ''
+featuredImage: ''
+title: 'Google Lança Google Calendar'
 ---
 
 E ae pessoal.

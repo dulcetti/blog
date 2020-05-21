@@ -1,9 +1,9 @@
 ---
-category: "Portfólio"
-date: "2005-11-25"
-description: ""
-featuredImage: ""
-title: "Projeto S.O.S. Vira Lata"
+category: 'Portfólio'
+date: '2005-11-25'
+description: ''
+featuredImage: ''
+title: 'Projeto S.O.S. Vira Lata'
 ---
 
 E ae galera.
@@ -16,4 +16,4 @@ Layout simples, porém emotivo, apelativo harmonioso e direto, com belas imagens
 
 Gostei do resultado, acho que ficou bonito. Espero que vocês gostem também. Estarei postando na seção Qualidade hoje à noite.
 
-[Acessem o site](http://www.sosviralata.org "Acesse o Site S.O.S. Vira Lata [Este link abre em uma nova Janela]"). Aquele abraço.
+[Acessem o site](http://www.sosviralata.org 'Acesse o Site S.O.S. Vira Lata [Este link abre em uma nova Janela]'). Aquele abraço.

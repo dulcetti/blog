@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2006-04-25"
-description: ""
-featuredImage: ""
-title: "Palestra Web standards"
+category: 'Eventos'
+date: '2006-04-25'
+description: ''
+featuredImage: ''
+title: 'Palestra Web standards'
 ---
 
 E ae pessoal. Venho aqui para deixar algumas informações da palestra online, em que eu serei o palestrante. O tema da palestra será webstandards (como não podia deixar de ser né :D).

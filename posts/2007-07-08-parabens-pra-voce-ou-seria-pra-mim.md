@@ -1,12 +1,10 @@
 ---
-category: "Shots"
-date: "2007-07-08"
-description: ""
-featuredImage: ""
-title: "Parabéns pra você! (ou seria pra mim?)"
+category: 'Shots'
+date: '2007-07-08'
+description: ''
+featuredImage: ''
+title: 'Parabéns pra você! (ou seria pra mim?)'
 ---
-
- 
 
 <script type="text/javascript">
 <!--
@@ -14,10 +12,6 @@ title: "Parabéns pra você! (ou seria pra mim?)"
 	flashVideolog.write();
 -->
 </script>
-
- 
-
-	  
 
 É... Ficando mais velho... Agora com 2.4, fígado Total Flex... É isso ae... Tempo passa...
 
