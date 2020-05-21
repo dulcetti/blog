@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
+import Img from 'gatsby-image';
+
 import { themes } from '../../styles/themes';
 
 export const PostWrap = styled.div`
@@ -11,34 +13,69 @@ export const PostWrap = styled.div`
   `}
 `;
 
-export const PostHeader = styled.header`
-  color: ${themes.palette.general.color};
-  margin: auto;
-  max-width: 70rem;
-  padding: 5rem 5rem 0;
-`;
-
 export const PostTitle = styled.h1`
   font-size: min(60px, 10vw);
   line-height: min(66px, 13vw);
   margin-bottom: 1rem;
 `;
 
+export const PostThumbWrap = styled.div`
+  > .gatsby-image-wrapper {
+    max-height: 350px;
+  }
+`;
+
+export const PostThumb = styled(Img)``;
+
 export const PostDescription = styled.h2`
-  font-size: 2rem;
+  font-size: 1.5rem;
 `;
 
 export const PostInfos = styled.p`
+  background-color: ${(prop) => `${themes.palette.categories[prop.color]}`};
+  color: #fff;
+  display: flex;
   font-family: ${themes.fonts.others};
   font-size: 1.25rem;
-  margin-bottom: 20px;
+  justify-content: space-between;
+
+  ${media.lessThan('medium')`
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+    text-align: center;
+    padding: .65rem .75rem;
+  `}
+
+  ${media.greaterThan('medium')`
+    margin-bottom: 20px;
+    padding: 1rem;
+  `}
 `;
 
 export const CategoryPost = styled.span`
-  color: ${(prop) => `${themes.palette.categories[prop.color]}`};
   font-weight: bold;
+  text-transform: uppercase;
 `;
-export const DatePost = styled.span``;
+
+export const DatePost = styled.span`
+  cursor: wait;
+`;
+
+export const TimeToRead = styled.span`
+  cursor: wait;
+
+  > strong {
+    font-weight: bold;
+  }
+
+  ${media.lessThan('medium')`
+    border-top: 1px solid #eee;
+    margin-top: 8px;
+    order: 3;
+    padding-top: 8px;
+    width: 100%;
+  `}
+`;
 
 export const PostContent = styled.section`
   color: ${themes.palette.general.color};

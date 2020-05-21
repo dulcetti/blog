@@ -7,9 +7,7 @@ import SEO from '../../components/seo';
 import * as S from './styles';
 
 export default function BlogPost({ data }) {
-  const { fields, frontmatter, html } = data.markdownRemark;
-  const { featuredImage } = data.featuredImage;
-  console.info(featuredImage);
+  const { fields, frontmatter, html, timeToRead } = data.markdownRemark;
 
   return (
     <Layout>
@@ -20,14 +18,19 @@ export default function BlogPost({ data }) {
       />
       <S.PostWrap>
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
-        <img src={frontmatter.featuredImage} alt="fodasse" />
-        <S.PostInfos>
-          <S.CategoryPost color={frontmatter.category}>{frontmatter.category}</S.CategoryPost> |{' '}
-          <S.DatePost>{frontmatter.date}</S.DatePost>
-        </S.PostInfos>
         {frontmatter.description && (
           <S.PostDescription>{frontmatter.description}</S.PostDescription>
         )}
+        <S.PostThumbWrap>
+          <S.PostThumb fluid={frontmatter.featuredImage.childImageSharp.fluid} />
+        </S.PostThumbWrap>
+        <S.PostInfos color={frontmatter.category}>
+          <S.CategoryPost>{frontmatter.category}</S.CategoryPost>
+          <S.TimeToRead>
+            <strong>Tempo de leitura:</strong> {timeToRead}min
+          </S.TimeToRead>
+          <S.DatePost>{frontmatter.date}</S.DatePost>
+        </S.PostInfos>
         <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
         <Comments slug={fields.slug} title={frontmatter.title} />
       </S.PostWrap>
@@ -47,21 +50,15 @@ export const postQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 960) {
+            fluid(maxHeight: 622, maxWidth: 960) {
               ...GatsbyImageSharpFluid
             }
           }
         }
         title
       }
+      timeToRead
       html
     }
-    # featuredImage: file(relativePath: { eq: $pathImage }) {
-    #   childImageSharp {
-    #     fluid(maxWidth: 960) {
-    #       ...GatsbyImageSharpFluid
-    #     }
-    #   }
-    # }
   }
 `;
