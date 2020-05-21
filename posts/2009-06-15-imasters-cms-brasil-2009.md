@@ -8,7 +8,7 @@ title: 'iMasters CMS Brasil 2009'
 
 Sim, eu sei que estou em dívida com vocês aqui no blog, nem precisam avisar isso. Semana que vem sai um post explicando isso tudo, aguarde.
 
-![Marca CMS Brasil](/uploads/logo-cms.gif)
+![Marca CMS Brasil](/uploads/logo-cms.jpg)
 
 Mas antes disso, estou aqui para publicar sobre mais um evento do iMasters e sobre um assunto que está, digamos, na moda hoje em dia. Os famosos e muito, nem sempre bem, utilizados CMS.
 

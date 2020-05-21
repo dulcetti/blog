@@ -14,7 +14,7 @@ Seguinte, venho para informa-los, fãs do Dulcetti, admiradores, odiadores, mulh
 
 ## E o que seria essa semana de Design Dulça?
 
-![Cases da 6 semana de design](/uploads/case.gif)
+![Cases da 6 semana de design](/uploads/case.jpg)
 
 Um evento modafoca ae, que falará sobre Design (óbvio) de todos os tipos: Moda, Branding, Automóveis, Prototipagem, Ilustração e outros mais.
 

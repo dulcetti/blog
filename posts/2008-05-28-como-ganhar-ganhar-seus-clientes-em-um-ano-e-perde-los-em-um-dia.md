@@ -18,7 +18,7 @@ Venho aqui só dar meu pitaco sobre o acontecimento de ontem em relação a ele.
 
 ## Que que houve com o Twitter? Morreu?
 
-![Twitter Morto?](/uploads/twitter-morto.gif)
+![Twitter Morto?](/uploads/twitter-morto.jpg)
 
 Nem tanto, mas está bem ferido, não diria em coma, mas em estado de emergência. Blá, blá e blá. Nada disso!
 

@@ -8,7 +8,7 @@ title: 'Globo Esporte lança sua nova versão'
 
 O mais esperado de todos, o mais acessado e o mais querido. Não, não é o flamengo, mas é outro que todos amam.
 
-![Globo Esporte.com](/uploads/globoesporte.gif)
+![Globo Esporte.com](/uploads/globoesporte.jpg)
 
 Sim, aquele único portal, que faltava da Globo.com para ser lançado no novo padrão estabelecido alguns meses atrás e o [Ego](/ego-lanca-nova-versao-seguindo-os-novos-padroes-globocom), [G1](/g1-o-portal-de-noticias-da-globocom-lanca-novo-layout), [Globo Vídeos](/globo-videos-nos-novos-padroes-globocom) e a [própria Home](/portal-globocom-lanca-sua-nova-home), é claro, já seguiam. Ele mesmo, o [Globo Esporte](http://globoesporte.globo.com) lançou sua nova versão, mais leve, mais legível, mais rápida e mais acessível.
 

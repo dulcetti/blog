@@ -8,7 +8,7 @@ title: 'Resultado da promoção CMS Brasil'
 
 Segunda feira eu postei aqui uma promoção sorteando um ingresso para o CMS Brasil, organizado pelo iMasters. Agora posto aqui o vencedor da promoção:
 
-![Marca CMS Brasil](/uploads/logo-cms.gif)
+![Marca CMS Brasil](/uploads/logo-cms.jpg)
 
 Otávio Augusto Soares
 

@@ -45,7 +45,7 @@ Não exagere por favor. Não somos tão normais assim, principalmente Dulcetti a
 
 ## Você já experimentou o Videolog?
 
-![Marca do Videolog](/uploads/marca.gif)
+![Marca do Videolog](/uploads/marca.jpg)
 
 Sim, você mesmo. Vai me dizer que nunca ouviu falar do Videolog? Tá falando sério? Ta mexendo com internet desde quando? Faça me o favor né.
 

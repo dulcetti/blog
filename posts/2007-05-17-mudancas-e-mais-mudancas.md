@@ -12,7 +12,7 @@ Por aqui tudo bem, mtos freelas, por isso o sumiço aqui no Blog. Acontece, faze
 
 ## Hmmm... Nova ID Visual é Bruno?
 
-![Minha nova Marca](/uploads/502146114_b617a5b3f9_o.gif)
+![Minha nova Marca](/uploads/502146114_b617a5b3f9_o.jpg)
 
 Exatamente. Pra quem ainda não percebeu, estou com uma "nova cara" no Portfólio e Blog.
 

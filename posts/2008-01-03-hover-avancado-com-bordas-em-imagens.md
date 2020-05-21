@@ -40,16 +40,34 @@ Vale ressaltar também, que a borda é colorida no hover, mas a borda preta em c
 
 Ok, ok. Vamos dar início ao efeito. Vamos primeiro ao HTML:
 
+```html
 <ul>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
-	<li><a href="#"  title=""><img src="escudo-flamengo.gif"  alt="" /></a></li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
+  <li>
+    <a href="#" title=""><img src="escudo-flamengo.jpg" alt="" /></a>
+  </li>
 </ul>
+```
 
 Um código extremamente complicado, difícil de ser entendido, complexo, mas creio que você seja safo para entender sem que o Dulcetti aqui explique ok?
 

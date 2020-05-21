@@ -237,7 +237,7 @@ Primeira foto oficial do BlogCamp ES.
 
 Bom, depois do jogo, rolaram alguns bate papos e tudo mais, mas só que poucos blogueiros restavam em comparação ao dia anterior. Com isso, a primeira foto oficial acabou ficando meio incompleta, mas fazer o que, não foram, agora já era ;)
 
-![Foto oficial do BlogCamp ES](/assets/imagegs/posts/2358177265_06c9b2bb13.jpg)
+![Foto oficial do BlogCamp ES](/uploads/2358177265_06c9b2bb13.jpg)
 Agora sim a foto oficial do BlogCamp ES. Mas ainda sim, faltando pessoas.
 
 Aháaaaa... Mas mesmo assim conseguimos reunir mais blogueiros, uns foram aparecendo bem depois do início do evento. Com isso, a segunda foto ficou mais completa, mas ainda faltando vários blogueiros. E logicamente que eu tive que fazer palhaçada e no Ivo.

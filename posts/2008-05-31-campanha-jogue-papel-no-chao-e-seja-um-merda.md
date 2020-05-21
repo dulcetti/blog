@@ -26,7 +26,7 @@ Mas tudo bem, desfoquei totalmente do post :D
 
 ## Participe da campanha...
 
-![Papel no Chao](/uploads/lixo-chao.gif)
+![Papel no Chao](/uploads/lixo-chao.jpg)
 
 ![Mundo reclamando do Lixo](/uploads/meio-ambiente.jpg)
 
