@@ -37,7 +37,13 @@ export const query = graphql`
             category
             date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
             description
-            featuredImage
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 960) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             title
           }
           timeToRead

@@ -8,6 +8,8 @@ import * as S from './styles';
 
 export default function BlogPost({ data }) {
   const { fields, frontmatter, html } = data.markdownRemark;
+  const { featuredImage } = data.featuredImage;
+  console.info(featuredImage);
 
   return (
     <Layout>
@@ -18,6 +20,7 @@ export default function BlogPost({ data }) {
       />
       <S.PostWrap>
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
+        <img src={frontmatter.featuredImage} alt="fodasse" />
         <S.PostInfos>
           <S.CategoryPost color={frontmatter.category}>{frontmatter.category}</S.CategoryPost> |{' '}
           <S.DatePost>{frontmatter.date}</S.DatePost>
@@ -42,10 +45,23 @@ export const postQuery = graphql`
         category
         date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
         description
-        featuredImage
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 960) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         title
       }
       html
     }
+    # featuredImage: file(relativePath: { eq: $pathImage }) {
+    #   childImageSharp {
+    #     fluid(maxWidth: 960) {
+    #       ...GatsbyImageSharpFluid
+    #     }
+    #   }
+    # }
   }
 `;
