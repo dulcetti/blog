@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2005-12-23"
-description: ""
-featuredImage: ""
-title: "Reformulação e Feliz Natal"
+category: 'Shots'
+date: '2005-12-23'
+description: ''
+featuredImage: ''
+title: 'Reformulação e Feliz Natal'
 ---
 
 Olá pessoal, uum tempo sem postar, mas estou aqui novamente. Muito trabalho, final de ano, Projeto final de Pós, etc...
@@ -12,7 +12,7 @@ Primeiro, queria falar do meu projeto final, que entrei na segunda, 19/12/2005. 
 
 Sistema todo em PHP + MySQL, todo conteúdo dinâmico, recurso de paginação, limitações, entre outras coisas. Criei toda a estrutura de dados, dicionário de dados, wireframes do projeto, organogramas, storyboard, entre outras coisas. Deu bastante trabalho esta parte adminsitrativa e gerencial do Projeto.
 
-A parte de layout eu gostei bastante. No período passado recebi um 10 e um 9,5 nas duas matérias reservadas ao projeto, fiquei bastante feliz com o resultado. Cada página tem um fundo diferente, com uma foto de uma grávida, que tente representar a seção correspondente. Jogada de cores, icones, etc. Os ícones eu ia deixá-los com tonalidade azul, mas como disse, estava muito em cima, foi até uma dica do [Fred](http://www.usabilidoido.com.br "Ver Blog Usabilidoido [Este link abre em uma nova janela]"), que também falou para deixar as imagens de fundo na tonalidade azul, mas achei que iria ficar tudo muito azul, preferi deixarassim, mas obrigado pelas dicas Fred. ;)
+A parte de layout eu gostei bastante. No período passado recebi um 10 e um 9,5 nas duas matérias reservadas ao projeto, fiquei bastante feliz com o resultado. Cada página tem um fundo diferente, com uma foto de uma grávida, que tente representar a seção correspondente. Jogada de cores, icones, etc. Os ícones eu ia deixá-los com tonalidade azul, mas como disse, estava muito em cima, foi até uma dica do [Fred](http://www.usabilidoido.com.br 'Ver Blog Usabilidoido [Este link abre em uma nova janela]'), que também falou para deixar as imagens de fundo na tonalidade azul, mas achei que iria ficar tudo muito azul, preferi deixarassim, mas obrigado pelas dicas Fred. ;)
 
 Outra coisa é que reformulei todo o meu portfólio/blog. Parte visual não mudei praticamente nada, somente os botões mesmo aqui do Blog, pouquissimas coisas, adicionei mais uns adsenses, etc. Agora ele está validado em xhtml 1.1, o css também está validado, com somente alguns warnings normais. A capa aqui do blog ainda não está validada pois está mostrando uns erros que não estou entendendo direito porque eles estão, mas eu resolvo isso depois :D
 

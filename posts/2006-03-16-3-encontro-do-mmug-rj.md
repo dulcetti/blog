@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2006-03-16"
-description: ""
-featuredImage: ""
-title: "3º encontro do MMUG-RJ"
+category: 'Eventos'
+date: '2006-03-16'
+description: ''
+featuredImage: ''
+title: '3º encontro do MMUG-RJ'
 ---
 
 E ae pessoal, me desculpem mais uma vez por sumir por tanto tempo, mas é que estou sem tempo mesmo, estou tendo que dar prioridade para os trabalhos, correrias por aqui, do que postar no Blog. Mas n/ao esqueci daqui, assim que puder, escreverei mais, mandarei mais artigos, tutoriais, entre outros.

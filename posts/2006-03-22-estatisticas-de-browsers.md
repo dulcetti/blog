@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-03-22"
-description: ""
-featuredImage: ""
-title: "Estatísticas de Browsers"
+category: 'Tecnologia'
+date: '2006-03-22'
+description: ''
+featuredImage: ''
+title: 'Estatísticas de Browsers'
 ---
 
 Falae pessoal. Saiu no site, que na minha opinião é a maior referência de webstandards, css, entre outros da web, o [W3Schools](http://www.w3schools.com/), a listagem de usuários que utilizam os diferentes navegadores.

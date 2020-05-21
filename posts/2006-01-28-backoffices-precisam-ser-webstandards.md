@@ -1,9 +1,9 @@
 ---
-category: "Shots"
-date: "2006-01-28"
-description: ""
-featuredImage: ""
-title: "Backoffices precisam ser webstandards?"
+category: 'Shots'
+date: '2006-01-28'
+description: ''
+featuredImage: ''
+title: 'Backoffices precisam ser webstandards?'
 ---
 
 Estava eu aqui, produzindo, quando de repente me veio essa pergunta na cabeça... Primeiro, para os que não conhecem o termo, Backoffice é o mesmo que o sistema criado para um site, os famosos CMS's da vida. Quando você cria um site, vocês tem pelo menos duas opções de atualização de conteúdo de um site: ou você pega o html (ou qualquer arquivo de qualquer linguagem) e coloca este conteúdo, tanto texto, quanto imagens e sobe de novo via FTP. É um modo meio chato, mais trabalhoso e temos também o modo via Backoffice ou CMS, que onde o usuário fica responsável pelo conteúdo exposto no site, sem a necessidade do criador do site fazer a atualização.

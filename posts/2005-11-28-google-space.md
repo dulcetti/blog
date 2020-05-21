@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2005-11-28"
-description: ""
-featuredImage: ""
-title: "Google Space"
+category: 'Tecnologia'
+date: '2005-11-28'
+description: ''
+featuredImage: ''
+title: 'Google Space'
 ---
 
 Falae galera.
@@ -16,4 +16,4 @@ Serão 10 laptops da Samsung para entreter os passageiros que estiverem esperand
 
 Aquele abraço.
 
-Fonte: [iMasters](http://www.imasters.com.br/artigo.php?cn=3717&cc=2 "Visitar Artigo [Este link abre em uma nova janela]")
+Fonte: [iMasters](http://www.imasters.com.br/artigo.php?cn=3717&cc=2 'Visitar Artigo [Este link abre em uma nova janela]')

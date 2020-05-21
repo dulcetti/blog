@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-01-11"
-description: ""
-featuredImage: ""
-title: "Feeds no Banheiro"
+category: 'Tecnologia'
+date: '2006-01-11'
+description: ''
+featuredImage: ''
+title: 'Feeds no Banheiro'
 ---
 
 Pra quem já leu essa, tranquilo, não precisa ler de novo, vale pra quem ainda não tinha visto. É, incrível, a imaginação do ser humano é algo que não têm limite. Vejam isso: [The RSStroom Reader, Feeds On Your Toilet Paper](http://www.ohgizmo.com/2005/12/07/the-rsstroom-reader-feeds-on-your-toilet-paper/). :D

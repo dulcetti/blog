@@ -8,7 +8,7 @@ title: 'Dia Mundial da Usabilidade'
 
 Uma embalagem que não abre direito ou um produto difícil de usar. Quem já não passou por um problema desses? Com o objetivo de despertar a atenção das empresas e dos consumidores para essas questões foi criado o Dia Mundial da Usabilidade. Este ano o tema do evento, que é realizado em várias cidades do planeta no mesmo dia 13 de novembro, é "Transportes". O Rio de Janeiro mais uma vez comemora a data com uma noite repleta de palestras sobre o assunto com especialistas de design e usabilidade.
 
-![Marca do WUD 2008](/uploads/marca-wud.gif)
+![Marca do WUD 2008](/uploads/marca-wud.jpg)
 
 O evento, que tem como finalidade a valorização da facilidade de uso de produtos e serviços no cotidiano, traz apresentações de casos de sucesso de projetos aeronáutico, ferroviário e soluções de transporte para o trânsito saturado das cidades.
 

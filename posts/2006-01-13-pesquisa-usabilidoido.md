@@ -1,9 +1,9 @@
 ---
-category: "Tecnologia"
-date: "2006-01-13"
-description: ""
-featuredImage: ""
-title: "Pesquisa Usabilidoido"
+category: 'Tecnologia'
+date: '2006-01-13'
+description: ''
+featuredImage: ''
+title: 'Pesquisa Usabilidoido'
 ---
 
 Falae pessoal, o [Fred do Usabilidoido](http://www.usabilidoido.com.br) lançou sua segunda pesquisa, quarta-feira dia 11, com seus leitores do Blog, para contar suas http://www.usabilidoido.com.br/segunda\_pesquisa\_com\_nossos\_leitores.htmlopiniões sobre o site.

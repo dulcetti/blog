@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2006-05-12"
-description: ""
-featuredImage: ""
-title: "Palestra Online - Webstandards"
+category: 'Eventos'
+date: '2006-05-12'
+description: ''
+featuredImage: ''
+title: 'Palestra Online - Webstandards'
 ---
 
 Falae galera. Depois de um tempo, estou aqui postando o link com a palestra online que dei via Breeze, pelo [MMUG-RJ](http://www.mmug-rj.com.br), Grupo de Usuário Macromedia/Adobe do Rio de Janeiro.

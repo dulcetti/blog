@@ -1,9 +1,9 @@
 ---
-category: "Eventos"
-date: "2006-05-25"
-description: ""
-featuredImage: ""
-title: "Próxima Palestra Presencial MMUG-RJ"
+category: 'Eventos'
+date: '2006-05-25'
+description: ''
+featuredImage: ''
+title: 'Próxima Palestra Presencial MMUG-RJ'
 ---
 
 Falae pessoal.

@@ -1,9 +1,9 @@
 ---
-category: "Webstandards"
-date: "2006-02-23"
-description: ""
-featuredImage: ""
-title: "Guerra dos Browsers"
+category: 'Webstandards'
+date: '2006-02-23'
+description: ''
+featuredImage: ''
+title: 'Guerra dos Browsers'
 ---
 
 Tava aqui pensando, matutando... Lembrei da palestra do [MMUG-RIO](http://www.mmug-rj.com.br/), que teve uma breve discussão sobre [browsers](http://pt.wikipedia.org/wiki/Browsers), qual o melhor, etc... O Bruno Ribeiro, me perguntou qual era o melhor [browser](http://pt.wikipedia.org/wiki/Browsers) e eu respondi [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=157396&t=196)... Na MINHA opinião ele é melhor. Depois ele me perguntou por que era o melhor, daí, respondi pelas [extensões](http://www.mozilla.com/extensions/), facilidade, [feeds](http://pt.wikipedia.org/wiki/Feeds), segurança e logicamente chegamos no ponto crucial... Os [padrões web](http://pt.wikipedia.org/wiki/Padr%C3%B5es_web)... Começou um cutuca [MS](http://www.microsoft.com.br), revidavam, etc... Logicamente, nada agressivo, somente pontos de vistas de cada um...

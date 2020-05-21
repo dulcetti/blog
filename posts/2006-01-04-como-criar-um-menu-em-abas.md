@@ -112,7 +112,7 @@ Agora vamos para o css do menu:
 ul.menu {
   list-style: none;
   height: 21px;
-  background: url('fundoLinha.gif') repeat-x left bottom;
+  background: url('fundoLinha.jpg') repeat-x left bottom;
 }
 ul.menu li {
   float: left;
@@ -120,10 +120,10 @@ ul.menu li {
   height: 21px;
   line-height: 21px;
   text-align: center;
-  background: url('aba_inativa.gif') no-repeat;
+  background: url('aba_inativa.jpg') no-repeat;
 }
 ul.menu li.on {
-  background: url('aba_ativa.gif') no-repeat;
+  background: url('aba_ativa.jpg') no-repeat;
 }
 ```
 
