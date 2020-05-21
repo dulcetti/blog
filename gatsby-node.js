@@ -36,14 +36,6 @@ exports.createPages = ({ graphql, actions }) => {
             frontmatter {
               category
               date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
-              description
-              featuredImage {
-                childImageSharp {
-                  fluid(maxWidth: 960) {
-                    ...GatsbyImageSharpFluid
-                  }
-                }
-              }
               title
             }
             timeToRead
