@@ -6,7 +6,7 @@ import { themes } from '../../styles/themes';
 
 export const PostWrap = styled.div`
   margin: auto;
-  max-width: 70rem;
+  max-width: ${themes.grid.maxWidth};
 
   ${media.lessThan('767px')`
     padding: 5px 20px;
@@ -15,7 +15,7 @@ export const PostWrap = styled.div`
 
 export const PostTitle = styled.h1`
   font-size: min(60px, 10vw);
-  line-height: min(66px, 13vw);
+  line-height: min(66px, 11vw);
   margin-bottom: 1rem;
 `;
 
@@ -84,7 +84,7 @@ export const PostContent = styled.section`
   p,
   ul,
   ol {
-    line-height: 1.5;
+    line-height: 1.25;
     margin-bottom: 1.5rem;
   }
 
@@ -141,6 +141,20 @@ export const PostContent = styled.section`
     }
   }
 
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    ${media.lessThan('small')`
+      margin-bottom: 10px;
+    `}
+
+    ${media.greaterThan('small')`
+      margin-bottom: 20px;
+    `}
+  }
+
   h2 {
     font-size: min(50px, 9vw);
     line-height: min(56px, 10vw);
@@ -153,17 +167,17 @@ export const PostContent = styled.section`
 
   h4 {
     font-size: min(30px, 6vw);
-    line-height: min(36px, 13vw);
+    line-height: min(36px, 7vw);
   }
 
   h5 {
     font-size: min(20px, 6vw);
-    line-height: min(26px, 13vw);
+    line-height: min(26px, 6vw);
   }
 
   h6 {
     font-size: min(20px, 5vw);
-    line-height: min(66px, 13vw);
+    line-height: min(26px, 5vw);
   }
 
   strong {

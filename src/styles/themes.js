@@ -27,7 +27,7 @@ export const themes = {
     others: `'AdventPro-Regular', sans-serif`,
   },
   grid: {
-    maxWidth: '1380px',
+    maxWidth: '70em',
   },
   palette: {
     categories: {

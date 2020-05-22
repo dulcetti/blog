@@ -16,7 +16,9 @@ export default function Hit({ hit }) {
         bg={themes.palette.general.bgTransition}
         duration={0.6}
         to={fields.slug}>
-        <S.CategoryPostSearch bg={getCategoryBg(category)}>{category}</S.CategoryPostSearch>
+        <S.CategoryPostSearch bg={getCategoryBg(category)}>
+          <p>{category}</p>
+        </S.CategoryPostSearch>
         <S.InfosPost>
           <S.TitlePostSearch color={getCategoryBg(category)}>{title}</S.TitlePostSearch>
           <S.DescriptionPostSearch>

@@ -6,22 +6,36 @@ import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 export const PagesWrap = styled.div`
   margin: auto;
-  max-width: 70rem;
+  max-width: ${themes.grid.maxWidth};
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('767px')`
     padding: 5px 20px;
   `}
 `;
 
 export const PageTitle = styled.h1`
   font-size: min(60px, 10vw);
-  line-height: min(66px, 13vw);
-  margin-bottom: 1rem;
+  line-height: min(66px, 11vw);
+
+  ${media.lessThan('medium')`
+    margin-bottom: .25rem;
+  `}
+
+  ${media.greaterThan('769px')`
+    margin-bottom: 1rem;
+  `}
 `;
 
 export const PageText = styled.p`
-  font-size: 1.25rem;
-  margin-bottom: 2rem;
+  ${media.lessThan('medium')`
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+  `}
+
+  ${media.greaterThan('769px')`
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  `}
 
   &.text-right {
     text-align: right;
@@ -46,6 +60,15 @@ export const SocialMediasContact = styled(SocialMedias)`
 
 export const BackLinkSearch = styled(AniLink)`
   color: ${themes.palette.general.links};
+
+  ${media.lessThan('medium')`
+    font-size: 1rem;
+    margin-bottom: 5px;
+  `}
+
+  ${media.greaterThan('769px')`
+    font-size: 1.25rem;
+  `}
 
   &:hover {
     text-decoration: underline;
