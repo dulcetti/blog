@@ -2,13 +2,11 @@
 category: 'Tecnologia'
 date: '2006-07-20'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Atalhos e Dicas pro Desenvolvimento'
 ---
 
-Falae pessoal.
-
-Aqui estou eu novamente. Mas só que desta vez não falarei de webstandards, css, flash, php e afins. Darei algumas dicas, para quem ainda não conhece logicamente, na hora do desenvolvimento dos seus códigos, sistemas, css, html, até textos no word, entre outros.
+Falae, pessoal. Aqui estou eu novamente. Mas só que desta vez não falarei de webstandards, css, flash, php e afins. Darei algumas dicas, para quem ainda não conhece logicamente, na hora do desenvolvimento dos seus códigos, sistemas, css, html, até textos no word, entre outros.
 
 Na hora de digitar seus textos, vc geralmente precisa selecionar alguma parte dele, deletar uma letra ou palavra, precisa ir ao fim do documento, início, etc. Existem alguns atalhos legais, alguns conhecidos e outros não, que mostrarei aqui para vocês:
 

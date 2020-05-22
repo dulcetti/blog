@@ -2,13 +2,11 @@
 category: 'Tecnologia'
 date: '2006-07-06'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Lançado oficialmente o iMasters Intercon 2006'
 ---
 
-Falae pessoal.
-
-Ontem recebi a notícia através de um dos responsáveis pelo [iMasters](http://www.imasters.com.br/), que está oficialmente lançado o [iMasters Intercon 2006](http://www.imasters.com.br/intercon/2006/).
+Falae, pessoal. Ontem recebi a notícia através de um dos responsáveis pelo [iMasters](http://www.imasters.com.br/), que está oficialmente lançado o [iMasters Intercon 2006](http://www.imasters.com.br/intercon/2006/).
 
 ### O Evento
 

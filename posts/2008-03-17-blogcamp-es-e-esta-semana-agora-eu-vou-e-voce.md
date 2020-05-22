@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2008-03-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp ES. É esta semana agora. Eu vou e você?'
 ---
 
-E ae cambada, tudo na paz? Estou aqui para falar de mais um megaUltraPowerFlashModafocar evento da Blogosfera. O BlogCamp ES.
+E ae, cambada, tudo na paz? Estou aqui para falar de mais um megaUltraPowerFlashModafocar evento da Blogosfera. O BlogCamp ES.
 
 ## Mais um BlogCamp então Dulça?
 

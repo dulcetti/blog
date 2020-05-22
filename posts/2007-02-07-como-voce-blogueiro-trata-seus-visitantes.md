@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2007-02-07'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Como você, Blogueiro, trata seus visitantes?'
 ---
 
-E ae pessoal. Pouco tempo para blogar aliado com pouco saco para tal :P. É complicada essa vida de Blogueiro que depende de outros trabalhos. Meu Blog é apenas um hobby, nada prioritário. Mas um dia eu consigo dar mais atenção à ele e aos meu visitantes :D. Eu juro :P.
+E ae, pessoal. Pouco tempo para blogar aliado com pouco saco para tal :P. É complicada essa vida de Blogueiro que depende de outros trabalhos. Meu Blog é apenas um hobby, nada prioritário. Mas um dia eu consigo dar mais atenção à ele e aos meu visitantes :D. Eu juro :P.
 
 ## Deixa de balela Brunão e vá direto ao Ponto
 

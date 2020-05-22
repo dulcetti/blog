@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2005-10-31'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Evento Senai, etc'
 ---
 
-Falae pessoal. Pra não deixar passar em branco o fim de semana, postarei aqui sobre o evento que fui na sexta-feira, no Senai Artes Gráfica, no Maracanã, Rio de Janeiro.
+Falae, pessoal. Pra não deixar passar em branco o fim de semana, postarei aqui sobre o evento que fui na sexta-feira, no Senai Artes Gráfica, no Maracanã, Rio de Janeiro.
 
 Íamos eu, com parte da galera que foi pro InterCon daqui do Rio, mas com o dilúvio que caiu no Rio sexta, acabou que somente eu, [Fabiano Cruz](http://www.fabianocruz.com 'Visitar Blog do Fabiano Cruz [Este link abre em uma nova janela]') e Diego Miranda fomos pro evento.
 

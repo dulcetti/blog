@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2008-05-09'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: '6ª Semana de Design'
 ---
 
-E ae cambada. Tranquilidade pura? Tudo na normalidade? Estão felizes? Querem um abraço?
+E ae, cambada. Tranquilidade pura? Tudo na normalidade? Estão felizes? Querem um abraço?
 
 ![6 semana de design](/uploads/semana-design.jpg)
 

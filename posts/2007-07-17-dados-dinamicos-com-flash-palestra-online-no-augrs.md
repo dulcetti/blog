@@ -2,11 +2,11 @@
 category: 'Webstandards'
 date: '2007-07-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Dados dinâmicos com Flash - Palestra online no AUG/RS'
 ---
 
-Falae pessoal. Venho por esse post, divulgar a palestra online que meu camarada e xará, [Bruno Ribeiro](http://brunoribeiro.net/ 'Visitar o site do Bruno Ribeiro'), fará nessa quinta-feira. Mais detalhes abaixo:
+Falae, pessoal. Venho por esse post, divulgar a palestra online que meu camarada e xará, [Bruno Ribeiro](http://brunoribeiro.net/ 'Visitar o site do Bruno Ribeiro'), fará nessa quinta-feira. Mais detalhes abaixo:
 
 ## Dados dinâmicos com Flash
 

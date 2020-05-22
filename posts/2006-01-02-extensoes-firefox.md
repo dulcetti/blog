@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2006-01-02'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Extensões Firefox'
 ---
 
-Falae pessoal, primeiro post de 2006, queria desejar novamente tudo de bom ae pra todos.
+Falae, pessoal, primeiro post de 2006, queria desejar novamente tudo de bom ae pra todos.
 
 Nesse primeiro post, estou mostrando aqui três extensões do Firefox que achei no site de [Extensões do Firefox](https://addons.mozilla.org/extensions/?application=firefox). Eu estava procurando pela extensão Web Developer, porque aqui em casa não estava com ela instalada e fui vasculhando no site algumas extensões e achei além dela, mais duas muito interessantes:
 

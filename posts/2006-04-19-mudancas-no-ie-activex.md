@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2006-04-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Mudanças no IE - ActiveX'
 ---
 
-E ae pessoal, tudo certo? Estou aqui novamente para falar de um problema que creio que alguns aqui já presenciaram.
+E ae, pessoal, tudo certo? Estou aqui novamente para falar de um problema que creio que alguns aqui já presenciaram.
 
 Não falarei de webstandards agora e sim do Flash e do problema com o i.e. Como muitos devem saber, a Microsoft perdeu uma ação judicial, ficando por isso, sem os direito de "acoplar" o Flash Player dentro do seu browser, nosso famoso internet explorer.
 

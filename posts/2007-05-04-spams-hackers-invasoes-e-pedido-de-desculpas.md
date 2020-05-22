@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2007-05-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Spams, Hackers, Invasões e Pedido de Desculpas'
 ---
 
-E ae pessoal, tranquilidade?
-
-Bom, venho com este post rápido para informar que meu site foi hackeado e colocaram alguns arquivos maliciosos no meu servidor.
+E ae, pessoal, tranquilidade? Bom, venho com este post rápido para informar que meu site foi hackeado e colocaram alguns arquivos maliciosos no meu servidor.
 
 Depois disso enviaram vários Spam's por ae afora, recebi vários e vários e-mails, e continuo recebendo, falando sobre isso, etc. alguns foram bem grossos, fazendo ameaças e tudo, falando que eu era mau caráter, entre outras coisas.
 

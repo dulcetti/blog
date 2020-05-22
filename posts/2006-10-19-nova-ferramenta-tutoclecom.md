@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2006-10-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Nova Ferramenta: TutoCle.com'
 ---
 
-E ae pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/).
+E ae, pessoal, mais uma vez estou aqui. Não para artigos ou tutoriais, mas comentar sobre uma nova ferramenta que me apresentaram recentemente e comecei a testar e gostei muito. Ela se chama [TutoCle.com](http://www.tutocle.com/).
 
 ## Legal, legal. Mas o que seria o TutoCle.com?
 

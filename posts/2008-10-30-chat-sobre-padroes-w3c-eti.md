@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2008-10-30'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Chat sobre padrões W3C - ETI'
 ---
 

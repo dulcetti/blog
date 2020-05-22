@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2005-11-18'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Browser Maxthon'
 ---
 
-Falae galera, fugindo um pouco sobre artigos, webstandards, vo comentar sobre um browser que vi hoje e baixei para testá-lo. É o Maxthon.
+Falae, galera, fugindo um pouco sobre artigos, webstandards, vo comentar sobre um browser que vi hoje e baixei para testá-lo. É o Maxthon.
 
 Parece ser legal, instalei, foi bem fácil, inferface agradável, com skins, leitor feeds que ao entrar num sistema de feeds rss ele automaticamente te pergunta se deseja assinar o feeds do site, ente outros recursos.
 

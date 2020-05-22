@@ -2,11 +2,11 @@
 category: 'Webstandards'
 date: '2006-04-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Portal iMasters nos padrões'
 ---
 
-E ae pessoal, tudo tranquilo?
+E ae, pessoal, tudo tranquilo?
 
 Venho aqui para falar sobre o [Portal iMasters](http://www.imasters.com.br), para onde escrevo alguns artigos. Ele agora está [dentro dos padrões e com novo visual](http://www.maujor.com/blog/2006/04/19/imasters/) na minha opinião bem melhor, mais leve, de bom gosto. Ainda não conferi o código para ver parte da semântica do código do site, mas deixarei isso para depois.
 

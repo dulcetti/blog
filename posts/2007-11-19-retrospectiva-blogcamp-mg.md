@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2007-11-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Retrospectiva BlogCamp MG'
 ---
 
-E ae pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
+E ae, pessoal, td tranquilo? Por aqui tudo certo. Depois de uma viagem meio cansativa, num ônibus convencional somente com ar condicionado, estou meio quebrado aqui no trabalho, mas eu sobreviverei.
 
 ![Banner do BlogCamp MG](/uploads/banner-blogcamp-mg.jpg)
 

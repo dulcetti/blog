@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2007-12-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Globo Vídeos agora com Vídeos em FLV'
 ---
 
-E ae pessoal.
+E ae, pessoal.
 
 Depois do lançamento do novo [Portal de Vídeos da Globo.com](/globo-videos-nos-novos-padroes-globocom), de muitos pedirem, reclamarem, criticarem, agora os [vídeos](http://video.globo.com) da [Globo.com](http://www.globo.com) estão no formato [FLV](http://pt.wikipedia.org/wiki/FLV). Isso mesmo, podem comemorar, agora os vídeos estão num player em flash, com buffer decente, melhorando bastante o carregamento dos vídeos, que é uma vantagem do flash.
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-12-29'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Agora é Oficial. Videolog fecha com a UOL a maior parceria da internet Brasileira.'
 ---
 

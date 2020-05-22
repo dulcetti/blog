@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-10-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/portfolio.jpg'
 title: 'Site Nortlet'
 ---
 

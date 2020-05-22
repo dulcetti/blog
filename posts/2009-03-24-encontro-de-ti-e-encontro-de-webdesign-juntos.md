@@ -1,8 +1,8 @@
 ---
-category: 'Webstandards'
+category: 'Eventos'
 date: '2009-03-24'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/eventos.jpg'
 title: 'Encontro de TI e Encontro de Webdesign juntos'
 ---
 

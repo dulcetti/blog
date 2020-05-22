@@ -2,13 +2,11 @@
 category: 'CSS'
 date: '2007-05-30'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Como você escreve seus arquivos CSS? Parte 3'
 ---
 
-Falae pessoal.
-
-Demorei um bocado para essa terceira parte, que eu acho que é a última, pelos meus cálculos e pelos detalhes e informações sobre os arquivos CSS que crio.
+Falae, pessoal. Demorei um bocado para essa terceira parte, que eu acho que é a última, pelos meus cálculos e pelos detalhes e informações sobre os arquivos CSS que crio.
 
 Como vimos nos artigos anteriores, na [Primeira](/como-voce-escreve-seus-arquivos-css) e na [Segunda Parte](/como-voce-escreve-seus-arquivos-css-parte-2), vimos alguns detalhes sobre os arquivos CSS, que na minha opinião, melhora bastante, otimiza seus CSS's.
 

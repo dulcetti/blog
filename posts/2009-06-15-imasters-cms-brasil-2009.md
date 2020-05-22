@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2009-06-15'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'iMasters CMS Brasil 2009'
 ---
 

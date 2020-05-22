@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2009-06-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Resultado da promoção CMS Brasil'
 ---
 

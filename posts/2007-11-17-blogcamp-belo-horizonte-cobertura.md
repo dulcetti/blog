@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2007-11-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp MG | Belo Horizonte - Cobertura'
 ---
 
-Falae galera. Acabei não postando sobre o BlogCamp nessa semana. Esta versão do evento está sendo em BH, Minas Gerais, no prédio da Oi Futuro. Belo espaço, wi-fi liberada, coffee break interessate, muito bom, nota 10.
+Falae, galera. Acabei não postando sobre o BlogCamp nessa semana. Esta versão do evento está sendo em BH, Minas Gerais, no prédio da Oi Futuro. Belo espaço, wi-fi liberada, coffee break interessate, muito bom, nota 10.
 
 ## Mas e as Palestras Bruno?
 

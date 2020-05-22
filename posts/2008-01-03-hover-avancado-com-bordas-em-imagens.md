@@ -2,11 +2,11 @@
 category: 'Publicações'
 date: '2008-01-03'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Hover avançado com bordas em imagens'
 ---
 
-Falae pessoal. Parece até mentira, mas estou aqui novamente, retornando aos meus tutoriais mirabolantes, fascinantes, geniais e extremamente úteis para todos.
+Falae, pessoal. Parece até mentira, mas estou aqui novamente, retornando aos meus tutoriais mirabolantes, fascinantes, geniais e extremamente úteis para todos.
 
 O assunto dessa vez é o mesmo que o tutorial anterior, que falei sobre borda interna em imagens com link. Mostrarei um efeito em links, com bordas, em imagens :D
 

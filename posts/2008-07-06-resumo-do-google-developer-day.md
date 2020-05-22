@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-07-06'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Resumo do Google Developer Day'
 ---
 

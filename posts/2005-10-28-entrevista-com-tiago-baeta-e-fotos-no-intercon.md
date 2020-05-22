@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2005-10-28'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Entrevista com Tiago Baeta e Fotos no InterCon'
 ---
 
-Falae pessoal. Aqui estou eu mais uma vez. Primeiramente agradecer quem mandou email, entrou em contato pelo MSN, etc, para agradecer, elogiar o Artigo postado ontem. É uma honra pra mim, saber que estou podendo ajudar os outros, de uma forma clara e objetiva. Tanto no fórum iMasters, quanto nos Artigos. Semana que vem tem mais, aguardem.
+Falae, pessoal. Aqui estou eu mais uma vez. Primeiramente agradecer quem mandou email, entrou em contato pelo MSN, etc, para agradecer, elogiar o Artigo postado ontem. É uma honra pra mim, saber que estou podendo ajudar os outros, de uma forma clara e objetiva. Tanto no fórum iMasters, quanto nos Artigos. Semana que vem tem mais, aguardem.
 
 Bom, como disse ontem, estou aqui com uma pequena entrevista com o Tiago Baeta, diretor do Portal iMasters, o maior portal de tecnologia do Brasil. Fiz quatro perguntas ao Baeta sobre o evento, design, etc. Espero que gostem, segue abaixo:
 

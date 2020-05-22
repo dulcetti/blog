@@ -2,11 +2,11 @@
 category: 'Webstandards'
 date: '2006-11-30'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Até onde vai o limite da Semântica?'
 ---
 
-E ae pessoal. Tempo que não posto sobre web standards, css e afins, que são os temas principais desse Blog. Muitos trabalhos, pouco tempo, meio "sem saco" para escrever (blogueiros são humanos também sabiam?) :P
+E ae, pessoal. Tempo que não posto sobre web standards, css e afins, que são os temas principais desse Blog. Muitos trabalhos, pouco tempo, meio "sem saco" para escrever (blogueiros são humanos também sabiam?) :P
 
 ## Tá blz Bruno, mas isso todos dizem. Vá direto ao ponto...
 

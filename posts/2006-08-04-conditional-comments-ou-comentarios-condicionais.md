@@ -2,11 +2,11 @@
 category: 'Webstandards'
 date: '2006-08-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Conditional Comments ou Comentários Condicionais'
 ---
 
-Falae galera, tranquilidade? Aqui tudo blz como sempre, bastante trabalho, cansado, mas faz parte não é verdade?
+Falae, galera, tranquilidade? Aqui tudo blz como sempre, bastante trabalho, cansado, mas faz parte, não é verdade?
 
 Bom, antes de eu comentar sobre o assunto, adianto para vocês que semana que vem entra a nova versão do meu Blog/Portfólio. Modifiquei um bocado de coisa, agora ele é líquido, estou utilizando alguns recursos em ajax, atualizei algumas informações como onde estou morando, que no atual ainda mostra Niterói :D.
 
@@ -36,7 +36,7 @@ E no Blog, o pessoal da Microsoft aconselhou a utilização dos Conditional Comm
 
 Tranquilo. Com os tipos e exemplos, você entenderá perfeitamente sobre essa técnica. Primeiro vou mostrar abaixo os diferentes tipos de Conditional Comments:
 
-### » Este serve como como um "Se for IE faça":
+### » Este serve como como um "Se for IE, faça":
 
 ```html
 <!--[if IE]> <![endif]-->

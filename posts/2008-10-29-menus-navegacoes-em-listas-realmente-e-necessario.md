@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2008-10-29'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Menus, navegações em listas realmente é necessário?'
 ---
 

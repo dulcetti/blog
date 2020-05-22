@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-01-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Menu em abas'
 ---
 
-Falae pessoal. Aqui estou eu, mostrando mais um artigo, mas agora não no iMasters, por aqui mesmo no Blog. Um tema que muita gente veio me pedindo, tanto por email, quanto no fórum, etc. Vou mostrar aqui como criar um menu, simples de abas. Não há mistério nenhum na criação, estarei comentando cada parte do código, tentando esclarecer bem o css e a estrutura html. Espero que agrade.
+Falae, pessoal. Aqui estou eu, mostrando mais um artigo, mas agora não no iMasters, por aqui mesmo no Blog. Um tema que muita gente veio me pedindo, tanto por email, quanto no fórum, etc. Vou mostrar aqui como criar um menu, simples de abas. Não há mistério nenhum na criação, estarei comentando cada parte do código, tentando esclarecer bem o css e a estrutura html. Espero que agrade.
 
 Vamos ver uma prévia, uma imagem do resultado final deste artigo, para vocês terem uma idéia e entenderem as explicações, dificuldades e métodos utilizados. Veja o resultado final.
 

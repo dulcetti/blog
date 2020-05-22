@@ -2,13 +2,11 @@
 category: 'Portfólio'
 date: '2006-04-05'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/portfolio.jpg'
 title: 'Videolog. A nova era...'
 ---
 
-Falae pessoal.
-
-Não falarei novamente aquela baboseira toda, que estive longe, estou ocupado, distante tanto do blog, como fóruns, etc... To passando por alguns problemas, mas isso é comigo, ninguém está aqui para saber dos meus problemas e chorar por mim... :D
+Falae, pessoal. Não falarei novamente aquela baboseira toda, que estive longe, estou ocupado, distante tanto do blog, como fóruns, etc... To passando por alguns problemas, mas isso é comigo, ninguém está aqui para saber dos meus problemas e chorar por mim... :D
 
 Deixando os problemas de lado, vou falar de uma tecnologia, que não é tão nova assim, mas em relação com outras tecnologias, pode ser até uma novidade.
 

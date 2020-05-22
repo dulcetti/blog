@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-03-26'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp ES: Com cerveja o mais comédia'
 ---
 

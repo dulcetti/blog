@@ -2,11 +2,11 @@
 category: 'Publicações'
 date: '2005-12-21'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Reciclando seu CSS'
 ---
 
-Falae pessoal. Lancei mais um artigo pro portal [iMasters](http://www.imasters.com.br 'Visitar Portal iMasters [Este link abre em uma nova janela]'). O tema é Reciclando seu CSS e estou falando sobre a criação de arquivos CSS's dos sites. Mostrando como reciclar, economizar tanto na criação do css, quanto no seu conteúdo.
+Falae, pessoal. Lancei mais um artigo pro portal [iMasters](http://www.imasters.com.br 'Visitar Portal iMasters [Este link abre em uma nova janela]'). O tema é Reciclando seu CSS e estou falando sobre a criação de arquivos CSS's dos sites. Mostrando como reciclar, economizar tanto na criação do css, quanto no seu conteúdo.
 
 Vejo muitos sites em que o CSS fica completamente sujo, repetitivo e trabalhoso de ser entendido. Fora que fica mais pesado à toa, sem necessidade.
 

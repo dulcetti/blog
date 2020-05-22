@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2008-11-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Tags depreciadas e W3C modafoca'
 ---
 

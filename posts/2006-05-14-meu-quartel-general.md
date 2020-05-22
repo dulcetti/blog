@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2006-05-14'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Meu Quartel General'
 ---
 
-Falae pessoal. Indo na onda que o [Mauro lançou](http://www.carreirasolo.org/archives/com_voces.html), vou apresentando aqui, duas fotos do meu quartel, onde crio meus freelas, alguns dos meus posts do Blog, bato meus papos (ng é de ferro ;) ), etc, etc, etc.
+Falae, pessoal. Indo na onda que o [Mauro lançou](http://www.carreirasolo.org/archives/com_voces.html), vou apresentando aqui, duas fotos do meu quartel, onde crio meus freelas, alguns dos meus posts do Blog, bato meus papos (ng é de ferro ;) ), etc, etc, etc.
 
 ![Meu micro](/uploads/micro.jpg)
 

@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-04-05'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'CSS Naked Day'
 ---
 
-E ae pessoal... Hoje, dia 5 de abril, é o CSS Naked Day (ou Dia do CSS Nú). Todo mundo nú, num braço só... :D
+E ae, pessoal... Hoje, dia 5 de abril, é o CSS Naked Day (ou Dia do CSS Nú). Todo mundo nú, num braço só... :D
 
 Uma belíssima idéia para mostrar a importância de um código bem estruturado e limpo, que se consiga ler sem o css, etc...
 

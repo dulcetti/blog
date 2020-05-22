@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2006-01-13'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Pesquisa Usabilidoido'
 ---
 
-Falae pessoal, o [Fred do Usabilidoido](http://www.usabilidoido.com.br) lançou sua segunda pesquisa, quarta-feira dia 11, com seus leitores do Blog, para contar suas http://www.usabilidoido.com.br/segunda\_pesquisa\_com\_nossos\_leitores.htmlopiniões sobre o site.
+Falae, pessoal, o [Fred do Usabilidoido](http://www.usabilidoido.com.br) lançou sua segunda pesquisa, quarta-feira dia 11, com seus leitores do Blog, para contar suas http://www.usabilidoido.com.br/segunda\_pesquisa\_com\_nossos\_leitores.htmlopiniões sobre o site.
 
 Não gastei mais de um minuto para participar da pesquisa e estou aqui para indicá-la. Vale o clique com certeza, aliás, nós mesmos que ganharemos com isso não é verdade?
 

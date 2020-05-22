@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-08-02'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Classes vs. Identificadores'
 ---
 
-Falae pessoal... Esse post vai ser um pouco mais curto dos que eu costumo escrever aqui sobre webstandards, css e afins... Tentarei ser curto e direto, pois o assunto também não engloba tanta complexidade.
+Falae, pessoal... Esse post vai ser um pouco mais curto dos que eu costumo escrever aqui sobre webstandards, css e afins... Tentarei ser curto e direto, pois o assunto também não engloba tanta complexidade.
 
 Ontem o [Daniel de Paola](http://www.danieldepaola.com) me perguntou a diferença do . e da # no CSS. Ele tá iniciando em webstandards agora, o que acho ótimo, pois é mais um adepto dos padrões... ;) Boa, Paola...
 

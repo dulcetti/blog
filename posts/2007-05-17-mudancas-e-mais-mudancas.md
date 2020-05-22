@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2007-05-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Mudanças e mais mudanças...'
 ---
 
-E ae pessoal, tranquilidade?
-
-Por aqui tudo bem, mtos freelas, por isso o sumiço aqui no Blog. Acontece, fazer o que... Vida de garoto de programação tem sempre disso :D
+E ae, pessoal, tranquilidade? Por aqui tudo bem, mtos freelas, por isso o sumiço aqui no Blog. Acontece, fazer o que... Vida de garoto de programação tem sempre disso :D
 
 ## Hmmm... Nova ID Visual é Bruno?
 

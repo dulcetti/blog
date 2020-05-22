@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2006-05-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Desenvolvedor de Interação. Conhece?'
 ---
 
-E ae pessoal, tudo tranquilo? Por aqui está tudo bem também, graças a Deus.
+E ae, pessoal, tudo tranquilo? Por aqui está tudo bem também, graças a Deus.
 
 Meu post hoje é pra falar sobre um cargo, digamos assim, que acho que se encaixa no meu atual perfil profissional. E achei legal compartilhar aqui, para quem sabe alguém que também se encaixe neste perfil, para mandarem opiniões, o que acham...
 

@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2006-12-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Globo Media Center (GMC) agora é Globo Vídeos.'
 ---
 
-E ae pessoal, tranquilo?
+E ae, pessoal, tranquilo?
 
 Venho nesse post para mostrar mais uma mudança nas ferramentas da [Globo.com](http://www.globo.com), e agora dessa vez foi o Globo Media Center, que agora não é mais todo em Flash, passando todo seu conteúdo para HTML, textos e não todo em Flash como era a versão antiga. E, além disso, mudou também seu nome para [Globo Vídeos](http://video.globo.com/).
 

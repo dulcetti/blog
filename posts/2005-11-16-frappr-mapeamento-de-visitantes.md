@@ -1,12 +1,12 @@
 ---
-category: 'Shots'
+category: 'Tecnologia'
 date: '2005-11-16'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Frappr - Mapeamento de visitantes'
 ---
 
-E ae pessoal. Estou aqui para falar do Frappr. Pra quem ainda não ouviu falar dele, é uma ferramenta que cria um grupo de usuários de um determinado site, blog, etc. Você cria sua conta e coloca um link para que os visitantes possam se juntar ao grupo e a partir da localização do visitante, através do GoogleMap, ele mostra de onde o visitante vêm, uma foto e um campo de boas vindas.
+E ae, pessoal. Estou aqui para falar do Frappr. Pra quem ainda não ouviu falar dele, é uma ferramenta que cria um grupo de usuários de um determinado site, blog, etc. Você cria sua conta e coloca um link para que os visitantes possam se juntar ao grupo e a partir da localização do visitante, através do GoogleMap, ele mostra de onde o visitante vêm, uma foto e um campo de boas vindas.
 
 Uma idéia muito interessante. E depois, o site cria tipo um slide show com todos os cadastrados, mostrando as fotos de todos os participantes.
 

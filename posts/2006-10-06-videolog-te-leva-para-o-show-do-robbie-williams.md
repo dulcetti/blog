@@ -2,11 +2,11 @@
 category: 'Webstandards'
 date: '2006-10-06'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Videolog te leva para o Show do Robbie Williams'
 ---
 
-E ae pessoal. Estou aqui para divulgar a promoção que o [Videolog.tv](http://www.videolog.tv 'Ver o site do Videolog') está fazendo.
+E ae, pessoal. Estou aqui para divulgar a promoção que o [Videolog.tv](http://www.videolog.tv 'Ver o site do Videolog') está fazendo.
 
 Para quem não sabe, dia 18 de outubro o cantor [Robbie Wiliiams](http://www.robbiewilliams.com/ 'Visitar o site do Robbie Wiliiams') fará shows no Brasil, no Rio de Janeiro para ser mais exato. E como não podia deixar de fora, o Videolog.tv criou uma promoção para te levar para o show.
 

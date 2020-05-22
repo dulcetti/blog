@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-07-13'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Mudanças nos estados do campos de texto'
 ---
 
-Falae pessoal.
+Falae, pessoal.
 
 Estou aqui mais uma vez, agora pra mostrar uma técnica simples e muito interessante de ser utilizada em sites. Não chega a ser uma grande utilizadade, mas em relação a estilo, layout, dá um diferencial, um detalhe a mais pro seu site/blog.
 

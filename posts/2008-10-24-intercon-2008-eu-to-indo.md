@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-10-24'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Intercon 2008 - Eu tô indo'
 ---
 
@@ -10,7 +10,7 @@ Estou indo para o meu quarto [Intercon](http://imasters.uol.com.br/intercon/2008
 
 ![Marca do Intercon 2008](/uploads/marca-intercon.png)
 
-## Valew então modafoca
+## Valew então, modafoca
 
 Encontro vocês por lá. E um dia quem sabe eu escrevo sobre o evento. Mas siga o meu twitter, que ficarei falando um monte de merda sobre o evento, mulheres, bebidas e afins :D
 

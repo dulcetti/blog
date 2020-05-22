@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2008-03-11'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/portfolio.jpg'
 title: 'Ego lança nova versão seguindo os novos Padrões Globo.com'
 ---
 

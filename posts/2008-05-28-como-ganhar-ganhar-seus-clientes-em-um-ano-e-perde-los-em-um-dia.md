@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-05-28'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Como ganhar ganhar seus clientes em um ano e perdê-los em um dia.'
 ---
 

@@ -1,12 +1,12 @@
 ---
-category: 'Tecnologia'
+category: 'Shots'
 date: '2006-01-03'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Links úteis'
 ---
 
-Falae pessoal. Queria compartilhar alguns links com vocês. Uns são artigos, outros materiais, pesquisas, etc, e que são muito úteis. Segue a lista abaixo:
+Falae, pessoal. Queria compartilhar alguns links com vocês. Uns são artigos, outros materiais, pesquisas, etc, e que são muito úteis. Segue a lista abaixo:
 
 ## [Sensible Forms: A Form Usability Checklist](http://alistapart.com/articles/sensibleforms)
 

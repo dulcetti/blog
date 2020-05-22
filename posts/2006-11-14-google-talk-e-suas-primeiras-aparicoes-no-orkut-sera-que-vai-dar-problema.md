@@ -2,13 +2,11 @@
 category: 'Tecnologia'
 date: '2006-11-14'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Google Talk e suas primeiras aparições no Orkut. Será que vai dar problema?'
 ---
 
-Falae cambada.
-
-Hoje estou aqui, mas não é pra falar de CSS, Webstandards, xhtml, flash, mostrar colírios, etc. Hoje vou falar sobre o Gtalk, Google, etc.
+Falae cambada. Hoje estou aqui, mas não é pra falar de CSS, Webstandards, xhtml, flash, mostrar colírios, etc. Hoje vou falar sobre o Gtalk, Google, etc.
 
 De um tempo pra cá, deu pra perceber que o Google integrou o Gtalk ao Orkut. Agora muita gente tem Gtalk, mógalera que nem sabia da existência está começando a utilizá-lo, etc.
 

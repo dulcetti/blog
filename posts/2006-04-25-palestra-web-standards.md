@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2006-04-25'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Palestra Web standards'
 ---
 
-E ae pessoal. Venho aqui para deixar algumas informações da palestra online, em que eu serei o palestrante. O tema da palestra será webstandards (como não podia deixar de ser né :D).
+E ae, pessoal. Venho aqui para deixar algumas informações da palestra online, em que eu serei o palestrante. O tema da palestra será webstandards (como não podia deixar de ser né :D).
 
 A palestra será via Breeze e mostrarei algumas dicas e truques para a criação do código html e css. Abordarei Faux-collumns, entre outros truques utilizados e que geralmente a galera tem dúvida.
 

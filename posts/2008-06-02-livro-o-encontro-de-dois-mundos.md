@@ -2,13 +2,11 @@
 category: 'Publicações'
 date: '2008-06-02'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Livro: O Encontro de Dois Mundos'
 ---
 
-E ae pessoal, tudo na tranquilidade? Espero que sim.
-
-Venho neste post rápido, só para divulgar mais um brilhante trabalho executado pelo pessoal do iMasters. E por incrível que pareça, não é nenhum site, nenhum evento modafoca e tudo mais.
+E ae, pessoal, tudo na tranquilidade? Espero que sim. Venho neste post rápido, só para divulgar mais um brilhante trabalho executado pelo pessoal do iMasters. E por incrível que pareça, não é nenhum site, nenhum evento modafoca e tudo mais.
 
 ## Qual é a novidade Dulça?
 

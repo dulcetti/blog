@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2008-05-06'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Globo Esporte lança sua nova versão'
 ---
 

@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2007-10-08'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'G1, o Portal de Notícias da Globo.com lança novo layout'
 ---
 
-E ae pessoal. Venho aqui para informar que o [novo layout do G1](http://www.g1.com.br/), o portal de notícias da [Globo.com](http://www.globo.com/), foi lançado neste domingo, por volta das 7h da manhã. Um pouco atrasado esse meu aviso, eu sei, mas fazer o q né... :D Esse fds fiquei fora do Rio, bebendo um pouco com os amigos, me divertindo. Trabalhar fulltime não faz muito bem :D
+E ae, pessoal. Venho aqui para informar que o [novo layout do G1](http://www.g1.com.br/), o portal de notícias da [Globo.com](http://www.globo.com/), foi lançado neste domingo, por volta das 7h da manhã. Um pouco atrasado esse meu aviso, eu sei, mas fazer o q né... :D Esse fds fiquei fora do Rio, bebendo um pouco com os amigos, me divertindo. Trabalhar fulltime não faz muito bem :D
 
 ![Print da nova home do G1](/uploads/0_11707095_00.jpg)
 

@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2007-08-30'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/portfolio.jpg'
 title: 'Portal Globo.com lança sua nova home'
 ---
 
