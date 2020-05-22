@@ -8,7 +8,7 @@ export const PostWrap = styled.div`
   margin: auto;
   max-width: 70rem;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('767px')`
     padding: 5px 20px;
   `}
 `;
