@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2008-12-02'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Globo.com lança nova versão de layout'
 ---
 

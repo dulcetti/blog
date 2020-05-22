@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-20'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'iBest e Peixe Grande'
 ---
 

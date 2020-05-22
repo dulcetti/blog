@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2009-01-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Morte ao IE6 - Internet Explorer 6'
 ---
 

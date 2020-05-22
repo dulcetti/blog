@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-05-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Spams, Hackers, Invasões e Pedido de Desculpas'
 ---
 

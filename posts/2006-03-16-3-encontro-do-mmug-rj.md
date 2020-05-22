@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-03-16'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '3º encontro do MMUG-RJ'
 ---
 

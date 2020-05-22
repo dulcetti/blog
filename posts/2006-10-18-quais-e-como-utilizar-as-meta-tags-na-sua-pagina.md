@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-10-18'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Meta Tags. Quais e como utilizar na sua página.'
 ---
 

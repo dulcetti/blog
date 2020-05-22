@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2008-03-27'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Videolog lança v3'
 ---
 

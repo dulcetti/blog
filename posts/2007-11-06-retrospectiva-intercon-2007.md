@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-11-06'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Retrospectiva Intercon 2007'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-08-23'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'ASCII Maps'
 ---
 

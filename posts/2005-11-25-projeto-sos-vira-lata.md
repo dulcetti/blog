@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-11-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Projeto S.O.S. Vira Lata'
 ---
 

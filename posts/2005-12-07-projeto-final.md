@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-12-07'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Projeto Final'
 ---
 

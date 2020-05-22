@@ -5,7 +5,6 @@ import { themes } from '../styles/themes';
 import * as S from '../styles/pages';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import SocialMedias from '../components/social-medias';
 
 export default function ContactPage() {
   const title = 'Contato - Críticas, sugestões, elogios? Perfeito!';

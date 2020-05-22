@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-10-24'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Intercon 2008 - Eu tô indo'
 ---
 

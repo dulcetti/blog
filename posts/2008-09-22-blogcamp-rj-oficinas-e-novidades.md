@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-09-22'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp RJ - Oficinas e novidades'
 ---
 

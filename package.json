@@ -63,8 +63,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-push": "yarn build"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "keywords": [

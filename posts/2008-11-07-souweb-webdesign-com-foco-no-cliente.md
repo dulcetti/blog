@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-11-07'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Sou+Web - Webdesign com foco no cliente'
 ---
 

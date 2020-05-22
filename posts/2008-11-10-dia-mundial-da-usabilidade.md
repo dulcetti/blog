@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-11-10'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Dia Mundial da Usabilidade'
 ---
 

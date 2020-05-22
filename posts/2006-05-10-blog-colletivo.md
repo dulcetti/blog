@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-05-10'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Blog Colletivo'
 ---
 

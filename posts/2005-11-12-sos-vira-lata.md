@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-11-12'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'S.O.S. Vira-Lata'
 ---
 

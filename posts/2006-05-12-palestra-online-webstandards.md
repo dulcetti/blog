@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-05-12'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Palestra Online - Webstandards'
 ---
 

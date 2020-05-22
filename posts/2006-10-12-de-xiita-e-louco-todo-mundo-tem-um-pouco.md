@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-10-12'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'De xiita e louco todo mundo tem um pouco.'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-22'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Amigo Secreto (Oculto?) da Blogosfera...'
 ---
 

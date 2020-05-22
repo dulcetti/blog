@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2005-11-18'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Browser Maxthon'
 ---
 

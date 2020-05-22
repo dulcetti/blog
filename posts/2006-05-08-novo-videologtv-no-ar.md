@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-05-08'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Novo Videolog.tv no ar'
 ---
 

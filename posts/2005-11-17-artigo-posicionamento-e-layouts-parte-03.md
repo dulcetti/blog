@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-11-17'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Posicionamento e Layouts (Parte 03)'
 ---
 

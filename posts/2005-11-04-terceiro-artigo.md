@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-11-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Terceiro Artigo'
 ---
 

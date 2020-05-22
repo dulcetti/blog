@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-05-24'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Cellspacing e Cellpadding com Webstandards'
 ---
 

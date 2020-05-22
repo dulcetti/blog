@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-01-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Mutirão da galera do Videolog para o desenvolvimento da v3'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2007-02-14'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Rota Blogueira v.0002'
 ---
 

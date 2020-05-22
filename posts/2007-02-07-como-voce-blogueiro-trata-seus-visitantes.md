@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-02-07'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Como você, Blogueiro, trata seus visitantes?'
 ---
 

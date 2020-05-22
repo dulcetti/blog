@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-07-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 

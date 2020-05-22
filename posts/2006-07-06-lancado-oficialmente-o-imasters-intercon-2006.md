@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-07-06'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Lançado oficialmente o iMasters Intercon 2006'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-02-11'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Campus Party - Eu vou'
 ---
 

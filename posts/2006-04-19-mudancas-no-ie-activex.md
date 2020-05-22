@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-04-19'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Mudanças no IE - ActiveX'
 ---
 

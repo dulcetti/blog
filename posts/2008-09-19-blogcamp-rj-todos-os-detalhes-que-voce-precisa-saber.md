@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-09-19'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp RJ: Todos os detalhes que você precisa saber'
 ---
 

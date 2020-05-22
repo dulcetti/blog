@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-28'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Entrevista com Tiago Baeta e Fotos no InterCon'
 ---
 

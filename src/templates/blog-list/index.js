@@ -6,7 +6,7 @@ import SEO from '../../components/seo';
 import PostsList from '../../components/posts-list';
 import Pagination from '../../components/pagination';
 
-const BlogList = (props) => {
+export default function BlogList(props) {
   const postList = props.data.allMarkdownRemark.edges;
   const { currentPage, numPages } = props.pageContext;
   const { description, title } = props.data.site.siteMetadata;
@@ -19,7 +19,7 @@ const BlogList = (props) => {
       <Pagination totalPages={numPages} currentPage={currentPage} />
     </Layout>
   );
-};
+}
 
 export const query = graphql`
   query PostsListQuery($skip: Int, $limit: Int) {
@@ -36,8 +36,13 @@ export const query = graphql`
           frontmatter {
             category
             date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
-            description
-            featuredImage
+            featuredImage {
+              childImageSharp {
+                fluid(maxHeight: 622, maxWidth: 960) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             title
           }
           timeToRead
@@ -52,5 +57,3 @@ export const query = graphql`
     }
   }
 `;
-
-export default BlogList;

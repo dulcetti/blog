@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2005-10-26'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Retrospectiva iMasters Intercon'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-02-15'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Campus Party Segundo Dia'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Back-End'
 date: '2006-01-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Formulario em PHP'
 ---
 

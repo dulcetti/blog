@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-03-17'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp ES. É esta semana agora. Eu vou e você?'
 ---
 

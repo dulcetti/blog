@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-02-16'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Bruno Dulcetti no Carreira Solo'
 ---
 

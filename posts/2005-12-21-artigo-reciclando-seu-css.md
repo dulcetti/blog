@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-12-21'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Reciclando seu CSS'
 ---
 

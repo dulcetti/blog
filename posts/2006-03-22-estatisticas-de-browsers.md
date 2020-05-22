@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-03-22'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Estatísticas de Browsers'
 ---
 

@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import { themes } from './themes';
+// import { themes } from './themes';
 import SocialMedias from '../components/social-medias';
 
 export const PagesWrap = styled.div`
@@ -23,4 +23,18 @@ export const PageText = styled.p`
   margin-bottom: 2rem;
 `;
 
-export const SocialMediasContact = styled(SocialMedias)``;
+export const SocialMediasContact = styled(SocialMedias)`
+  justify-content: flex-start;
+
+  > li {
+    ${media.lessThan('medium')`
+      height: auto;
+      width: 50px;
+    `}
+
+    ${media.greaterThan('medium')`
+      height: auto;
+      width: 64px;
+    `}
+  }
+`;

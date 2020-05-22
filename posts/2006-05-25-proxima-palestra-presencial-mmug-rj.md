@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-05-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Próxima Palestra Presencial MMUG-RJ'
 ---
 

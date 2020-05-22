@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-11-16'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Frappr - Mapeamento de visitantes'
 ---
 

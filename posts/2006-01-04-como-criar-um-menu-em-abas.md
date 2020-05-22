@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-01-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Menu em abas'
 ---
 

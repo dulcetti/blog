@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-12-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp PR - O Melhor de Todos'
 ---
 

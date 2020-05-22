@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2008-04-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'CSS Naked Day. Mas eu não vou tirar meu CSS não.'
 ---
 

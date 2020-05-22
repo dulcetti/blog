@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-08'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Página de erro do Superdownloads. By Chuck Norris.'
 ---
 

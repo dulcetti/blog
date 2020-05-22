@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2008-02-13'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Campus Party - Primeiro dia efetivo'
 ---
 

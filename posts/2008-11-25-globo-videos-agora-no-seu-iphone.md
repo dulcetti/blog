@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2008-11-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Globo Vídeos agora no seu iPhone'
 ---
 
