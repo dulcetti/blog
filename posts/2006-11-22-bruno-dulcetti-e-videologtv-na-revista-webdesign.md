@@ -2,11 +2,11 @@
 category: 'Publicações'
 date: '2006-11-22'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Bruno Dulcetti e Videolog.tv na Revista Webdesign.'
 ---
 
-E ae pessoal, tudo tranquilo? Por aqui tudo ótimo, melhor é quase impossível :D Brincadeira ;)
+E ae, pessoal, tudo tranquilo? Por aqui tudo ótimo, melhor é quase impossível :D Brincadeira ;)
 
 ![Thumb Matéria Revista Webdesign](/uploads/303512813_49ce343445_o.jpg)
 

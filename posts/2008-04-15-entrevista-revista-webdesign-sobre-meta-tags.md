@@ -2,11 +2,11 @@
 category: 'Publicações'
 date: '2008-04-15'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Entrevista Revista Webdesign sobre Meta tags'
 ---
 
-E ae pessoal, tranquilidade? Por aqui tudo beleza. Família vai bem? Irmã tá boa? Sucesso então.
+E ae, pessoal, tranquilidade? Por aqui tudo beleza. Família vai bem? Irmã tá boa? Sucesso então.
 
 ## Mas é um modafoca mermo...
 

@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-05-27'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Menu em Abas sem utilizar imagens'
 ---
 
-Falae galera. Estou aqui de novo, mas agora pra mostrar um outro Tutorial/Artigo, de como fazer um menu com abas. Eu <a href="/artigo-menu-em-abas">já tinha postado um tutorial</a>, mas era utilizando imagens e ficava um pouco limitado, pois se aumentasse a fonte, a imagem não iria ficar legal.
+Falae, galera. Estou aqui de novo, mas agora pra mostrar um outro Tutorial/Artigo, de como fazer um menu com abas. Eu <a href="/artigo-menu-em-abas">já tinha postado um tutorial</a>, mas era utilizando imagens e ficava um pouco limitado, pois se aumentasse a fonte, a imagem não iria ficar legal.
 
 Agora estou mostrando um novo modo de se fazer, sem utilizar imagem alguma, somente com código <abbr title="Cascading Style Sheet">css</abbr>. Fica com um resultado bem leve e agradável. A única coisa é que fica quadrado, o que eu não vejo problema nenhum, mas para quem é fã de arredondados, esse tutorial não se encaixa.
 

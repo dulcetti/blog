@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-11'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Feeds no Banheiro'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-09-26'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp RJ - Qual vai ser a boa de sexta?'
 ---
 

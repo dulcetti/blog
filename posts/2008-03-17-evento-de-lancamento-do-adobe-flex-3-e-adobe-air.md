@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-03-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Evento de Lançamento do Adobe Flex 3 e Adobe AIR'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-12-23'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Reformulação e Feliz Natal'
 ---
 

@@ -1,14 +1,14 @@
 ---
-category: 'Webstandards'
+category: 'Eventos'
 date: '2008-02-13'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/eventos.jpg'
 title: 'Campus Party - Primeiro dia efetivo'
 ---
 
-Falae galera. Dulcetti na área e no [Campus Party](http://www.campus-party.com.br/). E é meu primeiro dia efetivo no evento, pois ontem tivemos problemas durante o caminho até São Paulo.
+Falae, galera. Dulcetti na área e no [Campus Party](http://www.campus-party.com.br/). E é meu primeiro dia efetivo no evento, pois ontem tivemos problemas durante o caminho até São Paulo.
 
-## E o que que tá rolando ae Dulça?
+## E o que que tá rolando ae, Dulça?
 
 Bastante coisa. Hoje o [Videolog](http://www.videolog.tv) apresentou o concurso que montou para a criação de um plugin/widget. O prêmio para o vencedor é uma TV LCD 22", um prêmio e tanto para os desenvolvedores produzirem algo relativamente fácil para eles.
 

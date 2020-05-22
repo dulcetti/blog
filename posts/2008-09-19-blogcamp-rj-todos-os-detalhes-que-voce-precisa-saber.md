@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2008-09-19'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp RJ: Todos os detalhes que você precisa saber'
 ---
 
-Falaeeeee cambada de modafoca. Finalmente é dada a largada. Depois de muita enrolação, esconde, fala, desfala, entre outros, aká estou eu, o modafoca mór de todos, para falar sobre esse evento, tão modafoca quanto quem vos fala.
+Falaeeeee ,cambada de modafoca. Finalmente é dada a largada. Depois de muita enrolação, esconde, fala, desfala, entre outros, aká estou eu, o modafoca mór de todos, para falar sobre esse evento, tão modafoca quanto quem vos fala.
 
 ![Marca do BlogCamp RJ](/uploads/marca-blogcamp-rj.jpg)
 

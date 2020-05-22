@@ -2,13 +2,13 @@
 category: 'Eventos'
 date: '2007-11-06'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Retrospectiva Intercon 2007'
 ---
 
 Depois de ter demorado mais de uma semana para postagem (pra variar), aqui estou eu falando sobre o evento, que na minha concepção foi muito bom. Me surpreendeu positivamente com a estrutura e modelos de palestras, etc.
 
-## E o conteúdo do Evento Bruno?
+## E o conteúdo do Evento, Bruno?
 
 Muito bomo conteúdo, com desconferências, POD Casts, participação de blogueiros, Luli como entrevistador em todas as palestras e constante participação do público no final das palestras.
 

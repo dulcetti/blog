@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2007-12-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'BlogCamp PR - O Melhor de Todos'
 ---
 
-Falae pessoal. Chegando aqui para comentar sobre mais um BlogCamp que rolou, em Curitiba/Paraná. Por coincidência, meu último post foi sobre outro BlogCamp, o de Belo Horizonte.
+Falae, pessoal. Chegando aqui para comentar sobre mais um BlogCamp que rolou, em Curitiba/Paraná. Por coincidência, meu último post foi sobre outro BlogCamp, o de Belo Horizonte.
 
 ## Pra variar escrevendo pouco né Dulcetti
 

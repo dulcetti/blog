@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-03-29'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Lançamento Oficial da Revista iMasters'
 ---
 
@@ -24,14 +24,21 @@ Bom, como deu pra perceber, esse é o primeiro número né :D e o primeiro tema 
 
 Vou mostrar abaixo, algumas dos temas abordados pela Revista:
 
-- #### Capa
-  Um estudo completo sobre a história dos blogs, os principais desafios encontrados no Brasil, as tendências apontadas pelo mercado e um bate papo especial com 3 dos maiores blogueiros do Brasil.
-- #### Entrevista
-  [Fábio Seixas](http://blog.fabioseixas.com.br/), do [Camiseteria.com](http://www.camiseteria.com), abre o jogo e fala tudo sobre e-commerce no Brasil, empreendimento da internet, web 2.0 e blogs corporativos, além de passar um raio-x de seu projeto.
-- #### Arquitetura da Informação
-  Os avanços da web trazem consigo novas áreas de atuação de profissionais. A gerência de conteúdos é hoje um grande dilema para grandes sites em uma era da informação. [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), do [Carreirasolo.org](http://www.carreirasolo.org), explica como a arquitetura da Informação pode auxiliar nos novos desafios web.
-- #### Usabilidade
-  Frederick Van Asmtel traz um excelente guia sobre formatação CSS, com um belíssimo infográfico onde divide a mesma em duas dimensões: a textual (o código) e a visual (os efeitos do s códigos).
+#### Capa
+
+Um estudo completo sobre a história dos blogs, os principais desafios encontrados no Brasil, as tendências apontadas pelo mercado e um bate papo especial com 3 dos maiores blogueiros do Brasil.
+
+#### Entrevista
+
+[Fábio Seixas](http://blog.fabioseixas.com.br/), do [Camiseteria.com](http://www.camiseteria.com), abre o jogo e fala tudo sobre e-commerce no Brasil, empreendimento da internet, web 2.0 e blogs corporativos, além de passar um raio-x de seu projeto.
+
+#### Arquitetura da Informação
+
+Os avanços da web trazem consigo novas áreas de atuação de profissionais. A gerência de conteúdos é hoje um grande dilema para grandes sites em uma era da informação. [Mauro Amaral](http://www.carreirasolo.org/archives/mauro_amaral_biogra.html), do [Carreirasolo.org](http://www.carreirasolo.org), explica como a arquitetura da Informação pode auxiliar nos novos desafios web.
+
+#### Usabilidade
+
+Frederick Van Asmtel traz um excelente guia sobre formatação CSS, com um belíssimo infográfico onde divide a mesma em duas dimensões: a textual (o código) e a visual (os efeitos do s códigos).
 
 ## E pra comemorar...
 

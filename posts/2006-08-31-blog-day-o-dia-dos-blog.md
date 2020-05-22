@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2006-08-31'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Blog Day - O dia dos Blog'
 ---
 
-Falae cambada... Pra quem não sabia, dia 31 é o Blog Day, ou o dia dos Blogs.
+Falae, cambada... Pra quem não sabia, dia 31 é o Blog Day, ou o dia dos Blogs.
 
 Uma boa iniciativa em que cada blogueiro deverá indicar cinco Blogs, de preferência desconhecidos, dentro de um post no seu Blog.
 

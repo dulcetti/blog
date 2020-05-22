@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2007-08-29'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 
-E ae cambada. Um post bem rápido, só pra descontrair mesmo.
+E ae, cambada. Um post bem rápido, só pra descontrair mesmo.
 
 ![Dul7 Simpsonizado](/uploads/dul7_simpsons_melhor.jpg)
 

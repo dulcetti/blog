@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2005-10-26'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Retrospectiva iMasters Intercon'
 ---
 
-Falae pessoal. Aqui estou eu de novo, agora comentando sobre o recente evento organizado pelo portal iMasters, o Intercon. Evento onde o foco foi o setor de criação, voltado para internet.
+Falae, pessoal. Aqui estou eu de novo, agora comentando sobre o recente evento organizado pelo portal iMasters, o Intercon. Evento onde o foco foi o setor de criação, voltado para internet.
 
 Realizado na cidade de São Paulo, num local privilegiado e de grande qualidade. No total foram realizadas 10 palestras, em 2 salões simultâneos. Muitos profissionais renomados como Felipe Memória, que estava pré-lançando seu Livro "Design para a Internet - Projetando a experiência perfeita", Fabrício Manzi lançando o primeiro livro sobre flash 8 no mundo "Flash 8 Professional - Criando além da Animação" e o segundo no mundo sobre Dreamweaver 8 "Dreamweaver 8 - Criação de Sites e Loja Virtual - para Windows". Entre outros ilustres participantes, tanto palestrando, como visitando o evento. Figuras carimbadas como Fabiano Cruz, André Bittencourt, Marlos Carmo, Fred van Amstel, Fabio Lody, Vinicius (VBA), Pedro Castro (Pheliz), entre outros, tanto blogueiros, quanto participantes do fórum do iMasters.
 

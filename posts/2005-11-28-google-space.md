@@ -2,11 +2,11 @@
 category: 'Tecnologia'
 date: '2005-11-28'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Google Space'
 ---
 
-Falae galera.
+Falae, galera.
 
 Aqui para falar de mais uma do Google. Agora os caras estão lançando o Google Space, um cybercafé no aeroporto internacional de Londres. O primeiro espaço "físico" que o google lança.
 

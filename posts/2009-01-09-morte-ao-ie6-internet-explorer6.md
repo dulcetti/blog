@@ -1,8 +1,8 @@
 ---
-category: 'Shots'
+category: 'Tecnologia'
 date: '2009-01-09'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Morte ao IE6 - Internet Explorer 6'
 ---
 

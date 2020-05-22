@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2006-10-27'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'iMasters Intercon 2006 aí vou eu.'
 ---
 
-E ae pessoal.
+E ae, pessoal.
 
 Conforme [comentei um tempim atrás](/lancado-oficialmente-o-imasters-intercon-2006), esse ano terá o [Imasters Intercon 2006](http://www.imasters.com.br/intercon/2006/), um evento organizado pelo portal [iMasters](http://www.imasters.com.br).
 

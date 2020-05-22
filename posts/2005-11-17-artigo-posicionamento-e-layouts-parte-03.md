@@ -2,11 +2,11 @@
 category: 'Publicações'
 date: '2005-11-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/publicacoes.jpg'
 title: 'Posicionamento e Layouts (Parte 03)'
 ---
 
-Falae pessoal. Depois da espera, finalmente saiu o terceiro artigo da série Posicionamentos e layouts para o portal [iMasters](http://www.imasters.com.br 'Visitar Portal iMasters [Este link abre em uma nova janela]').
+Falae, pessoal. Depois da espera, finalmente saiu o terceiro artigo da série Posicionamentos e layouts para o portal [iMasters](http://www.imasters.com.br 'Visitar Portal iMasters [Este link abre em uma nova janela]').
 
 Esta parte fala sobre criação de layouts com cantos arredondados, com três exemplos, três maneiras de se fazer layouts arredondados com webstandards. Bem explicado a meu ver, detalhado e de fácil compreensão e aplicação.
 

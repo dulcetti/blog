@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2006-10-12'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'De xiita e louco todo mundo tem um pouco.'
 ---
 
-E ae pessoal.
-
-Estou meio sumido, é verdade, o Blog tah meio paradão, admito isso. Mas to passando por umas paradas ae, dificuldades, stress, bolações, etc. Mas isso não vem ao caso agora.
+E ae, pessoal. Estou meio sumido, é verdade, o Blog tah meio paradão, admito isso. Mas to passando por umas paradas ae, dificuldades, stress, bolações, etc. Mas isso não vem ao caso agora.
 
 To aqui para falar de um assunto que vira e mexe cai na boca do profissional web. Não só da web, mas como é o meu ramo e o da maioria (se não for geral) de todos aqui.
 

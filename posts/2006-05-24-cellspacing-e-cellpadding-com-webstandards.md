@@ -2,11 +2,11 @@
 category: 'CSS'
 date: '2006-05-24'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Cellspacing e Cellpadding com Webstandards'
 ---
 
-Falae galera, tranquilidade?
+Falae, galera, tranquilidade?
 
 Depois de ver algumas dúvidas, pessoas querendo saber sobre esse assunto, comecei a pesquisar, a mexer aqui no css e acabei descobrindo a forma de simular com webstandards, o cellpadding e cellspacing, atributos presentes na tag `<table>` que serve para a criação de tabelas.
 

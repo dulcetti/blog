@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-02-23'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Guerra dos Browsers'
 ---
 

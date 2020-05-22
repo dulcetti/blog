@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-10-28'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Rails Rumble 2008 - Eu participei'
 ---
 

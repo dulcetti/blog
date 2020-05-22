@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2007-07-27'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Primeiro Encontro de Blogueiros, Leitores e Simpatizantes ou B.L.S. (anh?)'
 ---
 
-E ae pessoal.
-
-Venho aqui informar que, finalmente, os blogueiros cariocas resolveram se encontrar. E não somente os blogueiros, mas também seus leitores e simpatizantes :D (não confundam, por favor :D Este nome foi idéia do [Cardoso](http://carloscardoso.com/))
+E ae, pessoal. Venho aqui informar que, finalmente, os blogueiros cariocas resolveram se encontrar. E não somente os blogueiros, mas também seus leitores e simpatizantes :D (não confundam, por favor :D Este nome foi idéia do [Cardoso](http://carloscardoso.com/))
 
 ## Hmm... Interessante Bruno. Quem resolveu fazer isso?
 

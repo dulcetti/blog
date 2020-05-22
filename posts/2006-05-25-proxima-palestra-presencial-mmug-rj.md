@@ -2,13 +2,11 @@
 category: 'Eventos'
 date: '2006-05-25'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/eventos.jpg'
 title: 'Próxima Palestra Presencial MMUG-RJ'
 ---
 
-Falae pessoal.
-
-Passando rapidamente para falar que o [MMUG-RJ](http://www.mmug-rj.com.br) está organizando uma palestra presencial e estão com uma enquete com as duas opções:
+Falae, pessoal. Passando rapidamente para falar que o [MMUG-RJ](http://www.mmug-rj.com.br) está organizando uma palestra presencial e estão com uma enquete com as duas opções:
 
 "Webstandards vs. WYSIWYG" ou "Dados dinâmicos com Flash"
 

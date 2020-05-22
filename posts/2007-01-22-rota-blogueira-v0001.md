@@ -1,12 +1,12 @@
 ---
-category: 'Webstandards'
+category: 'Shots'
 date: '2007-01-22'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/shots.jpg'
 title: 'Rota Blogueira v.0001'
 ---
 
-E ae pessoal. Estou aqui para iniciar uma nova categoria aqui no blog, a Rota Blogueira. Nesta categoria eu farei algumas referências a posts lidos por mim e que vale ser postado aqui para que vocês também desfrutem, caso não já tenham lido, logicamente. ;)
+E ae, pessoal. Estou aqui para iniciar uma nova categoria aqui no blog, a Rota Blogueira. Nesta categoria eu farei algumas referências a posts lidos por mim e que vale ser postado aqui para que vocês também desfrutem, caso não já tenham lido, logicamente. ;)
 
 Tentarei colocar aqui semanalmente. Tudo vai depender da minha paciência e saco para postar :D Mas eu prometo que não será igual as categorias Videolog e Colírios, as quais tenho que postar urgentemente, tem tanto tempo que não posto, que às vezes esqueço delas :P.
 

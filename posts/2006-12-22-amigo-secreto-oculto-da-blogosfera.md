@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2006-12-22'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Amigo Secreto (Oculto?) da Blogosfera...'
 ---
 
-Falae pessoal... Bom, o título é um pouco diferente, porque estou acostumado com amigo oculto ao invés de secreto como o Yahoo, entre outros sites e cidades chamam. :D
+Falae, pessoal... Bom, o título é um pouco diferente, porque estou acostumado com amigo oculto ao invés de secreto como o Yahoo, entre outros sites e cidades chamam. :D
 
 ## Convenhamos Bruno, isso não vem ao caso né...
 

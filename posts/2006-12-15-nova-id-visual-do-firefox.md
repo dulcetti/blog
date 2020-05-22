@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-15'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Nova ID Visual do Firefox'
 ---
 

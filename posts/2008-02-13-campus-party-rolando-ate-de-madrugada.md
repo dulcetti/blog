@@ -1,8 +1,8 @@
 ---
-category: 'Webstandards'
+category: 'Eventos'
 date: '2008-02-13'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/eventos.jpg'
 title: 'Campus Party rolando até de madrugada'
 ---
 

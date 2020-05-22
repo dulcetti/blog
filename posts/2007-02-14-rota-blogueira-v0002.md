@@ -1,8 +1,8 @@
 ---
-category: 'Webstandards'
+category: 'Shots'
 date: '2007-02-14'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/shots.jpg'
 title: 'Rota Blogueira v.0002'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-01-02'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Camarada Oculto da Blogosfera 2007'
 ---
 

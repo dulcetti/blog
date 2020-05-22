@@ -2,13 +2,11 @@
 category: 'CSS'
 date: '2007-06-25'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/css.jpg'
 title: 'Desafio: Como "cropar" uma foto com CSS'
 ---
 
-E ae pessoal.
-
-Hoje estou aqui com algo diferente. Estava semana passada aqui na [Globo.com](http://www.globo.com), implementando um novo projeto, o qual falarei em breve para vocês, quando acabei parando em um probleminha chato.
+E ae, pessoal. Hoje estou aqui com algo diferente. Estava semana passada aqui na [Globo.com](http://www.globo.com), implementando um novo projeto, o qual falarei em breve para vocês, quando acabei parando em um probleminha chato.
 
 Um novo efeito de over nos links que o pessoal de design fez no layout. É interessante, gostei, mas fiquei pensando um tempinho em como implementá-lo.
 

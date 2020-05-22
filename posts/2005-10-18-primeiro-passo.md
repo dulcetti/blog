@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2005-10-18'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Primeiro Passo'
 ---
 
-Falae pessoal.
+Falae, pessoal.
 
 Aqui estou eu no meu primeiro post no meu blog. Depois de alguns testes, experimentos, acá estou eu com meu blog. Tentarei falar aqui sobre webstandards, tableless, css, escrever alguns artigos, entre outros.
 

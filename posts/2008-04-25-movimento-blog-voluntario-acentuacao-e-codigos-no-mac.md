@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2008-04-25'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Movimento Blog Voluntário. Acentuação e Códigos no Mac.'
 ---
 
-E ae pessoal, tranquilidade? Um pouco sumido, muito trabalho, muitos blogs, mas sempre apareço.
+E ae, pessoal, tranquilidade? Um pouco sumido, muito trabalho, muitos blogs, mas sempre apareço.
 
 Venho aqui não para postar tutoriais complexos (?) sobre webstandards, css, xhtml, nem nada disso. Vou postar um tutorial sim, mas em um formato diferente, numa ação especial e muito interessante sobre um assunto que atinge nosso país: Analfabetismo Digital.
 

@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2007-09-04'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Profissionais que eu trabalho e recomendo'
 ---
 
-E ae galera.
-
-Resolvi fazer um post diferente do normal, sem conteúdo técnico, nada de webstandards, nem nada. Seria algo como a categoria Colírios, que eu deveria atualizá-la e postar mais coisas :P
+E ae, galera. Resolvi fazer um post diferente do normal, sem conteúdo técnico, nada de webstandards, nem nada. Seria algo como a categoria Colírios, que eu deveria atualizá-la e postar mais coisas :P
 
 ## Como assim Bruno? Não entendi muito bem.
 

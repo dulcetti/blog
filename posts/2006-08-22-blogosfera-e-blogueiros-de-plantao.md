@@ -2,13 +2,11 @@
 category: 'Shots'
 date: '2006-08-22'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Blogosfera e Blogueiros de Plantão'
 ---
 
-Falae cambada.
-
-Ok, ok. Eu prometi colocar a nova versão do meu Blog no ar no final de semana, mas pow, preciso viver um pouco, me divertir, entre outras coisas (apesar de trabalhar com internet, eu tb sou ser-humano. Parece estranho, mas é a pura verdade :D)
+Falae, cambada. Ok, ok. Eu prometi colocar a nova versão do meu Blog no ar no final de semana, mas pow, preciso viver um pouco, me divertir, entre outras coisas (apesar de trabalhar com internet, eu tb sou ser-humano. Parece estranho, mas é a pura verdade :D)
 
 Acabei atrasando um bocado, mas está tudo pronto, só falta montar poucos detalhes. Foda são os jobs e a preguiça (velha perturbadora). :P
 

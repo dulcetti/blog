@@ -2,11 +2,11 @@
 category: 'Shots'
 date: '2007-03-20'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Meme: Como anda sua saúde?'
 ---
 
-E ae pessoal.
+E ae, pessoal.
 
 Estava eu logando no Word Press, vendo o que eu poderia postar no Blog, quando vejo um link do [Por quê veio?](http://porqueveio.com/), sobre um [meme](http://pt.wikipedia.org/wiki/Meme) criado pelo (pseudo) Rafael Cardoso mesmo.
 

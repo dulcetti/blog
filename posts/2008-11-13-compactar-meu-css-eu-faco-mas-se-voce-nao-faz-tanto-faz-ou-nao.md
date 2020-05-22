@@ -1,9 +1,9 @@
 ---
-category: "CSS"
+category: 'CSS'
 date: "2008-11-13"
 description: ""
-featuredImage: '/uploads/beer.jpg'
-title: "Compactar meu CSS? Eu faço, mas se você não faz, tanto faz. Ou não."
+featuredImage: '/assets/images/bgs/css.jpg'
+title: 'Compactar meu CSS? Eu faço, mas se você não faz, tanto faz. Ou não.'
 ---
 
 Confuso o título não é verdade? Foi mais pra botar algumas minhocas na sua cabeça, mas prepare-se para o restante do post, pois esse é bem interessante e surgiu com um [post publicado pelo Diego Eis](http://www.tableless.com.br/nao-otimize-seu-codigo) no [Tableless](http://www.tableless.com.br/), onde [eu fiz um comentário](http://www.tableless.com.br/nao-otimize-seu-codigo#comment-133007), na minha opinião, pertinente, mas que alguns leitores de lá não concordaram e possuem opiniões diferentes.

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-17'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/tecnologia.jpg'
 title: 'Intro to MacBook Pro'
 ---
 

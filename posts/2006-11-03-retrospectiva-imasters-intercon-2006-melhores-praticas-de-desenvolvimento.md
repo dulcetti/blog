@@ -2,11 +2,11 @@
 category: 'Eventos'
 date: '2006-11-03'
 description: ''
-featuredImage: '/uploads/beer.jpg'
-title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento - Salão Programação e Tecnologia - Primeira Parte'
+featuredImage: '/assets/images/bgs/eventos.jpg'
+title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento'
 ---
 
-E ae pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar sobre o Imasters Intercon, mas estou aqui ;)
+E ae, pessoal. Tudo tranquilo? Por aqui tudo na paz. Demorei um pouco para postar sobre o Imasters Intercon, mas estou aqui ;)
 
 ## Sobre o Evento
 
@@ -34,7 +34,7 @@ Nessa primeira levada, comentarei sobre a sala de Programação e Tecnologia, qu
 
 ### Palestrante: Paulino Michelazzo - Professor e Consultor
 
-A palestra, no início, foi um pouco massante, porém engraçada, levada de uma maneira diferenciada e que quebrava um pouco o cansaço normal de palestras muito faladas. Gostei da citação de alguns termos e exemplos de erros equivocados de alguns desenvolvedores, etc.
+A palestra, no início, foi um pouco massante, porém engraçada. Levada de uma maneira diferenciada e que quebrava um pouco o cansaço normal de palestras muito faladas. Gostei da citação de alguns termos e exemplos de erros equivocados de alguns desenvolvedores, etc.
 
 Mostrou-se um pouco xiita em alguns aspectos, mas nada muito exagerado e até sendo um pouco cômico, descontraído.
 

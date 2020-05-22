@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2007-06-30'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bg/webstandards.jpg'
 title: 'Quando foi a primeira vez que ouviu falar de web standards?'
 ---
 

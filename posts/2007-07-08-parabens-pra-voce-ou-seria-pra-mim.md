@@ -2,16 +2,18 @@
 category: 'Shots'
 date: '2007-07-08'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Parabéns pra você! (ou seria pra mim?)'
 ---
 
+```html
 <script type="text/javascript">
-<!--
-	var flashVideolog = new Flash("http://www.videolog.tv/swf/player_externo.swf?prefix=videos&amp;v=dd/70/130469&amp;id_video=130469'", "videolog0004", "425", "342");
-	flashVideolog.write();
--->
+  <!--
+  	var flashVideolog = new Flash("http://www.videolog.tv/swf/player_externo.swf?prefix=videos&amp;v=dd/70/130469&amp;id_video=130469'", "videolog0004", "425", "342");
+  	flashVideolog.write();
+  -->
 </script>
+```
 
 É... Ficando mais velho... Agora com 2.4, fígado Total Flex... É isso ae... Tempo passa...
 

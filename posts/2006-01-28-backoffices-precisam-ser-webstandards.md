@@ -1,8 +1,8 @@
 ---
-category: 'Shots'
+category: 'Webstandards'
 date: '2006-01-28'
 description: ''
-featuredImage: '/uploads/beer.jpg'
+featuredImage: '/assets/images/bgs/webstandards.jpg'
 title: 'Backoffices precisam ser webstandards?'
 ---
 
