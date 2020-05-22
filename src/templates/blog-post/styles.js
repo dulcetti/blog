@@ -6,7 +6,7 @@ import { themes } from '../../styles/themes';
 
 export const PostWrap = styled.div`
   margin: auto;
-  max-width: 70rem;
+  max-width: ${themes.grid.maxWidth};
 
   ${media.lessThan('767px')`
     padding: 5px 20px;
