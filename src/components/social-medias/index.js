@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Icons from '../icons/index';
+import Icons from '../icons';
 import * as S from './styles';
 
 export default function SocialMedias() {
