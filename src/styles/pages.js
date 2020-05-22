@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-// import { themes } from './themes';
+import { themes } from './themes';
 import SocialMedias from '../components/social-medias';
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 export const PagesWrap = styled.div`
   margin: auto;
@@ -21,6 +22,10 @@ export const PageTitle = styled.h1`
 export const PageText = styled.p`
   font-size: 1.25rem;
   margin-bottom: 2rem;
+
+  &.text-right {
+    text-align: right;
+  }
 `;
 
 export const SocialMediasContact = styled(SocialMedias)`
@@ -36,5 +41,13 @@ export const SocialMediasContact = styled(SocialMedias)`
       height: auto;
       width: 64px;
     `}
+  }
+`;
+
+export const BackLinkSearch = styled(AniLink)`
+  color: ${themes.palette.general.links};
+
+  &:hover {
+    text-decoration: underline;
   }
 `;
