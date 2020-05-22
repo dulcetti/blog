@@ -15,7 +15,7 @@ export const PagesWrap = styled.div`
 
 export const PageTitle = styled.h1`
   font-size: min(60px, 10vw);
-  line-height: min(66px, 13vw);
+  line-height: min(66px, 11vw);
 
   ${media.lessThan('medium')`
     margin-bottom: .25rem;

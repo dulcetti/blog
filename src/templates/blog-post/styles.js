@@ -15,7 +15,7 @@ export const PostWrap = styled.div`
 
 export const PostTitle = styled.h1`
   font-size: min(60px, 10vw);
-  line-height: min(66px, 13vw);
+  line-height: min(66px, 11vw);
   margin-bottom: 1rem;
 `;
 
@@ -153,17 +153,17 @@ export const PostContent = styled.section`
 
   h4 {
     font-size: min(30px, 6vw);
-    line-height: min(36px, 13vw);
+    line-height: min(36px, 7vw);
   }
 
   h5 {
     font-size: min(20px, 6vw);
-    line-height: min(26px, 13vw);
+    line-height: min(26px, 6vw);
   }
 
   h6 {
     font-size: min(20px, 5vw);
-    line-height: min(66px, 13vw);
+    line-height: min(26px, 5vw);
   }
 
   strong {
