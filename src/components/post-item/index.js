@@ -19,7 +19,7 @@ export default function PostItem({ post, slug, time }) {
           <Img fluid={post.featuredImage.childImageSharp.fluid} />
           <S.Content className="infos-post">
             <S.TitlePost>{post.title}</S.TitlePost>
-            <S.Category bg={getCategoryBg(post)}>{post.category}</S.Category>
+            <S.Category bg={getCategoryBg(post.category)}>{post.category}</S.Category>
             <S.DateTime>
               {post.date} | {time} min de leitura
             </S.DateTime>

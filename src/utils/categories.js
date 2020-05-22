@@ -1,5 +1,5 @@
 import { themes } from '../styles/themes';
 
-export const getCategoryBg = (post) => {
-  return themes.palette.categories[post.category];
+export const getCategoryBg = (category) => {
+  return themes.palette.categories[category];
 };

@@ -58,14 +58,6 @@ export const themes = {
       links: _colors.orange,
       linksBorder: _colors.green,
     },
-    sidebar: {
-      bg: _colors.brownLight,
-      bgFooter: _colors.brownLight,
-      bgMobile: _colors.brownLightOver,
-      links: _colors.green,
-      linksHover: _colors.orange,
-      name: _colors.gray,
-    },
     postList: {
       categories: {
         bg: _colors.orange,
@@ -76,6 +68,18 @@ export const themes = {
         readMore: _colors.green,
         title: _colors.white,
       },
+    },
+    search: {
+      bgInput: _colors.white,
+      statsColor: _colors.gray,
+    },
+    sidebar: {
+      bg: _colors.brownLight,
+      bgFooter: _colors.brownLight,
+      bgMobile: _colors.brownLightOver,
+      links: _colors.green,
+      linksHover: _colors.orange,
+      name: _colors.gray,
     },
   },
 };

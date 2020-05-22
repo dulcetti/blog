@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
 import * as S from './styles';
+import { links } from './links';
 import { themes } from '../../styles/themes';
 import SocialMedias from '../social-medias';
 
@@ -55,36 +56,18 @@ export default function Sidebar() {
           <S.Thumb fluid={avatar.childImageSharp.fluid} />
           <S.Name>Bruno Dulcetti</S.Name>
           <S.List>
-            <S.Item>
-              <S.LinkMenu
-                swipe
-                direction="left"
-                bg={themes.palette.general.bgTransition}
-                duration={0.6}
-                to="/">
-                Home
-              </S.LinkMenu>
-            </S.Item>
-            <S.Item>
-              <S.LinkMenu
-                swipe
-                direction="left"
-                bg={themes.palette.general.bgTransition}
-                duration={0.6}
-                to="/sobre">
-                Quem é?
-              </S.LinkMenu>
-            </S.Item>
-            <S.Item>
-              <S.LinkMenu
-                swipe
-                direction="left"
-                bg={themes.palette.general.bgTransition}
-                duration={0.6}
-                to="/contato">
-                Contato
-              </S.LinkMenu>
-            </S.Item>
+            {links.map((link, index) => (
+              <S.Item key={index}>
+                <S.LinkMenu
+                  swipe
+                  direction="left"
+                  bg={themes.palette.general.bgTransition}
+                  duration={0.6}
+                  to={link.slug}>
+                  {link.label}
+                </S.LinkMenu>
+              </S.Item>
+            ))}
           </S.List>
         </S.Menu>
 

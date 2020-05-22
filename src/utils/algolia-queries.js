@@ -12,13 +12,7 @@ const postsQuery = `{
           category
           date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
           date_timestamp: date
-          featuredImage {
-            childImageSharp {
-              fluid(maxHeight: 622, maxWidth: 960) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
+          description
           title
         }
         excerpt(pruneLength: 5000)
