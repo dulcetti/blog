@@ -23,8 +23,15 @@ export const SearchWrapper = styled.section`
   }
 
   .ais-Stats {
-    margin-bottom: 50px;
-    text-align: right;
+    ${media.lessThan('large')`
+      margin-bottom: 30px;
+      text-align: center;
+    `}
+
+    ${media.greaterThan('large')`
+      margin-bottom: 50px;
+      text-align: right;
+    `}
   }
 
   .ais-Hits-list > li:first-child > a {
@@ -38,16 +45,25 @@ export const SearchWrapper = styled.section`
   .ais-SearchBox-input {
     background-color: ${themes.palette.search.bgInput};
     border: 0;
-    border-radius: 25px;
     box-shadow: 0 0 5px 1px ${themes.palette.general.boxShadows};
     color: #222;
-    font-size: 1.5rem;
     height: 50px;
     opacity: 1;
     outline: none;
-    padding-left: 1.5rem;
     transition: box-shadow 0.3s;
     width: 100%;
+
+    ${media.lessThan('767px')`
+      border-radius: 15px;
+      font-size: 1.25rem;
+      padding-left: 1.25rem;
+    `}
+
+    ${media.greaterThan('medium')`
+      border-radius: 25px;
+      font-size: 1.5rem;
+      padding-left: 1.5rem;
+    `}
 
     &::placeholder {
       color: #8899a6;
@@ -70,8 +86,15 @@ export const LinkPostSearch = styled(AniLink)`
   align-items: center;
   border-bottom: 1px solid ${themes.palette.general.borders};
   display: flex;
-  padding: 20px 15px;
   transition: padding 0.3s;
+
+  ${media.lessThan('medium')`
+    padding: 15px 0;
+  `}
+
+  ${media.greaterThan('769px')`
+    padding: 20px 15px;
+  `}
 
   &:hover {
     padding: 30px 15px 30px 25px;
@@ -90,11 +113,21 @@ export const CategoryPostSearch = styled.div`
   color: #fff;
   display: flex;
   font-family: ${themes.fonts.titles};
-  font-size: 1.3rem;
-  height: 130px;
   justify-content: center;
-  margin-right: 20px;
-  width: 130px;
+
+  ${media.lessThan('medium')`
+    font-size: 1.1rem;
+    height: 110px;
+    margin-right: 15px;
+    width: 110px;
+  `}
+
+  ${media.greaterThan('769px')`
+    font-size: 1.3rem;
+    height: 130px;
+    margin-right: 20px;
+    width: 130px;
+  `}
 `;
 
 export const InfosPost = styled.div`
@@ -104,13 +137,25 @@ export const InfosPost = styled.div`
 export const TitlePostSearch = styled.h2`
   color: ${(props) => props.color};
   display: inline-block;
+
+  ${media.lessThan('medium')`
+    line-height: 1.5rem;
+    margin-bottom: 5px;
+  `}
 `;
 
 export const DescriptionPostSearch = styled.p`
   color: ${themes.palette.general.color};
-  font-size: 1.2rem;
-  margin-bottom: 8px;
   width: 100%;
+
+  ${media.lessThan('medium')`
+    margin-bottom: 5px;
+  `}
+
+  ${media.greaterThan('769px')`
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  `}
 `;
 
 export const DatePostSearch = styled.p`
