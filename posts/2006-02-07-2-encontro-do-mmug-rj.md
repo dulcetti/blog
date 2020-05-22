@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-02-07'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '2º encontro do MMUG-RJ'
 ---
 

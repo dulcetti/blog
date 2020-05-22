@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-04-15'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Entrevista Revista Webdesign sobre Meta tags'
 ---
 

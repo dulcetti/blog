@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Previsões (e algumas viagens?) para o ano de 2007'
 ---
 

@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2007-06-26'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Resposta do Desafio: Como "cropar" uma foto com CSS'
 ---
 

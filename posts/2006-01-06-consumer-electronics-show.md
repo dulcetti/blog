@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-06'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Consumer Electronics Show'
 ---
 

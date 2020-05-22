@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2005-12-28'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Feeds e Bottons'
 ---
 

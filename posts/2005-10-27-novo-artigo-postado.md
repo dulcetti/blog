@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-10-27'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Novo artigo postado'
 ---
 

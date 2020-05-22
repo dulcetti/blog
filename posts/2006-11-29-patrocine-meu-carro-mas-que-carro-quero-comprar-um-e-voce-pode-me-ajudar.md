@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-11-29'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Patrocine meu Carro! Mas que carro? Quero comprar um e você pode me ajudar!'
 ---
 

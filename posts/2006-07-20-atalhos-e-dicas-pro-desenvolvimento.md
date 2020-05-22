@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-07-20'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Atalhos e Dicas pro Desenvolvimento'
 ---
 

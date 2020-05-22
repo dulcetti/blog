@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-04-05'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Videolog. A nova era...'
 ---
 

@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-05-27'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Menu em Abas sem utilizar imagens'
 ---
 

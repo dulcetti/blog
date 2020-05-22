@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-03-29'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Lançamento Oficial da Revista iMasters'
 ---
 

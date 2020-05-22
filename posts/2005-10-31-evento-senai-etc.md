@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2005-10-31'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Evento Senai, etc'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-11-03'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento - Salão Programação e Tecnologia - Primeira Parte'
 ---
 

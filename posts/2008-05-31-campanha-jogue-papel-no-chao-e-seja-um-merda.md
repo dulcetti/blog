@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-05-31'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Campanha: Jogue papel no chão e seja um merda'
 ---
 

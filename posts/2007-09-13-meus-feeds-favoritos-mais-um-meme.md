@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-09-13'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Meus feeds favoritos - Mais um meme'
 ---
 

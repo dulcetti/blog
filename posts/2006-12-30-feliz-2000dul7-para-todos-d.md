@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-30'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Feliz 2000Dul7 para todos :D'
 ---
 

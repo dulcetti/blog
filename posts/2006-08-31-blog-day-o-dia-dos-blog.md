@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-08-31'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Blog Day - O dia dos Blog'
 ---
 

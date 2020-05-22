@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-31'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '30 Gigs liberado'
 ---
 

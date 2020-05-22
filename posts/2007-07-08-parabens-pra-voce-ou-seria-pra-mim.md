@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-07-08'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Parabéns pra você! (ou seria pra mim?)'
 ---
 

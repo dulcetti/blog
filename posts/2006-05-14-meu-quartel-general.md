@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-05-14'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Meu Quartel General'
 ---
 

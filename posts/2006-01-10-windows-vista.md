@@ -2,7 +2,7 @@
 category: 'UX, UI e AI'
 date: '2006-01-10'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Windows Vista'
 ---
 

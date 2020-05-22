@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-01-15'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Primeiras e merecidas Férias. Até a próxima.'
 ---
 

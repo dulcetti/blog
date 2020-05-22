@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-06-08'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Novo Blog vem aí'
 ---
 

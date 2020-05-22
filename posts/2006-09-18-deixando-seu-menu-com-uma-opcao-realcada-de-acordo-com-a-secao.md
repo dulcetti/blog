@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-09-18'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Deixando seu menu com uma opção realçada de acordo com a Seção'
 ---
 

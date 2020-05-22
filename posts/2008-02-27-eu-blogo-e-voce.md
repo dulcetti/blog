@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-02-27'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Eu blogo e você?'
 ---
 

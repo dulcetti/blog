@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-08-29'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-01-23'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Mochilão rumo a Salvador by Bruno Dulcetti'
 ---
 

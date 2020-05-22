@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-11-30'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Até onde vai o limite da Semântica?'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-11-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '1 ano de Globo.com e 2 anos de Videolog.tv - Sucesso Total :D'
 ---
 

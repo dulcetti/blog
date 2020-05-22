@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-09-25'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp RJ - Onde comer'
 ---
 

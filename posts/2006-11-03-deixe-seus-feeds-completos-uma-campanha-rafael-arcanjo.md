@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-11-03'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Deixe seus Feeds completos. Uma campanha Rafael Arcanjo.'
 ---
 

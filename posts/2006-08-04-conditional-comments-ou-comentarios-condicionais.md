@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-08-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Conditional Comments ou Comentários Condicionais'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-10-20'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Colírios v.004 - Sites em web standards e/ou flash para inspiração!'
 ---
 

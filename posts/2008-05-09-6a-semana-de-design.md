@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-05-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '6ª Semana de Design'
 ---
 

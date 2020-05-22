@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-24'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Amada vó, eu te amo!'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-10-08'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'G1, o Portal de Notícias da Globo.com lança novo layout'
 ---
 

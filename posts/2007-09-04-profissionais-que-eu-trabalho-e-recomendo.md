@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-09-04'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Profissionais que eu trabalho e recomendo'
 ---
 

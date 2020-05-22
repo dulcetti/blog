@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-12-19'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Globo Media Center (GMC) agora é Globo Vídeos.'
 ---
 

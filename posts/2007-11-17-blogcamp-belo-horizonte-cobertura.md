@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-11-17'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'BlogCamp MG | Belo Horizonte - Cobertura'
 ---
 

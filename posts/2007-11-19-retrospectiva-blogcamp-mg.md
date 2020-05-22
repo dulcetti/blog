@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-11-19'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Retrospectiva BlogCamp MG'
 ---
 

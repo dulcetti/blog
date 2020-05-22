@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-11-14'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Google Talk e suas primeiras aparições no Orkut. Será que vai dar problema?'
 ---
 

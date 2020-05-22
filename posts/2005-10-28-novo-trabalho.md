@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-10-28'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Novo Trabalho'
 ---
 

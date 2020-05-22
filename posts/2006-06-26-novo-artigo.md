@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2006-06-26'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Novo Artigo'
 ---
 

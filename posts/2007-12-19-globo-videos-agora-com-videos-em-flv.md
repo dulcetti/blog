@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-12-19'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Globo Vídeos agora com Vídeos em FLV'
 ---
 

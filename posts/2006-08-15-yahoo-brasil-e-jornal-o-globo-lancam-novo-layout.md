@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-08-15'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Yahoo Brasil e Jornal O Globo lançam novo layout'
 ---
 

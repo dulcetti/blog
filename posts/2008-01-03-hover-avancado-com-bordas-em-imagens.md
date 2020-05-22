@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-01-03'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Hover avançado com bordas em imagens'
 ---
 

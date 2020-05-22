@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-04-06'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Firefox ultrapassa 10% de usuários'
 ---
 

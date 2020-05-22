@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-06-16'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Lançamento do Livro "Internet: O encontro de 2 mundos"'
 ---
 

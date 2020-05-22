@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2009-03-24'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Encontro de TI e Encontro de Webdesign juntos'
 ---
 

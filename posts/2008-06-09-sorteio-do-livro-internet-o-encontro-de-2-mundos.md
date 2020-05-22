@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-06-09'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Sorteio do Livro "Internet: O encontro de 2 mundos"'
 ---
 

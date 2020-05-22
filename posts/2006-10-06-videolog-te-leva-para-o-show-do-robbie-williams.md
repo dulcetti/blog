@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-10-06'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Videolog te leva para o Show do Robbie Williams'
 ---
 

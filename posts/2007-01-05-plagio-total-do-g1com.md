@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-01-05'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'PLÁGIO TOTAL DO G1!'
 ---
 

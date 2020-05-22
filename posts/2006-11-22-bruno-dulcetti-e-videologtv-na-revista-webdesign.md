@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2006-11-22'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Bruno Dulcetti e Videolog.tv na Revista Webdesign.'
 ---
 

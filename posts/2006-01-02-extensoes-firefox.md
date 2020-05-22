@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-02'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Extensões Firefox'
 ---
 

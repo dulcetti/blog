@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-06-02'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Livro: O Encontro de Dois Mundos'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-10-27'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'iMasters Intercon 2006 aí vou eu.'
 ---
 

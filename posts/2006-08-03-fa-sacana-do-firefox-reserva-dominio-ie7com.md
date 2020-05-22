@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-08-03'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: '» Fã Sacana do Firefox reserva domínio ie7.com'
 ---
 

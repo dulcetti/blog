@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-03-14'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Parabéns (despedida?) ao meu camarada Felipe Memória.'
 ---
 

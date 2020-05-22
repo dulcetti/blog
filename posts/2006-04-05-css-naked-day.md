@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-04-05'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'CSS Naked Day'
 ---
 

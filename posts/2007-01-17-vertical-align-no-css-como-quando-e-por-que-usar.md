@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2007-01-17'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Vertical-align no CSS. Como, quando e por que usar'
 ---
 

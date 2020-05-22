@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-11-15'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Flamengo 111 anos. Singela homenagem.'
 ---
 

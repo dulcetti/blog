@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-07-13'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Mudanças nos estados do campos de texto'
 ---
 

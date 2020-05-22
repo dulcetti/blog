@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-09-07'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Feliz Dia da Independência'
 ---
 

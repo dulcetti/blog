@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-11-17'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Concorra a dois ingressos para o Encontro de TI'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-11-13'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Globo Vídeos nos novos Padrões Globo.com'
 ---
 

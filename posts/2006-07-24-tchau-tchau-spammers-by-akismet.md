@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-07-24'
 description: ''
-featuredImage: ''
+featuredImage: '/uploads/beer.jpg'
 title: 'Tchau tchau Spammers by Akismet'
 ---
 
