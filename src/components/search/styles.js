@@ -83,7 +83,6 @@ export const SearchWrapper = styled.section`
 
 // List Search
 export const LinkPostSearch = styled(AniLink)`
-  align-items: center;
   border-bottom: 1px solid ${themes.palette.general.borders};
   display: flex;
   transition: padding 0.3s;
@@ -92,14 +91,20 @@ export const LinkPostSearch = styled(AniLink)`
     padding: 15px 0;
   `}
 
+  ${media.greaterThan('medium')`
+    align-items: center;
+
+    &:hover {
+      padding: 30px 15px 30px 25px;
+      transition: padding 0.3s;
+    }
+  `}
+
   ${media.greaterThan('769px')`
     padding: 20px 15px;
   `}
 
   &:hover {
-    padding: 30px 15px 30px 25px;
-    transition: padding 0.3s;
-
     div h2 {
       text-decoration: underline;
     }
@@ -107,15 +112,31 @@ export const LinkPostSearch = styled(AniLink)`
 `;
 
 export const CategoryPostSearch = styled.div`
-  align-items: center;
   background-color: ${(props) => props.bg};
-  border-radius: 50%;
   color: #fff;
-  display: flex;
   font-family: ${themes.fonts.titles};
-  justify-content: center;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('small')`
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    width: 35px;
+
+    > p {
+      font-size: 1.1rem;
+      transform: rotate(270deg);
+    }
+  `}
+
+  ${media.greaterThan('451px')`
+    align-items: center;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+  `}
+
+  ${media.between('small', '767px')`
     font-size: 1.1rem;
     height: 110px;
     margin-right: 15px;
@@ -131,7 +152,17 @@ export const CategoryPostSearch = styled.div`
 `;
 
 export const InfosPost = styled.div`
-  width: calc(100% - 150px);
+  ${media.lessThan('small')`
+    width: calc(100% - 50px);
+  `}
+
+  ${media.between('451px', '767px')`
+    width: calc(100% - 130px);
+  `}
+
+  ${media.greaterThan('medium')`
+    width: calc(100% - 150px);
+  `}
 `;
 
 export const TitlePostSearch = styled.h2`
