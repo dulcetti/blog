@@ -84,7 +84,7 @@ export const PostContent = styled.section`
   p,
   ul,
   ol {
-    line-height: 1.5;
+    line-height: 1.25;
     margin-bottom: 1.5rem;
   }
 
@@ -139,6 +139,20 @@ export const PostContent = styled.section`
     > p {
       margin-bottom: 0;
     }
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    ${media.lessThan('small')`
+      margin-bottom: 10px;
+    `}
+
+    ${media.greaterThan('small')`
+      margin-bottom: 20px;
+    `}
   }
 
   h2 {
