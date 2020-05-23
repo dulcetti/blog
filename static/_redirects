@@ -4,7 +4,7 @@
 /artigos/:article/:slug /busca
 
 /on/contato.php /contato
-/on/projetos_academicos.php
+/on/projetos_academicos.php /sobre
 /on/index.php /sobre
 /on/amigos.php /sobre
 /on/portfolio.php /sobre
