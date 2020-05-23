@@ -191,4 +191,30 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-box-shadow: 0 0 0 100px #fff inset;
     -webkit-text-fill-color: initial;
   }
+
+  .link-animated {
+    color: ${themes.palette.posts.links};
+    position: relative;
+    transition: color 0.3s;
+
+    &:before {
+      bottom: -2px;
+      content: '';
+      height: 2px;
+      left: 0;
+      position: absolute;
+      transform: scaleX(0);
+      transition: all 0.3s ease-in-out 0s;
+      visibility: hidden;
+      width: 100%;
+    }
+
+    &:hover {
+      &:before {
+        background-color: ${themes.palette.posts.linksBorder};
+        transform: scaleX(1);
+        visibility: visible;
+      }
+    }
+  }
 `;

@@ -20,12 +20,13 @@ export default function ContactPage() {
         <S.SocialMediasContact />
         <S.PageText>
           <AniLink
+            className="link-animated"
             cover
             direction="left"
             bg={themes.palette.general.bgTransition}
             duration={0.6}
             to="/">
-            Voltar para a Listagem de Posts
+            &laquo; Voltar para a Listagem de Posts
           </AniLink>
         </S.PageText>
       </S.PagesWrap>
