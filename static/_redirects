@@ -1,5 +1,4 @@
 /blog/:year/:month/  /busca
-/blog/:year/:month/:date/:slug  /:slug
 /blog/category/:category /categorias/:category
 /artigos/:article/:slug /busca
 
