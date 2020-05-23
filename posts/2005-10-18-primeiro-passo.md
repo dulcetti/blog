@@ -6,9 +6,7 @@ featuredImage: '/assets/images/bgs/shots.jpg'
 title: 'Primeiro Passo'
 ---
 
-Falae, pessoal.
-
-Aqui estou eu no meu primeiro post no meu blog. Depois de alguns testes, experimentos, acá estou eu com meu blog. Tentarei falar aqui sobre webstandards, tableless, css, escrever alguns artigos, entre outros.
+Falae, pessoal. Aqui estou eu no meu primeiro post no meu blog. Depois de alguns testes, experimentos, acá estou eu com meu blog. Tentarei falar aqui sobre webstandards, tableless, css, escrever alguns artigos, entre outros.
 
 Como está no início, é uma versão "beta" digamos assim, pode ser que tenha alguns erros no blog, código, algo assim. Então, se puderem me ajudar nessa parte, caso aconteça alguma coisa, é só me mandar um email, comentar, etc.
 

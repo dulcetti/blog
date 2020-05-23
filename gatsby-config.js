@@ -52,6 +52,8 @@ module.exports = {
           },
           'gatsby-remark-lazy-load',
           'gatsby-remark-prismjs',
+          'gatsby-remark-external-links',
+          'gatsby-remark-responsive-iframe',
         ],
       },
     },
@@ -87,5 +89,13 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        head: false,
+        defer: true,
+      },
+    },
   ],
 };
