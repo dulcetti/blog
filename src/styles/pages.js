@@ -19,6 +19,12 @@ export const PagesWrap = styled.div`
   }
 `;
 
+export const PageFluid = styled.div`
+  ${media.lessThan('767px')`
+    padding: 5px 20px;
+  `}
+`;
+
 export const PageTitle = styled.h1`
   font-size: min(60px, 10vw);
   line-height: min(66px, 11vw);
