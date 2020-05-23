@@ -26,6 +26,32 @@ export const PageTitle = styled.h1`
   `}
 `;
 
+export const PageSubTitle = styled.h2`
+  font-size: min(52px, 9vw);
+  line-height: min(56px, 10vw);
+
+  ${media.lessThan('medium')`
+    margin-bottom: .25rem;
+  `}
+
+  ${media.greaterThan('769px')`
+    margin-bottom: 1rem;
+  `}
+`;
+
+export const PageSubSubTitle = styled.h3`
+  font-size: min(42px, 8vw);
+  line-height: min(46px, 9vw);
+
+  ${media.lessThan('medium')`
+    margin-bottom: .25rem;
+  `}
+
+  ${media.greaterThan('769px')`
+    margin-bottom: 1rem;
+  `}
+`;
+
 export const PageText = styled.p`
   ${media.lessThan('medium')`
     font-size: 1.15rem;
@@ -43,17 +69,34 @@ export const PageText = styled.p`
 `;
 
 export const SocialMediasContact = styled(SocialMedias)`
-  justify-content: flex-start;
+  ${media.lessThan('medium')`
+    flex-wrap: wrap;
+    margin: 40px 0;
+  `}
+
+  ${media.greaterThan('medium')`
+    justify-content: flex-start;
+    margin-bottom: 50px;
+  `}
 
   > li {
+    height: 64px;
+    width: 64px;
+
     ${media.lessThan('medium')`
-      height: auto;
-      width: 50px;
+      margin-bottom: 20px;
+      
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
     `}
 
-    ${media.greaterThan('medium')`
-      height: auto;
-      width: 64px;
+    ${media.greaterThan('769px')`
+      margin: 0 20px;
     `}
   }
 `;
