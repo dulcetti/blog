@@ -16,14 +16,14 @@ export default function Sidebar() {
         logo: file(relativePath: { eq: "logos/logo.png" }) {
           childImageSharp {
             fluid(maxHeight: 59, maxWidth: 190) {
-              ...GatsbyImageSharpFluid_tracedSVG
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
           }
         }
         avatar: file(relativePath: { eq: "avatar.jpg" }) {
           childImageSharp {
             fluid(maxHeight: 401, maxWidth: 401) {
-              ...GatsbyImageSharpFluid_tracedSVG
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
             }
           }
         }
