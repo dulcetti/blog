@@ -97,5 +97,6 @@ module.exports = {
         defer: true,
       },
     },
+    `gatsby-plugin-netlify-cms`,
   ],
 };
