@@ -1,0 +1,11 @@
+/blog/:year/:month/  /busca
+/blog/:year/:month/:date/:slug.html  /:slug
+/blog/category/:category /categorias/:category
+/artigos/:article/:slug /busca
+
+/on/contato.php /contato
+/on/projetos_academicos.php /sobre
+/on/index.php /sobre
+/on/amigos.php /sobre
+/on/portfolio.php /sobre
+/on/o_que_faz.php /sobre
