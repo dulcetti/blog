@@ -59,12 +59,13 @@ export default function Sidebar() {
             {links.map((link, index) => (
               <S.Item key={index}>
                 <S.LinkMenu
-                  swipe
-                  direction="left"
+                  activeclass="active"
                   bg={themes.palette.general.bgTransition}
+                  direction="left"
                   duration={0.6}
+                  swipe
                   to={link.slug}>
-                  {link.label}
+                  <S.LinkLabel>{link.label}</S.LinkLabel>
                 </S.LinkMenu>
               </S.Item>
             ))}
