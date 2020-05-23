@@ -1,11 +1,12 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import Icons from '../icons';
 import * as S from './styles';
 
-export default function SocialMedias() {
+export default function SocialMedias({ className }) {
   return (
-    <S.SocialMediasList>
+    <S.SocialMediasList className={className}>
       <S.Media>
         <a href="https://github.com/dulcetti" target="_blank" rel="noopener noreferrer">
           <Icons name="github" />
@@ -34,3 +35,7 @@ export default function SocialMedias() {
     </S.SocialMediasList>
   );
 }
+
+SocialMedias.propTypes = {
+  className: PropTypes.string,
+};

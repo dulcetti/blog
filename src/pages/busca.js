@@ -18,6 +18,7 @@ export default function SearchPage() {
         </S.PageText>
         <S.PageText className="text-right">
           <S.BackLinkSearch
+            className="link-animated"
             cover
             direction="left"
             bg={themes.palette.general.bgTransition}

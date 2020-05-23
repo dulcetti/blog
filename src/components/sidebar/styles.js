@@ -147,14 +147,46 @@ export const LinkMenu = styled(AniLink)`
   font-size: 20px;
   font-weight: bold;
   padding: 10px 0;
+  position: relative;
   text-align: center;
   text-transform: uppercase;
   transition: color 0.3s;
 
+  &.active {
+    color: red;
+  }
+
+  &:before {
+    bottom: 0;
+    content: '';
+    height: 44px;
+    right: 0;
+    position: absolute;
+    transform: scaleX(0);
+    transform-origin: 100% 50%;
+    transition: transform 0.2s ease-in-out 0s;
+    visibility: hidden;
+    width: 100%;
+    z-index: 1;
+  }
+
   &:hover {
     color: ${themes.palette.sidebar.linksHover};
     transition: color 0.3s;
+
+    &:before {
+      background-color: #fff;
+      transform: scaleX(1);
+      transform-origin: 100% 50%;
+      transition: transform 0.2s ease-in-out 0s;
+      visibility: visible;
+    }
   }
+`;
+
+export const LinkLabel = styled.span`
+  position: relative;
+  z-index: 2;
 `;
 
 export const Name = styled.h2`
