@@ -114,8 +114,8 @@ export const PostContent = styled.section`
 
   img {
     display: block;
-    max-width: 100%;
     margin: 1.5rem auto;
+    max-width: 100%;
   }
 
   iframe {

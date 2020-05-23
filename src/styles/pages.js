@@ -3,6 +3,7 @@ import media from 'styled-media-query';
 import { themes } from './themes';
 import SocialMedias from '../components/social-medias';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
+import Img from 'gatsby-image';
 
 export const PagesWrap = styled.div`
   margin: auto;
@@ -11,6 +12,11 @@ export const PagesWrap = styled.div`
   ${media.lessThan('767px')`
     padding: 5px 20px;
   `}
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
 `;
 
 export const PageTitle = styled.h1`
@@ -74,7 +80,7 @@ export const SocialMediasContact = styled(SocialMedias)`
     margin: 40px 0;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('769px')`
     justify-content: flex-start;
     margin-bottom: 50px;
   `}
@@ -99,6 +105,19 @@ export const SocialMediasContact = styled(SocialMedias)`
       margin: 0 20px;
     `}
   }
+`;
+
+export const ThumbContact = styled(Img)`
+  ${media.lessThan('medium')`
+    margin-bottom: 25px;
+  `}
+
+  ${media.greaterThan('769px')`
+    float: right;
+    height: 640px;
+    margin-left: 50px;
+    width: 445px;
+  `}
 `;
 
 export const BackLinkSearch = styled(AniLink)`
