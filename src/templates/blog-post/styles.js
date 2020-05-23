@@ -84,8 +84,15 @@ export const PostContent = styled.section`
   p,
   ul,
   ol {
-    line-height: 1.25;
-    margin-bottom: 1.5rem;
+    ${media.lessThan('medium')`
+      line-height: 1.25;
+      margin-bottom: 1.25rem;
+    `}
+
+    ${media.greaterThan('medium')`
+      line-height: 1.5;
+      margin-bottom: 1.5rem;
+    `}
   }
 
   ul {
@@ -146,13 +153,7 @@ export const PostContent = styled.section`
   h4,
   h5,
   h6 {
-    ${media.lessThan('small')`
-      margin-bottom: 10px;
-    `}
-
-    ${media.greaterThan('small')`
-      margin-bottom: 20px;
-    `}
+    margin-bottom: 10px;
   }
 
   h2 {
