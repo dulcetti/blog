@@ -152,10 +152,6 @@ export const LinkMenu = styled(AniLink)`
   text-transform: uppercase;
   transition: color 0.3s;
 
-  &.active {
-    color: red;
-  }
-
   &:before {
     bottom: 0;
     content: '';
@@ -170,7 +166,8 @@ export const LinkMenu = styled(AniLink)`
     z-index: 1;
   }
 
-  &:hover {
+  &:hover,
+  &.active {
     color: ${themes.palette.sidebar.linksHover};
     transition: color 0.3s;
 

@@ -59,7 +59,7 @@ export default function Sidebar() {
             {links.map((link, index) => (
               <S.Item key={index}>
                 <S.LinkMenu
-                  activeclass="active"
+                  activeClassName="active"
                   bg={themes.palette.general.bgTransition}
                   direction="left"
                   duration={0.6}
