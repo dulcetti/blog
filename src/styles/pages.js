@@ -121,8 +121,6 @@ export const ThumbContact = styled(Img)`
 `;
 
 export const BackLinkSearch = styled(AniLink)`
-  color: ${themes.palette.general.links};
-
   ${media.lessThan('medium')`
     font-size: 1rem;
     margin-bottom: 5px;
@@ -131,8 +129,4 @@ export const BackLinkSearch = styled(AniLink)`
   ${media.greaterThan('769px')`
     font-size: 1.25rem;
   `}
-
-  &:hover {
-    text-decoration: underline;
-  }
 `;
