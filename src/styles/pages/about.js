@@ -18,7 +18,11 @@ export const PageFluid = styled.div`
 export const AboutSection = styled.section`
   display: flex;
 
-  ${media.greaterThan('medium')`
+  ${media.lessThan('medium')`
+    flex-direction: column;
+  `}
+
+  ${media.greaterThan('769px')`
     min-height: 100vh;
     padding-left: 600px;
   `}
@@ -31,7 +35,11 @@ export const AboutSection = styled.section`
 export const ColumnImage = styled.aside`
   order: 1;
 
-  ${media.greaterThan('medium')`
+  ${media.lessThan('medium')`
+    margin-bottom: 20px;
+  `}
+
+  ${media.greaterThan('769px')`
     left: 0;
     opacity: 0;
     position: fixed;
@@ -46,7 +54,7 @@ export const ColumnImage = styled.aside`
 `;
 
 export const AboutImage = styled(Img)`
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('769px')`
     height: 100vh;
     min-width: 600px;
   `}
@@ -104,7 +112,7 @@ export const ColumnContent = styled.div`
   flex-basis: auto;
   order: 2;
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('769px')`
     padding: 30px 40px;
   `}
 `;
