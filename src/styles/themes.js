@@ -19,6 +19,7 @@ const _colors = {
   white: '#fff',
   xanadu: '#7E846B',
   yellow: '#FCBF49',
+  yellowRgb: '255, 204, 0',
 };
 
 export const themes = {
@@ -72,6 +73,10 @@ export const themes = {
     search: {
       bgInput: _colors.white,
       statsColor: _colors.gray,
+    },
+    about: {
+      firstBorder: _colors.orangeRgb,
+      secondBorder: _colors.yellowRgb,
     },
     sidebar: {
       bg: _colors.brownLight,
