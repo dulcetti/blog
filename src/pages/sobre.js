@@ -1,4 +1,5 @@
 import React from 'react';
+import { useStaticQuery, graphql } from 'gatsby';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 import Layout from '../components/layout';
@@ -8,7 +9,6 @@ import { getAge } from '../utils';
 import { themes } from '../styles/themes';
 import * as S from '../styles/pages/general';
 import * as SA from '../styles/pages/about';
-import { useStaticQuery, graphql } from 'gatsby';
 
 export default function AboutPage() {
   const { firstImage } = useStaticQuery(graphql`
@@ -26,7 +26,7 @@ export default function AboutPage() {
   return (
     <Layout>
       <SEO title="Sobre" />
-      <S.PageFluid>
+      <SA.PageFluid>
         <SA.AboutSection>
           <SA.ColumnContent>
             <S.PageTitle>Quenhé esse Bruno Dulcetti?</S.PageTitle>
@@ -110,7 +110,7 @@ export default function AboutPage() {
             <SA.AboutImage fluid={firstImage.childImageSharp.fluid} />
           </SA.ColumnImage>
         </SA.AboutSection>
-      </S.PageFluid>
+      </SA.PageFluid>
     </Layout>
   );
 }

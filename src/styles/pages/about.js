@@ -4,12 +4,22 @@ import Img from 'gatsby-image';
 
 import { themes } from '../themes';
 
+export const PageFluid = styled.div`
+  ${media.lessThan('767px')`
+    padding: 5px 20px;
+  `}
+
+  ${media.greaterThan('769px')`
+    margin: -2rem 0 -2rem -2rem;
+    position: relative;
+  `}
+`;
+
 export const AboutSection = styled.section`
   display: flex;
-  margin-bottom: 20px;
 
   ${media.greaterThan('medium')`
-    min-height: calc(100vh - 50px);
+    min-height: 100vh;
   `}
 
   &:last-child {
@@ -19,16 +29,12 @@ export const AboutSection = styled.section`
 
 export const ColumnImage = styled.aside`
   order: 1;
-
-  ${media.greaterThan('medium')`
-    margin-right: 30px;
-  `}
 `;
 
 export const AboutImage = styled(Img)`
   ${media.greaterThan('medium')`
-    height: 900px;
-    width: 600px;
+    height: 100vh;
+    min-width: 600px;
   `}
 
   &:after, &:before {
@@ -83,4 +89,8 @@ export const ColumnContent = styled.div`
   flex-grow: auto;
   flex-basis: auto;
   order: 2;
+
+  ${media.greaterThan('medium')`
+    padding: 30px 40px;
+  `}
 `;
