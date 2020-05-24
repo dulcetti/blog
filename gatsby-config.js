@@ -79,16 +79,14 @@ module.exports = {
         name: `Bruno Dulcetti`,
         short_name: `Bruno Dulcetti`,
         start_url: `/`,
-        background_color: `#38551f`,
-        theme_color: `#38551f`,
+        background_color: `#046A2E`,
+        theme_color: `#046A2E`,
         display: `minimal-ui`,
         icon: `./static/assets/images/logos/logo-512.png`,
         include_favicon: false,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

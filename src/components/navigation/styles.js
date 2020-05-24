@@ -60,8 +60,8 @@ export const Name = styled.h2`
   `}
 
   ${media.greaterThan('medium')`
-    font-size: 36px;
-    line-height: 38px;
+    font-size: 35px;
+    line-height: 37px;
     margin-bottom: 20px;
   `}
 `;
