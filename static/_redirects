@@ -1,6 +1,7 @@
 /blog/:year/:month/  /busca
 /blog/category/:category /categorias/:category
 /artigos/:article/:slug /busca
+/blog/page/* /page/:splat
 
 /on/contato.php /contato
 /on/projetos_academicos.php /sobre
