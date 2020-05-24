@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { themes } from '../styles/themes';
-import * as S from '../styles/pages';
+import * as S from '../styles/pages/general';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Search from '../components/search';
