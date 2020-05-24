@@ -1,13 +1,15 @@
-/blog/:year/:month/  /busca
+/blog/:year/:month/  /busca/
 /blog/category/:category /categorias/:category
-/artigos/:article/:slug /busca
+/artigos/:article/:slug /busca/
+/blog/page/* /page/:splat
 
-/on/contato.php /contato
-/on/projetos_academicos.php /sobre
-/on/index.php /sobre
-/on/amigos.php /sobre
-/on/portfolio.php /sobre
-/on/o_que_faz.php /sobre
+/on/contato.php /contato/
+/on/projetos_academicos.php /sobre/
+/on/index.php /sobre/
+/on/amigos.php /sobre/
+/on/portfolio.php /sobre/
+/on/o_que_faz.php /sobre/
+/on/curriculum.php /sobre/
 
 # All Posts
 /blog/2005/10/17/primeiro-passo.html /primeiro-passo
