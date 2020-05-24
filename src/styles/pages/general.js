@@ -1,9 +1,10 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import { themes } from './themes';
-import SocialMedias from '../components/social-medias';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import Img from 'gatsby-image';
+
+import { themes } from '../themes';
+import SocialMedias from '../../components/social-medias';
 
 export const PagesWrap = styled.div`
   margin: auto;
@@ -17,12 +18,6 @@ export const PagesWrap = styled.div`
     display: block;
     max-width: 100%;
   }
-`;
-
-export const PageFluid = styled.div`
-  ${media.lessThan('767px')`
-    padding: 5px 20px;
-  `}
 `;
 
 export const PageTitle = styled.h1`

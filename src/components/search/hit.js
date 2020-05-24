@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import * as S from './styles';
 import { themes } from '../../styles/themes';
-import { getCategoryBg } from '../../utils/categories';
+import { getCategoryBg } from '../../utils';
 
 export default function Hit({ hit }) {
   const { category, date, description, fields, title, _snippetResult } = hit;
