@@ -4,7 +4,7 @@ import Img from 'gatsby-image';
 
 import * as S from './styles';
 import { themes } from '../../styles/themes';
-import { getCategoryBg } from '../../utils/categories';
+import { getCategoryBg } from '../../utils';
 
 export default function PostItem({ post, slug, time }) {
   return (
