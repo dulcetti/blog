@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
@@ -11,7 +11,8 @@ import * as S from '../styles/pages/general';
 import * as SA from '../styles/pages/about';
 
 export default function AboutPage() {
-  const { firstImage } = useStaticQuery(graphql`
+  const [scroll, setScroll] = useState(0);
+  const { firstImage, secondImage, thirdImage } = useStaticQuery(graphql`
     query imagesAboutQuery {
       firstImage: file(relativePath: { eq: "about/dulcetti-sorrindo.jpg" }) {
         childImageSharp {
@@ -20,8 +21,28 @@ export default function AboutPage() {
           }
         }
       }
+      secondImage: file(relativePath: { eq: "about/dulcetti-hey-ho.jpg" }) {
+        childImageSharp {
+          fluid(maxHeight: 900, maxWidth: 600) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      thirdImage: file(relativePath: { eq: "about/dulcetti-agua-viva.jpg" }) {
+        childImageSharp {
+          fluid(maxHeight: 900, maxWidth: 600) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
     }
   `);
+
+  const updateImage = () => {
+    setScroll(window.scrollY);
+  };
+
+  typeof window !== 'undefined' && window.addEventListener('scroll', updateImage, false);
 
   return (
     <Layout>
@@ -38,7 +59,7 @@ export default function AboutPage() {
             <S.PageSubTitle>Localização:</S.PageSubTitle>
             <S.PageText>Rio de Janeiro/RJ - Brasil</S.PageText>
           </SA.ColumnContent>
-          <SA.ColumnImage>
+          <SA.ColumnImage className={scroll < 700 && 'active'}>
             <SA.AboutImage fluid={firstImage.childImageSharp.fluid} />
           </SA.ColumnImage>
         </SA.AboutSection>
@@ -68,8 +89,8 @@ export default function AboutPage() {
               violência, etc.
             </S.PageText>
           </SA.ColumnContent>
-          <SA.ColumnImage>
-            <SA.AboutImage fluid={firstImage.childImageSharp.fluid} />
+          <SA.ColumnImage className={scroll >= 700 && scroll < 1500 && 'active'}>
+            <SA.AboutImage fluid={secondImage.childImageSharp.fluid} />
           </SA.ColumnImage>
         </SA.AboutSection>
 
@@ -106,8 +127,8 @@ export default function AboutPage() {
               Voltar para o Blog
             </AniLink>
           </SA.ColumnContent>
-          <SA.ColumnImage>
-            <SA.AboutImage fluid={firstImage.childImageSharp.fluid} />
+          <SA.ColumnImage className={scroll >= 1500 && 'active'}>
+            <SA.AboutImage fluid={thirdImage.childImageSharp.fluid} />
           </SA.ColumnImage>
         </SA.AboutSection>
       </SA.PageFluid>

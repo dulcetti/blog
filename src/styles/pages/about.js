@@ -20,6 +20,7 @@ export const AboutSection = styled.section`
 
   ${media.greaterThan('medium')`
     min-height: 100vh;
+    padding-left: 600px;
   `}
 
   &:last-child {
@@ -29,6 +30,19 @@ export const AboutSection = styled.section`
 
 export const ColumnImage = styled.aside`
   order: 1;
+
+  ${media.greaterThan('medium')`
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    transition: opacity .3s ease-out;
+
+    &.active {
+      opacity: 1;
+      transition: opacity .3s ease-out;
+    }
+  `}
 `;
 
 export const AboutImage = styled(Img)`
