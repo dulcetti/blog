@@ -140,7 +140,8 @@ export default function AboutPage() {
                 rel="noopener noreferrer">
                 meu Linkedin
               </a>
-              . Mas segue abaixo uma pequena lista mais atual.
+              . E segue abaixo uma pequena lista mais atual, mas claro, não muito completa que dá
+              pro gasto.
             </S.PageText>
             <SA.CareerList>
               <SA.CareerItem>
@@ -222,6 +223,11 @@ export default function AboutPage() {
         <SA.AboutSection>
           <SA.ColumnContent>
             <SA.TitleSection>Um pouco das minhas Skills</SA.TitleSection>
+            <S.PageText>
+              Aqui eu mostro algumas skills que possuo. Tirando o fodasse e beber, que eu gosto
+              muito e acho que mando bem, consigo me dar bem em muitos outros assuntos que eu curto
+              há muitos anos.
+            </S.PageText>
             <MySkillBars />
             <AniLink
               className="link-animated"
@@ -230,7 +236,7 @@ export default function AboutPage() {
               bg={themes.palette.general.bgTransition}
               duration={0.6}
               to="/">
-              Voltar para o Blog
+              &laquo; Voltar para o Blog
             </AniLink>
           </SA.ColumnContent>
           <SA.ColumnImage className={scroll >= 1500 && 'active'}>
