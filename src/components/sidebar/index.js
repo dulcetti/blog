@@ -36,7 +36,7 @@ export default function Sidebar() {
         duration={0.6}
         to="/">
         <Img fluid={logo.childImageSharp.fluid} />
-        {location === '/' ? (
+        {location === '/' || location === '/sobre/' ? (
           <S.Title>Bruno Dulcetti</S.Title>
         ) : (
           <S.InternalTitle>Bruno Dulcetti</S.InternalTitle>
