@@ -5,11 +5,11 @@ import Img from 'gatsby-image';
 import { themes } from '../themes';
 
 export const PageFluid = styled.div`
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     padding: 5px 20px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     margin: -2rem 0 -2rem -2rem;
     position: relative;
   `}
@@ -18,11 +18,11 @@ export const PageFluid = styled.div`
 export const AboutSection = styled.section`
   display: flex;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     flex-direction: column;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     min-height: 100vh;
     padding-left: 600px;
   `}
@@ -35,11 +35,11 @@ export const AboutSection = styled.section`
 export const ColumnImage = styled.aside`
   order: 1;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: 20px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     left: 0;
     opacity: 0;
     position: fixed;
@@ -54,7 +54,7 @@ export const ColumnImage = styled.aside`
 `;
 
 export const AboutImage = styled(Img)`
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     height: 100vh;
     min-width: 600px;
   `}
@@ -112,7 +112,7 @@ export const ColumnContent = styled.div`
   flex-basis: auto;
   order: 2;
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     padding: 30px 40px;
   `}
 `;

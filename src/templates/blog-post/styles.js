@@ -8,7 +8,7 @@ export const PostWrap = styled.div`
   margin: auto;
   max-width: ${themes.grid.maxWidth};
 
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     padding: 5px 20px;
   `}
 `;
@@ -39,14 +39,14 @@ export const PostInfos = styled.p`
   font-size: 1.25rem;
   justify-content: space-between;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     flex-wrap: wrap;
     margin-bottom: 14px;
     text-align: center;
     padding: .65rem .75rem;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     margin-bottom: 20px;
     padding: 1rem;
   `}
@@ -68,7 +68,7 @@ export const TimeToRead = styled.span`
     font-weight: bold;
   }
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     border-top: 1px solid #eee;
     margin-top: 8px;
     order: 3;
@@ -84,12 +84,12 @@ export const PostContent = styled.section`
   p,
   ul,
   ol {
-    ${media.lessThan('medium')`
+    ${media.lessThan('large')`
       line-height: 1.25;
       margin-bottom: 1.25rem;
     `}
 
-    ${media.greaterThan('medium')`
+    ${media.greaterThan('large')`
       line-height: 1.5;
       margin-bottom: 1.5rem;
     `}

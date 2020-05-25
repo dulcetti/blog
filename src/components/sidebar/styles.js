@@ -8,7 +8,7 @@ export const Sidebar = styled.aside`
   background-color: ${themes.palette.sidebar.bg};
   position: fixed;
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     box-shadow: 0 1px 6px 0 ${themes.palette.general.boxShadows};
     display: grid;
     grid-area: sidebar;
@@ -20,7 +20,7 @@ export const Sidebar = styled.aside`
     width: 250px;
   `}
 
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     align-items: center;
     bottom: 0;
     box-shadow: 0px 3px 6px 2px ${themes.palette.general.boxShadows};
@@ -36,7 +36,7 @@ export const LogoLink = styled(AniLink)`
   display: block;
   position: relative;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     box-sizing: content-box;
     height: 30px;
     padding: 10px 0;
@@ -44,7 +44,7 @@ export const LogoLink = styled(AniLink)`
     z-index: 3;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     margin: 0 auto;
     height: auto;
     width: 140px;
@@ -75,11 +75,11 @@ export const Text = styled.p`
 `;
 
 export const ToggleOpenClose = styled.button`
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     display:none;
   `}
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     border: 0;
     height: 32px;
     position: relative;

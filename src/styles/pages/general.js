@@ -10,7 +10,7 @@ export const PagesWrap = styled.div`
   margin: auto;
   max-width: ${themes.grid.maxWidth};
 
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     padding: 5px 20px;
   `}
 
@@ -24,11 +24,11 @@ export const PageTitle = styled.h1`
   font-size: min(60px, 10vw);
   line-height: min(66px, 11vw);
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: .25rem;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     margin-bottom: 1rem;
   `}
 `;
@@ -37,11 +37,11 @@ export const PageSubTitle = styled.h2`
   font-size: min(52px, 9vw);
   line-height: min(56px, 10vw);
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: .25rem;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     margin-bottom: 1rem;
   `}
 `;
@@ -50,22 +50,22 @@ export const PageSubSubTitle = styled.h3`
   font-size: min(42px, 8vw);
   line-height: min(46px, 9vw);
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: .25rem;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     margin-bottom: 1rem;
   `}
 `;
 
 export const PageText = styled.p`
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     font-size: 1.15rem;
     margin-bottom: 1rem;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     font-size: 1.25rem;
     margin-bottom: 2rem;
   `}
@@ -76,12 +76,12 @@ export const PageText = styled.p`
 `;
 
 export const SocialMediasContact = styled(SocialMedias)`
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     flex-wrap: wrap;
     margin: 40px 0;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     justify-content: flex-start;
     margin-bottom: 50px;
   `}
@@ -90,7 +90,7 @@ export const SocialMediasContact = styled(SocialMedias)`
     height: 64px;
     width: 64px;
 
-    ${media.lessThan('medium')`
+    ${media.lessThan('large')`
       margin-bottom: 20px;
       
       &:first-child {
@@ -102,18 +102,18 @@ export const SocialMediasContact = styled(SocialMedias)`
       }
     `}
 
-    ${media.greaterThan('769px')`
+    ${media.greaterThan('large')`
       margin: 0 20px;
     `}
   }
 `;
 
 export const ThumbContact = styled(Img)`
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: 25px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     float: right;
     height: 640px;
     margin-left: 50px;
@@ -122,12 +122,12 @@ export const ThumbContact = styled(Img)`
 `;
 
 export const BackLinkSearch = styled(AniLink)`
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     font-size: 1rem;
     margin-bottom: 5px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     font-size: 1.25rem;
   `}
 `;
