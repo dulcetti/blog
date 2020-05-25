@@ -189,6 +189,7 @@ export const ColumnContent = styled.div`
 
   ${media.greaterThan('large')`
     padding: 30px 40px;
+    width: 100%;
   `}
 `;
 
@@ -221,13 +222,17 @@ export const CareerCompany = styled.h3`
 
 export const IconWrapper = styled.span`
   display: inline-block;
-  height: 24px;
   margin-right: 7px;
-  vertical-align: middle;
-  width: 32px;
+
+  &:not(.graduation) {
+    height: 28px;
+    width: 29px;
+  }
 
   &.graduation {
-    width: 32px;
+    height: 28px;
+    vertical-align: middle;
+    width: 37px;
   }
 
   > svg {

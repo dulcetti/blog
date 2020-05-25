@@ -29,7 +29,7 @@ export default function AboutPage() {
           }
         }
       }
-      thirdImage: file(relativePath: { eq: "about/dulcetti-agua-viva.jpg" }) {
+      thirdImage: file(relativePath: { eq: "about/dulcetti-fodasse.jpg" }) {
         childImageSharp {
           fluid(maxHeight: 900, maxWidth: 600) {
             ...GatsbyImageSharpFluid_withWebp
@@ -145,7 +145,7 @@ export default function AboutPage() {
               <SA.CareerItem>
                 <SA.CareerCompany>
                   <SA.IconWrapper>
-                    <Icons name="computer" />
+                    <Icons name="developer" />
                   </SA.IconWrapper>
                   Wooza
                 </SA.CareerCompany>
@@ -159,7 +159,7 @@ export default function AboutPage() {
               <SA.CareerItem>
                 <SA.CareerCompany>
                   <SA.IconWrapper>
-                    <Icons name="computer" />
+                    <Icons name="developer" />
                   </SA.IconWrapper>
                   Videolog
                 </SA.CareerCompany>
@@ -173,7 +173,7 @@ export default function AboutPage() {
               <SA.CareerItem>
                 <SA.CareerCompany>
                   <SA.IconWrapper>
-                    <Icons name="computer" />
+                    <Icons name="developer" />
                   </SA.IconWrapper>
                   Mobicare
                 </SA.CareerCompany>
@@ -193,7 +193,7 @@ export default function AboutPage() {
               <SA.CareerItem>
                 <SA.CareerCompany>
                   <SA.IconWrapper>
-                    <Icons name="computer" />
+                    <Icons name="developer" />
                   </SA.IconWrapper>
                   Globo.com
                 </SA.CareerCompany>
