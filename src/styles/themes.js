@@ -1,4 +1,5 @@
 const _colors = {
+  black: '#000',
   blue: '#1660AA',
   blueDark: '#003049',
   blueLight: '#2BA8DF',
@@ -37,6 +38,7 @@ export const themes = {
       'CSS': _colors.blueLight,
       'DevOps': _colors.green,
       'Eventos': _colors.blue,
+      'Git': _colors.black,
       'JavaScript': _colors.yellow,
       'Portfólio': _colors.bronze,
       'Publicações': _colors.pink,
