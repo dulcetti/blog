@@ -19,6 +19,7 @@ const _colors = {
   white: '#fff',
   xanadu: '#7E846B',
   yellow: '#FCBF49',
+  yellowDark: '#e6a528',
   yellowRgb: '255, 204, 0',
 };
 
@@ -77,6 +78,8 @@ export const themes = {
     about: {
       firstBorder: _colors.orangeRgb,
       secondBorder: _colors.yellowRgb,
+      titleBorder: _colors.yellow,
+      titleBorderBefore: _colors.yellowDark,
     },
     sidebar: {
       bg: _colors.brownLight,
