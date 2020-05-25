@@ -53,13 +53,13 @@ export const SearchWrapper = styled.section`
     transition: box-shadow 0.3s;
     width: 100%;
 
-    ${media.lessThan('767px')`
+    ${media.lessThan('large')`
       border-radius: 15px;
       font-size: 1.25rem;
       padding-left: 1.25rem;
     `}
 
-    ${media.greaterThan('medium')`
+    ${media.greaterThan('large')`
       border-radius: 25px;
       font-size: 1.5rem;
       padding-left: 1.5rem;
@@ -87,11 +87,11 @@ export const LinkPostSearch = styled(AniLink)`
   display: flex;
   transition: padding 0.3s;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     padding: 15px 0;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     align-items: center;
 
     &:hover {
@@ -100,7 +100,7 @@ export const LinkPostSearch = styled(AniLink)`
     }
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     padding: 20px 15px;
   `}
 
@@ -136,14 +136,14 @@ export const CategoryPostSearch = styled.div`
     justify-content: center;
   `}
 
-  ${media.between('small', '767px')`
+  ${media.between('small', 'large')`
     font-size: 1.1rem;
     height: 110px;
     margin-right: 15px;
     width: 110px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     font-size: 1.3rem;
     height: 130px;
     margin-right: 20px;
@@ -156,11 +156,11 @@ export const InfosPost = styled.div`
     width: calc(100% - 50px);
   `}
 
-  ${media.between('451px', '767px')`
+  ${media.between('451px', 'large')`
     width: calc(100% - 130px);
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     width: calc(100% - 150px);
   `}
 `;
@@ -169,7 +169,7 @@ export const TitlePostSearch = styled.h2`
   color: ${(props) => props.color};
   display: inline-block;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     line-height: 1.5rem;
     margin-bottom: 5px;
   `}
@@ -179,11 +179,11 @@ export const DescriptionPostSearch = styled.p`
   color: ${themes.palette.general.color};
   width: 100%;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: 5px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     font-size: 1.2rem;
     margin-bottom: 8px;
   `}

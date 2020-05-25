@@ -5,26 +5,27 @@ import Img from 'gatsby-image';
 import { themes } from '../themes';
 
 export const PageFluid = styled.div`
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     padding: 5px 20px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     margin: -2rem 0 -2rem -2rem;
     position: relative;
   `}
 `;
 
 export const AboutSection = styled.section`
+  border-bottom: 1px solid ${themes.palette.general.borders};
   display: flex;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     flex-direction: column;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     min-height: 100vh;
-    padding-left: 600px;
+    padding-left: 30vw;
   `}
 
   &:last-child {
@@ -34,12 +35,13 @@ export const AboutSection = styled.section`
 
 export const ColumnImage = styled.aside`
   order: 1;
+  position: relative;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: 20px;
   `}
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     left: 0;
     opacity: 0;
     position: fixed;
@@ -54,9 +56,10 @@ export const ColumnImage = styled.aside`
 `;
 
 export const AboutImage = styled(Img)`
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     height: 100vh;
-    min-width: 600px;
+    max-width: 600px;
+    width: 30vw;
   `}
 
   &:after, &:before {
@@ -72,10 +75,17 @@ export const AboutImage = styled(Img)`
   &:after {
     border-right-color: rgba(${themes.palette.about.secondBorder}, 0.5);
     border-bottom-color: rgba(${themes.palette.about.secondBorder}, 0.5);
-    bottom: 50px;
     height: 35%;
-    right: 50px;
     width: 45%;
+
+    ${media.lessThan('medium')`
+      bottom: 30px;
+      right: 30px;`}
+
+    ${media.greaterThan('medium')`
+      bottom: 50px;
+      right: 50px;
+    `}
   }
 
   &:before {
@@ -85,6 +95,15 @@ export const AboutImage = styled(Img)`
     height: 55%;
     right: 30px;
     width: 60%;
+
+    ${media.lessThan('medium')`
+      bottom: 10px;
+      right: 10px;`}
+
+    ${media.greaterThan('medium')`
+      bottom: 30px;
+      right: 30px;
+    `}
   }
 
   &:hover {
@@ -107,12 +126,123 @@ export const AboutImage = styled(Img)`
   }
 `;
 
+export const TitleSection = styled.h2`
+  border-bottom: 4px solid ${themes.palette.about.titleBorder};
+  display: inline-block;
+  font-size: min(52px, 9vw);
+  line-height: min(56px, 10vw);
+  position: relative;
+
+  ${media.lessThan('medium')`
+    margin-bottom: 1.25rem;
+  `}
+
+  ${media.greaterThan('769px')`
+    margin-bottom: 1.5rem;
+  `}
+
+  &:before {
+    background-color: ${themes.palette.about.titleBorderBefore};
+    bottom: -6px;
+    content: '';
+    display: block;
+    height: 8px;
+    left: 4%;
+    position: absolute;
+    transition: left 0.3s ease-in-out;
+    width: 10%;
+  }
+
+  &:hover {
+    &:before {
+      left: 14%;
+      transition: left 0.3s ease-in-out;
+    }
+  }
+`;
+
+export const TitleSectionImage = styled.h2`
+  color: #fff;
+  position: absolute;
+  text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
+  z-index: 2;
+
+  ${media.lessThan('767px')`
+    bottom: 50px;
+    font: bold 2rem ${themes.fonts.titles};
+    line-height: 2rem;
+    right: 55px;
+  `}
+
+  ${media.greaterThan('medium')`
+    bottom: 70px;
+    font: bold 3rem ${themes.fonts.titles};
+    line-height: 3rem;
+    right: 75px;
+  `}
+`;
+
 export const ColumnContent = styled.div`
   flex-grow: auto;
   flex-basis: auto;
   order: 2;
 
-  ${media.greaterThan('769px')`
+  ${media.greaterThan('large')`
     padding: 30px 40px;
   `}
+`;
+
+export const CareerList = styled.div`
+  display: flex;
+
+  ${media.lessThan('767px')`
+    flex-direction: column;
+  `}
+
+  ${media.greaterThan('medium')`
+    flex-wrap: wrap;
+  `}
+
+  ${media.greaterThan('900px')`
+    padding: 30px 40px;
+  `}
+`;
+
+export const CareerItem = styled.article`
+  ${media.greaterThan('medium')`
+    margin-bottom: 20px;
+    width: 48%;
+  `}
+`;
+
+export const CareerCompany = styled.h3`
+  font-size: 2rem;
+`;
+
+export const IconWrapper = styled.span`
+  display: inline-block;
+  height: 24px;
+  margin-right: 7px;
+  vertical-align: middle;
+  width: 32px;
+
+  &.graduation {
+    width: 32px;
+  }
+
+  > svg {
+    display: block;
+    height: inherit;
+    width: inherit;
+  }
+`;
+
+export const CareerTitle = styled.p`
+  font-family: ${themes.fonts.others};
+  font-size: 1.3rem;
+`;
+
+export const CareerDates = styled.p`
+  font-size: 0.9rem;
+  margin-bottom: 12px;
 `;

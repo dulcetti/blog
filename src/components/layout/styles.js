@@ -17,12 +17,12 @@ export const LayoutMain = styled.main`
   min-height: 100vh;
   width: 100%;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     flex-direction: column;
     padding: 1rem 0 5rem;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     padding: 2rem 18rem 2rem 2rem;
   `}
 `;

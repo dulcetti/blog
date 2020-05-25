@@ -5,7 +5,7 @@ import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import { themes } from '../../styles/themes';
 
 export const Navigation = styled.section`
-  ${media.lessThan('767px')`
+  ${media.lessThan('large')`
     background-color: ${themes.palette.sidebar.bg};
     border-bottom: 1px solid ${themes.palette.general.boxShadows};
     display: flex;
@@ -27,7 +27,7 @@ export const Navigation = styled.section`
     }
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -37,12 +37,12 @@ export const Navigation = styled.section`
 export const Thumb = styled(Img)`
   border-radius: 50%;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin: 0 auto 10px;
     width: 40%;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     margin: 0 auto 20px;
     width: 75%;
   `}
@@ -53,13 +53,13 @@ export const Name = styled.h2`
   font-family: ${themes.fonts.titles};
   text-align: center;
 
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     font-size: 28px;
     line-height: 30px;
     margin-bottom: 20px;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     font-size: 35px;
     line-height: 37px;
     margin-bottom: 20px;
@@ -67,11 +67,11 @@ export const Name = styled.h2`
 `;
 
 export const Menu = styled.nav`
-  ${media.lessThan('medium')`
+  ${media.lessThan('large')`
     margin-bottom: 25px;
   `}
 
-  ${media.greaterThan('medium')`
+  ${media.greaterThan('large')`
     margin-bottom: 40px;
   `}
 `;
