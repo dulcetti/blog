@@ -1,12 +1,12 @@
 export const mySkills = {
   labels: [
-    'UX e UI',
+    'UX/UI',
     'Agile',
-    'Desenvolvimento',
+    'Dev',
     'DevOps',
     'Beber',
     'CSS',
-    'JavaScript',
+    'JS',
     'ES6',
     'HTML5',
     'Testes',
