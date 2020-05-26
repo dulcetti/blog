@@ -258,4 +258,12 @@ export const CareerDates = styled.p`
 
 export const SkillCharts = styled.div`
   margin-bottom: 30px;
+
+  ${media.lessThan('767px')`
+    overflow: auto;
+  `}
+`;
+
+export const ChartWrap = styled.div`
+  min-width: 768px;
 `;

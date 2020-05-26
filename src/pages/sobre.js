@@ -229,7 +229,9 @@ export default function AboutPage() {
               há muitos anos.
             </S.PageText>
             <SA.SkillCharts>
-              <MySkillCharts />
+              <SA.ChartWrap>
+                <MySkillCharts />
+              </SA.ChartWrap>
             </SA.SkillCharts>
             <AniLink
               className="link-animated"
