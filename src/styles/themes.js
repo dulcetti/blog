@@ -6,7 +6,7 @@ const _colors = {
   bronze: '#AA735F',
   brownLight: '#F7F6F1',
   brownLightOver: '#eae8db',
-  gray: '#505050',
+  gray: '#666',
   grayDark: '#333',
   grayLight: '#f5f6f6',
   grayMedium: '#bbb',
@@ -59,6 +59,7 @@ export const themes = {
     posts: {
       blockquoteBg: _colors.white,
       blockquoteBorder: _colors.green,
+      description: _colors.gray,
       links: _colors.orange,
       linksBorder: _colors.green,
     },
@@ -89,7 +90,7 @@ export const themes = {
       bgMobile: _colors.brownLightOver,
       links: _colors.green,
       linksHover: _colors.orange,
-      name: _colors.gray,
+      name: _colors.grayDark,
     },
   },
 };
