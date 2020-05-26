@@ -2,7 +2,7 @@
 title: A volta dos que não foram...
 description: O bom filho a casa torna. Em quase 11 anos sem postar por aqui,
   estou de volta...
-date: 2020-05-26 03:08:23
+date: 2020-05-26T03:08:23.000Z
 featuredImage: uploads/homem-caminhando.jpg
 category: Shots
 ---
@@ -18,7 +18,7 @@ Sim, verdade. Com esse coronga eu acabei estudando muito mais. Em casa você aca
 
 Nas minhas horas vagas eu tocava bastante, saía com os amigos, aproveitava um bocado dessa vida boa, mas na área de desenvolvimento em si, raramente eu focava em casa. Mas agora com essa pandemia tudo mudou.
 
-![Um Ukulele e um trompete num altar](uploads/ukulele-trompete.jpg "Um Ukulele e um trompete num altar")
+![Um Ukulele e um trompete num altar](/uploads/ukulele-trompete.jpg "Um Ukulele e um trompete num altar")
 
 Estou aprendendo trompete e comprei um ukulele. Fora que voltei a cozinhar. Tem sido até produtivo. Bom, mas não vim falar de coronga e de bebidas e comida, vamos voltar ao foco...
 
@@ -38,7 +38,7 @@ Bom, pretendo falar um bocado sobre JavaScript, continuar com o CSS, claro, um p
 
 Falando em blog, diz ae como ele foi feito
 
-![Komobi amarela sna estradaozinha ](uploads/kombi-amarela.jpg "Komobi amarela sna estradaozinha ")
+![Komobi amarela sna estradaozinha ](/uploads/kombi-amarela.jpg "Komobi amarela sna estradaozinha ")
 
 Photo by [Dino Reichmuth](https://unsplash.com/@dinoreichmuth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -48,7 +48,7 @@ Em si o layout eu fui montando de forma aleatória, mas gostei bastante do compo
 
 E caso você queira aprender um pouco desse Gatsby, é só ver o curso do Willian Justen, que deixo meu agradecimento pelo apoio no Slack, foi um sofrimento botar esse blog no ar em alguns momentos, mas claro, muito por culpa minha minha.
 
-![](uploads/who-wrote-this-crap-code.jpg)
+![Quem escreveu esse código? Eu mesmo!](/uploads/who-wrote-this-crap-code.jpg)
 
 Coisas de desenvolvedor, deixa escapar uns fodasses que quando você descobre, pensa "Como eu deixei isso acontecer?". Com isso, um agradecimento também ao Marcelo Pereira, que está lá no [grupo de estudos do Will no Slack](https://slack-willianjusten.herokuapp.com/), ele descobriu uma das paradas toscas que deixei passar no código e estava dando merda.
 
