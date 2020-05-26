@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-12-04'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'BlogCamp PR - O Melhor de Todos'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-12-08'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Página de erro do Superdownloads. By Chuck Norris.'
 ---
 

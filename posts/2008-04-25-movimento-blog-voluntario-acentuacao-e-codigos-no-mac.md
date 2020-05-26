@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-04-25'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Movimento Blog Voluntário. Acentuação e Códigos no Mac.'
 ---
 

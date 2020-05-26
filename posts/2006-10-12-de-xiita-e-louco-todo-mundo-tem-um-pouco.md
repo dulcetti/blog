@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-10-12'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'De xiita e louco todo mundo tem um pouco.'
 ---
 

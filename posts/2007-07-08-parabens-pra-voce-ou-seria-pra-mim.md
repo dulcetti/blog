@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-07-08'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Parabéns pra você! (ou seria pra mim?)'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-11-19'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Retrospectiva BlogCamp MG'
 ---
 

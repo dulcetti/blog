@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-01-10'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Mac Book Pro'
 ---
 

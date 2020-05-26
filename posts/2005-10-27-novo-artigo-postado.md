@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-10-27'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Novo artigo postado'
 ---
 

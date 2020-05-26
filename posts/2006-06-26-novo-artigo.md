@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2006-06-26'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Novo Artigo'
 ---
 

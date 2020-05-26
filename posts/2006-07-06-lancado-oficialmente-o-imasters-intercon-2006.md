@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-07-06'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Lançado oficialmente o iMasters Intercon 2006'
 ---
 

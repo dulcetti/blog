@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-04-25'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Palestra Web standards'
 ---
 

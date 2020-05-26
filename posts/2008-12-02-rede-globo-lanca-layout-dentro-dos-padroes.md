@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2008-12-02'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Rede Globo lança layout dentro dos Padrões'
 ---
 

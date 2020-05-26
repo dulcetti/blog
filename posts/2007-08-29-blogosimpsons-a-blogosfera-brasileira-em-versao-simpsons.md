@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-08-29'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Blogosimpsons - A Blogosfera Brasileira em versão Simpsons'
 ---
 

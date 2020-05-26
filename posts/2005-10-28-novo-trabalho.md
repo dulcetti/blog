@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-10-28'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Novo Trabalho'
 ---
 

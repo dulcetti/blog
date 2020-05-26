@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-01-28'
 description: ''
-featuredImage: '/assets/images/bgs/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Backoffices precisam ser webstandards?'
 ---
 

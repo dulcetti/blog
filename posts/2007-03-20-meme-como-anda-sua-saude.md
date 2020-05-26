@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-03-20'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Meme: Como anda sua saúde?'
 ---
 

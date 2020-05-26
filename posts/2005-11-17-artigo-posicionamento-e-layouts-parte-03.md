@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-11-17'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Posicionamento e Layouts (Parte 03)'
 ---
 

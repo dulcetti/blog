@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-02-20'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Campus Party Terceiro Dia e Nerds On Beer'
 ---
 

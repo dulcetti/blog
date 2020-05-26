@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-11-13'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Globo Vídeos nos novos Padrões Globo.com'
 ---
 

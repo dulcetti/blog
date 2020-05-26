@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-01-03'
 description: ''
-featuredImage: '/assets/images/bg/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Word Studio'
 ---
 

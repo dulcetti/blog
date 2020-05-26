@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-05-14'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Meu Quartel General'
 ---
 

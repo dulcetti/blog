@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2005-11-24'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Arte CSS Zen Garden'
 ---
 

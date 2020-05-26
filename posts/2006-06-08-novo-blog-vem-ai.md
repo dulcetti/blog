@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-06-08'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Novo Blog vem aí'
 ---
 

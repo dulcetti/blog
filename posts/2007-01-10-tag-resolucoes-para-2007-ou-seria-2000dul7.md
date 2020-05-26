@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-01-10'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'TAG: Resoluções para 2007 (ou seria 2000Dul7?)'
 ---
 

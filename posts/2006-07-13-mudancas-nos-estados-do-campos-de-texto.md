@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-07-13'
 description: ''
-featuredImage: '/assets/images/bgs/css.jpg'
+featuredImage: '/uploads/css.jpg'
 title: 'Mudanças nos estados do campos de texto'
 ---
 

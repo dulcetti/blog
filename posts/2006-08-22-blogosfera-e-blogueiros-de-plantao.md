@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-08-22'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Blogosfera e Blogueiros de Plantão'
 ---
 

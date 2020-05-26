@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-02-29'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Eu postei no dia 29 e vc?'
 ---
 

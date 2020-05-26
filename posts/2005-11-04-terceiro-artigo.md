@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2005-11-04'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Terceiro Artigo'
 ---
 

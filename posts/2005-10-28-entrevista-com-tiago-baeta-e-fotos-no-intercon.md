@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-28'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Entrevista com Tiago Baeta e Fotos no InterCon'
 ---
 

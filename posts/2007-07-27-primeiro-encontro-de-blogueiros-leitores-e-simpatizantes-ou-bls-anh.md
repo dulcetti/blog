@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-07-27'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Primeiro Encontro de Blogueiros, Leitores e Simpatizantes ou B.L.S. (anh?)'
 ---
 

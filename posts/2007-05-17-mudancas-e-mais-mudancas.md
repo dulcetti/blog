@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-05-17'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Mudanças e mais mudanças...'
 ---
 

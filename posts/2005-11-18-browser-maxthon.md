@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2005-11-18'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Browser Maxthon'
 ---
 

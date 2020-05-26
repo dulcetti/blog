@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-06-02'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Livro: O Encontro de Dois Mundos'
 ---
 

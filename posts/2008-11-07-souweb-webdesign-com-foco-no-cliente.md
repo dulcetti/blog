@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-11-07'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Sou+Web - Webdesign com foco no cliente'
 ---
 

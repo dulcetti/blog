@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-12-19'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Globo Media Center (GMC) agora é Globo Vídeos.'
 ---
 

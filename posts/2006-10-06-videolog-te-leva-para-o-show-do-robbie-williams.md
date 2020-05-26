@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-10-06'
 description: ''
-featuredImage: '/assets/images/bg/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Videolog te leva para o Show do Robbie Williams'
 ---
 

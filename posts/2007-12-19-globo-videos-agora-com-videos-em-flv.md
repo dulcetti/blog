@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-12-19'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Globo Vídeos agora com Vídeos em FLV'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-05-09'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: '6ª Semana de Design'
 ---
 

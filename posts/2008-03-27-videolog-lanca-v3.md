@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2008-03-27'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Videolog lança v3'
 ---
 
