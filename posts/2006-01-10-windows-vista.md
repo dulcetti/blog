@@ -2,7 +2,7 @@
 category: 'UX, UI e AI'
 date: '2006-01-10'
 description: ''
-featuredImage: '/assets/images/bg/ux-ui-ai.jpg'
+featuredImage: '/uploads/ux-ui-ai.jpg'
 title: 'Windows Vista'
 ---
 

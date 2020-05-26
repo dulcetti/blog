@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-10-25'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Um ano de web standards, css e Bruno Dulcetti petulando vocês'
 ---
 

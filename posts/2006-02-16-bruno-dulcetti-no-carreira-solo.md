@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-02-16'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Bruno Dulcetti no Carreira Solo'
 ---
 

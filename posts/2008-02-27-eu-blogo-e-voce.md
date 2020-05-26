@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-02-27'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Eu blogo e você?'
 ---
 

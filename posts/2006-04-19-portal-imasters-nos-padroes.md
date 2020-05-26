@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2006-04-19'
 description: ''
-featuredImage: '/assets/images/bg/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Portal iMasters nos padrões'
 ---
 

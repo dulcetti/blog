@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2005-10-26'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Retrospectiva iMasters Intercon'
 ---
 

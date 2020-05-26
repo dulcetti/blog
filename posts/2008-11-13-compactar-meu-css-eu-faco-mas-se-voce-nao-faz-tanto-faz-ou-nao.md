@@ -2,7 +2,7 @@
 category: 'CSS'
 date: "2008-11-13"
 description: ""
-featuredImage: '/assets/images/bgs/css.jpg'
+featuredImage: '/uploads/css.jpg'
 title: 'Compactar meu CSS? Eu faço, mas se você não faz, tanto faz. Ou não.'
 ---
 

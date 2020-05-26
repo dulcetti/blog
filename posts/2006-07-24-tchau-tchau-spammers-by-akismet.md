@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-07-24'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Tchau tchau Spammers by Akismet'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-05-08'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Novo Videolog.tv no ar'
 ---
 

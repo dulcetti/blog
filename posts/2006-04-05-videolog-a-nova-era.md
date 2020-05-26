@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-04-05'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Videolog. A nova era...'
 ---
 

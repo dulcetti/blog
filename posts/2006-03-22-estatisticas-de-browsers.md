@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-03-22'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Estatísticas de Browsers'
 ---
 

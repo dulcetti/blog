@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2007-11-06'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Retrospectiva Intercon 2007'
 ---
 

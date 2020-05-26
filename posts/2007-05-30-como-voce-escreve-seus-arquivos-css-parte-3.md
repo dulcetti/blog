@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2007-05-30'
 description: ''
-featuredImage: '/assets/images/bgs/css.jpg'
+featuredImage: '/uploads/css.jpg'
 title: 'Como você escreve seus arquivos CSS? Parte 3'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-24'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Amada vó, eu te amo!'
 ---
 

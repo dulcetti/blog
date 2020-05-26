@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-04-15'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Entrevista Revista Webdesign sobre Meta tags'
 ---
 

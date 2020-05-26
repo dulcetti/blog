@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-09-22'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'BlogCamp RJ - Oficinas e novidades'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2005-10-18'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Primeiro Passo'
 ---
 

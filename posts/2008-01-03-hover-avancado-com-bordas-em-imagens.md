@@ -2,7 +2,7 @@
 category: 'Publicações'
 date: '2008-01-03'
 description: ''
-featuredImage: '/assets/images/bg/publicacoes.jpg'
+featuredImage: '/uploads/publicacoes.jpg'
 title: 'Hover avançado com bordas em imagens'
 ---
 

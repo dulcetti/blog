@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2007-07-17'
 description: ''
-featuredImage: '/assets/images/bg/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Dados dinâmicos com Flash - Palestra online no AUG/RS'
 ---
 

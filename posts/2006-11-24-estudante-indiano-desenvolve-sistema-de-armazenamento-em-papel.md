@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-11-24'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Estudante indiano desenvolve sistema de armazenamento em papel'
 ---
 

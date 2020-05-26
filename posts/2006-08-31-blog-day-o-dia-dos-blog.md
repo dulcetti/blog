@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-08-31'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Blog Day - O dia dos Blog'
 ---
 

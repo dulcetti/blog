@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2005-11-16'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Frappr - Mapeamento de visitantes'
 ---
 

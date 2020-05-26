@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-03-29'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Lançamento Oficial da Revista iMasters'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2006-04-13'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Google Lança Google Calendar'
 ---
 

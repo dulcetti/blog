@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-09-04'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Segunda Versão. Finalmente saiu. Brunão v2.0 Flexpower!'
 ---
 

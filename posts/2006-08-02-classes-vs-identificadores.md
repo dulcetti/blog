@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2006-08-02'
 description: ''
-featuredImage: '/assets/images/bgs/css.jpg'
+featuredImage: '/uploads/css.jpg'
 title: 'Classes vs. Identificadores'
 ---
 

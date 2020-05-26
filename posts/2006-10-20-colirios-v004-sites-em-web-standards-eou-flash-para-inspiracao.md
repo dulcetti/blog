@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-10-20'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Colírios v.004 - Sites em web standards e/ou flash para inspiração!'
 ---
 

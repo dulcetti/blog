@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2008-01-15'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Primeiras e merecidas Férias. Até a próxima.'
 ---
 

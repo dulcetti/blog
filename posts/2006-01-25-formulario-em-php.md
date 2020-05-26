@@ -2,7 +2,7 @@
 category: 'Back-End'
 date: '2006-01-25'
 description: ''
-featuredImage: '/assets/images/bgs/backend.jpg'
+featuredImage: '/uploads/backend.jpg'
 title: 'Formulario em PHP'
 ---
 

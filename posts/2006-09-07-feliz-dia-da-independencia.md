@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-09-07'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Feliz Dia da Independência'
 ---
 

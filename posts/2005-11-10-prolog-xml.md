@@ -2,7 +2,7 @@
 category: 'Webstandards'
 date: '2005-11-10'
 description: ''
-featuredImage: '/assets/images/bg/webstandards.jpg'
+featuredImage: '/uploads/webstandards.jpg'
 title: 'Prolog XML'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-02-11'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Campus Party - Eu vou'
 ---
 

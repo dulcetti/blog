@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2006-05-10'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Blog Colletivo'
 ---
 

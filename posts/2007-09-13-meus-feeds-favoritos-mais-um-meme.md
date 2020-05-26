@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-09-13'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Meus feeds favoritos - Mais um meme'
 ---
 

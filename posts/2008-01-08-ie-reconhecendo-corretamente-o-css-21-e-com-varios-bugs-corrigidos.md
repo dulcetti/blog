@@ -2,7 +2,7 @@
 category: 'CSS'
 date: '2008-01-08'
 description: ''
-featuredImage: '/assets/images/bgs/css.jpg'
+featuredImage: '/uploads/css.jpg'
 title: 'IE reconhecendo corretamente o CSS 2.1 e com vários bugs corrigidos'
 ---
 

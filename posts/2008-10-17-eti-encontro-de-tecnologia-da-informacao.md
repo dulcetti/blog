@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-10-17'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'ETI - Encontro de Tecnologia da Informação'
 ---
 

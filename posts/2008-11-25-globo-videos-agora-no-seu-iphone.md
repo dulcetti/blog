@@ -2,7 +2,7 @@
 category: 'Portfólio'
 date: '2008-11-25'
 description: ''
-featuredImage: '/assets/images/bg/portfolio.jpg'
+featuredImage: '/uploads/portfolio.jpg'
 title: 'Globo Vídeos agora no seu iPhone'
 ---
 

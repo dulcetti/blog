@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-01-22'
 description: ''
-featuredImage: '/assets/images/bg/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Rota Blogueira v.0001'
 ---
 

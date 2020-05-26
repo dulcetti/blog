@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2008-02-13'
 description: ''
-featuredImage: '/assets/images/bg/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Campus Party - Primeiro dia efetivo'
 ---
 

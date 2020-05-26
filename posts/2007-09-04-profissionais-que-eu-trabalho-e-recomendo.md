@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2007-09-04'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Profissionais que eu trabalho e recomendo'
 ---
 

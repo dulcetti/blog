@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2007-01-05'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'PLÁGIO TOTAL DO G1!'
 ---
 

@@ -2,7 +2,7 @@
 category: 'Tecnologia'
 date: '2005-12-28'
 description: ''
-featuredImage: '/assets/images/bgs/tecnologia.jpg'
+featuredImage: '/uploads/tecnologia.jpg'
 title: 'Feeds e Bottons'
 ---
 

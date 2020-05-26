@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-11-03'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'Retrospectiva iMasters Intercon 2006 | Melhores Práticas de Desenvolvimento'
 ---
 

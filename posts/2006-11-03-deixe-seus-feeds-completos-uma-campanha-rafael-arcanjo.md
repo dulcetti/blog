@@ -2,7 +2,7 @@
 category: 'Shots'
 date: '2006-11-03'
 description: ''
-featuredImage: '/assets/images/bgs/shots.jpg'
+featuredImage: '/uploads/shots.jpg'
 title: 'Deixe seus Feeds completos. Uma campanha Rafael Arcanjo.'
 ---
 

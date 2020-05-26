@@ -2,7 +2,7 @@
 category: 'Eventos'
 date: '2006-10-27'
 description: ''
-featuredImage: '/assets/images/bgs/eventos.jpg'
+featuredImage: '/uploads/eventos.jpg'
 title: 'iMasters Intercon 2006 aí vou eu.'
 ---
 
