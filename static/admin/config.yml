@@ -25,6 +25,7 @@ collections:
           widget: 'select',
           options:
             [
+              'Agile',
               'Back-End',
               'CSS',
               'DevOps',
