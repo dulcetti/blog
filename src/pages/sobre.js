@@ -228,11 +228,7 @@ export default function AboutPage() {
               muito e acho que mando bem, consigo me dar bem em muitos outros assuntos que eu curto
               há muitos anos.
             </S.PageText>
-            <SA.SkillCharts>
-              <SA.ChartWrap>
-                <MySkillCharts />
-              </SA.ChartWrap>
-            </SA.SkillCharts>
+            <MySkillCharts />
             <AniLink
               className="link-animated"
               cover
