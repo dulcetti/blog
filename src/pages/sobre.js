@@ -5,7 +5,7 @@ import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Icons from '../components/icons';
-import MySkillBars from '../components/skill-bars';
+import MySkillCharts from '../components/charts';
 import { getAge, isMobile } from '../utils';
 
 import { themes } from '../styles/themes';
@@ -228,7 +228,9 @@ export default function AboutPage() {
               muito e acho que mando bem, consigo me dar bem em muitos outros assuntos que eu curto
               há muitos anos.
             </S.PageText>
-            <MySkillBars />
+            <SA.SkillCharts>
+              <MySkillCharts />
+            </SA.SkillCharts>
             <AniLink
               className="link-animated"
               cover

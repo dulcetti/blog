@@ -255,3 +255,7 @@ export const CareerDates = styled.p`
   font-size: 0.9rem;
   margin-bottom: 12px;
 `;
+
+export const SkillCharts = styled.div`
+  margin-bottom: 30px;
+`;
