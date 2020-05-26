@@ -28,7 +28,11 @@ export const PostThumbWrap = styled.div`
 export const PostThumb = styled(Img)``;
 
 export const PostDescription = styled.h2`
+  color: ${themes.palette.posts.description};
   font-size: 1.5rem;
+  font-style: italic;
+  font-weight: normal;
+  margin-bottom: 10px;
 `;
 
 export const PostInfos = styled.p`
