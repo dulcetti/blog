@@ -16,7 +16,6 @@ export const PageFluid = styled.div`
 `;
 
 export const AboutSection = styled.section`
-  border-bottom: 1px solid ${themes.palette.general.borders};
   display: flex;
 
   ${media.lessThan('large')`
@@ -24,6 +23,7 @@ export const AboutSection = styled.section`
   `}
 
   ${media.greaterThan('large')`
+    border-bottom: 1px solid ${themes.palette.general.borders};
     min-height: 100vh;
     padding-left: 30vw;
   `}
@@ -39,6 +39,10 @@ export const ColumnImage = styled.aside`
 
   ${media.lessThan('large')`
     margin-bottom: 20px;
+  `}
+
+  ${media.between('medium', '1169px')`
+    max-width: 400px;
   `}
 
   ${media.greaterThan('large')`
