@@ -33,7 +33,7 @@ Então. Hoje estou escrevendo em 6 blogs. Eu acho esse número bem expressivo, m
 - Design
 - Goitaca
 - Videolog
-- Papo de Bêbado
+- Papo de Bar
 
 Bom, não vou comentar muito, mas falarei brevemente, apesar disso parecer uma grande mentira vindo de mim né, sobre cada Blog. E lógico que não falarei sobre este Blog que você está vendo agora, pois deve conhecê-lo (assim espero). Vamos lá:
 
@@ -75,9 +75,9 @@ Esse eu automaticamente já poderia participar, mas como o conteúdo praticament
 
 Ainda não postei nele, mas já estou bolando um texto sobre a participação do Videolog no Campus Party.
 
-### Papo de Bêbado
+### Papo de Bar
 
-Link: [http://www.papodebebado.com/](http://www.papodebebado.com/)
+Link: [https://www.papodebar.com/](https://www.papodebar.com/)
 
 Esse eu e o [Gustavo Gawry](http://www.gawry.com/) registramos no [Campus Party](http://www.campus-party.com.br/). Eu já tinha essa idéia tem tempo, cheguei até a falar com o Guilherme do [Papo de Homem](http://papodehomem.com.br/) sobre e ele achou interessante. Mas acabou que só registramos no Campus mesmo.
 

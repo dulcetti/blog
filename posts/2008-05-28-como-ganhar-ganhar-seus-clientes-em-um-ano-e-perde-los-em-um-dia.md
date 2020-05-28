@@ -62,4 +62,4 @@ Parece que quando viram que estávamos em terceiro lugar na utilização no Twit
 
 ## Finalizando...
 
-Não migrei absolutamente nada. Vou ficar pelo Twitter mesmo. Não sinto tanta necessidade assim para ficar correndo atrás de alternativas para "microblogar". E na minha opinião, eu acho que tudo isso é meio um hype. Quando o Twitter voltar, todos ficarão felizes e contentes, festejando e tudo mais. E se você é um dos que correm atrás dessas alternativas e não gostou do texto, relaxe e tome uma [cerveja](http://www.papodebebado.com). Não estou criticando ninguém não, foi apenas um desabafo :P.
+Não migrei absolutamente nada. Vou ficar pelo Twitter mesmo. Não sinto tanta necessidade assim para ficar correndo atrás de alternativas para "microblogar". E na minha opinião, eu acho que tudo isso é meio um hype. Quando o Twitter voltar, todos ficarão felizes e contentes, festejando e tudo mais. E se você é um dos que correm atrás dessas alternativas e não gostou do texto, relaxe e tome uma [cerveja](https://www.papodebar.com). Não estou criticando ninguém não, foi apenas um desabafo :P.

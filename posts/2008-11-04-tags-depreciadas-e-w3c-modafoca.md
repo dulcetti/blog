@@ -12,13 +12,13 @@ Relaxem. Antes que venham querer me xingar por causa do título e estar dando o 
 
 Então, como vocês sabem, a W3C depreciou algumas tags a partir do XHTML, blá, blá, blá. Não vou detalhar muito não, se vira no [Google](http://www.useaporradogoogle.kit.net).
 
-Ela depreciou, principalmente as tags que usávamos para estilo, como <font>, <center>, entre outras modafocas. Até ae tá tudo tranquilo, por hoje temos o ultramegapowermodafoca CSS para fazermos isso, graças a Deus W3C.
+Ela depreciou, principalmente as tags que usávamos para estilo, como `<font>`, `<center>`, entre outras modafocas. Até ae tá tudo tranquilo, por hoje temos o ultramegapowermodafoca CSS para fazermos isso, graças a Deus W3C.
 
 Porém, tem uma tag que eu vi que foi depreciada e não achei muito sei lá não.
 
 ## E qual é essa tag Bruno?
 
-É a antiga tag <u>, que deixa o texto dentro dela com um sublinhado. O **u** vem de underline, naturalmente.
+É a antiga tag `<u>`, que deixa o texto dentro dela com um sublinhado. O **u** vem de underline, naturalmente.
 
 Bom, eu li que eles depreciaram essa tag, porque como ficava sublinhado, poderia fazer com que o usuário se confundisse, pensando que fosse um link.
 
@@ -26,11 +26,11 @@ Bom, eu li que eles depreciaram essa tag, porque como ficava sublinhado, poderia
 
 Qualquer um aqui sabe que por CSS eu vou lá e pápum, coloco um text-decoration:underline em qualquer tag e pronto, estamos lá com o maldito texto sublinhado.
 
-## Mas Dulcetti, o <u> é tag para estilo
+## Mas Dulcetti, o `<u>` é tag para estilo
 
-Sim, eu sei. É por isso que entendo a depreciação, mas não entendo essa pseudo-explicação sobre que fica parecido com link. Existem casos que é muito plausível a utilização de texto sublinhados, mas agora coloco um <span> com uma classe qualquer e coloco um sublinhado. Dá meio que no mesmo.
+Sim, eu sei. É por isso que entendo a depreciação, mas não entendo essa pseudo-explicação sobre que fica parecido com link. Existem casos que é muito plausível a utilização de texto sublinhados, mas agora coloco um `<span>` com uma classe qualquer e coloco um sublinhado. Dá meio que no mesmo.
 
-Mas ok, entendo que a tag é de estilo. E sei que é diferente em relação com a <strong> e a <em>, que aparentemente são tags de estilo, mas na verdade são tags pra dar força no conteúdo específico.
+Mas ok, entendo que a tag é de estilo. E sei que é diferente em relação com a `<strong>` e a `<em>`, que aparentemente são tags de estilo, mas na verdade são tags pra dar força no conteúdo específico.
 
 ## Porra, então do que que você tá reclamando então ow?
 
@@ -48,6 +48,6 @@ Ok, foda-se. Se no [post anterior vocês não me xingaram](/menus-navegacoes-em-
 
 Mas só foi mais um artigo pra mexer um pouco, encucá-los e saber a opinião de vocês. Entendo a atitude da W3C, mas pra mim também tem que ter bom senso da galera de implementação e de design, para não criar algo não muito usável e de difícil entendimento.
 
-Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o target="\_blank" é liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
+Entendo também a postura de "tentar" forçar os desenvolvedores a fazer a coisa certa e que no Transitional o `target="_blank"` é liberado, mas quando vocês trabalharem num lugar meio grande e burocrático, vocês entederão. Só quero mesmo é arrumar polêmica :)
 
 Beijo na alcatra.
