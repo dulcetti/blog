@@ -5,7 +5,7 @@ import ReactDisqusComments from 'react-disqus-comments';
 import * as S from './styles';
 
 export default function Comments({ slug, title }) {
-  const fullUrl = `https://www.brunodulcetti/${slug}`;
+  const fullUrl = `https://www.brunodulcetti.com${slug}`;
 
   return (
     <S.Wrapper>
