@@ -16,13 +16,13 @@ Meio bizarro pensar não é? Parece meio idiota, eu sei, mas eu sou meio toupeir
 
 ### Mas onde você que chegar Bruno?
 
-E imaginem um layout, onde você possua três colunas, como o [Papo de Bêbado](http://www.papodebebado.com), por exemplo. Se são três colunas, então é uma listagem de três colunas, certo? Igualmente bizarro, mas fluindo nos pensamentos que vejo por ae, essa seria a teoria.
+E imaginem um layout, onde você possua três colunas, como o [Papo de Bar](https://www.papodebar.com), por exemplo. Se são três colunas, então é uma listagem de três colunas, certo? Igualmente bizarro, mas fluindo nos pensamentos que vejo por ae, essa seria a teoria.
 
 ### Tá bom o modafoca, mas onde você quer chegar realmente?
 
-Ok, vamos lá. É meio ridículo ter uma listagem de parágrafos e de colunas, já que parágrafos possuem sua tag prioritária, o <p> e as colunas, apesar de não possuir uma tag específica, colocamos dentro de uma div. Até aí tá tudo certinho.
+Ok, vamos lá. É meio ridículo ter uma listagem de parágrafos e de colunas, já que parágrafos possuem sua tag prioritária, o `<p>` e as colunas, apesar de não possuir uma tag específica, colocamos dentro de uma div. Até aí tá tudo certinho.
 
-Mas pensem comigo, os links também já não possuem a sua maldita tag específica? Sim, possui e você sabe disso e ela é a tag <a>.
+Mas pensem comigo, os links também já não possuem a sua maldita tag específica? Sim, possui e você sabe disso e ela é a tag `<a>`.
 
 Com isso, eu lhe pergunto:
 
@@ -30,7 +30,7 @@ Com isso, eu lhe pergunto:
 
 ### Para ficar mais organizado?
 
-Coloquem dentro de uma <div> que estarão organizados da mesma forma. E você ainda terá menos coisas com que se preocupar, principalmente pensando no modo IE. Temos problemas quando nossos links ficam como blocos dentro de uma lista. Facilmente contornado, sim, eu sei, mas podendo evitar isso, melhor, concorda?
+Coloquem dentro de uma `<div>` que estarão organizados da mesma forma. E você ainda terá menos coisas com que se preocupar, principalmente pensando no modo IE. Temos problemas quando nossos links ficam como blocos dentro de uma lista. Facilmente contornado, sim, eu sei, mas podendo evitar isso, melhor, concorda?
 
 E vira e mexe eu não quero que meus menus fiquei na vertical e com um maldito bullet ao lado, quando eu não possuir CSS habilitado. E principalmente porque não quero eles em blocos quando forem números de um elemento de paginação.
 
@@ -42,7 +42,7 @@ Tudo bem que nos menus laterais, os links ficam como bloco e seria interessante 
 
 ## Entendi Dulça. E você já aboliu o uso de menus em listas
 
-Ainda não. Estou estudando esta possibilidade e gostaria de saber a opinião de vocês, se estou viajando e tudo mais. Mas provavelmente eu deixarei de usar sim. A única vantagem que eu vejo, pelo menos quando estava escrevendo esse post modafoca, foi que tendo uma <li> englobando o link, temos mais um elemento para trabalharmos, colocarmos um background, entre outras características. Fora isso, ainda não vejo muita vantagem não.
+Ainda não. Estou estudando esta possibilidade e gostaria de saber a opinião de vocês, se estou viajando e tudo mais. Mas provavelmente eu deixarei de usar sim. A única vantagem que eu vejo, pelo menos quando estava escrevendo esse post modafoca, foi que tendo uma `<li>` englobando o link, temos mais um elemento para trabalharmos, colocarmos um background, entre outras características. Fora isso, ainda não vejo muita vantagem não.
 
 ## Finalizando
 
