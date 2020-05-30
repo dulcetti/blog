@@ -6,7 +6,8 @@ date: 2020-05-26T03:08:23.000Z
 featuredImage: /uploads/homem-caminhando.jpg
 category: Shots
 ---
-É, como diria o velho ditado ou esse dizer meio estranho de "*a volta dos que não foram*". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
+
+É, como diria o velho ditado ou esse dizer meio estranho de "_a volta dos que não foram_". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
 
 ## Que tal pelo começo?
 
@@ -18,7 +19,7 @@ Sim, verdade. Com esse coronga eu acabei estudando muito mais. Em casa você aca
 
 Nas minhas horas vagas eu tocava bastante, saía com os amigos, aproveitava um bocado dessa vida boa, mas na área de desenvolvimento em si, raramente eu focava em casa. Mas agora com essa pandemia tudo mudou.
 
-![Um Ukulele e um trompete num altar](uploads/ukulele-trompete.jpg)
+![Um Ukulele e um trompete num altar](/uploads/ukulele-trompete.jpg)
 
 Estou aprendendo trompete e comprei um ukulele. Fora que voltei a cozinhar. Tem sido até produtivo. Bom, mas não vim falar de coronga e de bebidas e comida, vamos voltar ao foco...
 
@@ -38,7 +39,7 @@ Bom, pretendo falar um bocado sobre JavaScript, continuar com o CSS, claro, um p
 
 Falando em blog, diz ae como ele foi feito
 
-![Kombi amarela na estrada sozinha](uploads/kombi-amarela.jpg)
+![Kombi amarela na estrada sozinha](/uploads/kombi-amarela.jpg)
 
 Photo by [Dino Reichmuth](https://unsplash.com/@dinoreichmuth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
