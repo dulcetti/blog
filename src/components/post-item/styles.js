@@ -22,7 +22,7 @@ export const LinkPost = styled(AniLink)`
 
   &:hover {
     picture > img {
-      filter: brightness(0.7) contrast(1);
+      filter: brightness(0.6) contrast(1.1);
       transition: opacity 0.5s ease 0s, filter 0.3s, width 0.3s !important;
       width: 115% !important;
     }
@@ -59,8 +59,9 @@ export const Category = styled.strong`
   border-radius: 4px;
   color: ${themes.palette.postList.categories.text};
   font: bold 2rem ${themes.fonts.others};
+  line-height: 1.5;
   order: 1;
-  padding: 3px 8px;
+  padding: 3px 10px 0;
   text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
   text-transform: uppercase;
   transition: margin-bottom 0.3s;
@@ -99,6 +100,7 @@ export const DateTime = styled.p`
   font-size: 18px;
   margin-bottom: 12px;
   order: 3;
+  text-shadow: 1px 1px 1px ${themes.palette.general.textShadows};
   width: 100%;
 `;
 
