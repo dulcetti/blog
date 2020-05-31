@@ -24,7 +24,7 @@ Mas para a sua alegria, esse artigos está [traduzido em 21 línguas diferentes]
 
 Eu acho completamente válido mostrar para aquele cliente chato, aquele designer que cisma que não é necessário, entre outros pentelhos existentes no mundo web. ;)
 
-## Legal Bruno, mas tem tempo isso?
+## Legal, Bruno, mas tem tempo isso?
 
 Tem um certo tempo sim. Quando eu recebi esse link, era +ou- meio do ano de 2003, não lembro certo, talvez julho, agosto, não estou lembrado, mas foi por ae.
 

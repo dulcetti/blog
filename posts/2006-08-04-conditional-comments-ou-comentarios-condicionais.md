@@ -77,7 +77,7 @@ Cole um destes exemplos no Dreamweaver por exemplo. Você verá que ele deixará
 
 Para os que não conhecem (o que eu acho muito difícil), esse é o modo de se fazer comentário dentro do HTML. Mas a Microsoft implementou essa funcionalidade em seu browser, o i.e.
 
-## Legal Bruno, mas continuo sem entender direito =/
+## Legal, Bruno, mas continuo sem entender direito =/
 
 Relaxa, vamos ver agora isso no HTML para que você entenda melhor a utilização. Veja abaixo o código HTML ou então verifique o exemplo online:
 

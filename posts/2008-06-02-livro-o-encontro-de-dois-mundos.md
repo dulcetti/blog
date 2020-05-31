@@ -14,7 +14,7 @@ E ae, pessoal, tudo na tranquilidade? Espero que sim. Venho neste post rápido, 
 
 O livro não fala nada sobre como desenvolver, se PHP é pior ou melhor que outra linguagem, que framework usar, isso e aquilo. São crônicas criadas por 44 blogueiros, profissionais de tecnologia, professores e tudo mais, totalizando 56 crônicas cativantes e provocantes sobre o mundo tecnológico atual.
 
-## Legal Bruno. E quem participou?
+## Legal, Bruno. E quem participou?
 
 Bom, como são 44 nomes, não vou citar aqui né, muita gente e tudo mais. Mas o que eu posso falar é que o Dulcetti aqui, sim, eu mesmo, participei, escrevendo a última crônica, com o título "Vida digital, alma analógica".
 

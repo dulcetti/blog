@@ -20,7 +20,7 @@ A [T!V!](http://videolog.uol.com.br/tivi/) é a sua TV web personalizada. Com el
 
 E claro, a pessoa poderá subir seus próprios vídeos para dentro do canal, assim como qualquer outra pessoa cadastrada.
 
-### Legal Bruno... Mais alguma novidade, diferencial?
+### Legal, Bruno... Mais alguma novidade, diferencial?
 
 A grande sacada é que os vídeos serão exibidos em tela cheia, no espaço útil do browser e não fullscreen no monitor do usuário. O legal disso é que ficará como uma TV mesmo.
 

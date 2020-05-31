@@ -14,7 +14,7 @@ Não, não. Estou aqui para postar um artigo sobre uma propriedade CSS, o vertic
 
 Muitos desenvolvedores confundem e comparam com o atributo valign que é colocado dentro da tag <td> no HTML. Realmente é semelhante, o nome mesmo indica isso, mas as funcionalidades e aplicações são diferentes, quando não aplicada em células de tabelas.
 
-## Legal Bruno. Então mostra ae. Quais as diferenças?
+## Legal, Bruno. Então mostra ae. Quais as diferenças?
 
 Primeiramente, a propriedade vertical-align não é para ser aplicada em blocos e sim em elementos inline. A não ser que apliquemos em células de uma tabela, como estávamos acostumados.
 
@@ -251,7 +251,7 @@ Podemos ver o resultado desse exemplo aqui.
 
 Neste exemplo, utilizei o label que é o mais correto, setando o vertical-align nele e mais um cursor para diferenciar ;).
 
-## Legal Bruno. Muito bom mesmo. Mas o vertical-align só tem o middle como valor no CSS cara?
+## Legal, Bruno. Muito bom mesmo. Mas o vertical-align só tem o middle como valor no CSS cara?
 
 Acabei esquecendo de citar mais detalhes sobre essa propriedade não é verdade? Fiquem calmos, estarei falando mais sobre ela abaixo :P:
 
