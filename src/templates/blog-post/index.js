@@ -3,11 +3,14 @@ import { graphql } from 'gatsby';
 import Layout from '../../components/layout';
 import Comments from '../../components/comments';
 import SEO from '../../components/seo';
+import PreviousNext from '../../components/previous-next';
 
 import * as S from './styles';
 
-export default function BlogPost({ data }) {
+export default function BlogPost({ data, pageContext }) {
   const { fields, frontmatter, html, timeToRead } = data.markdownRemark;
+  const nextPost = pageContext.nextPost;
+  const previousPost = pageContext.previousPost;
 
   return (
     <Layout>
@@ -32,6 +35,7 @@ export default function BlogPost({ data }) {
           <S.DatePost>{frontmatter.date}</S.DatePost>
         </S.PostInfos>
         <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
+        <PreviousNext next={nextPost} previous={previousPost} />
         <Comments slug={fields.slug} title={frontmatter.title} />
       </S.PostWrap>
     </Layout>

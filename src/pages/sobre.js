@@ -229,6 +229,11 @@ export default function AboutPage() {
               há muitos anos.
             </S.PageText>
             <MySkillCharts />
+            <S.PageText>
+              Mas claro, sou campeão em falar besteira e zoar. Fora as atividades musicais, dentre
+              outras coisas nas horas vagas, fora do trabalho. Ficar fazendo site, blog, muito
+              formal e sério não é comigo, tem que ter uma sacanagem, sempre.
+            </S.PageText>
             <AniLink
               className="link-animated"
               cover
