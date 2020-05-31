@@ -6,9 +6,11 @@ featuredImage: '/uploads/portfolio.jpg'
 title: 'Projeto S.O.S. Vira Lata'
 ---
 
-E ae galera.
+E ae, galera. Como tinha postado anteriormente, estava criando o layout e estrutura webstandards do projeto S.O.S. Vira Lata. Que é uma ong que cuida de cachorros e gatos de rua na cidade de Petrópolis.
 
-Como tinha postado anteriormente, estava criando o layout e estrutura webstandards do projeto S.O.S. Vira Lata. Que é uma ong que cuida de cachorros e gatos de rua na cidade de Petrópolis. Como já tinha dito, é um projeto social que dei o apoio e fiz sem custo nenhum, pura obra social, trabalho social, de apoio a entidades que buscam o bem, sem busca recursos financeiros para si próprio e sim para os beneficiados da ONG. Considero muito importante um profissional mostrar trabalho e apoio social, solidariedade, etc. Acho que isso enriquece não somente o portfólio do profissional, como o emocional e espírito, e as pessoas de fora vêem com bons olhos estas atitudes.
+Como já tinha dito, é um projeto social que dei o apoio e fiz sem custo nenhum, pura obra social, trabalho social, de apoio a entidades que buscam o bem, sem busca recursos financeiros para si próprio e sim para os beneficiados da ONG.
+
+Considero muito importante um profissional mostrar trabalho e apoio social, solidariedade, etc. Acho que isso enriquece não somente o portfólio do profissional, como o emocional e espírito, e as pessoas de fora vêem com bons olhos estas atitudes.
 
 Tentei explorar ao máximo a usabilidade e acessibilidade do site. Links para aumentar fontes, atributos title em todas as tags necessárias, accesskey para os menus, entre outras acessibilidades e usabilidades para facilitar o acesso à todos, deficientes, idosos. Em breve criarei estilos para dispositivos móveis e para impressão. ;)
 

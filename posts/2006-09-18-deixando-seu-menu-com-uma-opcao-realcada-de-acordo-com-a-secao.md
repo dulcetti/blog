@@ -6,7 +6,7 @@ featuredImage: '/uploads/css.jpg'
 title: 'Deixando seu menu com uma opção realçada de acordo com a Seção'
 ---
 
-E ae galera... Agora estou aqui não para mostrar sites ou vídeos, mas finalmente para o primeiro artigo dentro da nova versão do Blog :D
+E ae, galera... Agora estou aqui não para mostrar sites ou vídeos, mas finalmente para o primeiro artigo dentro da nova versão do Blog :D
 
 Estava conversando pelo Gtalk com o [Lucas Ferreira](http://www.lucasferreira.com/) sobre webstandards, javascript, etc, quando ele me perguntou: " - Ae Dulcetti, por que você não cria um tutorial sobre como deixar o menu selecionado? Não é difícil não usa js nem nada."
 

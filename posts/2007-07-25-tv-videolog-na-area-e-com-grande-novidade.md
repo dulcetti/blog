@@ -6,7 +6,7 @@ featuredImage: '/uploads/tecnologia.jpg'
 title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 
-E ae galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
+E ae, galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
 ![Print com uma prévia da T!V!](/uploads/tivi01.jpg)
 

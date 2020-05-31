@@ -6,7 +6,7 @@ featuredImage: '/uploads/css.jpg'
 title: 'Vertical-align no CSS. Como, quando e por que usar'
 ---
 
-E ae galera. Estou aqui de volta, novamente, depois de uma sumida (pra variar não é verdade? :P). Mas eu juro que tentarei voltar com mais frequência, postar mais colírios, vídeos do Videolog, etc.
+E ae, galera. Estou aqui de volta, novamente, depois de uma sumida (pra variar não é verdade? :P). Mas eu juro que tentarei voltar com mais frequência, postar mais colírios, vídeos do Videolog, etc.
 
 ## Que bom Bruno. Mas algo em especial ou só veio pra falar que está sumido?
 
