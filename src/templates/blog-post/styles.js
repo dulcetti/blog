@@ -44,7 +44,7 @@ export const PostDescription = styled.h2`
 
 export const PostInfos = styled.p`
   background-color: ${(prop) => `${themes.palette.categories[prop.color]}`};
-  color: #fff;
+  color: ${themes.palette.general.negativeColor};
   display: flex;
   font-family: ${themes.fonts.others};
   font-size: 1.35rem;
@@ -80,7 +80,7 @@ export const TimeToRead = styled.span`
   }
 
   ${media.lessThan('large')`
-    border-top: 1px solid #eee;
+    border-top: 1px solid ${themes.palette.posts.borderInfos};
     margin-top: 8px;
     order: 3;
     padding-top: 8px;
