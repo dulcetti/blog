@@ -47,10 +47,14 @@ export default function Sidebar() {
       <Navigation isOpen={isOpen} />
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
-      <S.SearchButton to="/busca/">
-        <Icons name="search" />
-      </S.SearchButton>
-      <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'}></S.ToggleOpenClose>
+      <S.SidebarIcons>
+        <S.SearchLink to="/busca/">
+          <S.SearchLinkWrap>
+            <Icons name="search" />
+          </S.SearchLinkWrap>
+        </S.SearchLink>
+        <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'}></S.ToggleOpenClose>
+      </S.SidebarIcons>
     </S.Sidebar>
   );
 }
