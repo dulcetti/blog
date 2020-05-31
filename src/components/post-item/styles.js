@@ -10,7 +10,7 @@ export const Post = styled.div`
 `;
 
 export const LinkPost = styled(AniLink)`
-  color: #fff;
+  color: ${themes.palette.general.negativeColor};
   display: block;
   overflow: hidden;
   position: relative;
