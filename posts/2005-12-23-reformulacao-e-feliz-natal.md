@@ -6,7 +6,7 @@ featuredImage: '/uploads/shots.jpg'
 title: 'Reformulação e Feliz Natal'
 ---
 
-Olá pessoal, uum tempo sem postar, mas estou aqui novamente. Muito trabalho, final de ano, Projeto final de Pós, etc...
+Olá, pessoal. um tempo sem postar, mas estou aqui novamente. Muito trabalho, final de ano, Projeto final de Pós, etc...
 
 Primeiro, queria falar do meu projeto final, que entrei na segunda, 19/12/2005. É um Portal sober Gravidez, já cheguei a comentar sobre no Blog e tem um link para ele na seção deveres do meu portfólio. Todo webstandards, mas com alguns erros, o código está um pouco sujo e não tão estruturado e semântico, pois comecei no início do ano e não tinha ainda muita manha de otimização, e como estava em cima da hora, acabei entregando assim mesmo.
 

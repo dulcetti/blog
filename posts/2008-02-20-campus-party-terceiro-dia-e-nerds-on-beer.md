@@ -29,7 +29,7 @@ O grupo do [Jornal de Debates](http://beta.jornaldedebates.com.br/) teve um idé
 5. A internet é democrática?
 6. Teve outro que eu não lembro o nome :D
 
-E as camisas estão a venda por R\$20, um preço ateh legal para uma camisa. E disseram que a qualidade é boa, tudo sucesso. De repente eu compro uma.
+E as camisas estão a venda por R\$20, um preço até legal para uma camisa. E disseram que a qualidade é boa, tudo sucesso. De repente eu compro uma.
 
 ## A celebridade da Blogosfera...
 
