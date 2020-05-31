@@ -33,7 +33,7 @@ export const LinkPost = styled(AniLink)`
         transition: bottom 0.3s;
 
         > strong {
-          margin-bottom: 25px;
+          margin-bottom: 15px;
           transition: margin-bottom 0.3s;
         }
       }
@@ -73,7 +73,7 @@ export const Category = styled.strong`
   ${media.greaterThan('large')`
     font: bold 2rem ${themes.fonts.others};
     line-height: 1.5;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
   `}
 `;
 
