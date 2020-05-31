@@ -167,7 +167,7 @@ export const TitleSection = styled.h2`
 `;
 
 export const TitleSectionImage = styled.h2`
-  color: #fff;
+  color: ${themes.palette.general.negativeColor};
   position: absolute;
   text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   z-index: 2;
