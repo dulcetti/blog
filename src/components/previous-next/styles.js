@@ -8,8 +8,7 @@ export const WrapPreviousNext = styled.section`
   border-top: 1px solid ${themes.palette.general.borders};
   display: flex;
   justify-content: space-between;
-  margin-bottom: 30px;
-  padding: 10px 0;
+  margin: 30px 0;
 
   &.-singleNext {
     justify-content: flex-start;
@@ -23,20 +22,55 @@ export const WrapPreviousNext = styled.section`
 export const LinksNavigation = styled(Link)`
   align-items: center;
   display: inline-flex;
+  width: 50%;
 
-  ${media.greaterThan('large')`
-    padding: 30px 20px;
-    width: 50%;
+  section.-singlePrevious &,
+  section.-singleNext & {
+    ${media.lessThan('small')`
+      width: 100%;
+    `}
+  }
+
+  ${media.lessThan('large')`
+    padding: 20px 0;
+  `}
+
+  ${media.greaterThan('medium')`
+    padding: 20px;
   `}
 
   > svg {
-    height: 50px;
-    width: 50px;
+    ${media.lessThan('medium')`
+      height: 24px;
+      min-height: 20px;
+      min-width: 20px;
+      width: 24px;
+    `}
+
+    ${media.greaterThan('medium')`
+      height: 42px;
+      width: 42px;
+    `}
   }
 
   &.-previous {
-    padding-left: 20px;
-    transition: padding-left 0.3s;
+    border-right: 1px solid ${themes.palette.general.borders};
+
+    ${media.lessThan('medium')`
+      padding-right: 10px;
+    `}
+
+    ${media.greaterThan('medium')`
+      padding-left: 20px;
+      transition: padding-left 0.3s;
+    `}
+
+    section.-singlePrevious &,
+    section.-singleNext & {
+      ${media.lessThan('medium')`
+        border-right: 0;
+      `}
+    }
 
     > svg {
       margin-right: 10px;
@@ -46,9 +80,22 @@ export const LinksNavigation = styled(Link)`
 
   &.-next {
     justify-content: flex-end;
-    padding-right: 20px;
-    transition: padding-right 0.3s;
     text-align: right;
+
+    ${media.lessThan('medium')`
+      padding-left: 10px;
+    `}
+
+    ${media.greaterThan('medium')`
+      padding-right: 20px;
+      transition: padding-right 0.3s;
+    `}
+
+    section.-singlePrevious & {
+      ${media.greaterThan('small')`
+        border-left: 1px solid ${themes.palette.general.borders};
+      `}
+    }
 
     > svg {
       margin-left: 10px;
@@ -85,7 +132,15 @@ export const LinksTitle = styled.strong`
   color: ${themes.palette.general.links};
   display: block;
   font-family: ${themes.fonts.titles};
-  font-size: 1.5rem;
-  line-height: 1.1;
   max-width: 450px;
+
+  ${media.lessThan('medium')`
+    font-size: 1.25rem;
+    line-height: 1;
+  `}
+
+  ${media.greaterThan('medium')`
+    font-size: 1.5rem;
+    line-height: 1.1;
+  `}
 `;
