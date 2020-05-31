@@ -47,17 +47,18 @@ export const PostInfos = styled.p`
   color: ${themes.palette.general.negativeColor};
   display: flex;
   font-family: ${themes.fonts.others};
-  font-size: 1.35rem;
   justify-content: space-between;
 
   ${media.lessThan('large')`
     flex-wrap: wrap;
+    font-size: 1.15rem;
     margin-bottom: 14px;
     text-align: center;
-    padding: .5rem .65rem;
+    padding: .35rem .5rem;
   `}
 
   ${media.greaterThan('large')`
+    font-size: 1.35rem;
     margin-bottom: 20px;
     padding: .5rem 1rem;
   `}
