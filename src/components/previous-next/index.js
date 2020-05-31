@@ -30,6 +30,20 @@ export default function PreviousNext({ next, previous }) {
 }
 
 PreviousNext.propTypes = {
-  next: PropTypes.object,
-  previous: PropTypes.object,
+  next: PropTypes.shape({
+    frontmatter: PropTypes.shape({
+      title: PropTypes.string.isRequired,
+    }),
+    fields: PropTypes.shape({
+      slug: PropTypes.string.isRequired,
+    }),
+  }),
+  previous: PropTypes.shape({
+    frontmatter: PropTypes.shape({
+      title: PropTypes.string.isRequired,
+    }),
+    fields: PropTypes.shape({
+      slug: PropTypes.string.isRequired,
+    }),
+  }),
 };
