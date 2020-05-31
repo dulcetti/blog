@@ -6,7 +6,7 @@ featuredImage: '/uploads/portfolio.jpg'
 title: 'Projeto Final'
 ---
 
-Fala pessoal. Primeiro queria me desculpar pelo sumisso aqui do blog, estou um tempo sem postar. Estou completamente enrolado com os trabalhos da Pós-Graduação e o Projeto Final da mesma. Tenho que entregar até o dia 20, está boa parte pronta, falta ainda terminar alguns ouros trabalhos.
+Fala, pessoal. Primeiro queria me desculpar pelo sumisso aqui do blog, estou um tempo sem postar. Estou completamente enrolado com os trabalhos da Pós-Graduação e o Projeto Final da mesma. Tenho que entregar até o dia 20, está boa parte pronta, falta ainda terminar alguns ouros trabalhos.
 
 Estou ainda enrolado com alguns projetos Freelas, tenho durmido pouco, trabalhado bastante, mas se Deus quiser dará tudo certo ;)
 

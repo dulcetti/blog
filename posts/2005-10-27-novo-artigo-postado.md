@@ -6,7 +6,7 @@ featuredImage: '/uploads/publicacoes.jpg'
 title: 'Novo artigo postado'
 ---
 
-Fala pessoal, aqui estou eu de novo. Agora para falar do artigo que finalmente saiu no iMasters. O tema é Posicionamento e Layouts (Parte 02) e estou falando sobre a criação de layouts fixos, líquidos, alinhados à direita, esquerda, centralizados, falando sobre a propriedade clear do CSS, que algus desenvolvedores desconhecem. Layouts com 2 e 3 colunas, coisas simples, mas que muitos encontram dificuldades.
+Fala, pessoal. Aqui estou eu de novo. Agora para falar do artigo que finalmente saiu no iMasters. O tema é Posicionamento e Layouts (Parte 02) e estou falando sobre a criação de layouts fixos, líquidos, alinhados à direita, esquerda, centralizados, falando sobre a propriedade clear do CSS, que algus desenvolvedores desconhecem. Layouts com 2 e 3 colunas, coisas simples, mas que muitos encontram dificuldades.
 
 Tento no artigo detalhar ao máximo as coordenadas, passos, etc, para que não haja dúvidas. Todo o código CSS comentado e com um breve resumo, explicação sobre cada exemplo.
 
