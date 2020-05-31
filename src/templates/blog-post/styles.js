@@ -94,7 +94,8 @@ export const PostContent = styled.section`
 
   p,
   ul,
-  ol {
+  ol,
+  table {
     ${media.lessThan('large')`
       line-height: 1.25;
       margin-bottom: 1.25rem;
