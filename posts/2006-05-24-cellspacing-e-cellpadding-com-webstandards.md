@@ -178,14 +178,14 @@ Vamos ver mais um exemplo com tabelas com bordas:
 >
   <tbody>
     <tr>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
-      <td style="padding: 10px; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
     </tr>
   </tbody>
 </table>
