@@ -52,6 +52,7 @@ export const Name = styled.h2`
   color: ${themes.palette.sidebar.name};
   font-family: ${themes.fonts.titles};
   text-align: center;
+  word-spacing: -2px;
 
   ${media.lessThan('large')`
     font-size: 28px;
@@ -91,8 +92,9 @@ export const LinkMenu = styled(AniLink)`
   color: ${themes.palette.sidebar.links};
   display: block;
   font-family: ${themes.fonts.others};
-  font-size: 20px;
+  font-size: 1.5rem;
   font-weight: bold;
+  line-height: 1.25;
   padding: 10px 0;
   position: relative;
   text-align: center;
@@ -102,7 +104,7 @@ export const LinkMenu = styled(AniLink)`
   &:before {
     bottom: 0;
     content: '';
-    height: 44px;
+    height: 3.1rem;
     right: 0;
     position: absolute;
     transform: scaleX(0);

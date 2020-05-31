@@ -27,7 +27,7 @@ const _colors = {
 export const themes = {
   fonts: {
     titles: `'Khand-Regular', sans-serif`,
-    others: `'AdventPro-Regular', sans-serif`,
+    others: `'Khand-Regular', sans-serif`,
   },
   grid: {
     maxWidth: '70em',

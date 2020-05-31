@@ -29,10 +29,17 @@ export const PostThumb = styled(Img)``;
 
 export const PostDescription = styled.h2`
   color: ${themes.palette.posts.description};
-  font-size: 1.5rem;
   font-style: italic;
   font-weight: normal;
   margin-bottom: 10px;
+
+  ${media.lessThan('large')`
+    font-size: 1.5rem;
+  `}
+
+  ${media.greaterThan('large')`
+    font-size: 1.75rem;
+  `}
 `;
 
 export const PostInfos = styled.p`
@@ -40,7 +47,7 @@ export const PostInfos = styled.p`
   color: #fff;
   display: flex;
   font-family: ${themes.fonts.others};
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   justify-content: space-between;
 
   ${media.lessThan('large')`
