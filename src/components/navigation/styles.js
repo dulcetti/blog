@@ -93,7 +93,6 @@ export const LinkMenu = styled(AniLink)`
   display: block;
   font-family: ${themes.fonts.others};
   font-size: 1.5rem;
-  font-weight: bold;
   line-height: 1.25;
   padding: 10px 0;
   position: relative;
