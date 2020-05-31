@@ -36,7 +36,7 @@ export const themes = {
     others: `'Khand-Regular', sans-serif`,
   },
   grid: {
-    maxWidth: '70em',
+    maxWidth: '68em',
   },
   palette: {
     categories: {
