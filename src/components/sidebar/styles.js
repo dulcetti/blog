@@ -74,6 +74,17 @@ export const Text = styled.p`
   `}
 `;
 
+export const SearchButton = styled(AniLink)`
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+
+  > svg {
+    height: inherit;
+    width: inherit;
+  }
+`;
+
 export const ToggleOpenClose = styled.button`
   ${media.greaterThan('large')`
     display:none;

@@ -5,6 +5,7 @@ import Img from 'gatsby-image';
 import * as S from './styles';
 import { themes } from '../../styles/themes';
 import Navigation from '../navigation';
+import Icons from '../icons';
 
 export default function Sidebar() {
   const [isOpen, setOpen] = useState(false);
@@ -46,6 +47,9 @@ export default function Sidebar() {
       <Navigation isOpen={isOpen} />
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
+      <S.SearchButton to="/busca/">
+        <Icons name="search" />
+      </S.SearchButton>
       <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'}></S.ToggleOpenClose>
     </S.Sidebar>
   );
