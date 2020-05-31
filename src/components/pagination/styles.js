@@ -15,9 +15,9 @@ export const PaginationContent = styled.aside`
 
 export const PaginationWrap = styled.nav`
   align-items: center;
-  background-color: #ece7e1;
+  background-color: ${themes.palette.pagination.bgWrap};
   border-radius: 30px;
-  border: 3px solid #a68e69;
+  border: 3px solid ${themes.palette.pagination.bordersWrap};
   display: flex;
   justify-content: space-between;
   margin-bottom: 12px;
@@ -32,9 +32,9 @@ export const PaginationWrap = styled.nav`
 `;
 
 export const ActionLinks = styled(AniLink)`
-  border-right: 1px solid #cec2ac;
-  border-left: 1px solid #f3f0ed;
-  color: #5a5038;
+  border-right: 1px solid ${themes.palette.pagination.borderDarkLinks};
+  border-left: 1px solid ${themes.palette.pagination.borderLightLinks};
+  color: ${themes.palette.pagination.text};
   font-weight: bold;
   font-size: 22px;
   padding: 10px 0;
@@ -42,8 +42,8 @@ export const ActionLinks = styled(AniLink)`
   width: 25%;
 
   &:hover {
-    background-color: #e3cfad;
-    color: #f26a00;
+    background-color: ${themes.palette.pagination.bgHoverLinks};
+    color: ${themes.palette.pagination.active};
     transition: background-color 0.3s, color 0.3s;
 
     span {
@@ -99,7 +99,7 @@ export const Icon = styled.i`
 `;
 
 export const ActualPage = styled.strong`
-  border-bottom: 2px solid #f26a00;
+  border-bottom: 2px solid ${themes.palette.pagination.active};
   display: inline-block;
   font-weight: bold;
   line-height: 18px;
