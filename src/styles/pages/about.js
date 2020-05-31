@@ -6,7 +6,7 @@ import { themes } from '../themes';
 
 export const PageFluid = styled.div`
   ${media.lessThan('large')`
-    padding: 5px 20px;
+    padding: 20px;
   `}
 
   ${media.greaterThan('large')`
