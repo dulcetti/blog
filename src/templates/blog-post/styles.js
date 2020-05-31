@@ -21,7 +21,7 @@ export const PostTitle = styled.h1`
 
 export const PostThumbWrap = styled.div`
   > .gatsby-image-wrapper {
-    max-height: 350px;
+    max-height: 450px;
   }
 `;
 

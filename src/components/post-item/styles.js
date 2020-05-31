@@ -58,6 +58,7 @@ export const Category = styled.strong`
     props.bg ? props.bg : `${themes.palette.postList.categories.bg}`};
   border-radius: 4px;
   color: ${themes.palette.postList.categories.text};
+  opacity: 0.85;
   order: 1;
   padding: 3px 10px 0;
   text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
