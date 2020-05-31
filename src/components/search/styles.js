@@ -23,13 +23,14 @@ export const SearchWrapper = styled.section`
   }
 
   .ais-Stats {
+    font-size: 0.9rem;
+    margin-bottom: 30px;
+
     ${media.lessThan('large')`
-      margin-bottom: 30px;
       text-align: center;
     `}
 
     ${media.greaterThan('large')`
-      margin-bottom: 50px;
       text-align: right;
     `}
   }
@@ -54,9 +55,9 @@ export const SearchWrapper = styled.section`
     width: 100%;
 
     ${media.lessThan('large')`
-      border-radius: 15px;
-      font-size: 1.25rem;
-      padding-left: 1.25rem;
+      border-radius: 10px;
+      font-size: 1.15rem;
+      padding-left: 1rem;
     `}
 
     ${media.greaterThan('large')`
