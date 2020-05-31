@@ -67,8 +67,8 @@ export const AboutImage = styled(Img)`
   `}
 
   &:after, &:before {
-    border-right: 10px solid;
     border-bottom: 10px solid;
+    border-right: 10px solid;
     content: '';
     display: block;
     position: absolute;
@@ -77,8 +77,8 @@ export const AboutImage = styled(Img)`
   }
 
   &:after {
-    border-right-color: rgba(${themes.palette.about.secondBorder}, 0.5);
     border-bottom-color: rgba(${themes.palette.about.secondBorder}, 0.5);
+    border-right-color: rgba(${themes.palette.about.secondBorder}, 0.5);
     height: 35%;
     width: 45%;
 
@@ -93,8 +93,8 @@ export const AboutImage = styled(Img)`
   }
 
   &:before {
-    border-right-color: rgba(${themes.palette.about.firstBorder}, 0.5);
     border-bottom-color: rgba(${themes.palette.about.firstBorder}, 0.5);
+    border-right-color: rgba(${themes.palette.about.firstBorder}, 0.5);
     bottom: 30px;
     height: 55%;
     right: 30px;
@@ -102,7 +102,8 @@ export const AboutImage = styled(Img)`
 
     ${media.lessThan('medium')`
       bottom: 10px;
-      right: 10px;`}
+      right: 10px;
+    `}
 
     ${media.greaterThan('medium')`
       bottom: 30px;
