@@ -21,7 +21,7 @@ function SEO({ description, lang, meta, title, image }) {
 
   const metaDescription = description || site.siteMetadata.description;
   const siteUrl = site.siteMetadata.siteUrl;
-  const pathImage = image ? image.childImageSharp.fluid.src : '/assets/images/meme-etilico.jpg';
+  const pathImage = image || '/assets/images/meme-etilico.jpg';
   const ogImage = `${siteUrl}${pathImage}`;
 
   return (
