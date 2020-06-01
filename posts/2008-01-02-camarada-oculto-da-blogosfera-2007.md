@@ -22,7 +22,7 @@ E como aconteceu no [camarada oculto do ano passado](/amigo-secreto-oculto-da-bl
 
 Meio difícil falar de alguém que você não conhece, mas sempre conseguimos. Foi o Fagner Souza, do Blog [Cavanhas Cavanhas](http://cavanhascavanhas.com/)
 
-Nos últimos posts escritos por ele, percebi que o blog contém dicas não só de tecnologia, mas também de outras coisas, por exemplo, [Como entrar no BOPE](http://cavanhascavanhas.com/2007/11/28/como-entrar-no-bope/). Ele também ironiza um pouco, como por exemplo, o post da [Scheila Melo virando cantora](http://cavanhascavanhas.com/2007/12/08/sheila-mello-o-futuro-icone-da-mpb-brasileira/). Coisa linda essa muleh cantando, sem noção.
+Nos últimos posts escritos por ele, percebi que o blog contém dicas não só de tecnologia, mas também de outras coisas, por exemplo, [Como entrar no BOPE](http://cavanhascavanhas.com/2007/11/28/como-entrar-no-bope/). Ele também ironiza um pouco, como por exemplo, o post da [Scheila Melo virando cantora](http://cavanhascavanhas.com/2007/12/08/sheila-mello-o-futuro-icone-da-mpb-brasileira/). Coisa linda essa mulé cantando, sem noção.
 
 Fora também o post do Mano Menezes assumindo o Corinthians e suas regalias, salário, entre outras coisas.
 

@@ -10,7 +10,7 @@ export const Post = styled.div`
 `;
 
 export const LinkPost = styled(AniLink)`
-  color: #fff;
+  color: ${themes.palette.general.negativeColor};
   display: block;
   overflow: hidden;
   position: relative;
@@ -33,7 +33,7 @@ export const LinkPost = styled(AniLink)`
         transition: bottom 0.3s;
 
         > strong {
-          margin-bottom: 25px;
+          margin-bottom: 15px;
           transition: margin-bottom 0.3s;
         }
       }
@@ -42,7 +42,7 @@ export const LinkPost = styled(AniLink)`
 `;
 
 export const Content = styled.div`
-  bottom: -32px;
+  bottom: -40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -58,8 +58,7 @@ export const Category = styled.strong`
     props.bg ? props.bg : `${themes.palette.postList.categories.bg}`};
   border-radius: 4px;
   color: ${themes.palette.postList.categories.text};
-  font: bold 2rem ${themes.fonts.others};
-  line-height: 1.5;
+  opacity: 0.85;
   order: 1;
   padding: 3px 10px 0;
   text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
@@ -67,19 +66,21 @@ export const Category = styled.strong`
   transition: margin-bottom 0.3s;
 
   ${media.lessThan('large')`
-    margin-bottom: 30px;
+    font: bold 1.5rem ${themes.fonts.others};
+    line-height: 1.25;
+    margin-bottom: 15px;
   `}
 
   ${media.greaterThan('large')`
-    margin-bottom: 40px;
+    font: bold 2rem ${themes.fonts.others};
+    line-height: 1.5;
+    margin-bottom: 30px;
   `}
 `;
 
 export const TitlePost = styled.h2`
   color: ${themes.palette.postList.content.title};
   font-weight: 400;
-  margin-bottom: 10px;
-  padding: 0 20px;
   order: 2;
   text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   width: 100%;
@@ -87,11 +88,15 @@ export const TitlePost = styled.h2`
   ${media.lessThan('large')`
     font-size: 1.6rem;
     line-height: 1.8rem;
+    margin-bottom: 5px;
+    padding: 0 10px;
   `}
 
   ${media.greaterThan('large')`
     font-size: 2rem;
     line-height: 2.2rem;
+    margin-bottom: 10px;
+    padding: 0 20px;
   `}
 `;
 

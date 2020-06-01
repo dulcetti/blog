@@ -6,7 +6,7 @@ featuredImage: '/uploads/css.jpg'
 title: 'Como você escreve seus arquivos CSS?'
 ---
 
-Fala pessoal. Ressurgindo das cinzas como uma Fênix, aqui estou eu novamente, para encher vossos sacos :D e saber de vocês e mostrar como eu escrevo meus arquivos [CSS](http://pt.wikipedia.org/wiki/Cascading_Style_Sheets)'s.
+Fala, pessoal. Ressurgindo das cinzas como uma Fênix, aqui estou eu novamente, para encher vossos sacos :D e saber de vocês e mostrar como eu escrevo meus arquivos [CSS](http://pt.wikipedia.org/wiki/Cascading_Style_Sheets)'s.
 
 ## Mas por que isso, Bruno?
 

@@ -138,7 +138,7 @@ O link recebe um display block, com isso, vira um bloco. Mas lembram que ele est
 
 Não se assustem com os 1000px para a largura e a altura do link, pois como a div está com overflow hidden, o link só aparecerá dentro do tamanho disposto na div ;). Na verdade um 100% na altura e largura já funciona, mas no ie 6 não funcionou, aconteceu algum bug, ficando só pela metade, vai entender né... ;)
 
-#### Legal Bruno, mas o título e o parágrafo desceriam...
+#### Legal, Bruno, mas o título e o parágrafo desceriam...
 
 Sim, mas como temos o position absolute, isso não acontece mais. Ele fica grudado na div e o conteúdo que vem depois dele, fica aparecendo também, o link fica por cima deles.
 

@@ -97,7 +97,7 @@ Exatamente. Graças a ele, precisamos utilizar a gambiarra que falei anteriormen
 
 Veja o exemplo correto funcionando
 
-## Legal Bruno, funcionou direitinho...
+## Legal, Bruno, funcionou direitinho...
 
 Exatamente, mas sempre existe um porém. Temos vantagens em utilizar esse htc, pois teremos hover em todas as tags, mas, como nem tudo é perfeito, temos alguns problemas:
 
@@ -149,7 +149,7 @@ img {
 
 Veja este exemplo funcionando.
 
-### Legal Bruno... Funcionou só com CSS né?
+### Legal, Bruno... Funcionou só com CSS né?
 
 Então, +ou-. Ainda não está 100%, porque dá um efeito que a imagem se move por causa da borda colocada no link.
 

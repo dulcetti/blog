@@ -6,7 +6,7 @@ import { themes } from '../themes';
 
 export const PageFluid = styled.div`
   ${media.lessThan('large')`
-    padding: 5px 20px;
+    padding: 20px;
   `}
 
   ${media.greaterThan('large')`
@@ -167,7 +167,7 @@ export const TitleSection = styled.h2`
 `;
 
 export const TitleSectionImage = styled.h2`
-  color: #fff;
+  color: ${themes.palette.general.negativeColor};
   position: absolute;
   text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
   z-index: 2;

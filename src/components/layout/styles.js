@@ -19,7 +19,7 @@ export const LayoutMain = styled.main`
 
   ${media.lessThan('large')`
     flex-direction: column;
-    padding: 1rem 0 5rem;
+    padding-bottom: 5rem;
   `}
 
   ${media.greaterThan('large')`

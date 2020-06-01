@@ -10,7 +10,7 @@ E ae, pessoal. Hoje estou aqui com algo diferente. Estava semana passada aqui na
 
 Um novo efeito de over nos links que o pessoal de design fez no layout. É interessante, gostei, mas fiquei pensando um tempinho em como implementá-lo.
 
-## Legal Bruno, mas qual é o desafio?
+## Legal, Bruno, mas qual é o desafio?
 
 Então. Vou apresentar o efeito. É como se fosse uma borda de 3px em volta de uma foto, mas só que interna, como se "cropasse" a foto. Veja abaixo:
 

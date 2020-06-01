@@ -116,7 +116,7 @@ Nada de muito complicado:
 
 De início temos este resultado.
 
-## Legal Bruno, mas cadê o hover?
+## Legal, Bruno, mas cadê o hover?
 
 Calmae, muita calma nessa hora. Já deu pra ver o início do resultado, do nosso objetivo. Temos já a estrutura toda montada, li’s arrumadas e sem bug.
 
@@ -155,7 +155,7 @@ Vamos a explicação:
 
 Vemos o resultado do efeito finalizado agora.
 
-## Legal Bruno. Mas explica melhor...
+## Legal, Bruno. Mas explica melhor...
 
 Seguinte: o link ficando com a borda vermelha de 5px, o que iria acontecer? O link, como bloco e com borda, iria acabar ficando dentro da "borda", que na verdade é o padding preto da `<ul>`, formando uma borda dupla. Sendo que uma preta e a de dentro vermelha.
 

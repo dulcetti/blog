@@ -20,7 +20,7 @@ Agora com uma nova ID Visual, que na minha opinião, tem mais a ver, um foco mai
 
 Não, não... To fora dessa parte de criação de marcas, impressos tem um tempinho. Essa marca quem criou foi o [Arthur Henrique](http://www.arthurhenrique.com/), um camarada que mora em Goiás, [são paulino](http://globoesporte.globo.com/ESP/Home/0,,4286,00.html) doente, manda muito bem nos seus trabalhos, sempre fazemos alguns freelas, ele com a parte de design e eu na implementação.
 
-## Hmmm... Legal Bruno. Explica direito essa logo aí.
+## Hmmm... Legal, Bruno. Explica direito essa logo aí.
 
 Bom, como vocês devem saber, meu nome é Bruno :D e o último sobrenome é Dulcetti. Muita gente brinca, inclusive eu, com esse Dulcetti, por esse cetti soar como um 7 (sete).
 

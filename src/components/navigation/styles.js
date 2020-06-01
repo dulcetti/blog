@@ -93,7 +93,6 @@ export const LinkMenu = styled(AniLink)`
   display: block;
   font-family: ${themes.fonts.others};
   font-size: 1.5rem;
-  font-weight: bold;
   line-height: 1.25;
   padding: 10px 0;
   position: relative;
@@ -121,7 +120,7 @@ export const LinkMenu = styled(AniLink)`
     transition: color 0.3s;
 
     &:before {
-      background-color: #fff;
+      background-color: ${themes.palette.sidebar.bgLinkHover};
       transform: scaleX(1);
       transform-origin: 100% 50%;
       transition: transform 0.2s ease-in-out 0s;

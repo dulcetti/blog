@@ -6,7 +6,7 @@ featuredImage: '/uploads/tecnologia.jpg'
 title: 'T!V! - Videolog na área e com grande novidade.'
 ---
 
-E ae galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
+E ae, galera, tudo tranquilo? Venho hoje falando do [Videolog](http://videolog.uol.com.br). Tinha um certo tempo que eu não escrevia sobre, mas estou aqui para anunciar uma grande novidade no Portal.
 
 ![Print com uma prévia da T!V!](/uploads/tivi01.jpg)
 
@@ -20,7 +20,7 @@ A [T!V!](http://videolog.uol.com.br/tivi/) é a sua TV web personalizada. Com el
 
 E claro, a pessoa poderá subir seus próprios vídeos para dentro do canal, assim como qualquer outra pessoa cadastrada.
 
-### Legal Bruno... Mais alguma novidade, diferencial?
+### Legal, Bruno... Mais alguma novidade, diferencial?
 
 A grande sacada é que os vídeos serão exibidos em tela cheia, no espaço útil do browser e não fullscreen no monitor do usuário. O legal disso é que ficará como uma TV mesmo.
 

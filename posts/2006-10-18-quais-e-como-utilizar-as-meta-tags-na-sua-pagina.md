@@ -22,7 +22,7 @@ Mole, mole. Coloque-as entre as tags `<head>` e `</head>` da sua página HTML.
 
 Sempre, pelo menos é a minha opinião :D Em todas as páginas devemos colocar as metas tags, tanto páginas principais quanto páginas internas. Sua inclusão auxilia e ajuda na aparição nos buscadores web.
 
-## Hmmm... Legal Bruno, mas poderia explicar melhor?
+## Hmmm... Legal, Bruno, mas poderia explicar melhor?
 
 Claro, claro. Tentarei explicar um pouco melhor sobre as metas tags, cada uma delas, pelo menos as principais que irei explica aqui.
 

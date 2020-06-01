@@ -12,7 +12,7 @@ E ae, pessoal. Venho aqui informar que, finalmente, os blogueiros cariocas resol
 
 Então, o [Beto Largman](http://oglobo.globo.com/blogs/largman/) que organizou este encontro e eu soube disso através do [post](http://blog.fabioseixas.com.br/archives/2007/07/encontro_de_blogueiros_no_rio.html) do [Fábio Seixas](http://blog.fabioseixas.com.br/).
 
-## Legal Bruno, quando e onde que vai acontecer o encontro?
+## Legal, Bruno, quando e onde que vai acontecer o encontro?
 
 No dia 6 de agosto, segunda-feira, a partir das 19h no Armazém Digital do Shopping Rio Design/Leblon, a partir das 19h - Avenida Ataulfo de Paiva, 270 - Loja 104 - Tel: (21) 2274-5999.
 

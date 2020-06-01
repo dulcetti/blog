@@ -6,9 +6,7 @@ featuredImage: '/uploads/css.jpg'
 title: 'Cellspacing e Cellpadding com Webstandards'
 ---
 
-Falae, galera, tranquilidade?
-
-Depois de ver algumas dúvidas, pessoas querendo saber sobre esse assunto, comecei a pesquisar, a mexer aqui no css e acabei descobrindo a forma de simular com webstandards, o cellpadding e cellspacing, atributos presentes na tag `<table>` que serve para a criação de tabelas.
+Falae, galera, tranquilidade? Depois de ver algumas dúvidas, pessoas querendo saber sobre esse assunto, comecei a pesquisar, a mexer aqui no css e acabei descobrindo a forma de simular com webstandards, o cellpadding e cellspacing, atributos presentes na tag `<table>` que serve para a criação de tabelas.
 
 Veremos um exemplo disso com tabelas:
 
@@ -27,8 +25,12 @@ Veremos um exemplo disso com tabelas:
     </tr>
   </tbody>
 </table>
-Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards, eh bem
+```
+
+Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards, é bem
 fácil, com somente dois comandos no css, você consegue o mesmo resultado:
+
+```html
 <table style="border-collapse: collapse; padding: 0;">
   <tbody>
     <tr>
@@ -47,17 +49,20 @@ fácil, com somente dois comandos no css, você consegue o mesmo resultado:
 
 Este foi exemplo usando cellpadding e cellspacing iguais a 0 (zero). Na versão webstandards, é bem fácil, com somente dois comandos no css, você consegue o mesmo resultado:
 
-conteúdo
-
-conteúdo
-
-conteúdo
-
-conteúdo
-
-conteúdo
-
-conteúdo
+<table style="border-collapse: collapse; padding: 0;">
+  <tbody>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+    <tr>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+      <td>conteúdo</td>
+    </tr>
+  </tbody>
+</table>
 
 Os comandos css utilizados foram:
 
@@ -167,6 +172,23 @@ Vamos ver mais um exemplo com tabelas com bordas:
   </tbody>
 </table>
 ```
+
+<table
+  style="border-collapse: separate; border-spacing: 10px; padding: 10px; border: 1px solid #000000;"
+>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+      <td style="padding: 10px; font-size: .75rem; border: 1px solid #000000;">conteúdo</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Mas Bruno, por que que entre os tds estão menores que entre a tabela e o td?
 
