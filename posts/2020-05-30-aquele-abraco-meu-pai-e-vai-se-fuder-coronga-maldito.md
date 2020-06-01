@@ -28,7 +28,7 @@ Claro, ninguém é perfeito. Tinha seus pontos ruins, algumas coisas que eu não
 
 ## Como as coisas acontecem rápido
 
-Isso é muito tenso. Estava tranquilo numa segunda feira, dia 18 de maio , semana retrasada, quando recebo uma ligação que ele estava com a oxigenação no sanue baixa. No dia seguinte já estava no hospital. Em exatos 10 dias, mas claro, 9 dentro do hospital, tudo se perdeu.
+Isso é muito tenso. Estava tranquilo numa segunda feira, dia 18 de maio , semana retrasada, quando recebo uma ligação que ele estava com a oxigenação no sangue baixa. No dia seguinte já estava no hospital. Em exatos 10 dias, mas claro, 9 dentro do hospital, tudo se perdeu.
 
 ![Um brinde com o meu pai](uploads/desenho-brinde-bigodes-anjo.jpg)
 
