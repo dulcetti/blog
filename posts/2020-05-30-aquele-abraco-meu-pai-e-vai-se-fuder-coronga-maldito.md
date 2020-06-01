@@ -38,6 +38,6 @@ Mas enfim, foi o que tinha que acontecer. Agora ele está lá bebendo umas cerve
 
 ## Finalizando
 
-É isso, aí. Deixo aquele adeus virtual por aqui e um EU TE AMO com caps-lock. Mas claro, esse não será o último, virão lembranças boas e choros, sempre. E vamos crescendo, vivendo e aprendendo.
+É isso, aí. Deixo aquele adeus virtual por aqui e um **EU TE AMO** com caps-lock. Mas claro, esse não será o último, virão lembranças boas e choros, sempre. E vamos crescendo, vivendo e aprendendo.
 
 Bola pra frente e beijo na alcatra, "*Vômir*", como meu sobrinho o chama. S2
