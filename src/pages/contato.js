@@ -25,7 +25,7 @@ export default function ContactPage() {
 
   return (
     <Layout>
-      <SEO description={description} title={title} />
+      <SEO description={description} image={thumb.childImageSharp.fluid.src} title={title} />
       <S.PagesWrap>
         <S.PageTitle>{title}</S.PageTitle>
         <S.ThumbContact fluid={thumb.childImageSharp.fluid} />

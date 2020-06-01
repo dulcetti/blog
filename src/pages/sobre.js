@@ -53,7 +53,7 @@ export default function AboutPage() {
       <SEO
         description="Um cara curioso na área de tecnologia. Comecei na área de design gráfico e webdesign,
               mas acabei migrando, felizmente, para o desenvolvimento."
-        image="/assets/images/about/dulcetti-rindo.jpg"
+        image={secondImage.childImageSharp.fluid.src}
         title="Sobre o Bruno Dulcetti"
       />
       <SA.PageFluid>
