@@ -2,11 +2,12 @@
 title: A volta dos que não foram...
 description: O bom filho a casa torna. Em quase 11 anos sem postar por aqui,
   estou de volta...
-date: 2020-05-26T03:08:23.000Z
+date: 2020-06-01T03:14:38.000Z
 featuredImage: /uploads/homem-caminhando.jpg
 category: Shots
 ---
-É, como diria o velho ditado ou esse dizer meio estranho de "*a volta dos que não foram*". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
+
+É, como diria o velho ditado ou esse dizer meio estranho de "_a volta dos que não foram_". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
 
 ## Que tal pelo começo?
 
