@@ -13,19 +13,7 @@ export default function SearchPage() {
       <S.PagesWrap>
         <S.PageTitle>Busca</S.PageTitle>
         <S.PageText>
-          Encontre o que você procura nesse formulário. Digite o(s) termo(s) que você deseja e
-          aguarde os resultados aparecerem
-        </S.PageText>
-        <S.PageText className="text-right">
-          <S.BackLinkSearch
-            className="link-animated"
-            cover
-            direction="left"
-            bg={themes.palette.general.bgTransition}
-            duration={0.6}
-            to="/">
-            Voltar para a Listagem de Posts &raquo;
-          </S.BackLinkSearch>
+          Digite o(s) termo(s) que você deseja e aguarde os resultados aparecerem
         </S.PageText>
         <Search />
       </S.PagesWrap>

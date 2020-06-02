@@ -27,7 +27,7 @@ export const Sidebar = styled.aside`
     display: flex;
     height: 55px;
     justify-content: space-between;
-    padding: 0 15px;
+    padding-left: 15px;
     width: 100%;
   `}
 `;
@@ -74,24 +74,59 @@ export const Text = styled.p`
   `}
 `;
 
-export const ToggleOpenClose = styled.button`
-  ${media.greaterThan('large')`
-    display:none;
+export const SidebarIcons = styled.div`
+  ${media.lessThan('large')`
+    display: inline-flex;
+    height: 100%;
   `}
 
+  ${media.greaterThan('large')`
+    display: none;
+  `}
+`;
+
+export const SearchLink = styled(AniLink)`
+  ${media.lessThan('large')`
+    align-items: center;
+    border-left: 1px solid ${themes.palette.general.borders};
+    border-right: 1px solid ${themes.palette.general.borders};
+    display: inline-flex;
+    height: inherit;
+    padding: 0 15px;
+  `}
+`;
+
+export const SearchLinkWrap = styled.span`
+  ${media.lessThan('large')`
+    display: block;
+    height: 28px;
+    vertical-align: middle;
+    width: 28px;
+
+    > svg {
+      height: inherit;
+      width: inherit;
+    }
+  `}
+`;
+
+export const ToggleOpenClose = styled.button`
   ${media.lessThan('large')`
     border: 0;
-    height: 32px;
+    display: inline-block;
+    height: inherit;
+    padding: 0 15px;
     position: relative;
-    width: 32px;
+    vertical-align: middle;
+    width: 56px;
     z-index: 3;
 
     &:not(.active) {
-      background: url('/assets/images/icons/menu.svg') no-repeat;
+      background: url('/assets/images/icons/menu.svg') no-repeat center;
     }
 
     &.active {
-      background: url('/assets/images/icons/close.svg') no-repeat;
+      background: url('/assets/images/icons/close.svg') no-repeat center;
     }
   `}
 `;
