@@ -17,7 +17,7 @@ export default function BlogPost({ data, pageContext }) {
       <SEO
         title={frontmatter.title}
         description={frontmatter.description}
-        image={frontmatter.featuredImage}
+        image={frontmatter.featuredImage.childImageSharp.fluid.src}
       />
       <S.PostWrap>
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
