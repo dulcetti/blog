@@ -1,8 +1,8 @@
 ---
-title: Padroes e nomenclaturas no Git
+title: Padrões e nomenclaturas no Git
 description: Como você cria suas branches? E seus commits? Possui padrões? Veja
   como eu faço...
-date: 2020-06-03 07:13:07
+date: 2020-06-03T07:13:07.000Z
 featuredImage: /uploads/git-log.jpg
 category: Git
 ---
