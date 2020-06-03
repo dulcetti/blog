@@ -2,7 +2,7 @@
 title: Padroes e nomenclaturas no Git
 description: Como você cria suas branches? E seus commits? Possui padrões? Veja
   como eu faço...
-date: 2020-06-02 10:13:07
+date: 2020-06-03 07:13:07
 featuredImage: /uploads/git-log.jpg
 category: Git
 ---
@@ -48,6 +48,8 @@ Ele é bem similar ao bugfix/, porém, ele não é um BUG, mas sim uma correçã
 O nome já mostra para o que serve. Em si é uma melhoria para um fodasse já existente, seja de performance, de escrita, de layout, etc.
 
 ## Sagaz, Dulcetti. Só faltou falar dos commits
+
+![Desenho com monitor marca do Git](/uploads/git-monitor.jpg)
 
 Sim, sim. Em termos de padrões e nomenclaturas no Git, acho essa parte essencial. Eu gosto de analisar um PR olhando as mensagens de commit. Se elas forem bem explicativas, já consigo saber o porquê daquele PR.
 
