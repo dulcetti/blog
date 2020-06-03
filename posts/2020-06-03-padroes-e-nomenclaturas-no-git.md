@@ -2,7 +2,7 @@
 title: Padrões e nomenclaturas no Git
 description: Como você cria suas branches? E seus commits? Possui padrões? Veja
   como eu faço...
-date: 2020-06-03 07:44:18
+date: 2020-06-03T07:44:18.000Z
 featuredImage: /uploads/git-log.jpg
 category: Git
 ---
@@ -102,7 +102,7 @@ Fácil, é só colocar esse cara aqui no seu package.json:
 
 Veja o [repositório do Commitizen](https://github.com/commitizen/cz-cli).
 
-## Mas claro, ainda dá pra melhorar usando o com o Commitlint
+## Mas claro, ainda dá pra melhorar usando com o Commitlint
 
 Percebam que eu usei o `cz-conventional-changelog` na configuração. Aí precisamos instalar esses caras aqui dentro do seu projeto:
 
