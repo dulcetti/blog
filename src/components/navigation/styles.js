@@ -7,7 +7,8 @@ import { themes } from '../../styles/themes';
 export const Navigation = styled.section`
   ${media.lessThan('large')`
     background-color: ${themes.palette.sidebar.bg};
-    border-bottom: 1px solid ${themes.palette.general.boxShadows};
+    border-top: 1px solid ${themes.palette.general.boxShadows};
+    bottom: 0;
     display: flex;
     flex-direction: column;
     height: calc(100vh - 55px);
@@ -17,7 +18,6 @@ export const Navigation = styled.section`
     position: fixed;
     transform: translateX(-100%);
     transition: all 0.5s ease 0s;
-    top: 0;
     width: 100%;
     z-index: 1;
 
