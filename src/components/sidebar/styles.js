@@ -22,12 +22,12 @@ export const Sidebar = styled.aside`
 
   ${media.lessThan('large')`
     align-items: center;
-    bottom: 0;
-    box-shadow: 0px 3px 6px 2px ${themes.palette.general.boxShadows};
+    box-shadow: 0px 1px 1px 1px ${themes.palette.general.boxShadows};
     display: flex;
     height: 55px;
     justify-content: space-between;
     padding-left: 15px;
+    top: 0;
     width: 100%;
   `}
 `;

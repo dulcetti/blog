@@ -11,7 +11,7 @@ export const PagesWrap = styled.div`
   max-width: ${themes.grid.maxWidth};
 
   ${media.lessThan('large')`
-    padding: 5px 20px;
+    padding: 1rem 1.3rem;
   `}
 
   img {
