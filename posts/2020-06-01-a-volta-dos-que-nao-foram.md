@@ -6,8 +6,7 @@ date: 2020-06-01T03:14:38.000Z
 featuredImage: /uploads/homem-caminhando.jpg
 category: Shots
 ---
-
-É, como diria o velho ditado ou esse dizer meio estranho de "_a volta dos que não foram_". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
+É, como diria o velho ditado ou esse dizer meio estranho de "*a volta dos que não foram*". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
 
 ## Que tal pelo começo?
 
@@ -27,7 +26,7 @@ Estou aprendendo trompete e comprei um ukulele. Fora que voltei a cozinhar. Tem 
 
 ## E por que você voltou?
 
-Eu sentia falta dessa parada de escrever aqui, de falar sobre desenvolvimento. Em si o [Papo de Bar](https://www.papodebar.com/) ainda me faz escrever um bocado, mas aquela coisa de postar sobre tecnologia virou raridade na minha vida. Só mexo com tecnologia no meu trabalho e estava querendo voltar a fazer isso. E quem sabe até voltar a dar palestrar, cursos e afins...
+Eu sentia falta dessa parada de escrever aqui, de falar sobre desenvolvimento. Em si o [Papo de Bar](https://www.papodebar.com/) ainda me faz escrever em alguns momentos, mas aquela coisa de postar sobre tecnologia virou raridade na minha vida. Só mexo com tecnologia no meu trabalho e estava querendo voltar a fazer isso. E quem sabe até voltar a dar palestrar, cursos e afins...
 
 ### Muitas coisas mudaram...
 
@@ -37,7 +36,7 @@ Com isso, resolvi voltar a postar por aqui, mas não tanto como no estilo de ant
 
 ## It's evolution, baby...
 
-Bom, pretendo falar um bocado sobre JavaScript, continuar com o CSS, claro, um pouco de Agile, DevOps e DevSecOps, áreas que tenho atuado bastante. Fora UX, UI, AI, dentre outros diversos assuntos. Em breve o blog/site vai evoluindo cada vez mais.
+Bom, pretendo falar bastante sobre JavaScript, continuar com o CSS, claro, mas também de Agile, DevOps e DevSecOps, áreas que tenho atuado bastante. Fora UX, UI, AI, dentre outros diversos assuntos. Em breve o blog/site vai evoluindo cada vez mais.
 
 ## Falando em blog, diz ae como ele foi feito
 
@@ -45,7 +44,7 @@ Bom, pretendo falar um bocado sobre JavaScript, continuar com o CSS, claro, um p
 
 Photo by [Dino Reichmuth](https://unsplash.com/@dinoreichmuth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Foi feito com uma ferramenta que tenho gostado bastante de mexer, o [Gatsby](https://www.gatsbyjs.org/), mas não o Leonardo DiCaprio, a ferramenta JS mesmo. Falarei um bocado sobre ela por aqui no blog, fora também outras coisas, como Docker, NextJS, ES6, Testes, dentre outras coisas.
+Foi feito com uma ferramenta que tenho gostado bastante de mexer, o [Gatsby](https://www.gatsbyjs.org/), mas não o Leonardo DiCaprio, a ferramenta JS mesmo. Falarei sobre ela por aqui no blog, fora também outras coisas, como Docker, NextJS, ES6, Testes, dentre outras coisas.
 
 Em si o layout eu fui montando de forma aleatória, mas gostei bastante do componente de listagem de posts e do efeito de hover, mas que só ocorre na versão desktop. Em breve farei uma versão para devices mobile, já que hoje é a grande maioria nos acessos.
 
@@ -65,11 +64,11 @@ WordPress é uma excelente ferramenta, mas para um blog pessoal, e principalment
 
 Bom, não vou me extender muito nesse post não. Até pensei em falar várias paradas por aqui, mas vou deixar pra colocar nos posts futuros, vou dando pinceladas em assuntos aleatórios e afins.
 
-Falarei um bocado na minha experiência na Wooza, empresa atual onde trabalho já há 4 anos e evolui bastante tecnicamente.
+Falarei bastante da minha experiência na Wooza, empresa atual onde trabalho já há 4 anos e evolui bastante tecnicamente.
 
 Bom, é muito estranho voltar com esse blog, onde eu focava em desenvolvimento para IE's, sendo que hoje quase ninguém mais usa, felizmente. Vejo dicas de CSS que conseguimos fazer de formas muito mais simples. Antes eu sofria com floats, hoje temos Flexbox e CSS Grid.
 
-Mexia direto com PHP, hoje em dia o máximmo que chego perto é no WordPress, mas mesmo assim muito pouco, já que esse Blog começou com o WordPress 1.5, mas agora uso o Gatsby com o Netlify CMS. No futuro falo um pouco sobre essas paradas.
+Mexia direto com PHP, hoje em dia o máximmo que chego perto é no WordPress, mas mesmo assim muito pouco, já que esse Blog começou com o WordPress 1.5, mas agora uso o Gatsby com o Netlify CMS. No futuro eu vou comentar sobre essas paradas.
 
 Beijo na alcatra e vamo que vamo.
 
