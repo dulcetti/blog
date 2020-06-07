@@ -26,7 +26,7 @@ Estou aprendendo trompete e comprei um ukulele. Fora que voltei a cozinhar. Tem 
 
 ## E por que você voltou?
 
-Eu sentia falta dessa parada de escrever aqui, de falar sobre desenvolvimento. Em si o [Papo de Bar](https://www.papodebar.com/) ainda me faz escrever em alguns momentos, mas aquela coisa de postar sobre tecnologia virou raridade na minha vida. Só mexo com tecnologia no meu trabalho e estava querendo voltar a fazer isso. E quem sabe até voltar a dar palestrar, cursos e afins...
+Eu sentia falta dessa parada de escrever aqui, de falar sobre desenvolvimento. Em si o [Papo de Bar](https://www.papodebar.com/) ainda me faz escrever em alguns momentos, mas aquela coisa de postar sobre tecnologia virou raridade na minha vida. Só mexo com tecnologia no meu trabalho e estava querendo voltar a fazer isso. E quem sabe até voltar a dar palestras, cursos e afins...
 
 ### Muitas coisas mudaram...
 
@@ -68,7 +68,7 @@ Falarei bastante da minha experiência na Wooza, empresa atual onde trabalho já
 
 Bom, é muito estranho voltar com esse blog, onde eu focava em desenvolvimento para IE's, sendo que hoje quase ninguém mais usa, felizmente. Vejo dicas de CSS que conseguimos fazer de formas muito mais simples. Antes eu sofria com floats, hoje temos Flexbox e CSS Grid.
 
-Mexia direto com PHP, hoje em dia o máximmo que chego perto é no WordPress, mas mesmo assim muito pouco, já que esse Blog começou com o WordPress 1.5, mas agora uso o Gatsby com o Netlify CMS. No futuro eu vou comentar sobre essas paradas.
+Mexia direto com PHP, hoje em dia o máximo que chego perto é no WordPress, mas mesmo assim muito pouco, já que esse Blog começou com o WordPress 1.5, mas agora uso o Gatsby com o Netlify CMS. No futuro eu vou comentar sobre essas paradas.
 
 Beijo na alcatra e vamo que vamo.
 
