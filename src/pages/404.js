@@ -18,7 +18,7 @@ export default function NotFoundPage() {
 
       <S4.Wrap404>
         <S4.Content404>
-          <S.PageTitle>Vish, deu merda!</S.PageTitle>
+          <S.PageTitle>Vish, deu merda! Página não encontrada...</S.PageTitle>
           <S.PageText>
             Mas relaxa, pega um copo e brinda comigo, ou então faça uma busca por algo{' '}
             <AniLink
@@ -46,7 +46,6 @@ export default function NotFoundPage() {
             e veja os últimos artigos.
           </S.PageText>
         </S4.Content404>
-        <S4.Thumb404>Images do brinde</S4.Thumb404>
       </S4.Wrap404>
     </Layout>
   );
