@@ -113,11 +113,13 @@ const pluginConfig = [
                   edges {
                     node {
                       excerpt
-                      html
-                      fields { slug }
+                      fields {
+                        slug
+                      }
                       frontmatter {
-                        title
                         date
+                        description
+                        title
                       }
                     }
                   }
