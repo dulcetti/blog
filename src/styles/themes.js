@@ -73,7 +73,7 @@ export const themes = {
       text: _colors.brownDark,
     },
     posts: {
-      bgCredits: _colors.grayLight,
+      bgCredits: _colors.white,
       blockquoteBg: _colors.white,
       blockquoteBorder: _colors.green,
       borderInfos: _colors.grayLight,
