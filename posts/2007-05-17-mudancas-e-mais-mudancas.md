@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Shots'
 date: '2007-05-17'
 description: ''

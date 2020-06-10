@@ -1,4 +1,5 @@
 ---
+photographer: '<a href="https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bishop</a>'
 title: A volta dos que não foram...
 description: O bom filho a casa torna. Em quase 11 anos sem postar por aqui,
   estou de volta...
@@ -6,7 +7,8 @@ date: 2020-06-01T03:14:38.000Z
 featuredImage: /uploads/homem-caminhando.jpg
 category: Shots
 ---
-É, como diria o velho ditado ou esse dizer meio estranho de "*a volta dos que não foram*". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
+
+É, como diria o velho ditado ou esse dizer meio estranho de "_a volta dos que não foram_". Mas em si tem um pouco a ver com esse meu retorno. Tantos anos sem escrever aqui nesse Blog que nem sei como começar... Sim, vai ter textão :P
 
 ## Que tal pelo começo?
 
@@ -71,5 +73,3 @@ Bom, é muito estranho voltar com esse blog, onde eu focava em desenvolvimento p
 Mexia direto com PHP, hoje em dia o máximo que chego perto é no WordPress, mas mesmo assim muito pouco, já que esse Blog começou com o WordPress 1.5, mas agora uso o Gatsby com o Netlify CMS. No futuro eu vou comentar sobre essas paradas.
 
 Beijo na alcatra e vamo que vamo.
-
-Foto de capa by [Jeremy Bishop](https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

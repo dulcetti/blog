@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Webstandards'
 date: '2006-02-23'
 description: ''

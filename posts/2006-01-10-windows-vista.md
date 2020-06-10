@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'UX, UI e AI'
 date: '2006-01-10'
 description: ''

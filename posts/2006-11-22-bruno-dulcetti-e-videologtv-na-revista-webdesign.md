@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Publicações'
 date: '2006-11-22'
 description: ''

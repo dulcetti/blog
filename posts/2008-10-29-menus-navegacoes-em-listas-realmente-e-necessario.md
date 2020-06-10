@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'CSS'
 date: '2008-10-29'
 description: ''
