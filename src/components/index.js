@@ -1,4 +1,33 @@
+import Comments from './comments';
+import CreditsImage from './credits-image';
+import Icons from './icons';
+import Layout from './layout';
+import MySkillCharts from './charts';
+import Navigation from './navigation';
+import Pagination from './pagination';
+import PostItem from './post-item';
+import PostsList from './posts-list';
+import PreviousNext from './previous-next';
+import Search from './search';
+import SEO from './seo';
 import Sidebar from './sidebar';
+import SocialMedias from './social-medias';
 import Svgs from './svgs';
 
-export { Sidebar, Svgs };
+export {
+  Comments,
+  CreditsImage,
+  Icons,
+  Layout,
+  MySkillCharts,
+  Navigation,
+  Pagination,
+  PostItem,
+  PostsList,
+  PreviousNext,
+  Search,
+  SEO,
+  Sidebar,
+  SocialMedias,
+  Svgs,
+};
