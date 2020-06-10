@@ -73,13 +73,14 @@ export const themes = {
       text: _colors.brownDark,
     },
     posts: {
-      bgCredits: _colors.grayLight,
+      bgCredits: _colors.white,
       blockquoteBg: _colors.white,
       blockquoteBorder: _colors.green,
       borderInfos: _colors.grayLight,
       description: _colors.gray,
       links: _colors.orange,
       linksBorder: _colors.green,
+      shadowCredits: _colors.grayMedium,
     },
     postList: {
       categories: {
