@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import Img from 'gatsby-image';
 
 import { themes } from '../../styles/themes';
 
@@ -18,14 +17,6 @@ export const PostTitle = styled.h1`
   line-height: min(66px, 11vw);
   margin-bottom: 1rem;
 `;
-
-export const PostThumbWrap = styled.div`
-  > .gatsby-image-wrapper {
-    max-height: 450px;
-  }
-`;
-
-export const PostThumb = styled(Img)``;
 
 export const PostDescription = styled.h2`
   color: ${themes.palette.posts.description};
