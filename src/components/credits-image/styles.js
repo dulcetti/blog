@@ -58,6 +58,10 @@ export const Photographer = styled.span`
 
   > a {
     color: ${themes.palette.posts.links};
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 `;
 

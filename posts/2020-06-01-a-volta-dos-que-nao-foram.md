@@ -1,5 +1,5 @@
 ---
-photographer: '<a href="https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bishop</a>'
+photographer: '<a href="https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Jeremy Bishop</a>'
 title: A volta dos que não foram...
 description: O bom filho a casa torna. Em quase 11 anos sem postar por aqui,
   estou de volta...
