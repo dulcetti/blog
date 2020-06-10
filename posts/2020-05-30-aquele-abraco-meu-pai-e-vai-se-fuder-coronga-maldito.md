@@ -32,7 +32,7 @@ Claro, ninguém é perfeito. Tinha seus pontos ruins, algumas coisas que eu não
 
 Isso é muito tenso. Estava tranquilo numa segunda feira, dia 18 de maio , semana retrasada, quando recebo uma ligação que ele estava com a oxigenação no sangue baixa. No dia seguinte já estava no hospital. Em exatos 10 dias, mas claro, 9 dentro do hospital, tudo se perdeu.
 
-![Um brinde com o meu pai](uploads/desenho-brinde-bigodes-anjo.jpg)
+![Um brinde com o meu pai](/uploads/desenho-brinde-bigodes-anjo.jpg)
 
 Foi o fim da vida desse cara fodástico, inpirador, herói, a porra toda. Num intervalo de tempo que não dá nem pra imaginar, as coisas são muito rápidas mesmo. Mas foi o certo pra ele. Tenho em mente que quando falam "_Calma, vai dar tudo certo!_", eu já tenho certeza disso, mas infelizmente o certo nem sempre é que a gente imagina, o que a gente quer.
 
