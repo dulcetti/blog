@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Tecnologia'
 date: '2006-11-24'
 description: ''

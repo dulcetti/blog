@@ -4,6 +4,7 @@ import Layout from '../../components/layout';
 import Comments from '../../components/comments';
 import SEO from '../../components/seo';
 import PreviousNext from '../../components/previous-next';
+import CreditsImage from '../../components/credits-image';
 
 import * as S from './styles';
 
@@ -24,9 +25,10 @@ export default function BlogPost({ data, pageContext }) {
         {frontmatter.description && (
           <S.PostDescription>{frontmatter.description}</S.PostDescription>
         )}
-        <S.PostThumbWrap>
-          <S.PostThumb fluid={frontmatter.featuredImage.childImageSharp.fluid} />
-        </S.PostThumbWrap>
+        <CreditsImage
+          image={frontmatter.featuredImage.childImageSharp.fluid}
+          photographer={frontmatter.photographer}
+        />
         <S.PostInfos color={frontmatter.category}>
           <S.CategoryPost>{frontmatter.category}</S.CategoryPost>
           <S.TimeToRead>
@@ -59,6 +61,7 @@ export const postQuery = graphql`
             }
           }
         }
+        photographer
         title
       }
       timeToRead

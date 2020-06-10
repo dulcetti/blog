@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Eventos'
 date: '2008-09-22'
 description: ''

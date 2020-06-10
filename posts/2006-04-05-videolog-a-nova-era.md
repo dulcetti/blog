@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Portfólio'
 date: '2006-04-05'
 description: ''

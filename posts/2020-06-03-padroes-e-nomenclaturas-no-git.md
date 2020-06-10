@@ -1,4 +1,5 @@
 ---
+photographer: ''
 title: Padrões e nomenclaturas no Git
 description: Como você cria suas branches? E seus commits? Possui padrões? Veja
   como eu faço...
@@ -6,6 +7,7 @@ date: 2020-06-03T07:44:18.000Z
 featuredImage: /uploads/git-log.jpg
 category: Git
 ---
+
 E ae, meus nobres "codeiros" adoradores de uma cerveja e/ou café, como estamos? Falarei aqui sobre algumas práticas de padrões e nomenclaturas no Git. Sim, será meu primeiro artigo sobre Git, ferramenta que gosto pra meireles.
 
 ## Padrão pra quê? Faz de qualquer jeito e que se foda...
@@ -18,20 +20,20 @@ Em termos de **padrões e nomenclaturas no Git**, acho esse ponto importante, ma
 
 ### Os prefixos
 
-![Desenho ilustrando branches no Git](/uploads/branching.png "Desenho ilustrando branches no Git")
+![Desenho ilustrando branches no Git](/uploads/branching.png 'Desenho ilustrando branches no Git')
 
 Sim, eu uso prefixos pré-definidos para criar uma branch. Segue abaixo a lista:
 
-* bugfix/
-* feature/
-* hotfix/
-* improvement/
+- bugfix/
+- feature/
+- hotfix/
+- improvement/
 
 Em si já dá pra saber um pouco sobre cada prefixo, mas vamos com uma breve explicação sobre eles...
 
 #### bugfix/
 
-Como o próprio nome já diz, é um BUG e precisa ser corrigido de forma imediata, o quanto antes. Num outro artigo eu explico melhor a utilização desse cara e *branches principais*.
+Como o próprio nome já diz, é um BUG e precisa ser corrigido de forma imediata, o quanto antes. Num outro artigo eu explico melhor a utilização desse cara e _branches principais_.
 
 #### feature/
 
@@ -79,14 +81,14 @@ Feito isso ele abrirá o painel com seus prefixos para você escolher. Vamos a e
 
 Como deu pra ver, temos uma lista com os tipos de commit:
 
-* **feat:** que serve para novas features que você adicionar
-* **fix:** o nome já diz, serve para você corrigir algum fodasse lá
-* **docs:** mais um fácil, para algo relacionado a documentações, README e afins
-* **style:** mexeu no estilo, CSS? Manda brasa então nesse cara
-* **refactor:** precisou alterar, melhorar algum fodasse? É esse caboclo aqui
-* **perf:** quando você mexer em algo relacionado a performance, fique à vontade em usar esse aqui
-* **test:** para testes, ok?
-* **chore:** geralmente o mais emblemático. Serve para coisas relacionados a build, configs e afins. Por exemplo, mexeu em algo no package.json? Use esse cara, seja atualizando a versão do pacote ou instalando novas dependências
+- **feat:** que serve para novas features que você adicionar
+- **fix:** o nome já diz, serve para você corrigir algum fodasse lá
+- **docs:** mais um fácil, para algo relacionado a documentações, README e afins
+- **style:** mexeu no estilo, CSS? Manda brasa então nesse cara
+- **refactor:** precisou alterar, melhorar algum fodasse? É esse caboclo aqui
+- **perf:** quando você mexer em algo relacionado a performance, fique à vontade em usar esse aqui
+- **test:** para testes, ok?
+- **chore:** geralmente o mais emblemático. Serve para coisas relacionados a build, configs e afins. Por exemplo, mexeu em algo no package.json? Use esse cara, seja atualizando a versão do pacote ou instalando novas dependências
 
 ### E como usa esse commitizen ae no meu projeto?
 
@@ -126,17 +128,17 @@ Exatamente o que você pensou. Ele é um lint de mensagens de commit. Ele é uma
 
 Eles também possuem uma lista de padrões de prefixos, segue abaixo:
 
-* **build:** mais específicos para tarefas de build
-* **ci:** para algo que você mexa na Integração Contínua dele
-* **chore:** já expliquei esse lá em cima
-* **docs:** esse também
-* **feat:** esse também, caralha
-* **fix:** droga, outro que já expliquei
-* **perf:** VOU TER QUE REPETIR QUANTAS VEZES QUE JÁ EXPLIQUEI?
-* **refactor:** blá, blá, blá...
-* **revert:** Finalmente algum para eu explicar. O nome já diz o que é, certo? Caso você precise fazer um revert, manda ver nesse prefixo
-* **style:** PENSEI QUE TIVESSE ACABADO
-* **test:** pqp, chega...
+- **build:** mais específicos para tarefas de build
+- **ci:** para algo que você mexa na Integração Contínua dele
+- **chore:** já expliquei esse lá em cima
+- **docs:** esse também
+- **feat:** esse também, caralha
+- **fix:** droga, outro que já expliquei
+- **perf:** VOU TER QUE REPETIR QUANTAS VEZES QUE JÁ EXPLIQUEI?
+- **refactor:** blá, blá, blá...
+- **revert:** Finalmente algum para eu explicar. O nome já diz o que é, certo? Caso você precise fazer um revert, manda ver nesse prefixo
+- **style:** PENSEI QUE TIVESSE ACABADO
+- **test:** pqp, chega...
 
 ### Mas Dulcetti, preciso de outros prefixos, como faço?
 
@@ -149,11 +151,7 @@ module.exports = {
     'footer-leading-blank': [1, 'always'],
     'header-max-length': [2, 'always', 72],
     'scope-case': [2, 'always', 'lower-case'],
-    'subject-case': [
-      2,
-      'never',
-      ['sentence-case', 'start-case', 'pascal-case', 'upper-case']
-    ],
+    'subject-case': [2, 'never', ['sentence-case', 'start-case', 'pascal-case', 'upper-case']],
     'subject-empty': [2, 'never'],
     'subject-full-stop': [2, 'never', '.'],
     'type-case': [2, 'always', 'lower-case'],
@@ -172,10 +170,10 @@ module.exports = {
         'refactor',
         'revert',
         'style',
-        'test'
-      ]
-    ]
-  }
+        'test',
+      ],
+    ],
+  },
 };
 ```
 

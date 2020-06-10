@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Eventos'
 date: '2007-11-17'
 description: ''

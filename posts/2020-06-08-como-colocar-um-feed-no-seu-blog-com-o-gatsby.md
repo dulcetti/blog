@@ -1,4 +1,5 @@
 ---
+photographer: ''
 title: Como colocar um feed no seu Blog com o Gatsby
 description: O Gatsby é uma ótima ferramenta que gera sites estáticos, como
   blogs. Veja como colocar um feed no seu Blog com o Gatsby
@@ -6,6 +7,7 @@ date: 2020-06-08T04:47:19.000Z
 featuredImage: /uploads/dicaprio-gatsby-feed.jpg
 category: JavaScript
 ---
+
 Olar, vem sempre aqui? Eu nem tanto, mas vou começar a vir mais. E agora falarei de algo importante para qualquer caboclo que quer criar um Blog, que é como colocar um feed no seu blog com o Gatsby.
 
 ## Feed? Você ainda usa isso?
@@ -77,15 +79,15 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
+              return allMarkdownRemark.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
-                })
-              })
+                  custom_elements: [{ 'content:encoded': edge.node.html }],
+                });
+              });
             },
             query: `
               {
@@ -128,21 +130,21 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "O nome do seu Blog vem aqui",
+            output: '/rss.xml',
+            title: 'O nome do seu Blog vem aqui',
             // Configurações opcionais
             // Esse cara serve para você colocar onde você quer que o feed se alimente. Por exemplo, você tem um site pessoal e tem um blog dentro dele com a url www.meusiteboladao.com/blog/
             // Aí você vai colocar o ^/blog/ nessa chave
-            match: "^/url-que-voce-quiser/",
+            match: '^/url-que-voce-quiser/',
             // Mais um opcional que eu acho útil caso você use o Feedburner, como eu.
             // É algo do tempo do ronca, eu sei, mas vai que tem gente que ainda o utiliza, então vale deixar já configurado
-            link: "https://feeds.feedburner.com/SUA-URL-DE-PREFIXO-NO-FEEDBURNER",
+            link: 'https://feeds.feedburner.com/SUA-URL-DE-PREFIXO-NO-FEEDBURNER',
           },
         ],
       },
     },
   ],
-}
+};
 ```
 
 ### Não entendi muita coisa desse fodasse aí não

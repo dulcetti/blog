@@ -1,4 +1,5 @@
 ---
+photographer: ''
 category: 'Publicações'
 date: '2008-04-15'
 description: ''
