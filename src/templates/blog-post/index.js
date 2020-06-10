@@ -25,7 +25,10 @@ export default function BlogPost({ data, pageContext }) {
         {frontmatter.description && (
           <S.PostDescription>{frontmatter.description}</S.PostDescription>
         )}
-        <CreditsImage fluid={frontmatter.featuredImage.childImageSharp.fluid} />
+        <CreditsImage
+          image={frontmatter.featuredImage.childImageSharp.fluid}
+          photographer={frontmatter.photographer}
+        />
         <S.PostInfos color={frontmatter.category}>
           <S.CategoryPost>{frontmatter.category}</S.CategoryPost>
           <S.TimeToRead>
@@ -58,6 +61,7 @@ export const postQuery = graphql`
             }
           }
         }
+        photographer
         title
       }
       timeToRead

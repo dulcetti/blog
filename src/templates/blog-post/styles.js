@@ -22,6 +22,7 @@ export const PostDescription = styled.h2`
   color: ${themes.palette.posts.description};
   font-style: italic;
   font-weight: normal;
+  line-height: 1.25;
   margin-bottom: 10px;
 
   ${media.lessThan('large')`
