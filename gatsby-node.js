@@ -36,6 +36,7 @@ exports.createPages = ({ graphql, actions }) => {
             frontmatter {
               category
               date(locale: "pt-br", formatString: "DD[/]MM[/]YYYY")
+              photographer
               title
             }
             timeToRead
