@@ -32,7 +32,7 @@ export const BoxCredits = styled.div`
   `}
 
   &:after {
-    border-color: #ccc transparent transparent transparent;
+    border-color: ${themes.palette.posts.shadowCredits} transparent transparent transparent;
     border-style: solid;
     border-width: 5px 5px 0 0;
     bottom: -5px;
@@ -66,8 +66,8 @@ export const IconPhotographer = styled(Icons)`
   vertical-align: middle;
 
   ${media.lessThan('large')`
-    height: 22px;
-    width: 28px;
+    height: 20px;
+    width: 26px;
   `}
 
   ${media.greaterThan('large')`

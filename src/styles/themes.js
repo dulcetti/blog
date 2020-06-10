@@ -80,6 +80,7 @@ export const themes = {
       description: _colors.gray,
       links: _colors.orange,
       linksBorder: _colors.green,
+      shadowCredits: _colors.grayMedium,
     },
     postList: {
       categories: {
