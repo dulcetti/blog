@@ -9,6 +9,20 @@ export default function HTML(props) {
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link rel="icon" href="/assets/favicon.ico" />
+        <meta
+          httpEquiv="Content-Security-Policy"
+          content="
+            base-uri 'self';
+            connect-src 'self' data: gap: ws:* ssl.gstatic.com 'unsafe-inline' links.services.disqus.com;
+            font-src 'self' data:;
+            frame-src 'self' https://disqus.com/;
+            img-src 'self' data: *.google-analytics.com *.viglink.com links.services.disqus.com ce.lijit.com;
+            manifest-src 'self';
+            media-src 'self';
+            object-src 'none';
+            script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.disqus.com *.disquscdn.com;
+            style-src 'self' 'unsafe-inline' blob: *.disquscdn.com"
+        />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
