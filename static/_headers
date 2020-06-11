@@ -1,69 +1,8 @@
-'use strict';
-
-exports.handler = (event, context, callback) => {
-  // Get contents of response
-  const response = event.Records[0].cf.response;
-  const headers = response.headers;
-
-  // Set new headers
-  headers['strict-transport-security'] = [
-    {
-      key: 'Strict-Transport-Security',
-      value: 'max-age=63072000; includeSubdomains; preload',
-    },
-  ];
-
-  headers['content-security-policy'] = [
-    {
-      key: 'Content-Security-Policy',
-      value: `default-src 'none';
-        base-uri 'self';
-        connect-src 'self' data: gap: ws:* ssl.gstatic.com 'unsafe-inline' links.services.disqus.com;
-        font-src 'self' data: *.cloudfront.net;
-        form-action 'self';
-        frame-src 'self' *.disqus.com;
-        img-src 'self' data: *.google-analytics.com *.viglink.com links.services.disqus.com ce.lijit.com *.cloudfront.net;
-        manifest-src 'self';
-        media-src 'self';
-        object-src 'none';
-        prefetch-src *.whmg.com.br *.celulardireto.com.br *.wooza.com.br *.cd.com *.vivofibraplanos.com.br *.vivofibraotica.com;
-        script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net;
-        style-src 'self' 'unsafe-inline' blob: *.disquscdn.com"
-      `,
-    },
-  ];
-
-  headers['x-content-type-options'] = [
-    {
-      key: 'X-Content-Type-Options',
-      value: 'nosniff',
-    },
-  ];
-  headers['x-frame-options'] = [
-    {
-      key: 'X-Frame-Options',
-      value: 'DENY',
-    },
-  ];
-  headers['x-xss-protection'] = [
-    {
-      key: 'X-XSS-Protection',
-      value: '1; mode=block',
-    },
-  ];
-  headers['referrer-policy'] = [
-    {
-      key: 'Referrer-Policy',
-      value: 'same-origin',
-    },
-  ];
-  headers['set-cookie'] = [
-    {
-      key: 'Set-Cookie',
-      value: 'HttpOnly; Secure; SameSite=Strict',
-    },
-  ];
-
-  //Return modified response
-  callback(null, response);
-};
+/*
+  Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+  Content-Security-Policy: default-src 'none'; base-uri 'self'; connect-src 'self' data: gap: ws:* ssl.gstatic.com 'unsafe-inline' links.services.disqus.com; font-src 'self' data: *.cloudfront.net; form-action 'self'; frame-src 'self' *.disqus.com; img-src 'self' data: *.google-analytics.com *.viglink.com links.services.disqus.com ce.lijit.com *.cloudfront.net; manifest-src 'self'; media-src 'self'; object-src 'none'; prefetch-src *.whmg.com.br *.celulardireto.com.br *.wooza.com.br *.cd.com *.vivofibraplanos.com.br *.vivofibraotica.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com";
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: same-origin
+  Set-Cookie: HttpOnly; Secure; SameSite=Strict
