@@ -2,10 +2,11 @@ import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
+import SocialMedias from '../social-medias';
+
 import * as S from './styles';
 import { themes } from '../../styles/themes';
 import { links } from './links';
-import SocialMedias from '../social-medias';
 
 export default function Navigation({ isOpen }) {
   const { avatar } = useStaticQuery(

@@ -15,14 +15,21 @@ export const PostWrap = styled.div`
 export const PostTitle = styled.h1`
   font-size: min(60px, 10vw);
   line-height: min(66px, 11vw);
-  margin-bottom: 1rem;
+
+  ${media.lessThan('large')`
+    margin-bottom: .5rem;
+  `}
+
+  ${media.greaterThan('large')`
+    margin-bottom: 1rem;
+  `}
 `;
 
 export const PostDescription = styled.h2`
   color: ${themes.palette.posts.description};
   font-style: italic;
   font-weight: normal;
-  line-height: 1.25;
+  line-height: 1.2;
   margin-bottom: 10px;
 
   ${media.lessThan('large')`

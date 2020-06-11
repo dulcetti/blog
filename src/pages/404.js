@@ -1,12 +1,11 @@
 import React from 'react';
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
+
+import { Layout, SEO } from '../components';
 
 import * as S from '../styles/pages/general';
 import * as S4 from '../styles/pages/404';
 import { themes } from '../styles/themes';
-
-import Layout from '../components/layout';
-import SEO from '../components/seo';
-import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 export default function NotFoundPage() {
   return (

@@ -2,10 +2,10 @@ import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
+import { Layout, SEO } from '../components';
+
 import { themes } from '../styles/themes';
 import * as S from '../styles/pages/general';
-import Layout from '../components/layout';
-import SEO from '../components/seo';
 
 export default function ContactPage() {
   const title = 'Contato - Críticas, sugestões, elogios? Perfeito!';

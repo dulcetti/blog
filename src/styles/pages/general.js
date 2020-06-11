@@ -3,8 +3,8 @@ import media from 'styled-media-query';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import Img from 'gatsby-image';
 
+import { SocialMedias } from '../../components';
 import { themes } from '../themes';
-import SocialMedias from '../../components/social-medias';
 
 export const PagesWrap = styled.div`
   margin: auto;
