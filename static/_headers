@@ -1,0 +1,8 @@
+/*
+  Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+  Content-Security-Policy: default-src 'none'; base-uri 'self'; frame-ancestors 'self'; connect-src 'self' data: gap: ws:* ssl.gstatic.com 'unsafe-inline' links.services.disqus.com; font-src 'self' data: *.cloudfront.net; form-action 'self'; frame-src 'self' *.disqus.com; img-src 'self' data: *.google-analytics.com *.viglink.com links.services.disqus.com ce.lijit.com *.cloudfront.net; manifest-src 'self'; media-src 'self'; object-src 'none'; prefetch-src 'self' *.netlify.app; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: same-origin
+  Set-Cookie: HttpOnly; Secure; SameSite=Strict
