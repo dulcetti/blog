@@ -1,9 +1,8 @@
 import React from 'react';
 
+import { Layout, SEO, Search } from '../components';
+
 import * as S from '../styles/pages/general';
-import Layout from '../components/layout';
-import SEO from '../components/seo';
-import Search from '../components/search';
 
 export default function SearchPage() {
   return (

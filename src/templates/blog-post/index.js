@@ -1,10 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Layout from '../../components/layout';
-import Comments from '../../components/comments';
-import SEO from '../../components/seo';
-import PreviousNext from '../../components/previous-next';
-import CreditsImage from '../../components/credits-image';
+
+import { Layout, Comments, SEO, PreviousNext, CreditsImage } from '../../components';
 
 import * as S from './styles';
 

@@ -2,10 +2,7 @@ import React, { useState } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
-import Layout from '../components/layout';
-import SEO from '../components/seo';
-import Icons from '../components/icons';
-import MySkillCharts from '../components/charts';
+import { Layout, SEO, Icons, MySkillCharts } from '../components';
 import { getAge, isMobile } from '../utils';
 
 import { themes } from '../styles/themes';
