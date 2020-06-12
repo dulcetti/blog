@@ -137,19 +137,19 @@ A tag tem a seguinte estrutura:
 
 É uma meta-tag simples, mas só porque está sem o conteúdo ainda. Abaixo vou listar todas as policies que você pode setar:
 
-* base-uri
+* base-uri: aqui você limita o valor que pode ter na tag HTML <base>
 * connect-src
-* default-src
-* font-src
-* form-action
+* default-src: é o cara default. Quando você o declara, qualquer outra policy receberá o valor atribuído aqui como default
+* font-src: define de onde virão as fontes
+* form-action: define as actions dos seus formulários
 * frame-ancestors
-* frame-src
-* img-src
-* manifest-src
-* media-src
-* object-src
-* prefetch-src
-* script-src
-* style-src
+* frame-src: 
+* img-src: configura todas as imagens do seu site
+* manifest-src: define o arquivo manifest do seu site
+* media-src: define as medias embedadas do seu site
+* object-src: raramente você usará esse cara, é para os antigos arquivos de flash
+* prefetch-src: é aquela tag <link> que faz os prefetchs de arquivos, você define aqui de onde eles podem vir
+* script-src: configura os javascripts que serão acessados pela sua página
+* style-src: define os estilos da sua página
 
 <https://observatory.mozilla.org/analyze/brunodulcetti.com>
