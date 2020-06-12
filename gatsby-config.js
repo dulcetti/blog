@@ -75,13 +75,13 @@ const pluginConfig = [
       include_favicon: false,
     },
   },
-  {
-    resolve: 'gatsby-plugin-sri',
-    options: {
-      hash: 'sha512',
-      crossorigin: true,
-    },
-  },
+  // {
+  //   resolve: 'gatsby-plugin-sri',
+  //   options: {
+  //     hash: 'sha512',
+  //     crossorigin: true,
+  //   },
+  // },
   `gatsby-plugin-offline`,
   `gatsby-plugin-netlify-cms`,
   {
