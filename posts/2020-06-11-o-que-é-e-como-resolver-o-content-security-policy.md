@@ -1,5 +1,5 @@
 ---
-title: O que é e como resolver o Content Security Policy?
+title: O que e e como resolver o Content Security Policy?
 description: Você conhece a sigla CSP? Veja o que você precisa fazer para deixar
   sua nota melhor nessas reras de segurança
 date: 2020-06-10T10:37:18.000Z
