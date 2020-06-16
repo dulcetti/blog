@@ -11,6 +11,8 @@
 /on/o_que_faz.php /sobre/
 /on/curriculum.php /sobre/
 
+/rss.xml /feed/
+
 # All Posts
 /blog/2005/10/17/primeiro-passo.html /primeiro-passo/
 /blog/2005/10/18/site-nortlet.html /site-nortlet/
