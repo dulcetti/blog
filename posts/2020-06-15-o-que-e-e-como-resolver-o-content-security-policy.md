@@ -1,7 +1,7 @@
 ---
 title: O que e e como resolver o Content Security Policy?
 description: Você conhece a sigla CSP? Veja o que você precisa fazer para deixar
-  sua nota melhor nessas reras de segurança
+  sua nota melhor nessas regras de segurança
 date: 2020-06-10T10:37:18.000Z
 featuredImage: /uploads/csp-traffic.jpg
 photographer: ''
@@ -184,7 +184,7 @@ Existem ainda alguns outras policies, mas como não mostrarei exemplos delas, e 
 
 ### E como eu coloco esses valores?
 
-Simples, coloca tudo separado por ponto e vírgula `;`, mesmo se tiver um ou mais propriedades. Farei um exemplo abaixo:
+Simples, coloca tudo separado por ponto e vírgula `;`, mesmo se tiver uma ou mais diretivas. Farei um exemplo abaixo:
 
 ```html
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self';" />
@@ -197,7 +197,7 @@ Confesso que não achei lá muito amigável, mas vou tentar explicar a sequênci
 
 #### Mas caralha, como assim podem ou não?
 
-Simples, existem valores padrões, comuns que podem serusadas nas policies, esses caras podem ter OU NÃO (sim, realmente confuso) precisar de aspas simples. Explicarei abaixo, relaxa o fodasse ae.
+Simples, existem valores padrões, comuns que podem ser usadas nas policies, esses caras podem ter OU NÃO (sim, realmente confuso) precisar de aspas simples. Explicarei abaixo, relaxa o fodasse ae.
 
 ### Valores comuns para as propriedades no Content Security Policy
 
@@ -215,7 +215,7 @@ Abaixo eu vou listar os valores comuns, ou seja, que podem ser usados em todas (
 
 ### Múltiplos valores
 
-E claro que você pode usar múltiplos valor, senão estaríamos fudidos. E fazer isso é bem simples, segue abaixo:
+E claro que você pode usar múltiplos valores, senão estaríamos fudidos. E fazer isso é bem simples, segue abaixo:
 
 ```erb
 <meta
@@ -226,7 +226,7 @@ E claro que você pode usar múltiplos valor, senão estaríamos fudidos. E faze
 />
 ```
 
-Quebrei a linha para ficar melhor visualmente, mas pode manter numa linha só também. Percebam que no style-src e script-src têm mais de um valor nessas policies, separados por espaços e somente o 'self' que possui aspas.
+Quebrei a linha para ficar melhor visualmente, mas pode manter numa linha só também. Percebam que no `style-src` e `script-src` têm mais de um valor nessas policies, separados por espaços e somente o 'self' que possui aspas.
 
 Vejam também que nesse caso aí eu liberei que estilos e scripts viessem de outro site chamado outrosite.com.
 
@@ -236,7 +236,7 @@ Isso depende. Várias coisas podem acontecer, como por exemplo, um vídeo não a
 
 ## Mas por que diabos então eu tenho que usar essa bosta?
 
-Já ouviram falar da [LGPD](https://www.lgpdbrasil.com.br/)? E de ISO [27001](https://www.consignet.com.br/lei-geral-protecao-iso-27001/)? Muitas empresas terão que entrar nesse esquema, seus clientes e afins. Já tem um tempo que os clientes da Wooza estão correndo atrás para ter todas essas proteções, cobranças já estão sendo feitas, etc.
+Já ouviram falar da [LGPD](https://www.lgpdbrasil.com.br/)? E da [ISO 27001](https://www.consignet.com.br/lei-geral-protecao-iso-27001/)? Muitas empresas terão que entrar nesse esquema, seus clientes e afins. Já tem um tempo que os clientes da Wooza estão correndo atrás para ter todas essas proteções, cobranças já estão sendo feitas, etc.
 
 Mas óbvio que nem tudo é tão simples assim. Não é só colocar o CSP e os Headers que está tudo ok, claro que não. Você precisa avaliar quais estilos, scripts e afins que serão permitidos, abertos.
 
@@ -327,7 +327,7 @@ E o `media-src` você pode ter que adicionar outras URL's também, caso use víd
 
 ### `font-src`, `img-src`, `script-src` e `style-src`
 
-Esses fodasses são os mais "simples complicados". Simples de entender, mas a parte complicada é os múltiplos valores que você precisa colocar e sempre atualizar dependendo dos casos.
+Esses fodasses são os mais "simples complicados". Simples de entender, mas a parte complicada são os múltiplos valores que você precisa colocar e atualizar, dependendo dos casos.
 
 Abaixo segue como eu coloco no meu blog:
 
@@ -362,14 +362,14 @@ Em si você precisa explicar todos esses fodasses para sua empresa, clientes e a
 
 ```shell
 prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com;
-connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com;
+connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com;
 ```
 
 Deixei esses dois por último porque são chatinhos de explicar e entender algumas vezes. O `prefetch-src` é mais ou menos parecido como o `script-src` e o `style-src`, serve para os arquivos que você quer pré-carregar. Geralmente usamos os do mesmo domínio, com isso, somente o `'self'` já estaria bom, porém, com os builds de Gatsby e afins, você precisará colocar outros caras, como Disqus, etc. Esse cara tem um ponto chato também que falarei depois.
 
 Em si o `prefetch-src` tem [alguns bugs de funcionalidade no Chrome](https://bugs.chromium.org/p/chromium/issues/detail?id=801561), então nem me preocupo tanto assim com ele.
 
-O `connect-src` é importante, pois será para suas conexões com API's, dentre outros. Você tem que tomar bastante cuidado, pois certamente utilizará API's de serviços externos, tendo que colocar as URL's nesse cara. Veja que coloquei cloudfront, disqus, serviços do google.
+O `connect-src` é importante, pois será para suas conexões com API's, dentre outros. Você tem que tomar bastante cuidado, pois certamente utilizará API's de serviços externos, tendo que colocar as URL's nesse cara. Veja que coloquei cloudfront, disqus, serviços do google e também o Algolia, que uso como busca.
 
 Veja também que tem a parte de WebSockets, serve muitas vezes para quando você está testando localmente com Gatsby ou outro framework. Fora o ap, data, etc.
 
@@ -394,7 +394,7 @@ Vou mostrar aqui abaixo, tanto no Netlify, quanto no Lambda. E mostrarei também
 ```shell
 /*
   Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
-  Content-Security-Policy: default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net; connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com; font-src 'self' data: *.cloudfront.net; frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com; img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com; object-src 'none'; prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;
+  Content-Security-Policy: default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net; connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com; font-src 'self' data: *.cloudfront.net; frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com; img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com; object-src 'none'; prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;
   Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none';  picture-in-picture 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none';
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
@@ -421,7 +421,7 @@ exports.handler = (event, context, callback) => {
 
   headers['content-security-policy'] = [{
     key: 'Content-Security-Policy',
-    value: "default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net; connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com; font-src 'self' data: *.cloudfront.net; frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com; img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com; object-src 'none'; prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;"
+    value: "default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net; connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com; font-src 'self' data: *.cloudfront.net; frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com; img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com; object-src 'none'; prefetch-src 'self' *.netlify.app https://disqus.com *.disqus.com *.disquscdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.google-analytics.com *.disqus.com *.disquscdn.com *.cloudfront.net; style-src 'self' 'unsafe-inline' blob: *.disquscdn.com;"
   }];
 
   headers['feature-policy'] = [{
@@ -461,7 +461,7 @@ exports.handler = (event, context, callback) => {
 
 Não esqueçam que além de criar o Lambda, vocês precisam adicionar esse cara no Beahaviors do domínio lá no CloudFront. Adicionem o valor `index.html` como valor no Path Pattern e está tudo certo. Se tiver alguma dúvida é só perguntar nos comentários.
 
-Perceba também que eu adicionei um cara `Feature-Policy`, ele bloqueia qualquer feature HTML5. Em si ele nem afeta no Observatory, mas afeta no Security Headers. Como eu não uso nada da API do HTML5, coloquei esse cara. Verifique o que você necessíta e juste essa fodasse ae no seu projeto.
+Perceba também que eu adicionei um cara `Feature-Policy`, ele bloqueia qualquer feature HTML5. Em si ele nem afeta no Observatory, mas afeta no Security Headers. Como eu não uso nada da API do HTML5, coloquei esse cara. Verifique o que você necessita e faça ajustes no seu projeto se precisar.
 
 ## Agora mostra o seu Content Security Policy com meta-tags, Dulcetti
 
@@ -471,7 +471,7 @@ Agora mesmo, bora ver aqui abaixo com HTML normal:
 <meta
   http-equiv="Content-Security-Policy"
   content="default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net;
-    connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com;
+    connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com;
     font-src 'self' data: *.cloudfront.net;
     frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com;
     img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com;
@@ -488,7 +488,7 @@ E agora com JSX
 <meta
   httpEquiv="Content-Security-Policy"
   content={`default-src 'self' *.disqus.com https://disqus.com *.disquscdn.com *.cloudfront.net;
-    connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com;
+    connect-src 'self' 'unsafe-inline' data: gap: ws:* ssl.gstatic.com *.cloudfront.net *.disqus.com *.disquscdn.com *.google-analytics.com api.github.com *.algolia.net *.algolianet.com;
     font-src 'self' data: *.cloudfront.net;
     frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com *.codepen.io *.facebook.com;
     img-src 'self' data: blob: *.google-analytics.com *.viglink.com *.disqus.com *.disquscdn.com ce.lijit.com *.cloudfront.net *.githubusercontent.com;

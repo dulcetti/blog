@@ -69,7 +69,7 @@ export const Name = styled.h2`
 
 export const Menu = styled.nav`
   ${media.lessThan('large')`
-    margin-bottom: 25px;
+    margin-bottom: 15px;
   `}
 
   ${media.greaterThan('large')`
@@ -94,16 +94,22 @@ export const LinkMenu = styled(AniLink)`
   font-family: ${themes.fonts.others};
   font-size: 1.5rem;
   line-height: 1.25;
-  padding: 10px 0;
   position: relative;
   text-align: center;
   text-transform: uppercase;
   transition: color 0.3s;
 
+  ${media.lessThan('large')`
+    padding: 7px 0;
+  `}
+
+  ${media.greaterThan('large')`
+    padding: 10px 0;
+  `}
+
   &:before {
     bottom: 0;
     content: '';
-    height: 3.1rem;
     right: 0;
     position: absolute;
     transform: scaleX(0);
@@ -112,6 +118,14 @@ export const LinkMenu = styled(AniLink)`
     visibility: hidden;
     width: 100%;
     z-index: 1;
+
+    ${media.lessThan('large')`
+      height: 2.77rem;
+    `}
+
+    ${media.greaterThan('large')`
+      height: 3.1rem;
+    `}
   }
 
   &:hover,
