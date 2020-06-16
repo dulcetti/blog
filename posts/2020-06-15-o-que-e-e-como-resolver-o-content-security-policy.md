@@ -268,6 +268,8 @@ E para resolver isso é relativamente simples, mas mexe com comunicação, algo 
 
 ![Laptop quase fechado simulando segurança](/uploads/seguranca-computador.jpg)
 
+Photo by [Philipp Katzenberger](https://unsplash.com/@fantasyflip?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 Calma, caralha, não precisa gritar. Vamos ver aqui um lista de possibilidades de valores para as diretivas
 
 - **\*.codepen.io** - abertura de subdomínios
