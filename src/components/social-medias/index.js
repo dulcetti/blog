@@ -8,6 +8,11 @@ export default function SocialMedias({ className }) {
   return (
     <S.SocialMediasList className={className}>
       <S.Media>
+        <a href="/feed/" target="_blank">
+          <Icons name="feed" />
+        </a>
+      </S.Media>
+      <S.Media>
         <a href="https://github.com/dulcetti" target="_blank" rel="noopener noreferrer">
           <Icons name="github" />
         </a>
