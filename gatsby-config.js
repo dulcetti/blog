@@ -78,7 +78,7 @@ const pluginConfig = [
   {
     resolve: 'gatsby-plugin-sri',
     options: {
-      hash: 'sha512',
+      hash: 'sha256',
       crossorigin: true,
     },
   },
