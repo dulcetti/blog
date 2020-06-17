@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import { Layout, Comments, SEO, PreviousNext, CreditsImage } from '../../components';
+import { Layout, Comments, SEO, Share, PreviousNext, CreditsImage } from '../../components';
 
 import * as S from './styles';
 
@@ -34,6 +34,7 @@ export default function BlogPost({ data, pageContext }) {
           <S.DatePost>{frontmatter.date}</S.DatePost>
         </S.PostInfos>
         <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
+        <Share />
         <PreviousNext next={nextPost} previous={previousPost} />
         <Comments slug={fields.slug} title={frontmatter.title} />
       </S.PostWrap>
