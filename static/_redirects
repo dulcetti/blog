@@ -11,7 +11,7 @@
 /on/o_que_faz.php /sobre/
 /on/curriculum.php /sobre/
 
-/rss.xml /feed/
+/feed/ /rss.xml
 
 # All Posts
 /blog/2005/10/17/primeiro-passo.html /primeiro-passo/
