@@ -340,6 +340,17 @@ export default function Svgs() {
             </g>
           </symbol>
         }
+        ,
+        {
+          <symbol id="text-share" viewBox="0 0 80 80">
+            <path id="semi-circle" d="M0,37 A25,15 0 0,0 80,37" fill="none" />
+            <text fill="#333">
+              <textPath startOffset="50%" textAnchor="middle" xlinkHref="#semi-circle">
+                share
+              </textPath>
+            </text>
+          </symbol>
+        }
       </defs>
     </S.Svg>
   );
