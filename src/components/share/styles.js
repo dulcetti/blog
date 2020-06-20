@@ -4,7 +4,7 @@ import { themes } from '../../styles/themes';
 
 export const ShareContainer = styled.div`
   ${media.lessThan('medium')`
-    bottom: -115px;
+    bottom: -120px;
     height: 70px;
     position: fixed;
     right: 15px;
@@ -21,6 +21,7 @@ export const ShareContainer = styled.div`
 
 export const ButtonShare = styled.button`
   ${media.lessThan('medium')`
+    align-items: center;
     background-color: rgba(255, 255, 255, .9);
     border-radius: 50%;
     border: 0;
@@ -31,14 +32,14 @@ export const ButtonShare = styled.button`
     height: inherit;
     justify-content: center;
     outline: 0;
-    padding-top: 13px;
     position: absolute;
     width: inherit;
     z-index: 4;
 
     .share {
-      height: 28px;
-      width: 28px;
+      height: 32px;
+      margin-bottom: 16px;
+      width: 32px;
     }
   `}
 
