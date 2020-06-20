@@ -34,7 +34,7 @@ export default function BlogPost({ data, pageContext }) {
           <S.DatePost>{frontmatter.date}</S.DatePost>
         </S.PostInfos>
         <S.PostContent dangerouslySetInnerHTML={{ __html: html }}></S.PostContent>
-        <Share />
+        <Share description={frontmatter.description} slug={fields.slug} title={frontmatter.title} />
         <PreviousNext next={nextPost} previous={previousPost} />
         <Comments slug={fields.slug} title={frontmatter.title} />
       </S.PostWrap>
