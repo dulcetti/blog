@@ -343,7 +343,7 @@ export default function Svgs() {
         ,
         {
           <symbol id="text-share" viewBox="0 0 80 80">
-            <path id="semi-circle" d="M0,37 A25,15 0 0,0 80,37" fill="none" />
+            <path id="semi-circle" d="M11,18 A26,15 0 0,0 70,20" fill="none" />
             <text fill="#333">
               <textPath startOffset="50%" textAnchor="middle" xlinkHref="#semi-circle">
                 share
