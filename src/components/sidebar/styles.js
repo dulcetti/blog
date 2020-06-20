@@ -14,7 +14,7 @@ export const Sidebar = styled.aside`
     grid-area: sidebar;
     grid-template-rows: 50px auto 15px;
     min-height: 100vh;
-    padding: 30px 0 20px;
+    padding: 20px 0 20px;
     right: 0;
     top: 0;
     width: 250px;

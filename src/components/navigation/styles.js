@@ -44,12 +44,11 @@ export const Thumb = styled(Img)`
 
   ${media.greaterThan('large')`
     margin: 0 auto 20px;
-    width: 75%;
+    width: 60%;
   `}
 `;
 
 export const Name = styled.h2`
-  color: ${themes.palette.sidebar.name};
   font-family: ${themes.fonts.titles};
   text-align: center;
   word-spacing: -2px;
@@ -57,14 +56,18 @@ export const Name = styled.h2`
   ${media.lessThan('large')`
     font-size: 28px;
     line-height: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   `}
 
   ${media.greaterThan('large')`
     font-size: 35px;
     line-height: 37px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   `}
+
+  > a {
+    color: ${themes.palette.sidebar.name};
+  }
 `;
 
 export const Menu = styled.nav`
@@ -73,7 +76,7 @@ export const Menu = styled.nav`
   `}
 
   ${media.greaterThan('large')`
-    margin-bottom: 40px;
+    margin-bottom: 25px;
   `}
 `;
 

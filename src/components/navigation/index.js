@@ -35,14 +35,16 @@ export default function Navigation({ isOpen }) {
           <S.Thumb fluid={avatar.childImageSharp.fluid} />
         </AniLink>
 
-        <AniLink
-          swipe
-          direction="left"
-          bg={themes.palette.general.bgTransition}
-          duration={0.6}
-          to="/">
-          <S.Name>Bruno Dulcetti</S.Name>
-        </AniLink>
+        <S.Name>
+          <AniLink
+            swipe
+            direction="left"
+            bg={themes.palette.general.bgTransition}
+            duration={0.6}
+            to="/">
+            Bruno Dulcetti
+          </AniLink>
+        </S.Name>
         <S.List>
           {links.map((link, index) => (
             <S.Item key={index}>

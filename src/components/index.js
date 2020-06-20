@@ -10,6 +10,7 @@ import PostsList from './posts-list';
 import PreviousNext from './previous-next';
 import Search from './search';
 import SEO from './seo';
+import Share from './share';
 import Sidebar from './sidebar';
 import SocialMedias from './social-medias';
 import Svgs from './svgs';
@@ -27,6 +28,7 @@ export {
   PreviousNext,
   Search,
   SEO,
+  Share,
   Sidebar,
   SocialMedias,
   Svgs,
