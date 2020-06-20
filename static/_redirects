@@ -10,8 +10,11 @@
 /on/portfolio.php /sobre/
 /on/o_que_faz.php /sobre/
 /on/curriculum.php /sobre/
+/v1/ /
+/v1 /
 
 /feed/ /rss.xml
+/feed /rss.xml
 
 # All Posts
 /blog/2005/10/17/primeiro-passo.html /primeiro-passo/
