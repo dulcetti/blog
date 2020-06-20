@@ -6,7 +6,8 @@ import { Icons } from '../index';
 import * as S from './styles';
 
 export default function Share({ description, slug, title }) {
-  const [showMenu, changeMenu] = useState(false);
+  const [showMenu, setMenu] = useState(false);
+  const [showSubMenu, setSubMenu] = useState(false);
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,10 +20,19 @@ export default function Share({ description, slug, title }) {
     `
   );
   const permalink = encodeURI(`${site.siteMetadata.siteUrl}${slug}`);
-  const rotateMenu = () => changeMenu(!showMenu);
+
+  const rotateMenu = () => setSubMenu(!showSubMenu);
+
+  const watchScroll = () => {
+    window.scrollY > 300 ? setMenu(true) : setMenu(false);
+  };
+
+  typeof window !== 'undefined' && document.addEventListener('scroll', watchScroll, false);
 
   return (
-    <>
+    <S.ShareContainer className={showMenu && '-visible'}>
+      <S.ShareTitle>Gostou? Compartilhe esse artigo ;)</S.ShareTitle>
+
       <S.ButtonShare onClick={rotateMenu}>
         <Icons name="share" className="share" />
         <S.LabelShare>
@@ -30,10 +40,8 @@ export default function Share({ description, slug, title }) {
         </S.LabelShare>
       </S.ButtonShare>
 
-      <S.ShareTitle>Gostou? Compartilhe esse artigo ;)</S.ShareTitle>
-
-      <S.ShareList className={showMenu && '-opened'}>
-        <S.ShareItem>
+      <S.ShareList className={showSubMenu && '-opened'}>
+        <S.ShareItem className="icons -facebook">
           <S.ShareLink
             href={`https://www.facebook.com/sharer/sharer.php?u=${permalink}&text=${title}`}
             aria-label="Facebook"
@@ -42,7 +50,7 @@ export default function Share({ description, slug, title }) {
             <Icons name="facebook" />
           </S.ShareLink>
         </S.ShareItem>
-        <S.ShareItem>
+        <S.ShareItem className="icons -twitter">
           <S.ShareLink
             href={`https://twitter.com/share?url=${permalink}&text=${title}&via=dulcetti`}
             aria-label="Twitter"
@@ -51,7 +59,7 @@ export default function Share({ description, slug, title }) {
             <Icons name="twitter" />
           </S.ShareLink>
         </S.ShareItem>
-        <S.ShareItem>
+        <S.ShareItem className="icons -linkedin">
           <S.ShareLink
             href={`https://www.linkedin.com/shareArticle?mini=true&url=${permalink}&title=${title}&summary=${title}&source=@dulcetti&text=${description}`}
             aria-label="Linkedin"
@@ -60,7 +68,7 @@ export default function Share({ description, slug, title }) {
             <Icons name="linkedin" />
           </S.ShareLink>
         </S.ShareItem>
-        <S.ShareItem>
+        <S.ShareItem className="icons -whatsapp">
           <S.ShareLink
             href={`https://api.whatsapp.com/send?text=${permalink}`}
             aria-label="Whatsapp"
@@ -70,7 +78,7 @@ export default function Share({ description, slug, title }) {
           </S.ShareLink>
         </S.ShareItem>
       </S.ShareList>
-    </>
+    </S.ShareContainer>
   );
 }
 
