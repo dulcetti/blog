@@ -24,6 +24,6 @@ export const LayoutMain = styled.main`
   `}
 
   ${media.greaterThan('large')`
-    padding: 2rem 18rem 2rem 2rem;
+    padding: 1.5rem 18rem 1.75rem 1.75rem;
   `}
 `;

@@ -5,20 +5,26 @@ export const SocialMediasList = styled.ul`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 0 1.75rem;
+
+  ${media.lessThan('large')`
+    padding: 0 1.75rem;
+  `}
+  ${media.greaterThan('large')`
+    padding: 0 1.5rem;
+  `}
 `;
 
 export const Media = styled.li`
   ${media.lessThan('large')`
-    height: 44px;
+    height: 42px;
     margin: 0 5px 0.5rem;
-    width: 44px;
+    width: 42px;
   `}
 
   ${media.greaterThan('large')`
-    height: 52px;
-    margin: 0 5px 0.75rem;
-    width: 52px;
+    height: 36px;
+    margin: 0 3px 0.5rem;
+    width: 36px;
   `}
 
   &:first-child {
