@@ -47,6 +47,8 @@ Como o `next build` pega por padrão o de Produção. no CI/CD de Homologação 
 
 ## Então mostra como resolveu a criação de variáveis de ambientes no Next.js, Dulça
 
+![Variáveis de ambiente no Next.js](/uploads/environmental.jpg)
+
 Simples. Precisamos instalar dois pacotes:
 
 ```shell
