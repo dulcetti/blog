@@ -3,7 +3,7 @@ title: Como criar testes em listeners no React Testing Library
 description: Criar testes é essencial e importante, certo? Às vezes pode ser
   meio chato testar listeners. Veja como criar testes em listeners no React
   Testing Library.
-date: 2020-06-29 08:02:18
+date: 2020-06-29T08:02:18.000Z
 featuredImage: /uploads/react-testing-library.jpg
 category: JavaScript
 ---
@@ -17,7 +17,7 @@ Ele tem vários para vários frameworks, bibliotecas, como Angular, Vue, Svelte,
 
 ## Beleza, Dulcetti, como criar testes em listeners no React Testing Library então?
 
-Pra explicar, meu componente tem um `addEventListener` para verificar uma ação do usuário, que nesse exemplo é ele dar scroll na tela. Caso ele dê scroll a mais de 100px um fodasse aparece, caso o contrário ele some.
+Pra explicar, meu componente tem um `addEventListener` para verificar uma ação do usuário, que nesse exemplo é ele dar scroll na tela. Caso ele dê scroll a mais de 100px um fodasse aparece. Caso o contrário ele some.
 
 ```typescript
 import React, { useState } from 'react';
@@ -30,11 +30,11 @@ export default function ComponentFodasse() {
 
   window.addEventListener('scroll', myFunction, false);
 
-  return <div className={`${showMenu ? '-visible' : ''} fodasse`}>Olar</div>;
+  return <div>{fodasse && <p>Olar</p>}</div>;
 }
 ```
 
-Já quis mostrar como eu fiz, mas você pode usar qualquer listener, click, etc. Basicamente eu tenho meu estado chamado `fodasse` que vai ser atualizado quando meu `scrollY` for maior ou menor que 100.
+Já quis mostrar como eu fiz, mas você pode usar qualquer listener, click, etc. Basicamente eu tenho meu state chamado `fodasse` que vai mostrar ou esconder o template do componente quando o `scrollY` for maior ou menor que 100.
 
 Depois adicionei o listener e tá tudo certo para o componente. Agora vamos partir para os testes.
 
@@ -46,7 +46,7 @@ Primeiro temos que importar os caras necessários:
 
 ```javascript
 import React from 'react';
-import { fireEvent, render } from '@testing-library/react';
+import { fireEvent, render, screen } from '@testing-library/react';
 import ComponentFodasse from './component-fodasse';
 ```
 
@@ -56,14 +56,16 @@ Os pontos importantes são as importações do `fireEvent` e `render`, do React 
 describe('Componente do Fodasse', () => {
   test('O fodasse deve aparecer quando o scroll for maior que 100', () => {
     let scrolled = false;
-    const { container } = render(<ComponentFodasse />);
+    render(<ComponentFodasse />);
   });
 });
 ```
 
-Nesse primeiro código temos uma variável `scrolled` que começa com `false`. Ela que vai dar o ok nos nossos expects. Na linha de baixo tem a execução do `render`.
+Nesse primeiro código temos uma variável `scrolled` que começa com `false`. Criei só pra não deixar a função do listener vazia, reforçando nossos testes. Na linha de baixo tem a execução do `render`.
 
-Nesse `const` chamado `container` eu estou pegando a referência do DOM do elemento, com isso, eu posso capturar os elementos. O render possui várias queries pra você capturar, é só [visitar a documentação](https://testing-library.com/docs/react-testing-library/api#render). Tem até [um cheatsheet sagaz](https://github.com/testing-library/react-testing-library/raw/master/other/cheat-sheet.pdf) para você dar uma olhada.
+Em alguns casos você verá uma declaração `const` chamado um `container`, mas em si já não é mais uma boa prática, como o [Kent Dodds](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library) já comentou. Caso você esteja usando eu mostro uma forma de corrigir um possível bug ;)
+
+O render possui uma [documentação](https://testing-library.com/docs/react-testing-library/api#render) sagaz. Tem até [um cheatsheet sagaz](https://github.com/testing-library/react-testing-library/raw/master/other/cheat-sheet.pdf) para você dar uma olhada.
 
 ### Mas é só isso, Dulcelino?
 
@@ -73,15 +75,15 @@ Claro que não, essas linhas de teste não servem pra porra nenhuma. Agora falta
 describe('Componente do Fodasse', () => {
   test('O fodasse deve aparecer quando o scroll for maior que 100', () => {
     let scrolled = false;
-    const { container } = render(<ComponentFodasse />);
+    render(<ComponentFodasse />);
 
-    expect(container.querySelector('.fodasse.-visible')).not.toBeNull();
+    expect(screen.getByText('Olar'));
     expect(scrolled).toBeTruthy();
   });
 });
 ```
 
-Colocamos os dois expects, o primeiro que verifica se o componente está visível, através do `querySelector` com a classe `-visible` e retorna se esse seletor não está nulo. No segundo ele espera que o `scrolled` esteja verdadeiro.
+Colocamos os dois expects, o primeiro que verifica se o texto `Olar` está disponível através do `screen`. No segundo ele espera que o `scrolled` esteja verdadeiro.
 
 Mas claro que os testes não vão passar, precisamos colocar mais linhas, mas é sempre bom ver os erros primeiro. Vamos ao complemento:
 
@@ -89,26 +91,29 @@ Mas claro que os testes não vão passar, precisamos colocar mais linhas, mas é
 describe('Componente do Fodasse', () => {
   test('O fodasse deve aparecer quando o scroll for maior que 100', () => {
     let scrolled = false;
-    const { container } = render(<ComponentFodasse />);
+    render(<ComponentFodasse />);
 
-    window.addEventListener('scroll', () => (scrolled = true), false);
+    window.addEventListener('scroll', () => (scrolled = !scrolled), false);
 
     fireEvent.scroll(window, { target: { scrollY: 110 } });
-    expect(container.querySelector('.fodasse.-visible')).not.toBeNull();
+    expect(screen.getByText('Olar'));
     expect(scrolled).toBeTruthy();
+
+    fireEvent.scroll(window, { target: { scrollY: 0 } });
+    expect(scrolled).toBeFalsy();
   });
 });
 ```
 
-Apesar do componente já ter um listener, nos testes você precisa colocar outro. Na função ela transforma o `scrolled` em `true`. Depois lançamos um scroll do `fireEvent` passando `window` como parâmetro, e depois atribuindo 110 no `scrollY`.
+Apesar do componente já ter um listener, nos testes você precisa colocar outro. Na função ela faz um `toggle` no `scrolled`. Depois lançamos um scroll do `fireEvent` passando `window` como parâmetro, e depois atribuindo 110 no `scrollY`.
 
-Agora os expects já foram rodados sem erros, certo? Quase...
+Aí os expects funcionam de boa. Ou talvez não...
 
 ### Mas o que que falta agora, DulSeven?
 
 ![Tubos de ensaio e marca do React](/uploads/js-testing.jpg)
 
-Em si os testes passaram, mas ele deve jogar um erro parecido com esse:
+Em si os testes passaram, mas caso você queira ou esteja usando o `container` no `render`, ele deve jogar um erro parecido com esse:
 
 ```shell
 Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
@@ -132,31 +137,73 @@ export default function ComponentFodasse() {
     return () => window.removeEventListener('scroll', myFunction, false);
   }, []);
 
-  return <div className={`${showMenu ? '-visible' : ''} fodasse`}>Olar</div>;
+  return <div>{fodasse && <p>Olar</p>}</div>;
 }
 ```
 
+Mas o bom é que já deixa o código até melhor.
+
 ## E nos cliques?
 
-Claro, você pode fazer com cliques no botão, mas para esse pequeno detalhe é necessário adicionar uma coisinha a mais, além de trocar o `scroll` por `click` no `fireEvent`. Ou então usar o `userEvent`:
+Claro, você pode fazer com cliques no botão, mas para esse pequeno detalhe é necessário adicionar, mudar umas coisinhas:
 
 ```javascript
 import React from 'react';
-import { render } from '@testing-library/react';
-import userEvent from '@testing-library/user-event';
-import ComponentFodasse from './component-fodasse';
+import { render, screen, fireEvent } from '@testing-library/react';
+import ComponentFodasse from './social-share';
 
 describe('Componente do Fodasse', () => {
-  test('O fodasse deve aparecer quando clicar no botão', async () => {
-    const { container, getByRole } = render(<ComponentFodasse />);
+  test('O fodasse deve aparecer quando clicar no botão', () => {
+    render(<ComponentFodasse />);
 
-    await userEvent.click(getByRole('button'));
-    expect(container.querySelector('.fodasse.-visible')).toBeNull();
+    const button = screen.getByRole('button');
+    fireEvent.click(button);
+    expect(screen.getByText('Olar'));
   });
 });
 ```
 
-Mas claro, é um exemplo rápido e incompleto só pra mostrar como seria com o clique do mouse com o `userEvent`. Qualquer dúvida mandem um comentário aí que complemento pra você.
+Deu pra ver que eu troquei o `scroll` por `click` no `fireEvent`. Ou então você pode usar o `userEvent`:
+
+```javascript
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
+import ComponentFodasse from './social-share';
+
+describe('Componente do Fodasse', () => {
+  test('O fodasse deve aparecer quando clicar no botão', () => {
+    render(<ComponentFodasse />);
+
+    const button = screen.getByRole('button');
+    userEvent.click(button);
+    expect(screen.getByText('Olar'));
+  });
+});
+```
+
+Usar o `userEvent` é uma boa prática, mas cuidado, não são todos os eventos que são supotados, como o scroll, por exemplo.
+
+Mas voltando ao código, nosso componente ficaria assim, mais simplificado:
+
+```jsx
+import React, { useState } from 'react';
+
+export default function ComponentFodasse() {
+  const [fodasse, setFodasse] = useState<Boolean>(false);
+
+  const myFunction = () => setFodasse(!fodasse);
+
+  return (
+    <div>
+      {fodasse && <p>Olar</p>}
+      <button onClick={myFunction}>Clica logo aqui</button>
+    </div>
+  );
+}
+```
+
+Mas claro, é um exemplo rápido e incompleto só pra mostrar como seria com o clique do mouse. Qualquer dúvida mandem um comentário aí que complemento pra você.
 
 ## Finalizando
 
