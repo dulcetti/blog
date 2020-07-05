@@ -8,6 +8,11 @@ publish_mode: editorial_workflow
 media_folder: 'static/uploads'
 public_folder: '/uploads'
 
+# remove accentuation from slugs
+slug:
+  encodig: 'ascii'
+  clean_accents: true
+
 collections:
   - name: 'posts'
     label: 'Posts'
