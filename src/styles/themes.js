@@ -39,6 +39,10 @@ export const themes = {
     maxWidth: '68em',
   },
   palette: {
+    breadcrumb: {
+      color: _colors.gray,
+      homeColor: _colors.gray,
+    },
     categories: {
       'Back-End': _colors.xanadu,
       'CSS': _colors.blueLight,

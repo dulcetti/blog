@@ -14,15 +14,8 @@ export const PostWrap = styled.div`
 
 export const PostTitle = styled.h1`
   font-size: min(56px, 10vw);
-  line-height: min(62px, 11vw);
-
-  ${media.lessThan('large')`
-    margin-bottom: .5rem;
-  `}
-
-  ${media.greaterThan('large')`
-    margin-bottom: 1rem;
-  `}
+  line-height: min(60px, 10vw);
+  margin-bottom: 0.5rem;
 `;
 
 export const PostDescription = styled.h2`
@@ -30,7 +23,7 @@ export const PostDescription = styled.h2`
   font-style: italic;
   font-weight: normal;
   line-height: 1.2;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
 
   ${media.lessThan('large')`
     font-size: 1.5rem;

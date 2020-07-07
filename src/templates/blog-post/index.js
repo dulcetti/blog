@@ -1,7 +1,15 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import { Layout, Comments, SEO, Share, PreviousNext, CreditsImage } from '../../components';
+import {
+  Breadcrumb,
+  Comments,
+  CreditsImage,
+  Layout,
+  PreviousNext,
+  SEO,
+  Share,
+} from '../../components';
 
 import * as S from './styles';
 
@@ -18,6 +26,7 @@ export default function BlogPost({ data, pageContext }) {
         image={frontmatter.featuredImage.childImageSharp.fluid.src}
       />
       <S.PostWrap>
+        <Breadcrumb category={frontmatter.category} title={frontmatter.title} />
         <S.PostTitle>{frontmatter.title}</S.PostTitle>
         {frontmatter.description && (
           <S.PostDescription>{frontmatter.description}</S.PostDescription>

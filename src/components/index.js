@@ -1,3 +1,4 @@
+import Breadcrumb from './breadcrumb/index';
 import Comments from './comments';
 import CreditsImage from './credits-image';
 import Icons from './icons';
@@ -16,6 +17,7 @@ import SocialMedias from './social-medias';
 import Svgs from './svgs';
 
 export {
+  Breadcrumb,
   Comments,
   CreditsImage,
   Icons,
