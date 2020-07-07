@@ -41,7 +41,7 @@ export const themes = {
   palette: {
     breadcrumb: {
       color: _colors.gray,
-      homeColor: _colors.orange,
+      homeColor: _colors.gray,
     },
     categories: {
       'Back-End': _colors.xanadu,

@@ -10,6 +10,11 @@ export const BreadcrumbWrapper = styled.p`
 export const HomeLink = styled(AniLink)`
   color: ${themes.palette.breadcrumb.homeColor};
   font-weight: bold;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: none;
+  }
 `;
 
 export const CategoryLink = styled.span`

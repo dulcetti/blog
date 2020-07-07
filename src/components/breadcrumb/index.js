@@ -6,8 +6,9 @@ import * as S from './styles';
 export default function Breadcrumb({ category, title }) {
   return (
     <S.BreadcrumbWrapper>
+      /{' '}
       <S.HomeLink className="link-animated" to="/">
-        @dulcetti
+        home
       </S.HomeLink>{' '}
       / <S.CategoryLink>{category}</S.CategoryLink> / <S.Title>{title}</S.Title>
     </S.BreadcrumbWrapper>
