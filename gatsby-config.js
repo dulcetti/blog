@@ -140,6 +140,14 @@ const pluginConfig = [
       ],
     },
   },
+  {
+    resolve: 'gatsby-plugin-mailchimp',
+    options: {
+      endpoint:
+        'https://brunodulcetti.us10.list-manage.com/subscribe/post?u=05159230ec6fc1e81b18dffb2&id=023ed1063a',
+      timeout: 5000,
+    },
+  },
 ];
 
 if (process.env.CONTEXT === 'production') {
