@@ -8,16 +8,15 @@ photographer: <a
   href="https://unsplash.com/@noaa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NOAA</a>
 category: JavaScript
 ---
-
 E lá vamos nós com mais um artigo sobre JavaScript, o primeiro sobre o Next.js. Ainda não tenho tanto contato com ele, mas já temos um primeiro projeto na Wooza utilizando. Um dos pontos que precisávamos era de variáveis de ambiente no Next.js para funcionar nos nossos diversos (não me diga, Dulça?). Environments são fáceis de configurar no Next.js, porém, no nosso caso precisávamos de um algo mais. Veremos o que é...
 
 ## Mas como que configura variáveis de ambiente no Next.js?
 
 Simples, basta criar os seguintes arquivos:
 
-- env.local (ambiente local)
-- env.development (ambiente de homologação - staging)
-- env.production (ambiente de produção)
+* env.local (ambiente local)
+* env.development (ambiente de homologação - staging)
+* env.production (ambiente de produção)
 
 E dentro deles você coloca as variáveis, por exemplo:
 
@@ -42,9 +41,9 @@ Com isso, precisamos criar um arquivo JS com essas configurações pro nosso ser
 
 Temos três ambientes:
 
-- **Desenvolvimento:** develop
-- **Homologação:** homolog
-- **Produção:** master
+* **Desenvolvimento:** develop
+* **Homologação:** homolog
+* **Produção:** master
 
 Como o `next build` pega por padrão as variáveis de ambiente de Produção, no CI/CD de Homologação acaba pegando as informações erradas, o que não queremos. Por isso eu precisava resolver isso, certo?
 
@@ -106,20 +105,15 @@ E depois disso você precisa criar um Builder que gere um arquivo que será usad
 
 ```javascript
 const fs = require('fs');
-const activeEnv = process.env.ACTIVE_ENV === false ? 'development' : process.env.ACTIVE_ENV;
+const activeEnv = process.env.ACTIVE_ENV || 'development';
 
-require('dotenv').config({
+const env = require('dotenv').config({
   path: `.env.${activeEnv}`,
 });
 
-const env = {
-  API_URL: process.env.API_URL,
-  DEFAULT_SCROWBLES: process.env.DEFAULT_SCROWBLES,
-};
-
 const createEnvFile = () => {
   return new Promise((resolve, reject) => {
-    fs.writeFile('environment.js', `export default ${JSON.stringify(env)}`, 'utf8', (error) => {
+    fs.writeFile('environment.js', `export default ${JSON.stringify(env.parsed)}`, 'utf8', (error) => {
       return error ? reject(error) : resolve();
     });
   });
@@ -130,7 +124,9 @@ module.exports = createEnvFile;
 
 Nesse arquivo nós vimos que ele usa o `dotenv` para fazer a configuração baseado nos arquivos que foram criados, `.env.development` e `.env.production`.
 
-E veja também que nas primeiras linhas ele pega o `process.env.ACTIVE_ENV`, que foi setado no package.json. E depois uma variável `env` é criada com as mesmas variáveis que estão nos arquivos atribuindo os valores respectivos de acordo com o `ACTIVE_ENV` passado.
+E veja também que nas primeiras linhas ele pega o `process.env.ACTIVE_ENV`, que foi setado no package.json. Caso ele não exista, entra o padrão `development`. E depois uma variável `env` é criada com o config do dotenv.
+
+Com isso, todas as variáveis que estão nos arquivos de environment são atribuídos a um objeto parseado pelo dotenv de acordo com o `ACTIVE_ENV` passado. Veja que na Promise a gente coloca um `JSON.stringify` com o nó `parsed`.
 
 Um método `createEnvFile` é criado e exportado para ser executado em algum local que veremos logo, logo.
 
