@@ -192,3 +192,9 @@ Espero que tenha ajudado vocês aí, que tenham conseguido entender o propósito
 Ficou alguma dúvida? Mandem nos comentários. Precisa de melhorias? Mandem brasa nos comentários também, tamo junto ;)
 
 Beijo na alcatra.
+
+**\[EDITED]**
+
+Atualizei o código bo Builder, dando uma simplificada. Valeu, Filipe ;)
+
+**\[/EDITED]**
