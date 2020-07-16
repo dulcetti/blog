@@ -217,4 +217,70 @@ export const GlobalStyle = createGlobalStyle`
       }
     }
   }
+
+  body.light {
+    --black: #000;
+    --blue: #1660AA;
+    --blueDark: #003049;
+    --blueLight: #2BA8DF;
+    --bronze: #AA735F;
+    --brown: #a68e69;
+    --brownDark: #5a5038;
+    --brownLight: #F7F6F1;
+    --brownLightOver: #eae8db;
+    --brownVeryLight: #ece7e1;
+    --gray: #666;
+    --grayBrown: #eadabe;
+    --grayBrownDark: #cec2ac;
+    --grayBrownLight: #f3f0ed;
+    --grayDark: #333;
+    --grayLight: #f5f6f6;
+    --grayMedium: #bbb;
+    --green: #046A2E;
+    --greenSea: #79B791;
+    --orange: #f26a00;
+    --orangeRgb: 230, 146, 74;
+    --pink: #852E50;
+    --purpleDark: #31263E;
+    --red: #D62828;
+    --white: #fff;
+    --xanadu: #7E846B;
+    --yellow: #FCBF49;
+    --yellowDark: #e6a528;
+    --yellowRgb: 255, 204, 0;
+    transition: all .25s;
+  }
+
+  body.dark {
+    --black: #000;
+    --blue: #1660AA;
+    --blueDark: #003049;
+    --blueLight: #2BA8DF;
+    --bronze: #AA735F;
+    --brown: #a68e69;
+    --brownDark: #5a5038;
+    --brownLight: #333;
+    --brownLightOver: #eae8db;
+    --brownVeryLight: #ece7e1;
+    --gray: #666;
+    --grayBrown: #eadabe;
+    --grayBrownDark: #cec2ac;
+    --grayBrownLight: #f3f0ed;
+    --grayDark: #333;
+    --grayLight: #555;
+    --grayMedium: #777;
+    --green: #046A2E;
+    --greenSea: #79B791;
+    --orange: #f26a00;
+    --orangeRgb: 230, 146, 74;
+    --pink: #852E50;
+    --purpleDark: #31263E;
+    --red: #D62828;
+    --white: #fff;
+    --xanadu: #7E846B;
+    --yellow: #FCBF49;
+    --yellowDark: #e6a528;
+    --yellowRgb: 255, 204, 0;
+    transition: all .25s;
+  }
 `;
