@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -9,7 +9,9 @@ import Icons from '../icons';
 
 export default function Sidebar() {
   const [isOpen, setOpen] = useState(false);
+  const [theme, setTheme] = useState(null);
   const location = typeof window !== 'undefined' && window.location.pathname;
+  const isDarkMode = theme === 'dark';
   const { logo } = useStaticQuery(
     graphql`
       query {
@@ -24,9 +26,38 @@ export default function Sidebar() {
     `
   );
 
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      setTheme(window.__theme);
+      window.__onThemeChange = () => setTheme(window.__theme);
+    }
+  }, []);
+
+  const renderLamps = () => {
+    return (
+      <S.ToggleTheme onClick={toggleTheme} title={`Ligar o modo ${getInverseTheme()}`}>
+        {isDarkMode ? <Icons name="light" /> : <Icons name="dark" />}
+      </S.ToggleTheme>
+    );
+  };
+
   const toggleMenu = () => {
     setOpen(!isOpen);
   };
+
+  const toggleTheme = () => {
+    window.__setPreferredTheme(getInverseTheme());
+
+    if (window.DISQUS !== undefined) {
+      window.setTimeout(() => {
+        window.DISQUS.reset({
+          reload: true,
+        });
+      }, 250);
+    }
+  };
+
+  const getInverseTheme = () => (isDarkMode ? 'light' : 'dark');
 
   return (
     <S.Sidebar>
@@ -44,6 +75,8 @@ export default function Sidebar() {
         )}
       </S.LogoLink>
 
+      {renderLamps()}
+
       <Navigation isOpen={isOpen} />
 
       <S.Text>© {new Date().getFullYear()}, Todos os fodasses reservados.</S.Text>
@@ -53,7 +86,9 @@ export default function Sidebar() {
             <Icons name="search" />
           </S.SearchLinkWrap>
         </S.SearchLink>
-        <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'}></S.ToggleOpenClose>
+
+        {renderLamps()}
+        <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'} />
       </S.SidebarIcons>
     </S.Sidebar>
   );
