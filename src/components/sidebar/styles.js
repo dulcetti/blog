@@ -24,7 +24,6 @@ export const ToggleTheme = styled.button`
   `}
 
   ${media.greaterThan('large')`
-    background-color: #fff;
     border-radius: 50%;
     bottom: 20px;
     box-shadow: 0 0 7px 1px #bbb;
@@ -34,6 +33,14 @@ export const ToggleTheme = styled.button`
     padding: 15px;
     position: absolute;
     width: 80px;
+
+    &.light {
+      background-color: #fff;
+    }
+
+    &.light {
+      background-color: #555;
+    }
 
     > svg {
       height: 50px;

@@ -35,7 +35,10 @@ export default function Sidebar() {
 
   const renderLamps = () => {
     return (
-      <S.ToggleTheme onClick={toggleTheme} title={`Ligar o modo ${getInverseTheme()}`}>
+      <S.ToggleTheme
+        className={theme}
+        onClick={toggleTheme}
+        title={`Ligar o modo ${getInverseTheme()}`}>
         {isDarkMode ? <Icons name="light" /> : <Icons name="dark" />}
       </S.ToggleTheme>
     );
