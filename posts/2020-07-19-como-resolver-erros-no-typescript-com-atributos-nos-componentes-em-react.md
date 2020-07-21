@@ -3,7 +3,7 @@ title: Como resolver erros no typescript com atributos nos componentes em React
 description: Trabalhar com typescript faz com que você precise tomar cuidados
   com tipagem e outras coisas. Veja como resolver problemas ao adicionar
   atributos/props em componentes.
-date: 2020-07-20 08:27:31
+date: 2020-07-20T08:27:31.000Z
 featuredImage: /uploads/typescript-in-react.jpg
 category: JavaScript
 ---
@@ -19,7 +19,7 @@ Mas confesso que isso tem feito com que eu não cometa alguns erros, fora que pa
 
 ## React + Typescript + erros com atributos
 
-Estou migrando três projeto em [Gatsby](https://www.gatsbyjs.org/) / React para o NX, em breve falarei sobre ele, uma ferramenta fodástica. Ele por padrão usa Typescript, mas se você quiser pode usar JS, sem problemas.
+Estou migrando três projeto em [Gatsby](https://www.gatsbyjs.org/) / React para o [NX](https://nx.dev/react). Em breve falarei mais sobre ele aqui no blog, é uma ferramenta fodástica. Ele por padrão usa Typescript, mas se você quiser pode usar JS, sem problemas.
 
 ### Qual erro que você tomou, Dulcelino? Conta logo...
 
@@ -72,11 +72,11 @@ export const Banner = styled.div.attrs((props: PropTypeBg) => ({
 }))<PropTypeBg>`
 ```
 
-Percebam o seguinte:
+Perceba o seguinte:
 
-* O tipo foi adicionado. Eu batizei de `PropTypeBg`, fique à vontade de chamar como quiser;
+* O tipo foi adicionado. Eu batizei de `PropTypeBg`, fique à vontade de chamar com o fodasse que quiser;
 * Dentro desse tipo foi adicionado o parâmetro background. Caso você precise de mais, sem problemas, só adicionar outros;
-* Na exportação do Banner nós vemos que o styled chamada a tag e depois um nó `attrs`, simples assim. Nele você passa uma arrow function passando o props com o tipo que você acabou de criar, no meu caso foi o `PropTypeBg;`
+* Na exportação do Banner nós vemos que o styled chama a tag e depois um nó `attrs`, simples assim. Nele você passa uma arrow function passando o props com o tipo que você acabou de criar, no meu caso foi o `PropTypeBg;`
 * Feito isso, você diz que o atributo background que será utilzado no estilo recebe o valor via props;
 * Depois é só festa, sem erros, sem nada.
 
