@@ -54,10 +54,9 @@ export const Content = styled.div`
 `;
 
 export const Category = styled.strong`
-  background-color: ${(props) =>
-    props.bg ? props.bg : `${themes.palette.postList.categories.bg}`};
+  background-color: ${(props) => (props.bg ? props.bg : `${themes.palette.postList.bgCategories}`)};
   border-radius: 4px;
-  color: ${themes.palette.postList.categories.text};
+  color: ${themes.palette.postList.text};
   opacity: 0.85;
   order: 1;
   padding: 3px 10px 0;
@@ -79,7 +78,7 @@ export const Category = styled.strong`
 `;
 
 export const TitlePost = styled.h2`
-  color: ${themes.palette.postList.content.title};
+  color: ${themes.palette.postList.text};
   font-weight: 400;
   order: 2;
   text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
@@ -101,6 +100,7 @@ export const TitlePost = styled.h2`
 `;
 
 export const DateTime = styled.p`
+  color: ${themes.palette.postList.text};
   font-family: ${themes.fonts.others};
   font-size: 18px;
   margin-bottom: 12px;
@@ -110,8 +110,9 @@ export const DateTime = styled.p`
 `;
 
 export const ReadMore = styled.p`
-  background-color: ${themes.palette.postList.content.readMore};
+  background-color: ${themes.palette.postList.readMore};
   border-radius: 3px;
+  color: ${themes.palette.postList.text};
   font-family: ${themes.fonts.others};
   order: 4;
   padding: 5px 12px;

@@ -16,12 +16,6 @@ export const GlobalStyle = createGlobalStyle`
     min-height: 100%;
   }
 
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    min-height: 100%;
-    overflow-x: hidden;
-  }
-
   article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
     display: block;
   }
@@ -193,7 +187,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   .link-animated {
-    color: ${themes.palette.posts.links};
+    color: var(--links);
     position: relative;
     transition: color 0.3s;
 
@@ -211,15 +205,25 @@ export const GlobalStyle = createGlobalStyle`
 
     &:hover {
       &:before {
-        background-color: ${themes.palette.posts.linksBorder};
+        background-color: var(--linksBorder);
         transform: scaleX(1);
         visibility: visible;
       }
     }
   }
 
-  body.light {
+  body {
     --black: #000;
+    --fontStyles: 'Khand-Regular', sans-serif;
+    --textThumbs: #eee;
+    --white: #fff;
+    color: var(--textColor);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    min-height: 100%;
+    overflow-x: hidden;
+  }
+
+  body.light {
     --blue: #1660AA;
     --blueDark: #003049;
     --blueLight: #2BA8DF;
@@ -229,7 +233,6 @@ export const GlobalStyle = createGlobalStyle`
     --brownLight: #F7F6F1;
     --brownLightOver: #eae8db;
     --brownVeryLight: #ece7e1;
-    --gray: #666;
     --grayBrown: #eadabe;
     --grayBrownDark: #cec2ac;
     --grayBrownLight: #f3f0ed;
@@ -243,16 +246,22 @@ export const GlobalStyle = createGlobalStyle`
     --pink: #852E50;
     --purpleDark: #31263E;
     --red: #D62828;
-    --white: #fff;
     --xanadu: #7E846B;
     --yellow: #FCBF49;
     --yellowDark: #e6a528;
     --yellowRgb: 255, 204, 0;
-    transition: all .25s;
+
+    --bg: #f5f6f6;
+    --bgSidebar: #F7F6F1;
+    --breadcrumbText: #666;
+    --links: #046A2E;
+    --linksBorder: #046A2E;
+    --sidebarLinksHover: #f26a00;
+    --textColor: #333;
+    --titlesImages: #fff;
   }
 
   body.dark {
-    --black: #000;
     --blue: #1660AA;
     --blueDark: #003049;
     --blueLight: #2BA8DF;
@@ -262,7 +271,6 @@ export const GlobalStyle = createGlobalStyle`
     --brownLight: #333;
     --brownLightOver: #eae8db;
     --brownVeryLight: #ece7e1;
-    --gray: #666;
     --grayBrown: #eadabe;
     --grayBrownDark: #cec2ac;
     --grayBrownLight: #f3f0ed;
@@ -276,11 +284,18 @@ export const GlobalStyle = createGlobalStyle`
     --pink: #852E50;
     --purpleDark: #31263E;
     --red: #D62828;
-    --white: #fff;
     --xanadu: #7E846B;
     --yellow: #FCBF49;
     --yellowDark: #e6a528;
     --yellowRgb: 255, 204, 0;
-    transition: all .25s;
+
+    --bg: #555;
+    --bgSidebar: #333;
+    --breadcrumbText: #ccc;
+    --links: #FCBF49;
+    --linksBorder: #f26a00;
+    --sidebarLinksHover: #ddd;
+    --textColor: #eee;
+    --titlesImages: #fff;
   }
 `;
