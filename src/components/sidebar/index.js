@@ -78,7 +78,7 @@ export default function Sidebar() {
         )}
       </S.LogoLink>
 
-      {renderLamps()}
+      {/* {renderLamps()} */}
 
       <Navigation isOpen={isOpen} />
 
@@ -90,7 +90,7 @@ export default function Sidebar() {
           </S.SearchLinkWrap>
         </S.SearchLink>
 
-        {renderLamps()}
+        {/* {renderLamps()} */}
         <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'} />
       </S.SidebarIcons>
     </S.Sidebar>

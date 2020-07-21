@@ -4,6 +4,11 @@ export const getCategoryBg = (category) => {
   return themes.palette.categories[category];
 };
 
+export const getTheme = () => typeof window !== 'undefined' && window.__theme;
+export const getInverseTheme = () =>
+  typeof window !== 'undefined' && (window.__theme === 'dark' ? 'light' : 'dark');
+export const themeIsDark = () => typeof window !== 'undefined' && window.__theme === 'dark';
+
 /* eslint max-len: 'off' */
 export const isMobile = () => {
   const agent = navigator.userAgent || navigator.vendor || window.opera;
