@@ -3,7 +3,7 @@ title: Como resolver erros no typescript com atributos nos componentes em React
 description: Trabalhar com typescript faz com que você precise tomar cuidados
   com tipagem e outras coisas. Veja como resolver problemas ao adicionar
   atributos/props em componentes.
-date: 2020-07-20T08:27:31.000Z
+date: 2020-07-21 10:26:31
 featuredImage: /uploads/typescript-in-react.jpg
 category: JavaScript
 ---
