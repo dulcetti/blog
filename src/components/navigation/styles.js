@@ -92,7 +92,7 @@ export const Item = styled.li`
 `;
 
 export const LinkMenu = styled(AniLink)`
-  color: ${themes.palette.sidebar.links};
+  color: ${themes.palette.general.links};
   display: block;
   font-family: ${themes.fonts.others};
   font-size: 1.5rem;
