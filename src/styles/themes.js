@@ -32,16 +32,16 @@ const _colors = {
 
 export const themes = {
   fonts: {
-    titles: `'Khand-Regular', sans-serif`,
-    others: `'Khand-Regular', sans-serif`,
+    titles: 'var(--fontStyles)',
+    others: 'var(--fontStyles)',
   },
   grid: {
     maxWidth: '68em',
   },
   palette: {
     breadcrumb: {
-      color: _colors.gray,
-      homeColor: _colors.gray,
+      color: 'var(--textBreadcrumb)',
+      homeColor: 'var(--links)',
     },
     categories: {
       'Back-End': _colors.xanadu,
@@ -58,12 +58,12 @@ export const themes = {
       'Webstandards': _colors.red,
     },
     general: {
-      bg: _colors.grayLight,
+      bg: 'var(--bg)',
       bgTransition: _colors.grayLight,
       borders: _colors.grayMedium,
       boxShadows: _colors.grayMedium,
-      color: _colors.grayDark,
-      links: _colors.orange,
+      color: 'var(--textColor)',
+      links: 'var(--links)',
       negativeColor: _colors.white,
       textShadows: _colors.grayDark,
     },
@@ -82,24 +82,15 @@ export const themes = {
       blockquoteBorder: _colors.green,
       borderInfos: _colors.grayLight,
       description: _colors.gray,
-      links: _colors.orange,
-      linksBorder: _colors.green,
+      links: 'var(--links)',
+      linksBorder: 'var(--linksBorder)',
       shadowCredits: _colors.grayMedium,
     },
     postList: {
-      categories: {
-        bg: _colors.orange,
-        text: _colors.white,
-      },
-      content: {
-        bg: _colors.grayLight,
-        readMore: _colors.green,
-        title: _colors.white,
-      },
-    },
-    search: {
-      bgInput: _colors.white,
-      statsColor: _colors.gray,
+      bgCategories: _colors.orange,
+      bgContent: _colors.grayLight,
+      readMore: _colors.green,
+      text: 'var(--textThumbs)',
     },
     about: {
       firstBorder: _colors.orangeRgb,
@@ -108,13 +99,11 @@ export const themes = {
       titleBorderBefore: _colors.yellowDark,
     },
     sidebar: {
-      bg: _colors.brownLight,
-      bgFooter: _colors.brownLight,
-      bgMobile: _colors.brownLightOver,
-      bgLinkHover: _colors.white,
-      links: _colors.green,
-      linksHover: _colors.orange,
-      name: _colors.grayDark,
+      bg: 'var(--bgSidebar)',
+      bgLinkHover: 'var(--bg)',
+      links: 'var(--links)',
+      linksHover: 'var(--sidebarLinksHover)',
+      name: 'var(--text)',
     },
   },
 };
