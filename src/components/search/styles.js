@@ -40,11 +40,11 @@ export const SearchWrapper = styled.section`
   }
 
   .ais-Stats {
-    color: ${themes.palette.search.statsColor};
+    color: var(--text);
   }
 
   .ais-SearchBox-input {
-    background-color: ${themes.palette.search.bgInput};
+    background-color: var(--bg);
     border: 0;
     box-shadow: 0 0 5px 1px ${themes.palette.general.boxShadows};
     color: #222;
