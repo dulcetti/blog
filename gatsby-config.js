@@ -46,7 +46,7 @@ const pluginConfig = [
         {
           resolve: 'gatsby-remark-images',
           options: {
-            maxWith: 980,
+            maxWidth: 980,
             linkImagesToOriginal: false,
           },
         },
