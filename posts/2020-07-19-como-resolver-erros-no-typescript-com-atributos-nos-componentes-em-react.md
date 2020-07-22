@@ -7,6 +7,7 @@ date: 2020-07-21 10:26:31
 featuredImage: /uploads/typescript-in-react.jpg
 category: JavaScript
 ---
+
 Como estamos, meus nobres codeiros, cafeteiros e cervejeiros. Duas semanas sem escrever e já fico até preocupado com a contribuição, mas aqui está o artigo. Esse será um artigo rápido, prometo, que falarei sobre typescript, react e erros.
 
 ## React com Typescript é lindo
@@ -42,7 +43,7 @@ No overload matches this call.
 
 No código CSS nós temos essa parte aqui pra aplicar:
 
-```css
+```javascript
 export const Banner = styled.div`
   background: #000 url(${(props) => props.theme.background}) no-repeat;
 `;
@@ -56,13 +57,13 @@ Voltando ao problema, viram que dá erro, pois como o elemento é uma div e essa
 
 Simples, serão dois passos. O primeiro é adicionar um type para sua tag dizendo que ela terá um atributo background que será uma string, depois é só entrar no seu código de estilos do `styled-componenets` e trocar o seguinte código:
 
-```css
+```javascript
 export const Banner = styled.div`
 ```
 
-por esse:
+Por esse:
 
-```css
+```typescript
 type PropTypeBg = {
   background: string;
 };
@@ -74,15 +75,15 @@ export const Banner = styled.div.attrs((props: PropTypeBg) => ({
 
 Perceba o seguinte:
 
-* O tipo foi adicionado. Eu batizei de `PropTypeBg`, fique à vontade de chamar com o fodasse que quiser;
-* Dentro desse tipo foi adicionado o parâmetro background. Caso você precise de mais, sem problemas, só adicionar outros;
-* Na exportação do Banner nós vemos que o styled chama a tag e depois um nó `attrs`, simples assim. Nele você passa uma arrow function passando o props com o tipo que você acabou de criar, no meu caso foi o `PropTypeBg;`
-* Feito isso, você diz que o atributo background que será utilzado no estilo recebe o valor via props;
-* Depois é só festa, sem erros, sem nada.
+- O tipo foi adicionado. Eu batizei de `PropTypeBg`, fique à vontade de chamar com o fodasse que quiser;
+- Dentro desse tipo foi adicionado o parâmetro background. Caso você precise de mais, sem problemas, só adicionar outros;
+- Na exportação do Banner nós vemos que o styled chama a tag e depois um nó `attrs`, simples assim. Nele você passa uma arrow function passando o props com o tipo que você acabou de criar, no meu caso foi o `PropTypeBg;`
+- Feito isso, você diz que o atributo background que será utilzado no estilo recebe o valor via props;
+- Depois é só festa, sem erros, sem nada.
 
 O código completo fica assim:
 
-```css
+```typescript
 type PropTypeBg = {
   background: string;
 };
