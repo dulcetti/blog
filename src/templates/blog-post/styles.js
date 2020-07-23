@@ -5,10 +5,10 @@ import { themes } from '../../styles/themes';
 
 export const PostWrap = styled.div`
   margin: auto;
-  max-width: ${themes.grid.maxWidth};
+  max-width: var(--maxWidth);
 
   ${media.lessThan('large')`
-    padding: 20px;
+    padding: 1.25rem;
   `}
 `;
 
@@ -19,7 +19,7 @@ export const PostTitle = styled.h1`
 `;
 
 export const PostDescription = styled.h2`
-  color: ${themes.palette.posts.description};
+  color: var(--text);
   font-style: italic;
   font-weight: normal;
   line-height: 1.2;
@@ -35,10 +35,10 @@ export const PostDescription = styled.h2`
 `;
 
 export const PostInfos = styled.p`
-  background-color: ${(prop) => `${themes.palette.categories[prop.color]}`};
-  color: ${themes.palette.general.negativeColor};
+  background-color: ${(prop) => `${themes.categories[prop.color]}`};
+  color: var(--negativeColor);
   display: flex;
-  font-family: ${themes.fonts.others};
+  font-family: var(--fontStyles);
   justify-content: space-between;
 
   ${media.lessThan('large')`
@@ -73,7 +73,7 @@ export const TimeToRead = styled.span`
   }
 
   ${media.lessThan('large')`
-    border-top: 1px solid ${themes.palette.posts.borderInfos};
+    border-top: 1px solid var(--postsBorderInfos);
     margin-top: 5px;
     order: 3;
     padding-top: 5px;
@@ -82,7 +82,7 @@ export const TimeToRead = styled.span`
 `;
 
 export const PostContent = styled.section`
-  color: ${themes.palette.general.color};
+  color: var(--textColor);
   font-size: 1.25rem;
 
   p,
@@ -116,11 +116,11 @@ export const PostContent = styled.section`
     margin-bottom: 0.5rem;
 
     ${media.lessThan('medium')`
-      padding-left: 15px;
+      padding-left: 1rem;
     `}
 
     ${media.greaterThan('medium')`
-      padding-left: 25px;
+      padding-left: 1.6rem;
     `}
   }
 
@@ -143,11 +143,11 @@ export const PostContent = styled.section`
   }
 
   blockquote {
-    background-color: ${themes.palette.posts.blockquoteBg};
-    border-left: 0.3rem solid ${themes.palette.posts.blockquoteBorder};
-    color: ${themes.palette.general.color};
+    background-color: var(--blockquoteBg);
+    border-left: 0.3rem solid var(--blockquoteBorder);
+    color: var(--textColor);
     display: block;
-    font-family: ${themes.fonts.others};
+    font-family: var(--fontStyles);
     font-size: min(30px, 7vw);
     font-style: italic;
     line-height: min(36px, 8vw);
@@ -165,7 +165,7 @@ export const PostContent = styled.section`
   h4,
   h5,
   h6 {
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
   }
 
   h2 {
@@ -216,8 +216,12 @@ export const PostContent = styled.section`
     }
   }
 
+  .gatsby-highlight {
+    margin-bottom: 1.5rem;
+  }
+
   a {
-    color: ${themes.palette.posts.links};
+    color: var(--links);
     position: relative;
     transition: color 0.3s;
 
@@ -235,7 +239,7 @@ export const PostContent = styled.section`
 
     &:hover {
       &:before {
-        background-color: ${themes.palette.posts.linksBorder};
+        background-color: var(--linksBorder);
         transform: scaleX(1);
         visibility: visible;
       }
