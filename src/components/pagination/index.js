@@ -20,7 +20,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               to="/"
               className="first">
@@ -32,7 +32,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               to={previousPage}
               className="previous">
@@ -48,7 +48,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               to={nextPage}
               className="next">
@@ -60,7 +60,7 @@ export default function Pagination({ currentPage, totalPages }) {
             <S.ActionLinks
               cover
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               to={`/page/${totalPages}`}
               className="last">
