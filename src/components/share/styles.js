@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import { themes } from '../../styles/themes';
 
 export const ShareContainer = styled.div`
   ${media.lessThan('medium')`
@@ -26,7 +25,7 @@ export const ButtonShare = styled.button`
     border-radius: 50%;
     border: 0;
     border: none;
-    box-shadow: 0 0 10px 1px ${themes.palette.general.boxShadows};
+    box-shadow: 0 0 10px 1px var(--shadows);
     cursor: pointer;
     display:flex;
     height: inherit;
@@ -60,7 +59,7 @@ export const ShareTitle = styled.h2`
 
 export const LabelShare = styled.div`
   bottom: -37px;
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
   font-size: 0.85rem;
   font-weight: bold;
   height: 80px;
