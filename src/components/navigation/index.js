@@ -26,22 +26,12 @@ export default function Navigation({ isOpen }) {
   return (
     <S.Navigation className={isOpen && 'active'}>
       <S.Menu>
-        <AniLink
-          swipe
-          direction="left"
-          bg={themes.palette.general.bgTransition}
-          duration={0.6}
-          to="/">
+        <AniLink swipe direction="left" bg={themes.bgTransition} duration={0.6} to="/">
           <S.Thumb fluid={avatar.childImageSharp.fluid} />
         </AniLink>
 
         <S.Name>
-          <AniLink
-            swipe
-            direction="left"
-            bg={themes.palette.general.bgTransition}
-            duration={0.6}
-            to="/">
+          <AniLink swipe direction="left" bg={themes.bgTransition} duration={0.6} to="/">
             Bruno Dulcetti
           </AniLink>
         </S.Name>
@@ -50,7 +40,7 @@ export default function Navigation({ isOpen }) {
             <S.Item key={index}>
               <S.LinkMenu
                 activeClassName="active"
-                bg={themes.palette.general.bgTransition}
+                bg={themes.bgTransition}
                 direction="left"
                 duration={0.6}
                 swipe
