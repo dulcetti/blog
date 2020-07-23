@@ -64,12 +64,7 @@ export default function Sidebar() {
 
   return (
     <S.Sidebar>
-      <S.LogoLink
-        swipe
-        direction="left"
-        bg={themes.palette.general.bgTransition}
-        duration={0.6}
-        to="/">
+      <S.LogoLink swipe direction="left" bg={themes.bgTransition} duration={0.6} to="/">
         <Img fluid={logo.childImageSharp.fluid} />
         {location === '/' || location === '/sobre/' ? (
           <S.Title>Bruno Dulcetti</S.Title>
@@ -78,7 +73,7 @@ export default function Sidebar() {
         )}
       </S.LogoLink>
 
-      {/* {renderLamps()} */}
+      {renderLamps()}
 
       <Navigation isOpen={isOpen} />
 
@@ -90,7 +85,7 @@ export default function Sidebar() {
           </S.SearchLinkWrap>
         </S.SearchLink>
 
-        {/* {renderLamps()} */}
+        {renderLamps()}
         <S.ToggleOpenClose onClick={toggleMenu} className={isOpen && 'active'} />
       </S.SidebarIcons>
     </S.Sidebar>
