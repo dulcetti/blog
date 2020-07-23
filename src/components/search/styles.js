@@ -1,13 +1,12 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import { themes } from '../../styles/themes';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
 export const SearchWrapper = styled.section`
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  max-width: ${themes.grid.maxWidth};
+  max-width: var(--maxWidth);
   transition: opacity 0.4s;
   width: 100%;
 
@@ -36,7 +35,7 @@ export const SearchWrapper = styled.section`
   }
 
   .ais-Hits-list > li:first-child > a {
-    border-top: 1px solid ${themes.palette.general.borders};
+    border-top: 1px solid var(--borders);
   }
 
   .ais-Stats {
@@ -46,8 +45,8 @@ export const SearchWrapper = styled.section`
   .ais-SearchBox-input {
     background-color: var(--bg);
     border: 0;
-    box-shadow: 0 0 5px 1px ${themes.palette.general.boxShadows};
-    color: #222;
+    box-shadow: 0 0 5px 1px var(--shadows);
+    color: var(--text);
     height: 50px;
     opacity: 1;
     outline: none;
@@ -71,7 +70,7 @@ export const SearchWrapper = styled.section`
     }
 
     &:focus {
-      box-shadow: 0 0 6px 3px ${themes.palette.general.boxShadows};
+      box-shadow: 0 0 6px 3px var(--shadows);
       transition: box-shadow 0.3s;
     }
   }
@@ -84,7 +83,7 @@ export const SearchWrapper = styled.section`
 
 // List Search
 export const LinkPostSearch = styled(AniLink)`
-  border-bottom: 1px solid ${themes.palette.general.borders};
+  border-bottom: 1px solid var(--borders);
   display: flex;
   transition: padding 0.3s;
 
@@ -115,7 +114,7 @@ export const LinkPostSearch = styled(AniLink)`
 export const CategoryPostSearch = styled.div`
   background-color: ${(props) => props.bg};
   color: #fff;
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
 
   ${media.lessThan('small')`
     align-items: center;
@@ -167,7 +166,7 @@ export const InfosPost = styled.div`
 `;
 
 export const TitlePostSearch = styled.h2`
-  color: ${(props) => props.color};
+  color: var(--textColor);
   display: inline-block;
 
   ${media.lessThan('large')`
@@ -177,7 +176,7 @@ export const TitlePostSearch = styled.h2`
 `;
 
 export const DescriptionPostSearch = styled.p`
-  color: ${themes.palette.general.color};
+  color: var(--textColor);
   width: 100%;
 
   ${media.lessThan('large')`
@@ -191,7 +190,7 @@ export const DescriptionPostSearch = styled.p`
 `;
 
 export const DatePostSearch = styled.p`
-  color: ${themes.palette.general.color};
-  font-family: ${themes.fonts.others};
+  color: var(--textColor);
+  font-family: var(--fontStyles);
   font-weight: bold;
 `;

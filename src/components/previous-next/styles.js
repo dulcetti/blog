@@ -1,11 +1,10 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
 import { Link } from 'gatsby';
-import { themes } from '../../styles/themes';
 
 export const WrapPreviousNext = styled.section`
-  border-bottom: 1px solid ${themes.palette.general.borders};
-  border-top: 1px solid ${themes.palette.general.borders};
+  border-bottom: 1px solid var(--borders);
+  border-top: 1px solid var(--borders);
   display: flex;
   justify-content: space-between;
   margin: 30px 0;
@@ -54,7 +53,7 @@ export const LinksNavigation = styled(Link)`
   }
 
   &.-previous {
-    border-right: 1px solid ${themes.palette.general.borders};
+    border-right: 1px solid var(--borders);
 
     ${media.lessThan('medium')`
       padding-right: 10px;
@@ -93,7 +92,7 @@ export const LinksNavigation = styled(Link)`
 
     section.-singlePrevious & {
       ${media.greaterThan('small')`
-        border-left: 1px solid ${themes.palette.general.borders};
+        border-left: 1px solid var(--borders);
       `}
     }
 
@@ -122,16 +121,16 @@ export const LinksNavigation = styled(Link)`
 export const LinkInfos = styled.span``;
 
 export const LinksLabel = styled.span`
-  color: ${themes.palette.general.color};
+  color: var(--textColor);
   display: block;
   font-size: 0.9rem;
   margin-bottom: 5px;
 `;
 
 export const LinksTitle = styled.strong`
-  color: ${themes.palette.general.links};
+  color: var(--links);
   display: block;
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
   max-width: 450px;
 
   ${media.lessThan('medium')`

@@ -2,12 +2,11 @@ import styled from 'styled-components';
 import media from 'styled-media-query';
 import Img from 'gatsby-image';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
-import { themes } from '../../styles/themes';
 
 export const Navigation = styled.section`
   ${media.lessThan('large')`
-    background-color: ${themes.palette.sidebar.bg};
-    border-top: 1px solid ${themes.palette.general.boxShadows};
+    background-color: var(--bg);
+    border-top: 1px solid var(--shadows);
     bottom: 0;
     display: flex;
     flex-direction: column;
@@ -49,7 +48,7 @@ export const Thumb = styled(Img)`
 `;
 
 export const Name = styled.h2`
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
   text-align: center;
   word-spacing: -2px;
 
@@ -66,7 +65,7 @@ export const Name = styled.h2`
   `}
 
   > a {
-    color: ${themes.palette.sidebar.name};
+    color: var(--name);
   }
 `;
 
@@ -83,18 +82,18 @@ export const Menu = styled.nav`
 export const List = styled.ul``;
 
 export const Item = styled.li`
-  border-bottom: 1px solid ${themes.palette.general.borders};
+  border-bottom: 1px solid var(--borders);
   width: 100%;
 
   &:first-child {
-    border-top: 1px solid ${themes.palette.general.borders};
+    border-top: 1px solid var(--borders);
   }
 `;
 
 export const LinkMenu = styled(AniLink)`
-  color: ${themes.palette.general.links};
+  color: var(--links);
   display: block;
-  font-family: ${themes.fonts.others};
+  font-family: var(--fontStyles);
   font-size: 1.5rem;
   line-height: 1.25;
   position: relative;
@@ -133,11 +132,11 @@ export const LinkMenu = styled(AniLink)`
 
   &:hover,
   &.active {
-    color: ${themes.palette.sidebar.linksHover};
+    color: var(--sidebarLinksHover);
     transition: color 0.3s;
 
     &:before {
-      background-color: ${themes.palette.sidebar.bgLinkHover};
+      background-color: var(--sidebarBgLinkHover);
       transform: scaleX(1);
       transform-origin: 100% 50%;
       transition: transform 0.2s ease-in-out 0s;

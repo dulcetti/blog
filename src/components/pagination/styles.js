@@ -2,10 +2,8 @@ import styled from 'styled-components';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import media from 'styled-media-query';
 
-import { themes } from '../../styles/themes';
-
 export const PaginationContent = styled.aside`
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
   text-align: center;
 
   ${media.lessThan('large')`
@@ -15,9 +13,9 @@ export const PaginationContent = styled.aside`
 
 export const PaginationWrap = styled.nav`
   align-items: center;
-  background-color: ${themes.palette.pagination.bgWrap};
+  background-color: var(--paginationBg);
   border-radius: 30px;
-  border: 3px solid ${themes.palette.pagination.bordersWrap};
+  border: 3px solid var(--paginationBorderWrap);
   display: flex;
   justify-content: space-between;
   margin-bottom: 12px;
@@ -32,9 +30,9 @@ export const PaginationWrap = styled.nav`
 `;
 
 export const ActionLinks = styled(AniLink)`
-  border-right: 1px solid ${themes.palette.pagination.borderDarkLinks};
-  border-left: 1px solid ${themes.palette.pagination.borderLightLinks};
-  color: ${themes.palette.pagination.text};
+  border-right: 1px solid var(--paginationBorderDark);
+  border-left: 1px solid var(--paginationBorderLight);
+  color: var(--paginationLink);
   font-weight: bold;
   font-size: 22px;
   padding: 10px 0;
@@ -42,8 +40,8 @@ export const ActionLinks = styled(AniLink)`
   width: 25%;
 
   &:hover {
-    background-color: ${themes.palette.pagination.bgHoverLinks};
-    color: ${themes.palette.pagination.active};
+    background-color: var(--paginationLinkBg);
+    color: var(--paginationLinkHover);
     transition: background-color 0.3s, color 0.3s;
 
     span {
@@ -99,7 +97,7 @@ export const Icon = styled.i`
 `;
 
 export const ActualPage = styled.strong`
-  border-bottom: 2px solid ${themes.palette.pagination.active};
+  border-bottom: 2px solid var(--paginationActive);
   display: inline-block;
   font-weight: bold;
   line-height: 18px;

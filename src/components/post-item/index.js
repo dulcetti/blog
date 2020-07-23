@@ -10,12 +10,7 @@ export default function PostItem({ post, slug, time }) {
   return (
     <>
       <S.Post>
-        <S.LinkPost
-          cover
-          direction="left"
-          bg={themes.palette.general.bgTransition}
-          duration={0.6}
-          to={slug}>
+        <S.LinkPost cover direction="left" bg={themes.bgTransition} duration={0.6} to={slug}>
           <Img fluid={post.featuredImage.childImageSharp.fluid} />
           <S.Content className="infos-post">
             <S.TitlePost>{post.title}</S.TitlePost>

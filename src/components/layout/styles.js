@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import media from 'styled-media-query';
-import { themes } from '../../styles/themes';
 
 export const LayoutWrapper = styled.section`
   display: flex;
@@ -12,7 +11,7 @@ export const LayoutWrapper = styled.section`
 `;
 
 export const LayoutMain = styled.main`
-  background-color: ${themes.palette.general.bg};
+  background-color: var(--bg);
   grid-template-areas: 'posts';
   min-height: 100vh;
   width: 100%;

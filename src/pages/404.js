@@ -23,7 +23,7 @@ export default function NotFoundPage() {
             <AniLink
               swipe
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               className="link-animated"
               to="/busca/">
@@ -36,7 +36,7 @@ export default function NotFoundPage() {
             <AniLink
               swipe
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               className="link-animated"
               to="/">

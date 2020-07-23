@@ -2,8 +2,6 @@ import styled from 'styled-components';
 import media from 'styled-media-query';
 import Img from 'gatsby-image';
 
-import { themes } from '../themes';
-
 export const PageFluid = styled.div`
   ${media.lessThan('large')`
     padding: 20px;
@@ -23,7 +21,7 @@ export const AboutSection = styled.section`
   `}
 
   ${media.greaterThan('large')`
-    border-bottom: 1px solid ${themes.palette.general.borders};
+    border-bottom: 1px solid var(--borders);
     min-height: 100vh;
     padding-left: 30vw;
   `}
@@ -77,8 +75,8 @@ export const AboutImage = styled(Img)`
   }
 
   &:after {
-    border-bottom-color: rgba(${themes.palette.about.secondBorder}, 0.5);
-    border-right-color: rgba(${themes.palette.about.secondBorder}, 0.5);
+    border-bottom-color: rgba(var(--aboutSecondBorder), 0.5);
+    border-right-color: rgba(var(--aboutSecondBorder), 0.5);
     height: 35%;
     width: 45%;
 
@@ -93,8 +91,8 @@ export const AboutImage = styled(Img)`
   }
 
   &:before {
-    border-bottom-color: rgba(${themes.palette.about.firstBorder}, 0.5);
-    border-right-color: rgba(${themes.palette.about.firstBorder}, 0.5);
+    border-bottom-color: rgba(var(--aboutFirstBorder), 0.5);
+    border-right-color: rgba(var(--aboutFirstBorder), 0.5);
     bottom: 30px;
     height: 55%;
     right: 30px;
@@ -118,13 +116,13 @@ export const AboutImage = styled(Img)`
     }
 
     &:after {
-      border-color: rgba(${themes.palette.about.secondBorder}, 0.75);
+      border-color: rgba(var(--aboutSecondBorder), 0.75);
       bottom: 55px;
       right: 55px;
     }
 
     &:before {
-      border-color: rgba(${themes.palette.about.firstBorder}, 0.75);
+      border-color: rgba(var(--aboutFirstBorder), 0.75);
       bottom: 35px;
       right: 35px;
     }
@@ -132,7 +130,7 @@ export const AboutImage = styled(Img)`
 `;
 
 export const TitleSection = styled.h2`
-  border-bottom: 4px solid ${themes.palette.about.titleBorder};
+  border-bottom: 4px solid var(--aboutTitleBorder);
   display: inline-block;
   font-size: min(52px, 9vw);
   line-height: min(56px, 10vw);
@@ -147,7 +145,7 @@ export const TitleSection = styled.h2`
   `}
 
   &:before {
-    background-color: ${themes.palette.about.titleBorderBefore};
+    background-color: var(--aboutTitleBorderBefore);
     bottom: -6px;
     content: '';
     display: block;
@@ -167,21 +165,21 @@ export const TitleSection = styled.h2`
 `;
 
 export const TitleSectionImage = styled.h2`
-  color: ${themes.palette.general.negativeColor};
+  color: var(--titlesImages);
   position: absolute;
-  text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
+  text-shadow: 2px 2px 2px var(--textShadow);
   z-index: 2;
 
   ${media.lessThan('767px')`
     bottom: 50px;
-    font: bold 2rem ${themes.fonts.titles};
+    font: bold 2rem var(--fontStyles);
     line-height: 2rem;
     right: 55px;
   `}
 
   ${media.greaterThan('medium')`
     bottom: 70px;
-    font: bold 3rem ${themes.fonts.titles};
+    font: bold 3rem var(--fontStyles);
     line-height: 3rem;
     right: 75px;
   `}
@@ -248,7 +246,7 @@ export const IconWrapper = styled.span`
 `;
 
 export const CareerTitle = styled.p`
-  font-family: ${themes.fonts.others};
+  font-family: var(--fontStyles);
   font-size: 1.3rem;
 `;
 

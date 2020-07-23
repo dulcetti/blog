@@ -13,14 +13,14 @@ export default function Hit({ hit }) {
       <S.LinkPostSearch
         cover
         direction="left"
-        bg={themes.palette.general.bgTransition}
+        bg={themes.bgTransition}
         duration={0.6}
         to={fields.slug}>
         <S.CategoryPostSearch bg={getCategoryBg(category)}>
           <p>{category}</p>
         </S.CategoryPostSearch>
         <S.InfosPost>
-          <S.TitlePostSearch color={getCategoryBg(category)}>{title}</S.TitlePostSearch>
+          <S.TitlePostSearch>{title}</S.TitlePostSearch>
           <S.DescriptionPostSearch>
             {description || `${_snippetResult.excerpt.value}...`}
           </S.DescriptionPostSearch>

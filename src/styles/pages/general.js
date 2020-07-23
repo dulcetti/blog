@@ -4,11 +4,10 @@ import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import Img from 'gatsby-image';
 
 import { SocialMedias } from '../../components';
-import { themes } from '../themes';
 
 export const PagesWrap = styled.div`
   margin: auto;
-  max-width: ${themes.grid.maxWidth};
+  max-width: var(--maxWidth);
 
   ${media.lessThan('large')`
     padding: 1rem 1.3rem;
@@ -82,28 +81,17 @@ export const SocialMediasContact = styled(SocialMedias)`
   `}
 
   ${media.greaterThan('large')`
-    justify-content: flex-start;
+    justify-content: space-between;
     margin-bottom: 50px;
   `}
 
   > li {
     height: 64px;
+    margin: 0;
     width: 64px;
 
     ${media.lessThan('large')`
       margin-bottom: 20px;
-      
-      &:first-child {
-        margin-left: 0;
-      }
-
-      &:last-child {
-        margin-right: 0;
-      }
-    `}
-
-    ${media.greaterThan('large')`
-      margin: 0 20px;
     `}
   }
 `;

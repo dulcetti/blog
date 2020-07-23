@@ -2,8 +2,6 @@ import styled from 'styled-components';
 import media from 'styled-media-query';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
-import { themes } from '../../styles/themes';
-
 export const ToggleTheme = styled.button`
   border: 0;
   cursor: pointer;
@@ -11,7 +9,7 @@ export const ToggleTheme = styled.button`
   ${media.lessThan('large')`
     align-items: center;
     background-color: transparent;  
-    border-right: 1px solid ${themes.palette.general.borders};
+    border-right: 1px solid var(--borders);
     display: inline-flex;
     height: inherit;
     padding: 0 12px;
@@ -50,7 +48,7 @@ export const ToggleTheme = styled.button`
 `;
 
 export const Sidebar = styled.aside`
-  background-color: ${themes.palette.sidebar.bg};
+  background-color: var(--sidebarBg);
   position: fixed;
 
   > ${ToggleTheme} {
@@ -60,7 +58,7 @@ export const Sidebar = styled.aside`
   }
 
   ${media.greaterThan('large')`
-    box-shadow: 0 1px 6px 0 ${themes.palette.general.boxShadows};
+    box-shadow: 0 1px 6px 0 var(--shadows);
     display: grid;
     grid-area: sidebar;
     grid-template-rows: 50px auto 15px;
@@ -73,7 +71,7 @@ export const Sidebar = styled.aside`
 
   ${media.lessThan('large')`
     align-items: center;
-    box-shadow: 0px 1px 1px 1px ${themes.palette.general.boxShadows};
+    box-shadow: 0px 1px 1px 1px var(--shadows);
     display: flex;
     height: 55px;
     justify-content: space-between;
@@ -116,7 +114,7 @@ export const InternalTitle = styled.strong`
 `;
 
 export const Text = styled.p`
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
   font-size: 0.95rem;
   text-align: center;
 
@@ -139,8 +137,8 @@ export const SidebarIcons = styled.div`
 export const SearchLink = styled(AniLink)`
   ${media.lessThan('large')`
     align-items: center;
-    border-left: 1px solid ${themes.palette.general.borders};
-    border-right: 1px solid ${themes.palette.general.borders};
+    border-left: 1px solid var(--borders);
+    border-right: 1px solid var(--borders);
     display: inline-flex;
     height: inherit;
     padding: 0 12px;

@@ -1,5 +1,4 @@
 import { createGlobalStyle } from 'styled-components';
-import { themes } from './themes';
 
 export const GlobalStyle = createGlobalStyle`
   *,
@@ -38,7 +37,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: ${themes.fonts.titles};
+    font-family: var(--fontStyles);
     font-weight: 700;
   }
 
@@ -71,8 +70,8 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   mark {
-    background-color: ${themes.palette.posts.blockquoteBg};
-    color: ${themes.palette.general.color};
+    background-color: #fff;
+    color: var(--textColor);
   }
 
   small {
@@ -214,9 +213,29 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     --black: #000;
+    --blue: #1660AA;
+    --blueLight: #2BA8DF;
+    --bronze: #AA735F;
+    --green: #046A2E;
+    --greenSea: #79B791;
+    --orange: #f26a00;
+    --pink: #852E50;
+    --purpleDark: #31263E;
+    --red: #D62828;
+    --xanadu: #7E846B;
+    --yellow: #f3a91a;
+
+    --aboutFirstBorder: 255, 204, 0,
+    --aboutSecondBorder: 230, 146, 74,
+    --aboutTitleBorder: var(--yellow),
+    --aboutTitleBorderBefore: #e6a528,
+    --creditsBg: #ffF;
+    --creditsLink: var(--orange);
+    --creditsShadow: #bbb;
     --fontStyles: 'Khand-Regular', sans-serif;
+    --maxWidth: 68em;
     --textThumbs: #eee;
-    --white: #fff;
+    --negativeColor: #fff;
     color: var(--textColor);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     min-height: 100%;
@@ -224,78 +243,68 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body.light {
-    --blue: #1660AA;
-    --blueDark: #003049;
-    --blueLight: #2BA8DF;
-    --bronze: #AA735F;
-    --brown: #a68e69;
-    --brownDark: #5a5038;
-    --brownLight: #F7F6F1;
-    --brownLightOver: #eae8db;
-    --brownVeryLight: #ece7e1;
-    --grayBrown: #eadabe;
-    --grayBrownDark: #cec2ac;
-    --grayBrownLight: #f3f0ed;
-    --grayDark: #333;
-    --grayLight: #f5f6f6;
-    --grayMedium: #bbb;
-    --green: #046A2E;
-    --greenSea: #79B791;
-    --orange: #f26a00;
-    --orangeRgb: 230, 146, 74;
-    --pink: #852E50;
-    --purpleDark: #31263E;
-    --red: #D62828;
-    --xanadu: #7E846B;
-    --yellow: #FCBF49;
-    --yellowDark: #e6a528;
-    --yellowRgb: 255, 204, 0;
+    --bgTransition: #f5f6f6;
 
     --bg: #f5f6f6;
-    --bgSidebar: #F7F6F1;
+    --blockquoteBg: #fff;
+    --blockquoteBorder: var(--green);
+    --borders: #bbb;
     --breadcrumbText: #666;
-    --links: #046A2E;
+    --iconsColor: #555;
+    --links: #f26a00;
     --linksBorder: #046A2E;
-    --sidebarLinksHover: #f26a00;
+    --paginationActive: var(--orange);
+    --paginationBg: #ece7e1;
+    --paginationBorderDark: #cec2ac;
+    --paginationBorderLight: #f3f0ed;
+    --paginationBorderWrap: #a68e69;
+    --paginationLink: #5a5038;
+    --paginationLinkBg: #eadabe;
+    --paginationLinkHover: var(--orange);
+    --postsBorderInfos: #f5f6f6;
+    --postListReadMore: var(--green);
+    --postListBgCategories: var(--orange);
+    --shadows: #bbb;
+    --sidebarBg: #efecdf;
+    --sidebarBgLinkHover: #fff;
+    --sidebarLinksHover: #046A2E;
     --textColor: #333;
+    --textShadows: #333;
     --titlesImages: #fff;
   }
 
   body.dark {
-    --blue: #1660AA;
-    --blueDark: #003049;
-    --blueLight: #2BA8DF;
-    --bronze: #AA735F;
-    --brown: #a68e69;
-    --brownDark: #5a5038;
-    --brownLight: #333;
-    --brownLightOver: #eae8db;
-    --brownVeryLight: #ece7e1;
-    --grayBrown: #eadabe;
-    --grayBrownDark: #cec2ac;
-    --grayBrownLight: #f3f0ed;
-    --grayDark: #333;
-    --grayLight: #555;
-    --grayMedium: #777;
-    --green: #046A2E;
-    --greenSea: #79B791;
-    --orange: #f26a00;
-    --orangeRgb: 230, 146, 74;
-    --pink: #852E50;
-    --purpleDark: #31263E;
-    --red: #D62828;
-    --xanadu: #7E846B;
-    --yellow: #FCBF49;
-    --yellowDark: #e6a528;
-    --yellowRgb: 255, 204, 0;
+    --bgTransition: #333;
 
-    --bg: #555;
-    --bgSidebar: #333;
+    --bg: #444;
+    --blockquoteBg: #000;
+    --blockquoteBorder: var(--green);
+    --borders: #777;
     --breadcrumbText: #ccc;
+    --iconsColor: #eee;
     --links: #FCBF49;
     --linksBorder: #f26a00;
-    --sidebarLinksHover: #ddd;
+    --paginationActive: var(--orange);
+    --paginationBg: #333;
+    --paginationBorderDark: #000;
+    --paginationBorderLight: #666;
+    --paginationBorderWrap: #555;
+    --paginationLink: #ccc;
+    --paginationLinkBg: #444;
+    --paginationLinkHover: var(--yellow);
+    --postsBorderInfos: #555;
+    --postListReadMore: var(--green);
+    --postListBgCategories: var(--orange);
+    --shadows: #555;
+    --sidebarBg: #333;
+    --sidebarBgLinkHover: #444;
+    --sidebarLinksHover: #ccc;
     --textColor: #eee;
+    --textShadows: #333;
     --titlesImages: #fff;
+  }
+
+  .icons {
+    fill: var(--iconsColor);
   }
 `;

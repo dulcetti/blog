@@ -1,3 +1,5 @@
+import { themeIsDark } from '../../utils';
+
 const defaultConfigs = {
   backgroundColor: 'rgba(230,146,74,0.2)',
   borderColor: 'rgba(230,146,74,1)',
@@ -30,6 +32,8 @@ export const myAllSkills = {
       ...defaultConfigs,
       data: allData,
       label: 'Minhas Skills',
+      color: 'white',
+      fontColor: 'white',
     },
   ],
 };
@@ -57,6 +61,7 @@ export const mySecondSkills = {
 };
 
 export const optionsBar = {
+  defaultFontColor: 'white',
   scales: {
     xAxes: [
       {
@@ -72,5 +77,10 @@ export const optionsBar = {
         },
       },
     ],
+  },
+  legend: {
+    labels: {
+      fontColor: themeIsDark() ? 'white' : 'black',
+    },
   },
 };

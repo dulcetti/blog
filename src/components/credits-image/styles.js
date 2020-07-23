@@ -1,8 +1,7 @@
 import styled from 'styled-components';
+import media from 'styled-media-query';
 import Img from 'gatsby-image';
 import Icons from '../icons';
-import { themes } from '../../styles/themes';
-import media from 'styled-media-query';
 
 export const BoxImage = styled.div`
   position: relative;
@@ -15,7 +14,7 @@ export const BoxImage = styled.div`
 export const FeaturedImage = styled(Img)``;
 
 export const BoxCredits = styled.div`
-  background-color: ${themes.palette.posts.bgCredits};
+  background-color: var(--creditsBg);
   border-radius: 3px 0 0 3px;
   position: absolute;
 
@@ -32,7 +31,7 @@ export const BoxCredits = styled.div`
   `}
 
   &:after {
-    border-color: ${themes.palette.posts.shadowCredits} transparent transparent transparent;
+    border-color: var(--creditsShadow) transparent transparent transparent;
     border-style: solid;
     border-width: 5px 5px 0 0;
     bottom: -5px;
@@ -46,7 +45,7 @@ export const BoxCredits = styled.div`
 `;
 
 export const LabelCredits = styled.p`
-  font-family: ${themes.fonts.titles};
+  font-family: var(--fontStyles);
 
   ${media.greaterThan('large')`
     font-size: 1.1rem;
@@ -57,7 +56,7 @@ export const Photographer = styled.span`
   vertical-align: middle;
 
   > a {
-    color: ${themes.palette.posts.links};
+    color: var(--creditsLink);
 
     &:hover {
       text-decoration: underline;

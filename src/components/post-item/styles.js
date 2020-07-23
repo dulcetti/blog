@@ -2,15 +2,13 @@ import styled from 'styled-components';
 import media from 'styled-media-query';
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 
-import { themes } from '../../styles/themes';
-
 export const Post = styled.div`
   min-height: 200px;
   text-align: center;
 `;
 
 export const LinkPost = styled(AniLink)`
-  color: ${themes.palette.general.negativeColor};
+  color: var(--negativeColor);
   display: block;
   overflow: hidden;
   position: relative;
@@ -54,34 +52,34 @@ export const Content = styled.div`
 `;
 
 export const Category = styled.strong`
-  background-color: ${(props) => (props.bg ? props.bg : `${themes.palette.postList.bgCategories}`)};
+  background-color: ${(props) => (props.bg ? props.bg : `var(--postListBgCategories)`)};
   border-radius: 4px;
-  color: ${themes.palette.postList.text};
+  color: var(--textThumbs);
   opacity: 0.85;
   order: 1;
   padding: 3px 10px 0;
-  text-shadow: 3px 3px 2px ${themes.palette.general.textShadows};
+  text-shadow: 3px 3px 2px var(--textShadow);
   text-transform: uppercase;
   transition: margin-bottom 0.3s;
 
   ${media.lessThan('large')`
-    font: bold 1.5rem ${themes.fonts.others};
+    font: bold 1.5rem var(--fontStyles);
     line-height: 1.25;
     margin-bottom: 15px;
   `}
 
   ${media.greaterThan('large')`
-    font: bold 2rem ${themes.fonts.others};
+    font: bold 2rem var(--fontStyles);
     line-height: 1.5;
     margin-bottom: 30px;
   `}
 `;
 
 export const TitlePost = styled.h2`
-  color: ${themes.palette.postList.text};
+  color: var(--textThumbs);
   font-weight: 400;
   order: 2;
-  text-shadow: 2px 2px 2px ${themes.palette.general.textShadows};
+  text-shadow: 2px 2px 2px var(--textShadow);
   width: 100%;
 
   ${media.lessThan('large')`
@@ -100,20 +98,20 @@ export const TitlePost = styled.h2`
 `;
 
 export const DateTime = styled.p`
-  color: ${themes.palette.postList.text};
-  font-family: ${themes.fonts.others};
+  color: var(--textThumbs);
+  font-family: var(--fontStyles);
   font-size: 18px;
   margin-bottom: 12px;
   order: 3;
-  text-shadow: 1px 1px 1px ${themes.palette.general.textShadows};
+  text-shadow: 1px 1px 1px var(--textShadow);
   width: 100%;
 `;
 
 export const ReadMore = styled.p`
-  background-color: ${themes.palette.postList.readMore};
+  background-color: var(--postListReadMore);
   border-radius: 3px;
-  color: ${themes.palette.postList.text};
-  font-family: ${themes.fonts.others};
+  color: var(--textThumbs);
+  font-family: var(--fontStyles);
   order: 4;
   padding: 5px 12px;
 `;

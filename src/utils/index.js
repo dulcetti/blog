@@ -1,7 +1,7 @@
 import { themes } from '../styles/themes';
 
 export const getCategoryBg = (category) => {
-  return themes.palette.categories[category];
+  return themes.categories[category];
 };
 
 export const getTheme = () => typeof window !== 'undefined' && window.__theme;
