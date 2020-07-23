@@ -36,7 +36,7 @@ export default function ContactPage() {
             className="link-animated"
             cover
             direction="left"
-            bg={themes.palette.general.bgTransition}
+            bg={themes.bgTransition}
             duration={0.6}
             to="/">
             &laquo; Voltar para a Listagem de Posts

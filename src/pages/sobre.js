@@ -41,9 +41,7 @@ export default function AboutPage() {
     setScroll(window.scrollY);
   };
 
-  typeof window !== 'undefined' &&
-    !isMobile() &&
-    window.addEventListener('scroll', updateImage, false);
+  typeof window !== 'undefined' && !isMobile() && document.addEventListener('scroll', updateImage);
 
   return (
     <Layout>
@@ -65,7 +63,7 @@ export default function AboutPage() {
                 className="link-animated"
                 cover
                 direction="left"
-                bg={themes.palette.general.bgTransition}
+                bg={themes.bgTransition}
                 duration={0.6}
                 to="/">
                 Blog
@@ -235,7 +233,7 @@ export default function AboutPage() {
               className="link-animated"
               cover
               direction="left"
-              bg={themes.palette.general.bgTransition}
+              bg={themes.bgTransition}
               duration={0.6}
               to="/">
               &laquo; Voltar para o Blog
