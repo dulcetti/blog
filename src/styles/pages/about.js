@@ -8,8 +8,18 @@ export const PageFluid = styled.div`
   `}
 
   ${media.greaterThan('large')`
-    margin: -2rem 0 -2rem -2rem;
     position: relative;
+  `}
+`;
+
+export const ColumnContent = styled.div`
+  flex-grow: auto;
+  flex-basis: auto;
+  order: 2;
+
+  ${media.greaterThan('large')`
+    padding: 40px 40px 30px ;
+    width: 100%;
   `}
 `;
 
@@ -23,11 +33,22 @@ export const AboutSection = styled.section`
   ${media.greaterThan('large')`
     border-bottom: 1px solid var(--borders);
     min-height: 100vh;
-    padding-left: 30vw;
+    padding-left: 28vw;
   `}
 
+  &:first-child {
+    ${ColumnContent} {
+      padding-top: 10px;
+    }
+  }
+
   &:last-child {
+    border-bottom: 0;
     margin-bottom: 0;
+
+    ${ColumnContent} {
+      padding-bottom: 0;
+    }
   }
 `;
 
@@ -185,17 +206,6 @@ export const TitleSectionImage = styled.h2`
   `}
 `;
 
-export const ColumnContent = styled.div`
-  flex-grow: auto;
-  flex-basis: auto;
-  order: 2;
-
-  ${media.greaterThan('large')`
-    padding: 30px 40px;
-    width: 100%;
-  `}
-`;
-
 export const CareerList = styled.div`
   display: flex;
 
@@ -205,10 +215,11 @@ export const CareerList = styled.div`
 
   ${media.greaterThan('medium')`
     flex-wrap: wrap;
+    justify-content: space-around;
   `}
 
   ${media.greaterThan('900px')`
-    padding: 30px 40px;
+    padding: 20px 0 30px;
   `}
 `;
 
