@@ -225,10 +225,10 @@ export const GlobalStyle = createGlobalStyle`
     --xanadu: #7E846B;
     --yellow: #f3a91a;
 
-    --aboutFirstBorder: 255, 204, 0,
-    --aboutSecondBorder: 230, 146, 74,
-    --aboutTitleBorder: var(--yellow),
-    --aboutTitleBorderBefore: #e6a528,
+    --aboutFirstBorder: 255, 204, 0;
+    --aboutSecondBorder: 230, 146, 74;
+    --aboutTitleBorder: var(--yellow);
+    --aboutTitleBorderBefore: #e6a528;
     --creditsBg: #ffF;
     --creditsLink: var(--orange);
     --creditsShadow: #bbb;
