@@ -222,6 +222,7 @@ export const PostContent = styled.section`
 
   a {
     color: var(--links);
+    overflow-wrap: break-word;
     position: relative;
     transition: color 0.3s;
 
