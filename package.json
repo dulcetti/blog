@@ -25,7 +25,7 @@
     "gatsby-plugin-netlify-cms": "^4.3.3",
     "gatsby-plugin-styled-components": "^3.3.2",
     "gatsby-plugin-transition-link": "^1.18.0",
-    "gatsby-remark-prismjs": "^3.5.2",
+    "gatsby-remark-prismjs": "^3.5.11",
     "gsap": "^3.2.6",
     "lazysizes": "^5.2.0",
     "netlify-cms-app": "^2.12.13",
