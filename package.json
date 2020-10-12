@@ -63,7 +63,7 @@
     "gatsby-transformer-remark": "^2.8.38",
     "gatsby-transformer-sharp": "^2.5.17",
     "husky": "^4.3.0",
-    "jest": "^26.5.2",
+    "jest": "^26.5.3",
     "prettier": "2.1.2"
   },
   "config": {
