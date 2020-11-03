@@ -1,11 +1,9 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
-const { fmImagesToRelative } = require(`gatsby-remark-relative-images`);
 
 // To add the slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
-  fmImagesToRelative(node);
 
   if (node.internal.type === `MarkdownRemark`) {
     const slug = createFilePath({
