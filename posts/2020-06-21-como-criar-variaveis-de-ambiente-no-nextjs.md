@@ -195,6 +195,6 @@ Beijo na alcatra.
 
 **\[EDITED]**
 
-Atualizei o código bo Builder, dando uma simplificada. Valeu, Filipe ;)
+Atualizei o código do Builder, dando uma simplificada. Valeu, Filipe ;)
 
 **\[/EDITED]**
