@@ -246,7 +246,7 @@ export const GlobalStyle = createGlobalStyle`
     --bgTransition: #f5f6f6;
 
     --bg: #f5f6f6;
-    --blockquoteBg: #fff;
+    --blockquoteBg: rgba(255, 255, 255, .7);
     --blockquoteBorder: var(--green);
     --borders: #bbb;
     --breadcrumbText: #666;

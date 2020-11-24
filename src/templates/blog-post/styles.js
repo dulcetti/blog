@@ -148,7 +148,7 @@ export const PostContent = styled.section`
     color: var(--textColor);
     display: block;
     font-family: var(--fontStyles);
-    font-size: min(30px, 7vw);
+    font-size: min(26px, 7vw);
     font-style: italic;
     line-height: min(36px, 8vw);
     margin-bottom: 1.5rem;
@@ -156,7 +156,7 @@ export const PostContent = styled.section`
     position: relative;
 
     > p {
-      margin-bottom: 0;
+      margin-bottom: 1.25rem;
     }
   }
 
