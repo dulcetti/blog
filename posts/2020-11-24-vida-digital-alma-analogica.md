@@ -23,6 +23,8 @@ Eu ainda não sabia sobre o que escrever, aí o Mack foi e lançou "Cara, eu ia 
 
 ![Mãos segurando os punhos de outras pessoas se conectando](/uploads/maos-conectadas.jpg)
 
+<p style="text-align: center;">Créditos: <a href="https://unsplash.com/@krakenimages?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">krakenimages</a></p>
+
 Eu cheguei a usar essa crônica numa campanha de uma vodka pelo Papo de Bar. A galera se amarrou muito no texto e todo mundo se identificou.
 
 ### Tá bom, Dulcetti, mostra logo essa porra então
@@ -47,6 +49,8 @@ Vivemos, trabalhamos, nos estressamos diariamente, esquecemos datas, etc. Você 
 
 ![Pessoas fazendo reunião juntas no computador](/uploads/reuniao-pessoas-computador.jpg)
 
+<p style="text-align: center;">Créditos: <a href="https://unsplash.com/@mimithian?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mimi Thian</a></p>
+
 Calma. Não estou querendo dizer que você precisa regredir, re-inventar a roda, programar em Pascal ou escrever cartas necessariamente. Mas você pode aproveitar o mundo digital, sendo, também, analógico.
 
 #### Sim, reconheça, sua alma é e sempre será analógica.
@@ -60,6 +64,8 @@ Extravase, conte piada, fale besteiras, ria, faça os outros rirem. Esqueça um 
 ### Mas é difícil...
 
 ![Homem gritanfo no telefone](/uploads/homem-gritando-telefone.jpg)
+
+<p style="text-align: center;">Créditos: <a href="https://unsplash.com/@icons8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Icons8 Team</a></p>
 
 Depois que você entra, não é fácil se desligar do mundo tecnológico. Mas lembre-se, você não foi instalado a partir de um DVD. Você nasceu, cresceu ouvindo seus avós, seus pais, falando para você descer de algum lugar alto, parar de correr dentro de casa, não bater no seu irmão.
 
@@ -84,6 +90,8 @@ E lembre-se: Nos seus pensamentos, trabalhos, podem fluir os zeros e uns digitai
 ## Você quem escreveu essa bodega ae, Dulça?
 
 ![Mulher com gorro de Papai no Celular fazendo videochamada](/uploads/mulher-noel-segurando-celular.jpg)
+
+<p style="text-align: center;">Créditos: <a href="https://unsplash.com/@lunarts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Volodymyr Hryshchenko</a></p>
 
 Sim, há mais de 12 anos. Muitas coisas eu poderia até modificar, muitas coisas se atualizaram depois de tanto tempo. Mas confesse, muitas das coisas que estão aí servem para hoje. Talvez o _hugg09_ você nem tenha entendido, ok, mas tem coisas ali que todos nós de TI sabemos. Acho que mudaria as linguagens para Golang (ou NodeJS) e Python no lugar de PHP e Java =P
 
