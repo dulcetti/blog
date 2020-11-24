@@ -5,11 +5,12 @@ description: O mundo está cada vez mais dependente da tecnologia. Será que
   essa nossa dependência da tecnologia.
 date: 2020-11-24 08:26:00
 featuredImage: /uploads/um-sorriso-pode-mudar-a-vida.jpg
-photographer: Photo by <a
+photographer: Photo by <a target="blank"
   href="https://unsplash.com/@mimithian?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mimi
   Thian</a>
 category: Shots
 ---
+
 Anos atrás eu participei de um livro com a galera do iMasters chamado o Encontro de 2 mundos. Velhos tempos. Já plantei uma árvore, já escrevi um livro, fora as cervejas bebidas nos botecos da vida. Esse artigo não é técnico, será pra falar um pouco desse capítulo do livro que se chamou "Vida Digital, Alma Analógica".
 
 ## E como veio essa ideia do título do capítulo, DulSeven?
@@ -30,21 +31,25 @@ Calma caralha! Bom, achei digno postar esse cara aqui no Blog principalmente pel
 
 Então vamos ao capítulo...
 
-Vida Digital, Alma Analógica
+<blockquote>
+
+## Vida Digital, Alma Analógica
 
 Pensamos tecnologia, falamos tecnologia, criamos, discutimos, até mesmo respiramos tecnologia. Mas será que devemos "viver" tecnologia? Vocês devem estar pensando agora "Como assim? Lógico que devemos viver tecnologia!". Essa é minha preocupação. Está tudo voltado ao mundo digital, que até mesmo nossos pensamentos estão ficando digitais. Praticamente tudo que pensamos, é voltado ao mundo digital. Mas esquecemos que a nossa alma é, e sempre será analógica.
 
-Analógica?
+### Analógica?
 
 Analógica sim, porque apesar de respirarmos tecnologia, ainda sim temos amigos. Não os virtuais somente, mas temos amigos, familiares, companheira(o)s, presentes em nossa vida fisicamente. Hoje, viver sem tecnologia parece impossível, improvável, mas alguns anos atrás, nós vivíamos sem a tecnologia de hoje e com certeza vivemos bem. Agora me responde: Você conseguiria viver sem amigos? Familiares? Não precisa nem responder.
 
 Vivemos, trabalhamos, nos estressamos diariamente, esquecemos datas, etc. Você por acaso lembra o telefone celular da sua mãe de cabeça? Provavelmente não. Seja bem vindo a grande maioria das pessoas que hoje é dependente do celular e esqueceu praticamente todos os números da agenda.
 
-Mas como não ser assim?
+#### Mas como não ser assim?
+
+![Pessoas fazendo reunião juntas no computador](/uploads/reuniao-pessoas-computador.jpg)
 
 Calma. Não estou querendo dizer que você precisa regredir, re-inventar a roda, programar em Pascal ou escrever cartas necessariamente. Mas você pode aproveitar o mundo digital, sendo, também, analógico.
 
-Sim, reconheça, sua alma é e sempre será analógica.
+#### Sim, reconheça, sua alma é e sempre será analógica.
 
 Experimente ir a um evento, uma conferência, congresso, o que quer que seja, o que for do seu perfil. Fique antenado, ouça as pessoas, enriqueça seu currículo com algo que você possa acrescentar, leve algo para a empresa que você trabalha, ou é dono, claro. Isso  sempre será importante.
 
@@ -52,7 +57,9 @@ Mas experimente também conhecer as pessoas. Não o que elas fazem, seus cargos,
 
 Extravase, conte piada, fale besteiras, ria, faça os outros rirem. Esqueça um pouco seu lado “digital”, viva o seu lado analógico por alguns momentos. Viva o analógico junto com o digital, experimente mesclar isso. É possível. Filme ou tire foto com seu celular, máquina, você fazendo algo, junte seus contatos (amigos) e formem uma foto. Com isso, você criou algo analógico com o mundo digital.
 
-Mas é difícil...
+### Mas é difícil...
+
+![Homem gritanfo no telefone](/uploads/homem-gritando-telefone.jpg)
 
 Depois que você entra, não é fácil se desligar do mundo tecnológico. Mas lembre-se, você não foi instalado a partir de um DVD. Você nasceu, cresceu ouvindo seus avós, seus pais, falando para você descer de algum lugar alto, parar de correr dentro de casa, não bater no seu irmão.
 
@@ -62,7 +69,7 @@ Nós necessitamos sim, da tecnologia, do Mundo Digital. Mas acima de tudo, de tu
 
 Pense nisso.
 
-Gerações e gerações...
+### Gerações e gerações...
 
 Provavelmente seu filho será um ás da informática, do Mundo Digital. Ele nasceu / nascerá na "Era Tecnológica". Fios serão motivo de piada para ele. Mas não o deixe virar um robô dependente da tecnologia. Apresente o Mundo Analógico a ele, jogue futebol, vá à praia, o deixe sonhar, viajar.
 
@@ -71,3 +78,19 @@ E quando terminar de ler esta crônica, dê um abraço em quem quer que seja, po
 E eu espero que você lembre e nunca esqueça o nome do seu filho, ok.
 
 E lembre-se: Nos seus pensamentos, trabalhos, podem fluir os zeros e uns digitais. Mas no seu corpo não. Nele corre sangue, flui a alma. A alma eternamente analógica.
+
+</blockquote>
+
+## Você quem escreveu essa bodega ae, Dulça?
+
+![Mulher com gorro de Papai no Celular fazendo videochamada](/uploads/mulher-noel-segurando-celular.jpg)
+
+Sim, há mais de 12 anos. Muitas coisas eu poderia até modificar, muitas coisas se atualizaram depois de tanto tempo. Mas confesse, muitas das coisas que estão aí servem para hoje. Talvez o _hugg09_ você nem tenha entendido, ok, mas tem coisas ali que todos nós de TI sabemos. Acho que mudaria as linguagens para Golang (ou NodeJS) e Python no lugar de PHP e Java =P
+
+Bom, só achei que depois de mais de 12 anos eu pudesse mostrar pra vocês esse cara. Já era pra ter postado há muitos anos, mas fica pra agora mesmo.
+
+Só achei engraçado porque não tinha nenhum **fodasse** no texto. Mas claro, isso porque era um livro, eu precisava me segurar nas palavras, podem até perceber que não tem nenhum palavrão =D E claro que vários **fodasses** poderiam ser adicionados nesse capítulo.
+
+Mas e aí, o que acharam? Vocês são assim? Lembram o telefone da sua mãe de cabeça? Fica conectado 24h por dia? O que poderia mudar? O que gostaria de mudar?
+
+Aquele abraço.
