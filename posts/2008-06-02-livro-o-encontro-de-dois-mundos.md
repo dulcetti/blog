@@ -9,7 +9,7 @@ title: 'Livro: O Encontro de Dois Mundos'
 
 E ae, pessoal, tudo na tranquilidade? Espero que sim. Venho neste post rápido, só para divulgar mais um brilhante trabalho executado pelo pessoal do iMasters. E por incrível que pareça, não é nenhum site, nenhum evento modafoca e tudo mais.
 
-## Qual é a novidade Dulça?
+## Qual é a novidade, Dulça?
 
 É o lançamento do livro "O Encontro de 2 Mundos". Lembram do [Intercon de 2007](/retrospectiva-intercon-2007)? Sim, ele levou este nome como tema principal, abordando este encontro dos dois extremos da tecnologia, algo como o ser e o existir.
 
@@ -21,7 +21,7 @@ Bom, como são 44 nomes, não vou citar aqui né, muita gente e tudo mais. Mas o
 
 Interessante não? Eu gostei muito e por mais louco que possa parecer, eu fico lendo toda hora a minha própria crônica. Sabe como é né, primeira experiência como escritor. Vai que dá certo. ;)
 
-## Quem maneiro Dulcetti. Parabéns!
+## Quem maneiro, Dulcetti. Parabéns!
 
 Valew, muito obrigado. Foi uma experiência muito boa, gostei muito disso e pretendo participar de outras, caso alguém tenha coragem de convidar esse modafoca que vos fala. Em breve estarei escrevendo meu livro, aguardem :P
 

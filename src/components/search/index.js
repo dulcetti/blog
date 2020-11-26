@@ -17,7 +17,7 @@ export default function Search() {
   return (
     <S.SearchWrapper>
       <InstantSearch searchClient={searchClient} indexName={algoliaConfig.indexName}>
-        <SearchBox autoFocus translations={{ placeholder: 'Digite o termo para a busca...' }} />
+        <SearchBox translations={{ placeholder: 'Digite o termo para a busca...' }} />
         <Stats
           translations={{
             stats(nbHits, timeSpentMs) {
