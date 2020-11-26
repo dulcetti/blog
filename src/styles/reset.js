@@ -229,9 +229,7 @@ export const GlobalStyle = createGlobalStyle`
     --aboutSecondBorder: 230, 146, 74;
     --aboutTitleBorder: var(--yellow);
     --aboutTitleBorderBefore: #e6a528;
-    --creditsBg: #ffF;
     --creditsLink: var(--orange);
-    --creditsShadow: #bbb;
     --fontStyles: 'Khand-Regular', sans-serif;
     --maxWidth: 68em;
     --textThumbs: #eee;
@@ -250,6 +248,8 @@ export const GlobalStyle = createGlobalStyle`
     --blockquoteBorder: var(--green);
     --borders: #bbb;
     --breadcrumbText: #666;
+    --creditsBg: #fff;
+    --creditsShadow: #bbb;
     --iconsColor: #555;
     --links: #f26a00;
     --linksBorder: #046A2E;
@@ -281,6 +281,8 @@ export const GlobalStyle = createGlobalStyle`
     --blockquoteBorder: var(--green);
     --borders: #777;
     --breadcrumbText: #ccc;
+    --creditsBg: #333;
+    --creditsShadow: #000;
     --iconsColor: #eee;
     --links: #FCBF49;
     --linksBorder: #f26a00;
