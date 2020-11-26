@@ -11,11 +11,11 @@ photographer: Photo by <a target="blank"
 category: Shots
 ---
 
-Anos atrás eu participei de um livro com a galera do iMasters chamado o Encontro de 2 mundos. Velhos tempos. Já plantei uma árvore, já escrevi um livro, fora as cervejas bebidas nos botecos da vida. Esse artigo não é técnico, será pra falar um pouco desse capítulo do livro que se chamou "Vida Digital, Alma Analógica".
+Anos atrás eu participei de um livro com a galera do iMasters chamado [O Encontro de 2 mundos](/livro-o-encontro-de-dois-mundos/). Velhos tempos. Já plantei uma árvore, já escrevi um livro, fora as cervejas bebidas nos botecos da vida. Esse artigo não é técnico, será pra falar um pouco desse capítulo do livro que se chamou "Vida Digital, Alma Analógica".
 
 ## E como veio essa ideia do título do capítulo, DulSeven?
 
-Bom, esse livro foi lançado em 2008, inclusive eu escrevi sobre ele por aqui no Blog. A história desse capítulo foi irada porque o Mackeenzy, meu camarada do Videolog, e eu estávamos debatendo sobre o que iríamos escrever na ida para o BlogCampPR, isso em dezembro de 2007.
+Bom, esse livro foi lançado em 2008, inclusive eu [escrevi sobre ele por aqui no Blog](/lancamento-do-livro-internet-o-encontro-de-2-mundos/). A história desse capítulo foi irada porque o Mackeenzy, meu camarada do Videolog, e eu, estávamos debatendo sobre o que iríamos escrever na ida para o [BlogCampPR](/blogcamp-pr-o-melhor-de-todos/), isso em dezembro de 2007.
 
 Eu ainda não sabia sobre o que escrever, aí o Mack foi e lançou "Cara, eu ia escrever sobre um tema que eu acho que você seria o cara para escrever, o nome seria Vida Digital, Alma Analógica. Não quer escrever não?". Achei a ideia foda, o título bem sagaz e resolvi aceitar.
 
