@@ -99,6 +99,16 @@ Bom, só achei que depois de mais de 12 anos eu pudesse mostrar pra vocês esse 
 
 Só achei engraçado porque não tinha nenhum **fodasse** no texto. Mas claro, isso porque era um livro, eu precisava me segurar nas palavras, podem até perceber que não tem nenhum palavrão =D E claro que vários **fodasses** poderiam ser adicionados nesse capítulo.
 
+### Estamos agora numa pandemia, portanto...
+
+Alguns pontos não podemos esquecer que estamos numa pandemia agora, portanto, as partes de abraço ficam para depois, ok? Mas claro, se você tem uma família em casa e todos estão se cuidando, o abraço pode ser liberado ENTRE VOCÊS ;)
+
+A pandemia nos tornou ainda mais digital, portanto, fica mais difícil se manter analógico, admito isso. Mas podemos deixar a nossa alma analógica ser mais ativa no mundo digital, beleza? Sim, é possível.
+
+E claro, bebam cerveja em casa, façam um brinde no Zoom. Se quiserem me chamar, estamos ae =P
+
+## Finalizando
+
 Mas e aí, o que acharam? Vocês são assim? Lembram o telefone da sua mãe de cabeça? Fica conectado 24h por dia? O que poderia mudar? O que gostaria de mudar?
 
 Aquele abraço.
