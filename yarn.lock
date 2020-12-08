@@ -8132,10 +8132,10 @@ gatsby-transformer-sharp@^2.8.0:
     semver "^7.3.2"
     sharp "^0.26.3"
 
-gatsby@^2.28.0:
-  version "2.28.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.28.0.tgz#ed2d3b1d1f953ff59f641797560df555a41bf1b2"
-  integrity sha512-kWejVSxsuiT/yfghLHDOeaJg0eV5UdS5zc66ANPcSEJ+9U3DgPWoVM18aFsa+VsywGWxp2uqzOPdsItjdiOt+A==
+gatsby@^2.28.1:
+  version "2.28.1"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.28.1.tgz#64715ec775de123e0c863fe1b33410d2e11337a2"
+  integrity sha512-9+R4hICVl+EmKS16I3OHS0pCFfP9eV4d6Ee/t9kWvlgXQtgscMRuPxBQ02H4XMqUSPEdamN6Gf6ZN1RtcPZCnA==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/core" "^7.12.3"
@@ -18739,12 +18739,7 @@ xss@^1.0.6:
     commander "^2.20.3"
     cssfilter "0.0.10"
 
-xstate@^4.11.0, xstate@^4.9.1:
-  version "4.14.0"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.14.0.tgz#dd9f3f0af4acd04a01b3ad60d3d4c66c51ac1b5d"
-  integrity sha512-nz+T5rlPl0Vu1L9NZdI7JYVq57k/pKpyLwmztqgcj/HqUVsopnMKBP6cQJCb4Op9TC8kffyJSMwHDFthuRpooQ==
-
-xstate@^4.14.0:
+xstate@^4.11.0, xstate@^4.14.0, xstate@^4.9.1:
   version "4.14.1"
   resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.14.1.tgz#8902304944aa78ef5bdfa818ca2ca5fd109a3959"
   integrity sha512-1LyR5c6wgA41660Cp8Dq5VWRtS75l+KnjysgpgZI9FVLvYl5BF2FmkfT5CAlTIo+CKfj/4IznQYkYfURxuY6WA==
