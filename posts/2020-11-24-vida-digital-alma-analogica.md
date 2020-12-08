@@ -25,7 +25,7 @@ Eu ainda não sabia sobre o que escrever, aí o Mack foi e lançou "Cara, eu ia 
 
 <p style="text-align: center;">Créditos: <a href="https://unsplash.com/@krakenimages?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">krakenimages</a></p>
 
-Eu cheguei a usar essa crônica numa campanha de uma vodka pelo Papo de Bar. A galera se amarrou muito no texto e todo mundo se identificou.
+Eu cheguei a usar essa crônica numa campanha de uma [vodka pelo Papo de Bar](https://www.papodebar.com/ketel-one-uma-vodka-de-respeito/). A galera se amarrou muito no texto e todo mundo se identificou.
 
 ### Tá bom, Dulcetti, mostra logo essa porra então
 
