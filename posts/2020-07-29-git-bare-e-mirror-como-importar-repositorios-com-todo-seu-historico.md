@@ -6,9 +6,10 @@ date: 2020-07-29T05:59:32.000Z
 featuredImage: /uploads/bg-git.jpg
 category: Git
 ---
-E ae seus programador bunda rachada, tranquilidade? Nessa semana eu precisei fazer um fodasse rapidinho com o Git e pensei comigo "*Mas por que não colocar isso no Blog?*". E aqui estou eu. Mais um artigo sobre Git que pode ser útil pra você que precisa importar repositórios com todo seu histórico de outro local.
 
-## Mas por que fazer isso?
+E ae seus programador bunda rachada, tranquilidade? Nessa semana eu precisei fazer um fodasse rapidinho com o Git e pensei comigo "_Mas por que não colocar isso no Blog?_". E aqui estou eu. Mais um artigo sobre Git que pode ser útil pra você que precisa importar repositórios com todo seu histórico de outro local.
+
+## Mas por quê fazer isso?
 
 Por vários motivos isso pode ocorrer. Seja porque sua empresa terceirizou um projeto e você precisa trazer de outro repositório, ou você quer mover um do Github/Bitbucket/Azure DevOps/Gitlab para outro cara dentro dessa lista.
 
