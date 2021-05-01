@@ -5,12 +5,13 @@
   "author": "Bruno Dulcetti <brunodulcetti@gmail.com>",
   "scripts": {
     "build": "yarn clean && gatsby build",
+    "clean": "gatsby clean",
     "cz": "git-cz",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "prepare": "husky install",
     "start": "yarn develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
@@ -69,11 +70,6 @@
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "keywords": [
