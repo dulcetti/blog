@@ -6,6 +6,7 @@ date: 2021-06-25 02:36:44
 featuredImage: /uploads/seguranca-computador.jpg
 category: Eventos
 ---
+
 E ae, meus nobres, tranquilidade pura cerva? Não tenho ficado muito ativo, confesso. Vou nem prometer mais nada :P Mas venho falar sobre a Jornada Colaborativa da Amazônia que rola hoje e amanhã, aí eu falarei novamente sobre o velho Sonar.
 
 ## Boa, então teremos mais conteúdo sobre DevSecOps?
@@ -17,9 +18,9 @@ Por aí. Vou participar novamente da sala DevOps junto com uma galera fodástica
 3. 11h - Painel: "Tudo o que um advogado gostaria de saber sobre DevSecOps para atender a LGPD"
 4. 11h45 - QA Ops na veia até na geração de relatórios de testes amigáveis
 5. 14h - Maturidade em DevOps como medir?
-6. 14h30 - O que é DataOps ( o que é, dificuldades e lições aprendidas
+6. 14h30 - O que é DataOps (o que é, dificuldades e lições aprendidas)
 7. 15h15 - Prática - Pipeline (Norberto) - capítulo do livro
-8. 16h - DevSecops - O início, o meio.. ..mas não tem fim!
+8. 16h - DevSecOps - O início, o meio.. ..mas não tem fim!
 
 Claro que rolará um almoço ali depois da quarta palestra ;) E a Jornada Colaborativa da Amazônia terá outras salas fodas, mas claro que a de DevOps é a melhor, então nem passarei as outras por aqui =P
 
