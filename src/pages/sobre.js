@@ -7,7 +7,7 @@ import { getAge, isMobile } from '../utils';
 
 import { themes } from '../styles/themes';
 import * as S from '../styles/pages/general';
-import * as SA from '../styles/pages/about';
+import * as Sa from '../styles/pages/about';
 
 export default function AboutPage() {
   const [scroll, setScroll] = useState(0);
@@ -51,10 +51,10 @@ export default function AboutPage() {
         image={secondImage.childImageSharp.fluid.src}
         title="Sobre o Bruno Dulcetti"
       />
-      <SA.PageFluid>
-        <SA.AboutSection>
-          <SA.ColumnContent>
-            <SA.TitleSection>"Quenhé" esse Bruno Dulcetti?</SA.TitleSection>
+      <Sa.PageFluid>
+        <Sa.AboutSection>
+          <Sa.ColumnContent>
+            <Sa.TitleSection>"Quenhé" esse Bruno Dulcetti?</Sa.TitleSection>
             <S.PageText>
               Um cara curioso na área de tecnologia. Comecei na área de design gráfico e webdesign,
               mas acabei migrando, felizmente, para o desenvolvimento. Me especializei em Front-End,
@@ -109,16 +109,16 @@ export default function AboutPage() {
               </a>
               , meu site de bebidas alcoólicas.
             </S.PageText>
-          </SA.ColumnContent>
-          <SA.ColumnImage className={scroll < 700 && 'active'}>
-            <SA.TitleSectionImage>"Quenhé"?</SA.TitleSectionImage>
-            <SA.AboutImage fluid={firstImage.childImageSharp.fluid} />
-          </SA.ColumnImage>
-        </SA.AboutSection>
+          </Sa.ColumnContent>
+          <Sa.ColumnImage className={scroll < 700 && 'active'}>
+            <Sa.TitleSectionImage>"Quenhé"?</Sa.TitleSectionImage>
+            <Sa.AboutImage fluid={firstImage.childImageSharp.fluid} />
+          </Sa.ColumnImage>
+        </Sa.AboutSection>
 
-        <SA.AboutSection>
-          <SA.ColumnContent>
-            <SA.TitleSection>Um breve resumo</SA.TitleSection>
+        <Sa.AboutSection>
+          <Sa.ColumnContent>
+            <Sa.TitleSection>Um breve resumo</Sa.TitleSection>
             <S.PageSubSubTitle>Formação</S.PageSubSubTitle>
             <S.PageText>
               Bom, minha formação é num antigo curso chamado Gestão e Criação de Ambientes Internet,
@@ -138,86 +138,86 @@ export default function AboutPage() {
               . E segue abaixo uma pequena lista mais atual, mas claro, não muito completa que dá
               pro gasto.
             </S.PageText>
-            <SA.CareerList>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper>
+            <Sa.CareerList>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper>
                     <Icons name="developer" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   Wooza
-                </SA.CareerCompany>
-                <SA.CareerTitle>Coordenador de desenvolvimento</SA.CareerTitle>
-                <SA.CareerDates>Jul 2019 – Present</SA.CareerDates>
-                <SA.CareerTitle>Arquiteto de soluções Front-End</SA.CareerTitle>
-                <SA.CareerDates>Jan 2018 – Jul 2019</SA.CareerDates>
-                <SA.CareerTitle>Desenvolvedor Front-End Sênior</SA.CareerTitle>
-                <SA.CareerDates>Jun 2016 – Jan 2018</SA.CareerDates>
-              </SA.CareerItem>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper>
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>Coordenador de desenvolvimento</Sa.CareerTitle>
+                <Sa.CareerDates>Jul 2019 – Present</Sa.CareerDates>
+                <Sa.CareerTitle>Arquiteto de soluções Front-End</Sa.CareerTitle>
+                <Sa.CareerDates>Jan 2018 – Jul 2019</Sa.CareerDates>
+                <Sa.CareerTitle>Desenvolvedor Front-End Sênior</Sa.CareerTitle>
+                <Sa.CareerDates>Jun 2016 – Jan 2018</Sa.CareerDates>
+              </Sa.CareerItem>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper>
                     <Icons name="developer" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   Videolog
-                </SA.CareerCompany>
-                <SA.CareerTitle>CTO</SA.CareerTitle>
-                <SA.CareerDates>08/2013 – 01/15</SA.CareerDates>
-                <SA.CareerTitle>Gerente de Projetos</SA.CareerTitle>
-                <SA.CareerDates>04/2009 – 08/2013</SA.CareerDates>
-                <SA.CareerTitle>Desenvolvedor Front-End Sênior</SA.CareerTitle>
-                <SA.CareerDates>11/2005 – 04/2009</SA.CareerDates>
-              </SA.CareerItem>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper>
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>CTO</Sa.CareerTitle>
+                <Sa.CareerDates>08/2013 – 01/15</Sa.CareerDates>
+                <Sa.CareerTitle>Gerente de Projetos</Sa.CareerTitle>
+                <Sa.CareerDates>04/2009 – 08/2013</Sa.CareerDates>
+                <Sa.CareerTitle>Desenvolvedor Front-End Sênior</Sa.CareerTitle>
+                <Sa.CareerDates>11/2005 – 04/2009</Sa.CareerDates>
+              </Sa.CareerItem>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper>
                     <Icons name="developer" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   Mobicare
-                </SA.CareerCompany>
-                <SA.CareerTitle>Desenvolvedor Front-End Sênior</SA.CareerTitle>
-                <SA.CareerDates>11/2014 – 02/2016</SA.CareerDates>
-              </SA.CareerItem>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper className="graduation">
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>Desenvolvedor Front-End Sênior</Sa.CareerTitle>
+                <Sa.CareerDates>11/2014 – 02/2016</Sa.CareerDates>
+              </Sa.CareerItem>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper className="graduation">
                     <Icons name="graduation" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   Faculdade CCAA
-                </SA.CareerCompany>
-                <SA.CareerTitle>Professor das matérias WebDesign I e II</SA.CareerTitle>
-                <SA.CareerDates>08/2010 – 12/2014</SA.CareerDates>
-              </SA.CareerItem>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper>
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>Professor das matérias WebDesign I e II</Sa.CareerTitle>
+                <Sa.CareerDates>08/2010 – 12/2014</Sa.CareerDates>
+              </Sa.CareerItem>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper>
                     <Icons name="developer" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   Globo.com
-                </SA.CareerCompany>
-                <SA.CareerTitle>Desenvolvedor Front-End Sênior</SA.CareerTitle>
-                <SA.CareerDates>11/2006 – 04/2009</SA.CareerDates>
-              </SA.CareerItem>
-              <SA.CareerItem>
-                <SA.CareerCompany>
-                  <SA.IconWrapper className="graduation">
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>Desenvolvedor Front-End Sênior</Sa.CareerTitle>
+                <Sa.CareerDates>11/2006 – 04/2009</Sa.CareerDates>
+              </Sa.CareerItem>
+              <Sa.CareerItem>
+                <Sa.CareerCompany>
+                  <Sa.IconWrapper className="graduation">
                     <Icons name="graduation" />
-                  </SA.IconWrapper>
+                  </Sa.IconWrapper>
                   UniverCidade
-                </SA.CareerCompany>
-                <SA.CareerTitle>Professor da matéria Interfaces Web</SA.CareerTitle>
-                <SA.CareerDates>08/2008 – 07/2010</SA.CareerDates>
-              </SA.CareerItem>
-            </SA.CareerList>
-          </SA.ColumnContent>
-          <SA.ColumnImage className={scroll >= 700 && scroll < 1500 && 'active'}>
-            <SA.TitleSectionImage>Resumo</SA.TitleSectionImage>
-            <SA.AboutImage fluid={secondImage.childImageSharp.fluid} />
-          </SA.ColumnImage>
-        </SA.AboutSection>
+                </Sa.CareerCompany>
+                <Sa.CareerTitle>Professor da matéria Interfaces Web</Sa.CareerTitle>
+                <Sa.CareerDates>08/2008 – 07/2010</Sa.CareerDates>
+              </Sa.CareerItem>
+            </Sa.CareerList>
+          </Sa.ColumnContent>
+          <Sa.ColumnImage className={scroll >= 700 && scroll < 1500 && 'active'}>
+            <Sa.TitleSectionImage>Resumo</Sa.TitleSectionImage>
+            <Sa.AboutImage fluid={secondImage.childImageSharp.fluid} />
+          </Sa.ColumnImage>
+        </Sa.AboutSection>
 
-        <SA.AboutSection>
-          <SA.ColumnContent>
-            <SA.TitleSection>Um pouco das minhas Skills</SA.TitleSection>
+        <Sa.AboutSection>
+          <Sa.ColumnContent>
+            <Sa.TitleSection>Um pouco das minhas Skills</Sa.TitleSection>
             <S.PageText>
               Aqui eu mostro algumas skills que possuo. Tirando o fodasse e beber, que eu gosto
               muito e acho que mando bem, consigo me dar bem em muitos outros assuntos que eu curto
@@ -238,13 +238,13 @@ export default function AboutPage() {
               to="/">
               &laquo; Voltar para o Blog
             </AniLink>
-          </SA.ColumnContent>
-          <SA.ColumnImage className={scroll >= 1500 && 'active'}>
-            <SA.TitleSectionImage>Skills</SA.TitleSectionImage>
-            <SA.AboutImage fluid={thirdImage.childImageSharp.fluid} />
-          </SA.ColumnImage>
-        </SA.AboutSection>
-      </SA.PageFluid>
+          </Sa.ColumnContent>
+          <Sa.ColumnImage className={scroll >= 1500 && 'active'}>
+            <Sa.TitleSectionImage>Skills</Sa.TitleSectionImage>
+            <Sa.AboutImage fluid={thirdImage.childImageSharp.fluid} />
+          </Sa.ColumnImage>
+        </Sa.AboutSection>
+      </Sa.PageFluid>
     </Layout>
   );
 }
